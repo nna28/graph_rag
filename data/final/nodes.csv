@@ -1,0 +1,3818 @@
+link,name,type
+/wiki/Gi%E1%BA%A3i_Nobel_V%E1%BA%ADt_l%C3%BD,Giải Nobel Vật lý,AWARD
+/wiki/Gi%E1%BA%A3i_Nobel_H%C3%B3a_h%E1%BB%8Dc,Giải Nobel hóa học,AWARD
+/wiki/Gi%E1%BA%A3i_Nobel_Sinh_l%C3%BD_h%E1%BB%8Dc_ho%E1%BA%B7c_Y_h%E1%BB%8Dc,Giải Nobel Sinh lý học hoặc Y học,AWARD
+/wiki/Gi%E1%BA%A3i_Nobel_V%C4%83n_h%E1%BB%8Dc,Giải Nobel Văn học,AWARD
+/wiki/Gi%E1%BA%A3i_Nobel_H%C3%B2a_b%C3%ACnh,Giải Nobel Hòa bình,AWARD
+/wiki/Gi%E1%BA%A3i_Nobel_Kinh_t%E1%BA%BF,Giải Nobel Kinh tế,AWARD 
+/wiki/Wilhelm_R%C3%B6ntgen,Wilhelm Röntgen,PERSON
+/wiki/Jacobus_Henricus_van_%27t_Hoff,Jacobus Henricus van 't Hoff,PERSON
+/wiki/Emil_Adolf_von_Behring,Emil Adolf von Behring,PERSON
+/wiki/Sully_Prudhomme,Sully Prudhomme,PERSON
+/wiki/Henry_Dunant,Henry Dunant,PERSON
+/wiki/Fr%C3%A9d%C3%A9ric_Passy,Frédéric Passy,PERSON
+/wiki/Hendrik_Lorentz,Hendrik Lorentz,PERSON
+/wiki/Pieter_Zeeman,Pieter Zeeman,PERSON
+/wiki/Hermann_Emil_Fischer,Emil Fischer,PERSON
+/wiki/Ronald_Ross,Ronald Ross,PERSON
+/wiki/Theodor_Mommsen,Theodor Mommsen,PERSON
+/wiki/%C3%89lie_Ducommun,Élie Ducommun,PERSON
+/wiki/Charles_Albert_Gobat,Charles Albert Gobat,PERSON
+/wiki/Henri_Becquerel,Henri Becquerel,PERSON
+/wiki/Pierre_Curie,Pierre Curie,PERSON
+/wiki/Marie_Curie,Marie Curie,PERSON
+/wiki/Svante_Arrhenius,Svante Arrhenius,PERSON
+/wiki/Niels_Ryberg_Finsen,Niels Ryberg Finsen,PERSON
+/wiki/Bj%C3%B8rnstjerne_Bj%C3%B8rnson,Bjørnstjerne Bjørnson,PERSON
+/wiki/Randal_Cremer,William Randal Cremer,PERSON
+"/wiki/John_William_Strutt,_Nam_t%C6%B0%E1%BB%9Bc_Rayleigh_th%E1%BB%A9_3","John William Strutt, Nam tước Rayleigh thứ 3",PERSON
+/wiki/William_Ramsay,William Ramsay,PERSON
+/wiki/Ivan_Pavlov,Ivan Petrovich Pavlov,PERSON
+/wiki/Fr%C3%A9d%C3%A9ric_Mistral,Frédéric Mistral,PERSON
+/wiki/Jos%C3%A9_Echegaray,José Echegaray,PERSON
+/wiki/Philipp_Lenard,Philipp Lenard,PERSON
+/wiki/Adolf_von_Baeyer,Adolf von Baeyer,PERSON
+/wiki/Robert_Koch,Robert Koch,PERSON
+/wiki/Henryk_Sienkiewicz,Henryk Sienkiewicz,PERSON
+/wiki/Bertha_von_Suttner,Bertha von Suttner,PERSON
+/wiki/J._J._Thomson,Joseph John Thomson,PERSON
+/wiki/Henri_Moissan,Henri Moissan,PERSON
+/wiki/Santiago_Ram%C3%B3n_y_Cajal,Santiago Ramón y Cajal,PERSON
+/wiki/Giosu%C3%A8_Carducci,Giosuè Carducci,PERSON
+/wiki/Theodore_Roosevelt,Theodore Roosevelt,PERSON
+/wiki/Albert_Abraham_Michelson,Albert Abraham Michelson,PERSON
+/wiki/Eduard_Buchner,Eduard Buchner,PERSON
+/wiki/Charles_Louis_Alphonse_Laveran,Charles Louis Alphonse Laveran,PERSON
+/wiki/Rudyard_Kipling,Rudyard Kipling,PERSON
+/wiki/Ernesto_Teodoro_Moneta,Ernesto Teodoro Moneta,PERSON
+/wiki/Louis_Renault_(jurist),Louis Renault (luật gia),PERSON
+/wiki/Gabriel_Lippmann,Gabriel Lippmann,PERSON
+/wiki/Ernest_Rutherford,Ernest Rutherford,PERSON
+/wiki/%C3%89lie_Metchnikoff,Ilya Ilyich Mechnikov,PERSON
+/wiki/Paul_Ehrlich,Paul Ehrlich,PERSON
+/wiki/Rudolf_Christoph_Eucken,Rudolf Christoph Eucken,PERSON
+/wiki/Klas_Pontus_Arnoldson,Klas Pontus Arnoldson,PERSON
+/wiki/Fredrik_Bajer,Fredrik Bajer,PERSON
+/wiki/Karl_Ferdinand_Braun,Karl Ferdinand Braun,PERSON
+/wiki/Guglielmo_Marconi,Guglielmo Marconi,PERSON
+/wiki/Wilhelm_Ostwald,Wilhelm Ostwald,PERSON
+/wiki/Emil_Theodor_Kocher,Emil Theodor Kocher,PERSON
+/wiki/Selma_Lagerl%C3%B6f,Selma Lagerlöf,PERSON
+/wiki/Auguste_Marie_Fran%C3%A7ois_Beernaert,Auguste Beernaert,PERSON
+/wiki/Paul-Henri-Benjamin_d%27Estournelles_de_Constant,Paul-Henri-Benjamin d'Estournelles de Constant,PERSON
+/wiki/Johannes_Diderik_van_der_Waals,Johannes Diderik van der Waals,PERSON
+/wiki/Otto_Wallach,Otto Wallach,PERSON
+/wiki/Albrecht_Kossel,Albrecht Kossel,PERSON
+/wiki/Paul_Heyse,Paul Johann Ludwig von Heyse,PERSON
+/wiki/Wilhelm_Wien,Wilhelm Wien,PERSON
+/wiki/Allvar_Gullstrand,Allvar Gullstrand,PERSON
+/wiki/Maurice_Maeterlinck,Maurice Maeterlinck,PERSON
+/wiki/Tobias_Asser,Tobias Michael Carel Asser,PERSON
+/wiki/Alfred_Hermann_Fried,Alfred Hermann Fried,PERSON
+/wiki/Gustaf_Dal%C3%A9n,Gustaf Dalén,PERSON
+/wiki/Victor_Grignard,Victor Grignard,PERSON
+/wiki/Paul_Sabatier_(chemist),Paul Sabatier,PERSON
+/wiki/Alexis_Carrel,Alexis Carrel,PERSON
+/wiki/Gerhart_Hauptmann,Gerhart Hauptmann,PERSON
+/wiki/Heike_Kamerlingh_Onnes,Heike Kamerlingh Onnes,PERSON
+/wiki/Alfred_Werner,Alfred Werner,PERSON
+/wiki/Charles_Richet,Charles Robert Richet,PERSON
+/wiki/Rabindranath_Tagore,Rabindranath Tagore,PERSON
+/wiki/Henri_La_Fontaine,Henri La Fontaine,PERSON
+/wiki/Max_von_Laue,Max von Laue,PERSON
+/wiki/Theodore_William_Richards,Theodore William Richards,PERSON
+/wiki/Robert_B%C3%A1r%C3%A1ny,Robert Bárány,PERSON
+/wiki/William_Henry_Bragg,William Henry Bragg,PERSON
+/wiki/William_Lawrence_Bragg,William Lawrence Bragg,PERSON
+/wiki/Richard_Willst%C3%A4tter,Richard Willstätter,PERSON
+/wiki/Romain_Rolland,Romain Rolland,PERSON
+/wiki/Verner_von_Heidenstam,Verner von Heidenstam,PERSON
+/wiki/Charles_Glover_Barkla,Charles Glover Barkla,PERSON
+/wiki/Karl_Adolph_Gjellerup,Karl Gjellerup,PERSON
+/wiki/Henrik_Pontoppidan,Henrik Pontoppidan,PERSON
+/wiki/%E1%BB%A6y_ban_Ch%E1%BB%AF_th%E1%BA%ADp_%C4%91%E1%BB%8F_qu%E1%BB%91c_t%E1%BA%BF,Ủy ban Chữ thập đỏ quốc tế,ORGANIZATION
+/wiki/Max_Planck,Max Planck,PERSON
+/wiki/Fritz_Haber,Fritz Haber,PERSON
+/wiki/Johannes_Stark,Johannes Stark,PERSON
+/wiki/Jules_Bordet,Jules Bordet,PERSON
+/wiki/Carl_Spitteler,Carl Spitteler,PERSON
+/wiki/Woodrow_Wilson,Woodrow Wilson,PERSON
+/wiki/Charles_%C3%89douard_Guillaume,Charles Édouard Guillaume,PERSON
+/wiki/Walther_Nernst,Walther Nernst,PERSON
+/wiki/August_Krogh,August Krogh,PERSON
+/wiki/Knut_Hamsun,Knut Hamsun,PERSON
+/wiki/Albert_Einstein,Albert Einstein,PERSON
+/wiki/Frederick_Soddy,Frederick Soddy,PERSON
+/wiki/Anatole_France,Anatole France,PERSON
+/wiki/Hjalmar_Branting,Hjalmar Branting,PERSON
+/wiki/Christian_Lous_Lange,Christian Lous Lange,ORGANIZATION
+/wiki/Niels_Bohr,Niels Bohr,PERSON
+/wiki/Francis_William_Aston,Francis William Aston,PERSON
+/wiki/Otto_Fritz_Meyerhof,Otto Fritz Meyerhof,PERSON
+/wiki/Jacinto_Benavente,Jacinto Benavente,PERSON
+/wiki/Fridtjof_Nansen,Fridtjof Nansen,PERSON
+/wiki/Robert_Andrews_Millikan,Robert Millikan,PERSON
+/wiki/Fritz_Pregl,Fritz Pregl,PERSON
+/wiki/Frederick_Banting,Frederick Banting,PERSON
+/wiki/John_James_Rickard_Macleod,John James Rickard Macleod,PERSON
+/wiki/W._B._Yeats,William Butler Yeats,PERSON
+/wiki/Manne_Siegbahn,Manne Siegbahn,PERSON
+/wiki/Willem_Einthoven,Willem Einthoven,PERSON
+/wiki/W%C5%82adys%C5%82aw_Reymont,Władysław Reymont,PERSON
+/wiki/James_Franck,James Franck,PERSON
+/wiki/Gustav_Ludwig_Hertz,Gustav Ludwig Hertz,PERSON
+/wiki/Richard_Adolf_Zsigmondy,Richard Adolf Zsigmondy,PERSON
+/wiki/George_Bernard_Shaw,George Bernard Shaw,PERSON
+/wiki/Austen_Chamberlain,Austen Chamberlain,PERSON
+/wiki/Charles_G._Dawes,Charles G. Dawes,PERSON
+/wiki/Jean_Baptiste_Perrin,Jean Baptiste Perrin,PERSON
+/wiki/Theodor_Svedberg,Theodor Svedberg,PERSON
+/wiki/Johannes_Fibiger,Johannes Fibiger,PERSON
+/wiki/Grazia_Deledda,Grazia Deledda,PERSON
+/wiki/Gustav_Stresemann,Gustav Stresemann,PERSON
+/wiki/Arthur_Compton,Arthur Compton,PERSON
+/wiki/Charles_Thomson_Rees_Wilson,Charles Thomson Rees Wilson,PERSON
+/wiki/Heinrich_Otto_Wieland,Heinrich Otto Wieland,PERSON
+/wiki/Julius_Wagner-Jauregg,Julius Wagner-Jauregg,PERSON
+/wiki/Henri_Bergson,Henri Bergson,PERSON
+/wiki/Owen_Willans_Richardson,Owen Willans Richardson,PERSON
+/wiki/Adolf_Otto_Reinhold_Windaus,Adolf Windaus,PERSON
+/wiki/Charles_Nicolle,Charles Nicolle,PERSON
+/wiki/Sigrid_Undset,Sigrid Undset,PERSON
+/wiki/Louis_de_Broglie,Louis de Broglie,PERSON
+/wiki/Arthur_Harden,Arthur Harden,PERSON
+/wiki/Hans_von_Euler-Chelpin,Hans von Euler-Chelpin,PERSON
+/wiki/Frederick_Gowland_Hopkins,Frederick Gowland Hopkins,PERSON
+/wiki/Thomas_Mann,Thomas Mann,PERSON
+/wiki/Frank_B._Kellogg,Frank Billings Kellogg,PERSON
+/wiki/C._V._Raman,Chandrasekhara Venkata Raman,PERSON
+/wiki/Hans_Fischer,Hans Fischer,PERSON
+/wiki/Karl_Landsteiner,Karl Landsteiner,PERSON
+/wiki/Sinclair_Lewis,Sinclair Lewis,PERSON
+/wiki/Nathan_S%C3%B6derblom,Nathan Söderblom,PERSON
+/wiki/Carl_Bosch,Carl Bosch,PERSON
+/wiki/Friedrich_Bergius,Friedrich Bergius,PERSON
+/wiki/Otto_Heinrich_Warburg,Otto Heinrich Warburg,PERSON
+/wiki/Erik_Axel_Karlfeldt,Erik Axel Karlfeldt,PERSON
+/wiki/Jane_Addams,Jane Addams,PERSON
+/wiki/Werner_Heisenberg,Werner Heisenberg,PERSON
+/wiki/Irving_Langmuir,Irving Langmuir,PERSON
+/wiki/John_Galsworthy,John Galsworthy,PERSON
+/wiki/Erwin_Schr%C3%B6dinger,Erwin Schrödinger,PERSON
+/wiki/Paul_Dirac,Paul Dirac,PERSON
+/wiki/Thomas_Hunt_Morgan,Thomas Hunt Morgan,PERSON
+/wiki/Ivan_Bunin,Ivan Alekseyevich Bunin,PERSON
+/wiki/Norman_Angell,Norman Angell,PERSON
+/wiki/Harold_Urey,Harold Urey,PERSON
+/wiki/George_Whipple,George Whipple,PERSON
+/wiki/George_Minot,George Minot,PERSON
+/wiki/William_P._Murphy,William P. Murphy,PERSON
+/wiki/Luigi_Pirandello,Luigi Pirandello,PERSON
+/wiki/James_Chadwick,James Chadwick,PERSON
+/wiki/Fr%C3%A9d%C3%A9ric_Joliot-Curie,Frédéric Joliot-Curie,PERSON
+/wiki/Ir%C3%A8ne_Joliot-Curie,Irène Joliot-Curie,PERSON
+/wiki/Victor_Francis_Hess,Victor Francis Hess,PERSON
+/wiki/Carl_David_Anderson,Carl David Anderson,PERSON
+/wiki/Peter_Debye,Peter Debye,PERSON
+/wiki/Eugene_O%27Neill,Eugene O'Neill,PERSON
+/wiki/Carlos_Saavedra_Lamas,Carlos Saavedra Lamas,PERSON
+/wiki/Clinton_Davisson,Clinton Davisson,PERSON
+/wiki/George_Paget_Thomson,George Paget Thomson,PERSON
+/wiki/Norman_Haworth,Norman Haworth,PERSON
+/wiki/Paul_Karrer,Paul Karrer,PERSON
+/wiki/Albert_Szent-Gy%C3%B6rgyi,Albert Szent-Györgyi,PERSON
+/wiki/Roger_Martin_du_Gard,Roger Martin du Gard,PERSON
+/wiki/Enrico_Fermi,Enrico Fermi,PERSON
+/wiki/Richard_Kuhn,Richard Kuhn,PERSON
+#endnote_Note1A,Trang Chính,LOCATION
+/wiki/Corneille_Heymans,Corneille Heymans,PERSON
+/wiki/Pearl_S._Buck,Pearl S. Buck,PERSON
+/wiki/Ph%C3%B2ng_qu%E1%BB%91c_t%E1%BA%BF_Nansen_cho_c%C3%A1c_ng%C6%B0%E1%BB%9Di_t%E1%BB%8B_n%E1%BA%A1n,Cơ quan quốc tế về người tị nạn Nansen,ORGANIZATION 
+/wiki/Ernest_Lawrence,Ernest Lawrence,PERSON
+/wiki/Adolf_Butenandt,Adolf Butenandt,PERSON
+/wiki/Leopold_Ru%C5%BEi%C4%8Dka,Leopold Ružička,PERSON
+/wiki/Gerhard_Domagk,Gerhard Domagk,PERSON
+/wiki/Frans_Eemil_Sillanp%C3%A4%C3%A4,Frans Eemil Sillanpää,PERSON
+/wiki/Otto_Stern,Otto Stern,PERSON
+/wiki/George_de_Hevesy,George de Hevesy,PERSON
+/wiki/Henrik_Dam,Henrik Dam,PERSON
+/wiki/Edward_Adelbert_Doisy,Edward Adelbert Doisy,PERSON
+/wiki/Isidor_Isaac_Rabi,Isidor Isaac Rabi,PERSON
+/wiki/Otto_Hahn,Otto Hahn,PERSON
+/wiki/Joseph_Erlanger,Joseph Erlanger,PERSON
+/wiki/Herbert_Spencer_Gasser,Herbert Spencer Gasser,PERSON
+/wiki/Johannes_Vilhelm_Jensen,Johannes Vilhelm Jensen,PERSON
+/wiki/Wolfgang_Pauli,Wolfgang Ernst Pauli,PERSON
+/wiki/Artturi_Ilmari_Virtanen,Artturi Ilmari Virtanen,PERSON
+/wiki/Alexander_Fleming,Alexander Fleming,PERSON
+/wiki/Ernst_Boris_Chain,Ernst Boris Chain,PERSON
+/wiki/Howard_Florey,Howard Walter Florey,PERSON
+/wiki/Gabriela_Mistral,Gabriela Mistral,PERSON
+/wiki/Percy_Williams_Bridgman,Percy Williams Bridgman,PERSON
+/wiki/James_B._Sumner,James Batcheller Sumner,PERSON
+/wiki/John_Howard_Northrop,John Howard Northrop,PERSON
+/wiki/Wendell_Meredith_Stanley,Wendell Meredith Stanley,PERSON
+/wiki/Hermann_Joseph_Muller,Hermann Joseph Muller,PERSON
+/wiki/Hermann_Hesse,Hermann Hesse,PERSON
+/wiki/Emily_Greene_Balch,Emily Greene Balch,PERSON
+/wiki/John_Mott,John Mott,PERSON
+/wiki/Edward_Victor_Appleton,Edward Victor Appleton,PERSON
+/wiki/Robert_Robinson_(organic_chemist),Robert Robinson,PERSON
+/wiki/Carl_Ferdinand_Cori,Carl Ferdinand Cori,PERSON
+/wiki/Gerty_Cori,Gerty Theresa Cori,PERSON
+/wiki/Bernardo_Houssay,Bernardo Houssay,PERSON
+/wiki/Andr%C3%A9_Gide,André Gide,PERSON
+"/wiki/Patrick_Blackett,_Baron_Blackett",Patrick Blackett,PERSON
+/wiki/Arne_Tiselius,Arne Tiselius,PERSON
+/wiki/Paul_Hermann_M%C3%BCller,Paul Hermann Müller,PERSON
+/wiki/T._S._Eliot,T. S. Eliot,PERSON
+#endnote_Note1B,Trang Chính,LOCATION
+/wiki/Hideki_Yukawa,Yukawa Hideki,PERSON
+/wiki/William_Giauque,William Giauque,PERSON
+/wiki/Walter_Rudolf_Hess,Walter Rudolf Hess,PERSON
+/wiki/William_Faulkner,William Faulkner,PERSON
+/wiki/C._F._Powell,Cecil Frank Powell,PERSON
+/wiki/Otto_Diels,Otto Diels,PERSON
+/wiki/Kurt_Alder,Kurt Alder,PERSON
+/wiki/Philip_Showalter_Hench,Philip Showalter Hench,PERSON
+/wiki/Edward_Calvin_Kendall,Edward Calvin Kendall,PERSON
+/wiki/Tadeus_Reichstein,Tadeus Reichstein,PERSON
+/wiki/Bertrand_Russell,Bertrand Russell,PERSON
+/wiki/Ralph_Bunche,Ralph Bunche,PERSON
+/wiki/John_Cockcroft,John Cockcroft,PERSON
+/wiki/Ernest_Walton,Ernest Walton,PERSON
+/wiki/Edwin_McMillan,Edwin McMillan,PERSON
+/wiki/Glenn_T._Seaborg,Glenn Seaborg,PERSON
+/wiki/Max_Theiler,Max Theiler,PERSON
+/wiki/P%C3%A4r_Lagerkvist,Pär Lagerkvist,PERSON
+/wiki/L%C3%A9on_Jouhaux,Léon Jouhaux,PERSON
+/wiki/Felix_Bloch,Felix Bloch,PERSON
+/wiki/Edward_Mills_Purcell,Edward Mills Purcell,PERSON
+/wiki/Archer_John_Porter_Martin,Archer Martin,PERSON
+/wiki/Richard_Laurence_Millington_Synge,Richard Laurence Millington Synge,PERSON
+/wiki/Selman_Waksman,Selman Waksman,PERSON
+/wiki/Fran%C3%A7ois_Mauriac,François Mauriac,PERSON
+/wiki/Albert_Schweitzer,Albert Schweitzer,PERSON
+/wiki/Frits_Zernike,Frits Zernike,PERSON
+/wiki/Hermann_Staudinger,Hermann Staudinger,PERSON
+/wiki/Hans_Adolf_Krebs,Hans Adolf Krebs,PERSON
+/wiki/Fritz_Albert_Lipmann,Fritz Albert Lipmann,PERSON
+/wiki/Winston_Churchill,Winston Churchill,PERSON
+/wiki/George_Marshall,George Marshall,PERSON
+/wiki/Max_Born,Max Born,PERSON
+/wiki/Walther_Bothe,Walther Bothe,PERSON
+/wiki/Linus_Pauling,Linus Pauling,PERSON
+/wiki/John_Franklin_Enders,John Franklin Enders,PERSON
+/wiki/Frederick_Chapman_Robbins,Frederick Chapman Robbins,PERSON
+/wiki/Ernest_Hemingway,Ernest Hemingway,PERSON
+/wiki/Cao_%E1%BB%A7y_Li%C3%AAn_H%E1%BB%A3p_Qu%E1%BB%91c_v%E1%BB%81_ng%C6%B0%E1%BB%9Di_t%E1%BB%8B_n%E1%BA%A1n,Cao ủy Liên Hợp Quốc về người tị nạn,ORGANIZATION
+/wiki/Willis_Lamb,Willis Lamb,PERSON
+/wiki/Polykarp_Kusch,Polykarp Kusch,PERSON
+/wiki/Vincent_du_Vigneaud,Vincent du Vigneaud,PERSON
+/wiki/Hugo_Theorell,Hugo Theorell,PERSON
+/wiki/Halld%C3%B3r_Laxness,Halldór Laxness,PERSON
+/wiki/John_Bardeen,John Bardeen,PERSON
+/wiki/Walter_Houser_Brattain,Walter Houser Brattain,PERSON
+/wiki/William_Shockley,William Shockley,PERSON
+/wiki/Cyril_Norman_Hinshelwood,Cyril Norman Hinshelwood,PERSON
+/wiki/Nikolay_Semyonov,Nikolay Nikolayevich Semyonov,PERSON
+/wiki/Andr%C3%A9_Fr%C3%A9d%C3%A9ric_Cournand,André Frédéric Cournand,PERSON
+/wiki/Werner_Forssmann,Werner Forssmann,PERSON
+/wiki/Juan_Ram%C3%B3n_Jim%C3%A9nez,Juan Ramón Jiménez,PERSON
+/wiki/Chen_Ning_Yang,Dương Chấn Ninh,PERSON
+/wiki/Tsung-Dao_Lee,Lý Chính Đạo,PERSON
+"/wiki/Alexander_R._Todd,_Baron_Todd",Alexander R. Todd,PERSON
+/wiki/Albert_Camus,Albert Camus,PERSON
+/wiki/Lester_B._Pearson,Lester B. Pearson,PERSON
+/wiki/Pavel_Cherenkov,Pavel Alekseyevich Cherenkov,PERSON
+/wiki/Ilya_Frank,Ilya Mikhailovich Frank,PERSON
+/wiki/Igor_Tamm,Igor Yevgenyevich Tamm,PERSON
+/wiki/Frederick_Sanger,Frederick Sanger,PERSON
+/wiki/George_Wells_Beadle,George Wells Beadle,PERSON
+/wiki/Edward_Lawrie_Tatum,Edward Lawrie Tatum,PERSON
+/wiki/Boris_Pasternak,Boris Leonidovich Pasternak,PERSON
+#endnote_Note1C,Trang Chính,LOCATION
+/wiki/Dominique_Pire,Dominique Pire,PERSON
+/wiki/Emilio_G._Segr%C3%A8,Emilio G. Segrè,PERSON
+/wiki/Owen_Chamberlain,Owen Chamberlain,PERSON
+/wiki/Jaroslav_Heyrovsk%C3%BD,Jaroslav Heyrovský,PERSON
+/wiki/Severo_Ochoa,Severo Ochoa,PERSON
+/wiki/Salvatore_Quasimodo,Salvatore Quasimodo,PERSON
+/wiki/Donald_A._Glaser,Donald Arthur Glaser,PERSON
+/wiki/Willard_Libby,Willard Libby,PERSON
+/wiki/Frank_Macfarlane_Burnet,Frank Macfarlane Burnet,PERSON
+/wiki/Saint-John_Perse,Saint-John Perse,PERSON
+/wiki/Robert_Hofstadter,Robert Hofstadter,PERSON
+/wiki/Rudolf_M%C3%B6ssbauer,Rudolf Mößbauer,PERSON
+/wiki/Melvin_Calvin,Melvin Calvin,PERSON
+/wiki/Ivo_Andri%C4%87,Ivo Andrić,PERSON
+/wiki/Dag_Hammarskj%C3%B6ld,Dag Hammarskjöld,PERSON
+/wiki/Lev_Landau,Lev Davidovich Landau,PERSON
+/wiki/Max_Perutz,Max Perutz,PERSON
+/wiki/John_Kendrew,John Kendrew,PERSON
+/wiki/Francis_Crick,Francis Crick,PERSON
+/wiki/James_D._Watson,James D. Watson,PERSON
+/wiki/Maurice_Wilkins,Maurice Wilkins,PERSON
+/wiki/John_Steinbeck,John Steinbeck,PERSON
+/wiki/Eugene_Wigner,Eugene Wigner,PERSON
+/wiki/Maria_Goeppert-Mayer,Maria Goeppert-Mayer,PERSON
+/wiki/J._Hans_D._Jensen,Johannes Hans Daniel Jensen,PERSON
+/wiki/Karl_Ziegler,Karl Ziegler,PERSON
+/wiki/Giulio_Natta,Giulio Natta,PERSON
+/wiki/Giorgos_Seferis,Giorgos Seferis,PERSON
+/wiki/Li%C3%AAn_hi%E1%BB%87p_c%C3%A1c_H%E1%BB%99i_Ch%E1%BB%AF_th%E1%BA%ADp_%C4%90%E1%BB%8F_qu%E1%BB%91c_t%E1%BA%BF,Phong trào Chữ thập đỏ và Trăng lưỡi liềm đỏ quốc tế,LOCATION
+/wiki/Charles_Hard_Townes,Charles Townes,PERSON
+/wiki/Nikolay_Basov,Nikolay Gennadiyevich Basov,PERSON
+/wiki/Alexander_Prokhorov,Aleksandr Mikhailovich Prokhorov,PERSON
+/wiki/Dorothy_Hodgkin,Dorothy Hodgkin,PERSON
+/wiki/Konrad_Emil_Bloch,Konrad Emil Bloch,PERSON
+/wiki/Jean-Paul_Sartre,Jean-Paul Sartre,PERSON
+#endnote_Note1D,Trang Chính,LOCATION
+"/wiki/Martin_Luther_King,_Jr.",Martin Luther King,PERSON
+/wiki/Sin-Itiro_Tomonaga,Tomonaga Shinichirō,PERSON
+/wiki/Julian_Schwinger,Julian Schwinger,PERSON
+/wiki/Richard_Feynman,Richard Feynman,PERSON
+/wiki/Robert_Burns_Woodward,Robert Burns Woodward,PERSON
+/wiki/Fran%C3%A7ois_Jacob,François Jacob,PERSON
+/wiki/Andr%C3%A9_Michel_Lwoff,André Michel Lwoff,PERSON
+/wiki/Jacques_Monod,Jacques Monod,PERSON
+/wiki/Mikhail_Sholokhov,Mikhail Aleksandrovich Sholokhov,PERSON
+/wiki/Qu%E1%BB%B9_Nhi_%C4%91%E1%BB%93ng_Li%C3%AAn_H%E1%BB%A3p_Qu%E1%BB%91c,Quỹ Nhi đồng Liên Hợp Quốc,ORGANIZATION
+/wiki/Alfred_Kastler,Alfred Kastler,PERSON
+/wiki/Robert_S._Mulliken,Robert S. Mulliken,PERSON
+/wiki/Francis_Peyton_Rous,Francis Peyton Rous,PERSON
+/wiki/Charles_Brenton_Huggins,Charles Brenton Huggins,PERSON
+/wiki/Shmuel_Yosef_Agnon,Shmuel Yosef Agnon,PERSON
+/wiki/Nelly_Sachs,Nelly Sachs,PERSON
+/wiki/Hans_Bethe,Hans Bethe,PERSON
+/wiki/Manfred_Eigen,Manfred Eigen,PERSON
+/wiki/Ronald_George_Wreyford_Norrish,Ronald George Wreyford Norrish,PERSON
+/wiki/George_Porter,George Porter,PERSON
+/wiki/Ragnar_Granit,Ragnar Granit,PERSON
+/wiki/Miguel_%C3%81ngel_Asturias,Miguel Ángel Asturias,PERSON
+/wiki/Luis_Walter_Alvarez,Luis Alvarez,PERSON
+/wiki/Lars_Onsager,Lars Onsager,PERSON
+/wiki/Robert_W._Holley,Robert W. Holley,PERSON
+/wiki/Yasunari_Kawabata,Kawabata Yasunari,PERSON
+/wiki/Ren%C3%A9_Cassin,René Cassin,PERSON
+/wiki/Murray_Gell-Mann,Murray Gell-Mann,PERSON
+/wiki/Derek_Barton,Derek Barton,PERSON
+/wiki/Odd_Hassel,Odd Hassel,PERSON
+/wiki/Alfred_Hershey,Alfred Hershey,PERSON
+/wiki/Samuel_Beckett,Samuel Beckett,PERSON
+/wiki/T%E1%BB%95_ch%E1%BB%A9c_Lao_%C4%91%E1%BB%99ng_Qu%E1%BB%91c_t%E1%BA%BF,Tổ chức Lao động Quốc tế,ORGANIZATION
+/wiki/Ragnar_Frisch,Ragnar Frisch,PERSON
+/wiki/Jan_Tinbergen,Jan Tinbergen,PERSON
+/wiki/Hannes_Alfv%C3%A9n,Hannes Alfvén,PERSON
+/wiki/Louis_N%C3%A9el,Louis Eugène Félix Néel,ORGANIZATION
+/wiki/Luis_Federico_Leloir,Luis Federico Leloir,PERSON
+/wiki/Ulf_von_Euler,Ulf von Euler,PERSON
+/wiki/Aleksandr_Solzhenitsyn,Aleksandr Isayevich Solzhenitsyn,PERSON
+/wiki/Norman_Borlaug,Norman Borlaug,PERSON
+/wiki/Paul_Samuelson,Paul Samuelson,PERSON
+/wiki/Dennis_Gabor,Dennis Gabor,PERSON
+/wiki/Gerhard_Herzberg,Gerhard Herzberg,PERSON
+"/wiki/Earl_Wilbur_Sutherland,_Jr.",Earl Wilbur Sutherland Jr.,PERSON
+/wiki/Pablo_Neruda,Pablo Neruda,PERSON
+/wiki/Willy_Brandt,Willy Brandt,PERSON
+/wiki/Simon_Kuznets,Simon Kuznets,PERSON
+/wiki/Leon_Cooper,Leon Neil Cooper,PERSON
+/wiki/John_Robert_Schrieffer,John Schrieffer,PERSON
+/wiki/Christian_B._Anfinsen,Christian B. Anfinsen,PERSON
+/wiki/Stanford_Moore,Stanford Moore,PERSON
+/wiki/William_Howard_Stein,William Howard Stein,PERSON
+/wiki/Rodney_Robert_Porter,Rodney Robert Porter,PERSON
+/wiki/Heinrich_B%C3%B6ll,Heinrich Böll,PERSON
+/wiki/John_Hicks,John Hicks,PERSON
+/wiki/Kenneth_Arrow,Kenneth Arrow,PERSON
+/wiki/Leo_Esaki,Esaki Reona,PERSON
+/wiki/Ivar_Giaever,Ivar Giaever,PERSON
+/wiki/Brian_David_Josephson,Brian David Josephson,PERSON
+/wiki/Ernst_Otto_Fischer,Ernst Otto Fischer,PERSON
+/wiki/Geoffrey_Wilkinson,Geoffrey Wilkinson,PERSON
+/wiki/Karl_von_Frisch,Karl von Frisch,PERSON
+/wiki/Konrad_Lorenz,Konrad Lorenz,PERSON
+/wiki/Patrick_White,Patrick White,PERSON
+/wiki/Henry_Kissinger,Henry Kissinger,PERSON
+/wiki/L%C3%AA_%C4%90%E1%BB%A9c_Th%E1%BB%8D,Lê Đức Thọ,PERSON
+#endnote_Note1E,Trang Chính,LOCATION
+/wiki/Wassily_Leontief,Wassily Leontief,PERSON
+/wiki/Martin_Ryle,Martin Ryle,PERSON
+/wiki/Antony_Hewish,Antony Hewish,PERSON
+/wiki/Paul_Flory,Paul Flory,PERSON
+/wiki/Albert_Claude,Albert Claude,PERSON
+/wiki/Christian_de_Duve,Christian de Duve,PERSON
+/wiki/George_Emil_Palade,George Emil Palade,PERSON
+/wiki/Eyvind_Johnson,Eyvind Johnson,PERSON
+/wiki/Harry_Martinson,Harry Martinson,PERSON
+/wiki/Eisaku_Sat%C5%8D,Satō Eisaku,PERSON
+/wiki/Gunnar_Myrdal,Karl Gunnar Myrdal,PERSON
+/wiki/Friedrich_Hayek,Friedrich Hayek,PERSON
+/wiki/Aage_Bohr,Aage Niels Bohr,PERSON
+/wiki/Ben_Roy_Mottelson,Ben Roy Mottelson,PERSON
+/wiki/James_Rainwater,James Rainwater,PERSON
+/wiki/John_Cornforth,John Cornforth,PERSON
+/wiki/Vladimir_Prelog,Vladimir Prelog,PERSON
+/wiki/Renato_Dulbecco,Renato Dulbecco,PERSON
+/wiki/Howard_Martin_Temin,Howard Martin Temin,PERSON
+/wiki/Eugenio_Montale,Eugenio Montale,PERSON
+/wiki/Andrei_Sakharov,Andrey Dmitryevich Sakharov,PERSON
+/wiki/Leonid_Kantorovich,Leonid Vitaliyevich Kantorovich,PERSON
+/wiki/Tjalling_Koopmans,Tjalling Koopmans,PERSON
+/wiki/Burton_Richter,Burton Richter,PERSON
+/wiki/William_Lipscomb,William Lipscomb,PERSON
+/wiki/Baruch_Samuel_Blumberg,Baruch Samuel Blumberg,PERSON
+/wiki/Saul_Bellow,Saul Bellow,PERSON
+/wiki/Milton_Friedman,Milton Friedman,PERSON
+/wiki/Philip_Warren_Anderson,Philip Warren Anderson,PERSON
+/wiki/Nevill_Francis_Mott,Nevill Francis Mott,PERSON
+/wiki/John_Hasbrouck_Van_Vleck,John Hasbrouck Van Vleck,PERSON
+/wiki/Ilya_Prigogine,Ilya Prigogine,PERSON
+/wiki/Roger_Guillemin,Roger Guillemin,PERSON
+/wiki/Andrew_Schally,Andrew Schally,PERSON
+/wiki/Rosalyn_Sussman_Yalow,Rosalyn Sussman Yalow,PERSON
+/wiki/Vicente_Aleixandre,Vicente Aleixandre,PERSON
+/wiki/%C3%82n_x%C3%A1_Qu%E1%BB%91c_t%E1%BA%BF,Ân xá Quốc tế,ORGANIZATION
+/wiki/Bertil_Ohlin,Bertil Ohlin,PERSON
+/wiki/James_Meade,James Meade,PERSON
+/wiki/Pyotr_Kapitsa,Pyotr Leonidovich Kapitsa,PERSON
+/wiki/Arno_Allan_Penzias,Arno Allan Penzias,PERSON
+/wiki/Robert_Woodrow_Wilson,Robert Woodrow Wilson,PERSON
+/wiki/Peter_D._Mitchell,Peter D. Mitchell,PERSON
+/wiki/Werner_Arber,Werner Arber,PERSON
+/wiki/Daniel_Nathans,Daniel Nathans,PERSON
+/wiki/Hamilton_O._Smith,Hamilton O. Smith,PERSON
+/wiki/Isaac_Bashevis_Singer,Isaac Bashevis Singer,PERSON
+/wiki/Anwar_Sadat,Anwar Al-Sadad,PERSON
+/wiki/Menachem_Begin,Menachem Begin,PERSON
+/wiki/Herbert_A._Simon,Herbert A. Simon,PERSON
+/wiki/Sheldon_Lee_Glashow,Sheldon Lee Glashow,PERSON
+/wiki/Abdus_Salam,Abdus Salam,PERSON
+/wiki/Steven_Weinberg,Steven Weinberg,PERSON
+/wiki/Herbert_C._Brown,Herbert C. Brown,PERSON
+/wiki/Georg_Wittig,Georg Wittig,PERSON
+/wiki/Godfrey_Hounsfield,Godfrey Hounsfield,PERSON
+/wiki/Odysseas_Elytis,Odysseas Elytis,PERSON
+/wiki/M%E1%BA%B9_Teresa,Mẹ Têrêsa,PERSON
+/wiki/Theodore_Schultz,Theodore Schultz,PERSON
+/wiki/Arthur_Lewis_(economist),Arthur Lewis,PERSON
+/wiki/James_Cronin,James Cronin,PERSON
+/wiki/Paul_Berg,Paul Berg,PERSON
+/wiki/Walter_Gilbert,Walter Gilbert,PERSON
+/wiki/Baruj_Benacerraf,Baruj Benacerraf,PERSON
+/wiki/Jean_Dausset,Jean Dausset,PERSON
+/wiki/George_Davis_Snell,George Davis Snell,PERSON
+/wiki/Czes%C5%82aw_Mi%C5%82osz,Czesław Miłosz,PERSON
+/wiki/Adolfo_P%C3%A9rez_Esquivel,Adolfo Pérez Esquivel,PERSON
+/wiki/Lawrence_Klein,Lawrence Klein,PERSON
+/wiki/Nicolaas_Bloembergen,Nicolaas Bloembergen,PERSON
+/wiki/Arthur_Leonard_Schawlow,Arthur Leonard Schawlow,PERSON
+/wiki/Kai_Siegbahn,Kai Siegbahn,PERSON
+/wiki/Kenichi_Fukui,Fukui Kenichi,PERSON
+/wiki/Roald_Hoffmann,Roald Hoffmann,PERSON
+/wiki/Elias_Canetti,Elias Canetti,PERSON
+/wiki/James_Tobin,James Tobin,PERSON
+/wiki/Kenneth_G._Wilson,Kenneth G. Wilson,PERSON
+/wiki/Aaron_Klug,Aaron Klug,PERSON
+/wiki/Sune_Bergstr%C3%B6m,Sune Bergström,PERSON
+/wiki/Bengt_I._Samuelsson,Bengt I. Samuelsson,PERSON
+/wiki/John_Vane,John Robert Vane,PERSON
+/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez,Gabriel García Márquez,PERSON
+/wiki/Alva_Myrdal,Alva Myrdal,PERSON
+/wiki/Alfonso_Garc%C3%ADa_Robles,Alfonso García Robles,PERSON
+/wiki/George_Stigler,George Stigler,PERSON
+/wiki/Subrahmanyan_Chandrasekhar,Subrahmanyan Chandrasekhar,PERSON
+/wiki/William_Alfred_Fowler,William Alfred Fowler,PERSON
+/wiki/Henry_Taube,Henry Taube,PERSON
+/wiki/Barbara_McClintock,Barbara McClintock,PERSON
+/wiki/William_Golding,William Golding,PERSON
+/wiki/Lech_Wa%C5%82%C4%99sa,Lech Wałęsa,PERSON
+/wiki/G%C3%A9rard_Debreu,Gérard Debreu,PERSON
+/wiki/Robert_Bruce_Merrifield,Robert Bruce Merrifield,PERSON
+/wiki/Niels_Kaj_Jerne,Niels Kaj Jerne,PERSON
+/wiki/Georges_J._F._K%C3%B6hler,Georges J. F. Köhler,PERSON
+/wiki/Jaroslav_Seifert,Jaroslav Seifert,PERSON
+/wiki/Desmond_Tutu,Desmond Tutu,PERSON
+/wiki/Richard_Stone,Richard Stone,PERSON
+/wiki/Klaus_von_Klitzing,Klaus von Klitzing,PERSON
+/wiki/Herbert_A._Hauptman,Herbert A. Hauptman,PERSON
+/wiki/Jerome_Karle,Jerome Karle,PERSON
+/wiki/Michael_Stuart_Brown,Michael Stuart Brown,PERSON
+/wiki/Joseph_L._Goldstein,Joseph L. Goldstein,PERSON
+/wiki/Claude_Simon,Claude Simon,PERSON
+/wiki/Hi%E1%BB%87p_h%E1%BB%99i_Y_s%C4%A9_Qu%E1%BB%91c_t%E1%BA%BF_Ph%C3%B2ng_ng%E1%BB%ABa_Chi%E1%BA%BFn_tranh_h%E1%BA%A1t_nh%C3%A2n,Hiệp hội Y sĩ Quốc tế Phòng ngừa Chiến tranh hạt nhân,PERSON
+/wiki/Franco_Modigliani,Franco Modigliani,PERSON
+/wiki/Ernst_Ruska,Ernst Ruska,PERSON
+/wiki/Gerd_Binnig,Gerd Binnig,PERSON
+/wiki/Heinrich_Rohrer,Heinrich Rohrer,PERSON
+/wiki/Dudley_R._Herschbach,Dudley R. Herschbach,PERSON
+/wiki/Yuan_T._Lee,Lý Viễn Triết,PERSON
+/wiki/John_Polanyi,John Polanyi,PERSON
+/wiki/Rita_Levi-Montalcini,Rita Levi-Montalcini,PERSON
+/wiki/Wole_Soyinka,Wole Soyinka,PERSON
+/wiki/Elie_Wiesel,Elie Wiesel,PERSON
+/wiki/James_M._Buchanan,James M. Buchanan,PERSON
+/wiki/Johannes_Georg_Bednorz,Johannes Georg Bednorz,PERSON
+/wiki/Karl_Alexander_M%C3%BCller,Karl Alexander Müller,PERSON
+/wiki/Donald_J._Cram,Donald J. Cram,PERSON
+/wiki/Jean-Marie_Lehn,Jean-Marie Lehn,PERSON
+/wiki/Charles_J._Pedersen,Charles J. Pedersen,PERSON
+/wiki/Susumu_Tonegawa,Tonegawa Susumu,PERSON
+/wiki/Joseph_Brodsky,Iosif Aleksandrovich Brodsky,PERSON
+/wiki/%C3%93scar_Arias,Óscar Arias,PERSON
+/wiki/Robert_Solow,Robert Solow,PERSON
+/wiki/Melvin_Schwartz,Melvin Schwartz,PERSON
+/wiki/Jack_Steinberger,Jack Steinberger,PERSON
+/wiki/Johann_Deisenhofer,Johann Deisenhofer,PERSON
+/wiki/Robert_Huber,Robert Huber,PERSON
+/wiki/Hartmut_Michel,Hartmut Michel,PERSON
+/wiki/James_W._Black,James W. Black,PERSON
+/wiki/Gertrude_B._Elion,Gertrude B. Elion,PERSON
+/wiki/Naguib_Mahfouz,Naguib Mahfouz,PERSON
+/wiki/G%C3%ACn_gi%E1%BB%AF_h%C3%B2a_b%C3%ACnh_Li%C3%AAn_H%E1%BB%A3p_Qu%E1%BB%91c,Gìn giữ hòa bình Liên Hợp Quốc,ORGANIZATION
+/wiki/Maurice_Allais,Maurice Allais,PERSON
+"/wiki/Norman_Foster_Ramsey,_Jr.","Norman Foster Ramsey, Jr.",PERSON
+/wiki/Hans_Georg_Dehmelt,Hans Georg Dehmelt,PERSON
+/wiki/Wolfgang_Paul,Wolfgang Paul,PERSON
+/wiki/Sidney_Altman,Sidney Altman,PERSON
+/wiki/Thomas_Cech,Thomas Cech,PERSON
+/wiki/Harold_E._Varmus,Harold E. Varmus,PERSON
+/wiki/Camilo_Jos%C3%A9_Cela,Camilo José Cela,PERSON
+/wiki/Tenzin_Gyatso,Tenzin Gyatso,PERSON
+/wiki/Trygve_Haavelmo,Trygve Haavelmo,PERSON
+/wiki/Jerome_Isaac_Friedman,Jerome Isaac Friedman,PERSON
+/wiki/Richard_E._Taylor,Richard E. Taylor,PERSON
+/wiki/Elias_James_Corey,Elias James Corey,PERSON
+/wiki/Joseph_Murray,Joseph E. Murray,PERSON
+/wiki/E._Donnall_Thomas,E. Donnall Thomas,PERSON
+/wiki/Octavio_Paz,Octavio Paz,PERSON
+/wiki/Mikhail_Gorbachev,Mikhail Sergeyevich Gorbachyov,PERSON
+/wiki/Harry_Markowitz,Harry Markowitz,PERSON
+/wiki/Merton_Miller,Merton Miller,PERSON
+/wiki/William_Forsyth_Sharpe,William Forsyth Sharpe,PERSON
+/wiki/Pierre-Gilles_de_Gennes,Pierre-Gilles de Gennes,PERSON
+/wiki/Richard_R._Ernst,Richard R. Ernst,PERSON
+/wiki/Erwin_Neher,Erwin Neher,PERSON
+/wiki/Bert_Sakmann,Bert Sakmann,PERSON
+/wiki/Nadine_Gordimer,Nadine Gordimer,PERSON
+/wiki/Aung_San_Suu_Kyi,Aung San Suu Kyi,PERSON
+/wiki/Ronald_Coase,Ronald Coase,PERSON
+/wiki/Georges_Charpak,Georges Charpak,PERSON
+/wiki/Rudolph_A._Marcus,Rudolph A. Marcus,PERSON
+/wiki/Edwin_G._Krebs,Edwin G. Krebs,PERSON
+/wiki/Derek_Walcott,Derek Walcott,PERSON
+/wiki/Rigoberta_Mench%C3%BA,Rigoberta Menchú,PERSON
+/wiki/Gary_Becker,Gary Becker,PERSON
+/wiki/Russell_Alan_Hulse,Russell Alan Hulse,PERSON
+"/wiki/Joseph_Hooton_Taylor,_Jr.","Joseph Hooton Taylor, Jr.",PERSON
+/wiki/Kary_Mullis,Kary Mullis,PERSON
+/wiki/Phillip_Allen_Sharp,Phillip Allen Sharp,PERSON
+/wiki/Toni_Morrison,Toni Morrison,PERSON
+/wiki/Nelson_Mandela,Nelson Mandela,PERSON
+/wiki/F._W._de_Klerk,Frederik Willem de Klerk,PERSON
+/wiki/Robert_Fogel,Robert Fogel,PERSON
+/wiki/Douglass_North,Douglass North,PERSON
+/wiki/Bertram_Brockhouse,Bertram Brockhouse,PERSON
+/wiki/Clifford_Shull,Clifford Shull,PERSON
+/wiki/George_Andrew_Olah,George Andrew Olah,PERSON
+/wiki/Alfred_G._Gilman,Alfred G. Gilman,PERSON
+/wiki/Martin_Rodbell,Martin Rodbell,PERSON
+/wiki/Kenzabur%C5%8D_%C5%8Ce,Ōe Kenzaburo,PERSON
+/wiki/Yasser_Arafat,Yasser Arafat,PERSON
+/wiki/Shimon_Peres,Shimon Peres,PERSON
+/wiki/Yitzhak_Rabin,Yitzhak Rabin,PERSON
+/wiki/John_Harsanyi,John Harsanyi,PERSON
+"/wiki/John_Forbes_Nash,_Jr.",John Forbes Nash Jr.,PERSON
+/wiki/Reinhard_Selten,Reinhard Selten,PERSON
+/wiki/Martin_Lewis_Perl,Martin Lewis Perl,PERSON
+/wiki/Frederick_Reines,Frederick Reines,PERSON
+/wiki/Paul_J._Crutzen,Paul J. Crutzen,PERSON
+/wiki/Mario_J._Molina,Mario J. Molina,PERSON
+/wiki/Frank_Sherwood_Rowland,Frank Sherwood Rowland,PERSON
+/wiki/Edward_B._Lewis,Edward B. Lewis,PERSON
+/wiki/Seamus_Heaney,Seamus Heaney,PERSON
+"/wiki/Robert_Lucas,_Jr.","Robert Lucas, Jr.",PERSON
+/wiki/Robert_Coleman_Richardson,Robert Coleman Richardson,PERSON
+/wiki/Robert_Curl,Robert Curl,PERSON
+/wiki/Harry_Kroto,Harold Kroto,PERSON
+/wiki/Richard_Smalley,Richard Smalley,PERSON
+/wiki/Peter_C._Doherty,Peter Doherty,PERSON
+/wiki/Wis%C5%82awa_Szymborska,Wisława Szymborska,PERSON
+/wiki/Jos%C3%A9_Ramos-Horta,José Ramos-Horta,PERSON
+/wiki/James_Mirrlees,James Mirrlees,PERSON
+/wiki/William_Vickrey,William Vickrey,PERSON
+/wiki/Steven_Chu,Steven Chu,PERSON
+/wiki/Claude_Cohen-Tannoudji,Claude Cohen-Tannoudji,PERSON
+/wiki/William_Daniel_Phillips,William Daniel Phillips,PERSON
+/wiki/Paul_D._Boyer,Paul D. Boyer,PERSON
+/wiki/John_E._Walker,John E. Walker,PERSON
+/wiki/Jens_Christian_Skou,Jens Christian Skou,PERSON
+/wiki/Stanley_B._Prusiner,Stanley B. Prusiner,PERSON
+/wiki/Dario_Fo,Dario Fo,PERSON
+/wiki/Robert_C._Merton,Robert C. Merton,PERSON
+/wiki/Myron_Scholes,Myron Scholes,PERSON
+/wiki/Robert_B._Laughlin,Robert B. Laughlin,PERSON
+/wiki/Horst_Ludwig_St%C3%B6rmer,Horst Ludwig Störmer,PERSON
+/wiki/Walter_Kohn,Walter Kohn,PERSON
+/wiki/John_Pople,John Pople,PERSON
+/wiki/Robert_F._Furchgott,Robert F. Furchgott,PERSON
+/wiki/Ferid_Murad,Ferid Murad,PERSON
+/wiki/Jos%C3%A9_Saramago,José Saramago,PERSON
+/wiki/Amartya_Sen,Amartya Sen,PERSON
+/wiki/Gerard_%27t_Hooft,Gerard 't Hooft,PERSON
+/wiki/Martinus_J._G._Veltman,Martinus J. G. Veltman,PERSON
+/wiki/Ahmed_Zewail,Ahmed Zewail,PERSON
+/wiki/G%C3%BCnter_Blobel,Günter Blobel,PERSON
+/wiki/G%C3%BCnter_Grass,Günter Grass,PERSON
+/wiki/B%C3%A1c_s%C4%A9_kh%C3%B4ng_bi%C3%AAn_gi%E1%BB%9Bi,Bác sĩ không biên giới,OCCUPATION
+/wiki/Robert_Mundell,Robert Mundell,PERSON
+/wiki/Jack_Kilby,Jack Kilby,PERSON
+/wiki/Alan_J._Heeger,Alan J. Heeger,PERSON
+/wiki/Alan_MacDiarmid,Alan MacDiarmid,PERSON
+/wiki/Hideki_Shirakawa,Shirakawa Hideki,PERSON
+/wiki/Gao_Xingjian,Cao Hành Kiện,PERSON
+/wiki/Kim_Dae-jung,Kim Dae-jung,PERSON
+/wiki/James_Heckman,James Heckman,PERSON
+/wiki/Daniel_McFadden,Daniel McFadden,PERSON
+/wiki/Eric_Allin_Cornell,Eric Allin Cornell,PERSON
+/wiki/Wolfgang_Ketterle,Wolfgang Ketterle,PERSON
+/wiki/Carl_Wieman,Carl Wieman,PERSON
+/wiki/William_Standish_Knowles,William Standish Knowles,PERSON
+/wiki/Ry%C5%8Dji_Noyori,Noyori Ryōji,PERSON
+/wiki/Karl_Barry_Sharpless,Karl Barry Sharpless,PERSON
+/wiki/Leland_H._Hartwell,Leland H. Hartwell,PERSON
+/wiki/Tim_Hunt,Tim Hunt,PERSON
+/wiki/Paul_Nurse,Paul Nurse,PERSON
+/wiki/V._S._Naipaul,V. S. Naipaul,PERSON
+/wiki/Li%C3%AAn_H%E1%BB%A3p_Qu%E1%BB%91c,Liên Hợp Quốc,ORGANIZATION
+/wiki/Kofi_Annan,Kofi Annan,PERSON
+/wiki/George_Akerlof,George Akerlof,PERSON
+/wiki/Michael_Spence,Michael Spence,PERSON
+/wiki/Joseph_Stiglitz,Joseph Stiglitz,PERSON
+/wiki/Masatoshi_Koshiba,Koshiba Masatoshi,PERSON
+/wiki/Riccardo_Giacconi,Riccardo Giacconi,PERSON
+/wiki/John_Fenn,John Fenn,PERSON
+/wiki/Koichi_Tanaka,Tanaka Kōichi,PERSON
+/wiki/Kurt_W%C3%BCthrich,Kurt Wüthrich,PERSON
+/wiki/Sydney_Brenner,Sydney Brenner,PERSON
+/wiki/H._Robert_Horvitz,Howard Robert Horvitz,PERSON
+/wiki/John_Sulston,John Sulston,PERSON
+/wiki/Imre_Kert%C3%A9sz,Imre Kertész,PERSON
+/wiki/Jimmy_Carter,Jimmy Carter,PERSON
+/wiki/Daniel_Kahneman,Daniel Kahneman,PERSON
+/wiki/Vernon_L._Smith,Vernon L. Smith,PERSON
+/wiki/Vitaly_Ginzburg,Vitalij Lazarevich Ginzburg,PERSON
+/wiki/Peter_Agre,Peter Agre,PERSON
+/wiki/Roderick_MacKinnon,Roderick MacKinnon,PERSON
+/wiki/Paul_Lauterbur,Paul Lauterbur,PERSON
+/wiki/J._M._Coetzee,John Maxwell Coetzee,PERSON
+/wiki/Shirin_Ebadi,Shirin Ebadi,PERSON
+/wiki/Robert_F._Engle,Robert F. Engle,PERSON
+/wiki/Clive_Granger,Clive Granger,PERSON
+/wiki/David_Gross,David Gross,PERSON
+/wiki/Hugh_David_Politzer,Hugh David Politzer,PERSON
+/wiki/Frank_Wilczek,Frank Wilczek,PERSON
+/wiki/Aaron_Ciechanover,Aaron Ciechanover,PERSON
+/wiki/Avram_Hershko,Avram Hershko,PERSON
+/wiki/Irwin_Rose,Irwin Rose,PERSON
+/wiki/Richard_Axel,Richard Axel,PERSON
+/wiki/Linda_B._Buck,Linda B. Buck,PERSON
+/wiki/Elfriede_Jelinek,Elfriede Jelinek,PERSON
+/wiki/Wangari_Maathai,Wangari Maathai,PERSON
+/wiki/Finn_E._Kydland,Finn E. Kydland,PERSON
+/wiki/Edward_C._Prescott,Edward C. Prescott,PERSON
+/wiki/Roy_J._Glauber,Roy J. Glauber,PERSON
+/wiki/John_L._Hall,John L. Hall,PERSON
+/wiki/Theodor_W._H%C3%A4nsch,Theodor W. Hänsch,PERSON
+/wiki/Yves_Chauvin,Yves Chauvin,PERSON
+/wiki/Robert_H._Grubbs,Robert H. Grubbs,PERSON
+/wiki/Richard_R._Schrock,Richard R. Schrock,PERSON
+/wiki/Barry_Marshall,Barry Marshall,PERSON
+/wiki/Harold_Pinter,Harold Pinter,PERSON
+/wiki/C%C6%A1_quan_N%C4%83ng_l%C6%B0%E1%BB%A3ng_Nguy%C3%AAn_t%E1%BB%AD_Qu%E1%BB%91c_t%E1%BA%BF,Cơ quan Năng lượng Nguyên tử Quốc tế,ORGANIZATION
+/wiki/Mohamed_ElBaradei,Mohamed ElBaradei,PERSON
+/wiki/Robert_Aumann,Robert Aumann,PERSON
+/wiki/Thomas_Schelling,Thomas Schelling,PERSON
+/wiki/John_C._Mather,John C. Mather,PERSON
+/wiki/Roger_D._Kornberg,Roger D. Kornberg,PERSON
+/wiki/Andrew_Fire,Andrew Fire,PERSON
+/wiki/Craig_Mello,Craig Mello,PERSON
+/wiki/Orhan_Pamuk,Orhan Pamuk,PERSON
+/wiki/Muhammad_Yunus,Muhammad Yunus,PERSON
+/wiki/Ng%C3%A2n_h%C3%A0ng_Grameen,Ngân hàng Grameen,ORGANIZATION
+/wiki/Edmund_Phelps,Edmund Phelps,PERSON
+/wiki/Albert_Fert,Albert Fert,PERSON
+/wiki/Peter_Gr%C3%BCnberg,Peter Grünberg,PERSON
+/wiki/Gerhard_Ertl,Gerhard Ertl,PERSON
+/wiki/Mario_Capecchi,Mario Capecchi,PERSON
+/wiki/Martin_Evans,Martin Evans,PERSON
+/wiki/Oliver_Smithies,Oliver Smithies,PERSON
+/wiki/Doris_Lessing,Doris Lessing,PERSON
+/wiki/%E1%BB%A6y_ban_Li%C3%AAn_ch%C3%ADnh_ph%E1%BB%A7_v%E1%BB%81_Bi%E1%BA%BFn_%C4%91%E1%BB%95i_Kh%C3%AD_h%E1%BA%ADu,Ủy ban Liên chính phủ về Biến đổi Khí hậu,ORGANIZATION
+/wiki/Al_Gore,Al Gore,PERSON
+/wiki/Leonid_Hurwicz,Leonid Hurwicz,PERSON
+/wiki/Eric_Maskin,Eric Maskin,PERSON
+/wiki/Roger_Myerson,Roger Myerson,PERSON
+/wiki/Yoichiro_Nambu,Nambu Yōichirō,PERSON
+/wiki/Kobayashi_Makoto_(nh%C3%A0_v%E1%BA%ADt_l%C3%BD),Kobayashi Makoto (nhà vật lý),PERSON
+/wiki/Toshihide_Maskawa,Masukawa Toshihide,PERSON
+/wiki/Osamu_Shimomura,Shimomura Osamu,PERSON
+/wiki/Martin_Chalfie,Martin Chalfie,PERSON
+/wiki/Roger_Y._Tsien,Roger Y. Tsien,PERSON
+/wiki/Harald_zur_Hausen,Harald zur Hausen,PERSON
+/wiki/Fran%C3%A7oise_Barr%C3%A9-Sinoussi,Françoise Barré-Sinoussi,PERSON
+/wiki/Luc_Montagnier,Luc Montagnier,PERSON
+/wiki/J._M._G._Le_Cl%C3%A9zio,Jean-Marie Gustave Le Clézio,PERSON
+/wiki/Martti_Ahtisaari,Martti Ahtisaari,PERSON
+/wiki/Paul_Krugman,Paul Krugman,PERSON
+/wiki/Charles_K._Kao,Cao Côn,PERSON
+/wiki/Willard_Boyle,Willard Boyle,PERSON
+/wiki/George_E._Smith,George E. Smith,PERSON
+/wiki/Venkatraman_Ramakrishnan,Venkatraman Ramakrishnan,PERSON
+/wiki/Thomas_A._Steitz,Thomas A. Steitz,PERSON
+/wiki/Ada_Yonath,Ada Yonath,PERSON
+/wiki/Elizabeth_Blackburn,Elizabeth Blackburn,PERSON
+/wiki/Carol_W._Greider,Carol W. Greider,PERSON
+/wiki/Jack_W._Szostak,Jack W. Szostak,PERSON
+/wiki/Herta_M%C3%BCller,Herta Müller,PERSON
+/wiki/Barack_Obama,Barack Obama,PERSON
+/wiki/Elinor_Ostrom,Elinor Ostrom,PERSON
+/wiki/Oliver_E._Williamson,Oliver E. Williamson,PERSON
+/wiki/Andre_Geim,Andrei Konstantinovich Geim,PERSON
+/wiki/Konstantin_Novoselov,Konstantin Sergeevich Novoselov,PERSON
+/wiki/Richard_F._Heck,Richard Heck,PERSON
+/wiki/Ei-ichi_Negishi,Negishi Eiichi,PERSON
+/wiki/Suzuki_Akira_(nh%C3%A0_h%C3%B3a_h%E1%BB%8Dc),Suzuki Akira (nhà hóa học),PERSON
+/wiki/Robert_G._Edwards,Robert G. Edwards,PERSON
+/wiki/Mario_Vargas_Llosa,Mario Vargas Llosa,PERSON
+/wiki/L%C6%B0u_Hi%E1%BB%83u_Ba,Lưu Hiểu Ba,PERSON
+#endnote_Note1F,Trang Chính,LOCATION
+/wiki/Peter_Diamond,Peter A. Diamond,PERSON
+/wiki/Dale_T._Mortensen,Dale T. Mortensen,PERSON
+/wiki/Christopher_A._Pissarides,Christopher A. Pissarides,PERSON
+/wiki/Saul_Perlmutter,Saul Perlmutter,PERSON
+/wiki/Adam_Riess,Adam Riess,PERSON
+/wiki/Brian_P._Schmidt,Brian P. Schmidt,PERSON
+/wiki/Dan_Shechtman,Dan Shechtman,PERSON
+/wiki/Bruce_A._Beutler,Bruce Beutler,PERSON
+/wiki/Jules_A._Hoffmann,Jules A. Hoffmann,PERSON
+/wiki/Ralph_M._Steinman,Ralph M. Steinman,PERSON
+/wiki/Tomas_Transtr%C3%B6mer,Tomas Tranströmer,PERSON
+/wiki/Ellen_Johnson_Sirleaf,Ellen Johnson Sirleaf,PERSON
+/wiki/Leymah_Gbowee,Leymah Gbowee,PERSON
+/wiki/Tawakel_Karman,Tawakkul Karman,PERSON
+/wiki/Thomas_J._Sargent,Thomas J. Sargent,PERSON
+/wiki/Christopher_A._Sims,Christopher A. Sims,PERSON
+/wiki/Serge_Haroche,Serge Haroche,PERSON
+/wiki/David_J._Wineland,David J. Wineland,PERSON
+/wiki/Brian_Kobilka,Brian Kobilka,PERSON
+/wiki/Robert_Lefkowitz,Robert Lefkowitz,PERSON
+/wiki/John_Gurdon,John Gurdon,PERSON
+/wiki/Shinya_Yamanaka,Yamanaka Shin'ya,PERSON
+/wiki/M%E1%BA%A1c_Ng%C3%B4n,Mạc Ngôn,PERSON
+/wiki/Li%C3%AAn_hi%E1%BB%87p_ch%C3%A2u_%C3%82u,Liên minh châu Âu,ORGANIZATION
+/wiki/Alvin_E._Roth,Alvin E. Roth,PERSON
+/wiki/Lloyd_Shapley,Lloyd Shapley,PERSON
+/wiki/Fran%C3%A7ois_Englert,François Englert,PERSON
+/wiki/Peter_Higgs,Peter Higgs,PERSON
+/wiki/Martin_Karplus,Martin Karplus,PERSON
+/wiki/Michael_Levitt,Michael Levitt,PERSON
+/wiki/Arieh_Warshel,Arieh Warshel,PERSON
+/wiki/James_Rothman,James Rothman,PERSON
+/wiki/Randy_Schekman,Randy Schekman,PERSON
+/wiki/Thomas_C._S%C3%BCdhof,Thomas Südhof,PERSON
+/wiki/Alice_Munro,Alice Munro,PERSON
+/wiki/T%E1%BB%95_ch%E1%BB%A9c_C%E1%BA%A5m_V%C5%A9_kh%C3%AD_H%C3%B3a_h%E1%BB%8Dc,Tổ chức Cấm Vũ khí Hóa học,ORGANIZATION
+/wiki/Eugene_Fama,Eugene Fama,PERSON
+/wiki/Lars_Peter_Hansen,Lars Peter Hansen,PERSON
+/wiki/Robert_J._Shiller,Robert J. Shiller,PERSON
+/wiki/Isamu_Akasaki,Akasaki Isamu,ORGANIZATION
+/wiki/Hiroshi_Amano,Amano Hiroshi,PERSON
+/wiki/Shuji_Nakamura,Nakamura Shuji,PERSON
+/wiki/Eric_Betzig,Eric Betzig,PERSON
+/wiki/Stefan_Hell,Stefan Hell,PERSON
+/wiki/William_Moerner,William E. Moerner,PERSON
+/wiki/John_O%27Keefe_(nh%C3%A0_th%E1%BA%A7n_kinh_h%E1%BB%8Dc),John O'Keefe (nhà thần kinh học),PERSON
+/wiki/May-Britt_Moser,May-Britt Moser,PERSON
+/wiki/Edvard_Moser,Edvard Moser,PERSON
+/wiki/Patrick_Modiano,Patrick Modiano,PERSON
+/wiki/Kailash_Satyarthi,Kailash Satyarthi,PERSON
+/wiki/Malala_Yousafzai,Malala Yousafzai,PERSON
+/wiki/Jean_Tirole,Jean Tirole,PERSON
+/wiki/Takaaki_Kajita,Kajita Takaaki,PERSON
+/wiki/Arthur_B._McDonald,Arthur B. McDonald,PERSON
+/wiki/Paul_L._Modrich,Paul L. Modrich,PERSON
+/wiki/Tomas_Lindahl,Tomas Lindahl,PERSON
+/wiki/Aziz_Sancar,Aziz Sancar,PERSON
+/wiki/William_Campbell_(nh%C3%A0_khoa_h%E1%BB%8Dc),William Campbell (nhà khoa học),PERSON
+/wiki/%C5%8Cmura_Satoshi,Ōmura Satoshi,PERSON
+/wiki/%C4%90%E1%BB%93_U_U,Đồ U U,PERSON
+/wiki/Svetlana_Alexandrovna_Alexievich,Svetlana Alexandrovna Alexievich,PERSON
+/wiki/B%E1%BB%99_t%E1%BB%A9_%C4%90%E1%BB%91i_tho%E1%BA%A1i_Qu%E1%BB%91c_gia_Tunisia,Bộ tứ Đối thoại Quốc gia Tunisia,LOCATION
+/wiki/Angus_Deaton,Angus Deaton,PERSON
+/wiki/John_M._Kosterlitz,John M. Kosterlitz,PERSON
+/wiki/Duncan_Haldane,Duncan Haldane,PERSON
+/wiki/David_J._Thouless,David J. Thouless,PERSON
+/wiki/Fraser_Stoddart,Fraser Stoddart,PERSON
+/wiki/Jean-Pierre_Sauvage,Jean-Pierre Sauvage,PERSON
+/wiki/Ben_Feringa,Ben Feringa,PERSON
+/wiki/%C5%8Csumi_Yoshinori,Ōsumi Yoshinori,PERSON
+/wiki/Bob_Dylan,Bob Dylan,PERSON
+/wiki/Juan_Manuel_Santos,Juan Manuel Santos,PERSON
+/wiki/Oliver_Hart_(nh%C3%A0_kinh_t%E1%BA%BF),Oliver Hart (nhà kinh tế),PERSON
+/wiki/Bengt_Holmstr%C3%B6m,Bengt Holmström,PERSON
+/wiki/Rainer_Weiss,Rainer Weiss,PERSON
+/wiki/Barry_Barish,Barry Barish,PERSON
+/wiki/Kip_Thorne,Kip Thorne,PERSON
+/wiki/Jacques_Dubochet,Jacques Dubochet,PERSON
+/wiki/Joachim_Frank,Joachim Frank,PERSON
+/wiki/Richard_Henderson_(nh%C3%A0_sinh_h%E1%BB%8Dc),Richard Henderson (nhà sinh học),PERSON
+/wiki/Jeffrey_C._Hall,Jeffrey C. Hall,PERSON
+/wiki/Michael_Rosbash,Michael Rosbash,PERSON
+/wiki/Michael_W._Young,Michael W. Young,PERSON
+/wiki/Kazuo_Ishiguro,Kazuo Ishiguro,PERSON
+/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_qu%E1%BB%91c_t%E1%BA%BF_nh%E1%BA%B1m_lo%E1%BA%A1i_b%E1%BB%8F_v%C5%A9_kh%C3%AD_h%E1%BA%A1t_nh%C3%A2n,Chiến dịch quốc tế nhằm loại bỏ vũ khí hạt nhân,ORGANIZATION
+/wiki/Richard_Thaler,Richard Thaler,PERSON
+/wiki/Arthur_Ashkin,Arthur Ashkin,PERSON
+/wiki/G%C3%A9rard_Mourou,Gérard Mourou,PERSON
+/wiki/Donna_Strickland,Donna Strickland,PERSON
+/wiki/Frances_Arnold,Frances Arnold,PERSON
+/wiki/George_Smith_(nh%C3%A0_h%C3%B3a_h%E1%BB%8Dc),George Smith (nhà hóa học),PERSON
+/wiki/Greg_Winter,Greg Winter,PERSON
+/wiki/James_P._Allison,James P. Allison,PERSON
+/wiki/Tasuku_Honjo,Honjo Tasuku,PERSON
+/wiki/Olga_Tokarczuk,Olga Tokarczuk,PERSON
+#endnote_Note1G,Trang Chính,LOCATION
+/wiki/Denis_Mukwege,Denis Mukwege,PERSON
+/wiki/Nadia_Murad,Nadia Murad,PERSON
+/wiki/William_Nordhaus,William Nordhaus,PERSON
+/wiki/Paul_Romer,Paul Romer,PERSON
+/wiki/James_Peebles,Jim Peebles,PERSON
+/wiki/Michel_Mayor,Michel Mayor,PERSON
+/wiki/Didier_Queloz,Didier Queloz,PERSON
+/wiki/John_B._Goodenough,John B. Goodenough,PERSON
+/wiki/M._Stanley_Whittingham,M. Stanley Whittingham,PERSON
+/wiki/Akira_Yoshino,Yoshino Akira,PERSON
+/wiki/William_Kaelin_Jr.,William Kaelin Jr.,PERSON
+/wiki/Peter_J._Ratcliffe,Peter J. Ratcliffe,PERSON
+/wiki/Gregg_L._Semenza,Gregg L. Semenza,PERSON
+/wiki/Peter_Handke,Peter Handke,PERSON
+/wiki/Abiy_Ahmed,Abiy Ahmed,PERSON
+/wiki/Abhijit_Banerjee,Abhijit Banerjee,PERSON
+/wiki/Esther_Duflo,Esther Duflo,PERSON
+/wiki/Michael_Kremer,Michael Kremer,PERSON
+/wiki/Roger_Penrose,Roger Penrose,PERSON
+/wiki/Reinhard_Genzel,Reinhard Genzel,PERSON
+/wiki/Andrea_M._Ghez,Andrea M. Ghez,PERSON
+/wiki/Emmanuelle_Charpentier,Emmanuelle Charpentier,PERSON
+/wiki/Jennifer_Doudna,Jennifer Doudna,PERSON
+/wiki/Harvey_J._Alter,Harvey J. Alter,PERSON
+/wiki/Michael_Houghton_(nh%C3%A0_virus_h%E1%BB%8Dc),Michael Houghton (nhà virus học),PERSON
+/wiki/Charles_M._Rice,Charles M. Rice,PERSON
+/wiki/Louise_Gl%C3%BCck,Louise Glück,PERSON
+/wiki/Ch%C6%B0%C6%A1ng_tr%C3%ACnh_L%C6%B0%C6%A1ng_th%E1%BB%B1c_Th%E1%BA%BF_gi%E1%BB%9Bi,Chương trình Lương thực Thế giới,ORGANIZATION
+/wiki/Paul_Milgrom,Paul Milgrom,PERSON
+/wiki/Robert_B._Wilson,Robert B. Wilson,PERSON
+/wiki/Syukuro_Manabe,Manabe Syukuro,PERSON
+/wiki/Klaus_Hasselmann,Klaus Hasselmann,PERSON
+/wiki/Giorgio_Parisi,Giorgio Parisi,PERSON
+/wiki/Benjamin_List,Benjamin List,PERSON
+/wiki/David_MacMillan,David MacMillan,PERSON
+/wiki/David_Julius,David Julius,PERSON
+/wiki/Ardem_Patapoutian,Ardem Patapoutian,PERSON
+/wiki/Abdulrazak_Gurnah,Abdulrazak Gurnah,PERSON
+/wiki/Maria_Ressa,Maria Ressa,PERSON
+/wiki/Dmitry_Muratov,Dmitry Andreyevich Muratov,PERSON
+/wiki/David_Card,David Card,PERSON
+/wiki/Joshua_Angrist,Joshua Angrist,PERSON
+/wiki/Guido_Imbens,Guido Imbens,PERSON
+/wiki/Alain_Aspect,Alain Aspect,ORGANIZATION
+/wiki/John_Clauser,John Clauser,PERSON
+/wiki/Anton_Zeilinger,Anton Zeilinger,PERSON
+/wiki/Carolyn_R._Bertozzi,Carolyn R. Bertozzi,PERSON
+/wiki/Morten_P._Meldal,Morten P. Meldal,PERSON
+/wiki/Svante_P%C3%A4%C3%A4bo,Svante Pääbo,PERSON
+/wiki/Annie_Ernaux,Annie Ernaux,PERSON
+/wiki/Ales_Bialiatski,Ales Bialiatski,PERSON
+/wiki/Ben_Bernanke,Ben Bernanke,PERSON
+/wiki/Douglas_Diamond,Douglas Diamond,PERSON
+/wiki/Philip_H._Dybvig,Philip H. Dybvig,PERSON
+/wiki/Pierre_Agostini,Pierre Agostini,PERSON
+/wiki/Ferenc_Krausz,Ferenc Krausz,PERSON
+/wiki/Anne_L%27Huillier,Anne L'Huillier,PERSON
+/wiki/Katalin_Karik%C3%B3,Katalin Karikó,PERSON
+/wiki/Drew_Weissman,Drew Weissman,PERSON
+/wiki/Jon_Fosse,Jon Fosse,PERSON
+/wiki/Claudia_Goldin,Claudia Goldin,PERSON
+/wiki/Victor_Ambros,Victor Ambros,PERSON
+/wiki/Gary_Ruvkun,Gary Ruvkun,PERSON
+/wiki/Han_Kang,Han Kang,PERSON
+/wiki/Daron_Acemoglu,Daron Acemoğlu,PERSON
+/wiki/L%C3%A1szl%C3%B3_Krasznahorkai,László Krasznahorkai,PERSON
+/wiki/Mar%C3%ADa_Corina_Machado,María Corina Machado,ORGANIZATION
+/wiki/27_th%C3%A1ng_3,27 tháng 3,DATE
+/wiki/1845,1845,DATE
+/wiki/Bang_li%C3%AAn_%C4%90%E1%BB%A9c,Bang liên Đức,ORGANIZATION
+/wiki/M%C3%BCnchen,München,LOCATION
+/wiki/C%E1%BB%99ng_h%C3%B2a_Weimar,Cộng hòa Weimar,ORGANIZATION
+/wiki/%C4%90%E1%BB%A9c,Đức,LOCATION
+/wiki/ETH_Z%C3%BCrich,ETH Zürich,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Z%C3%BCrich,Đại học Zürich,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Ludwig_Maximilian_M%C3%BCnchen,Đại học Ludwig Maximilian München,ORGANIZATION
+/wiki/Rotterdam,Rotterdam,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Leiden,Đại học Leiden,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Bonn,Đại học Bonn,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Paris,Đại học Paris,ORGANIZATION 
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Utrecht,Đại học Utrecht,ORGANIZATION
+/wiki/Danh_s%C3%A1ch_ng%C6%B0%E1%BB%9Di_%C4%91o%E1%BA%A1t_gi%E1%BA%A3i_Nobel_H%C3%B3a_h%E1%BB%8Dc,Danh sách người đoạt giải Nobel Hóa học,AWARD 
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Amsterdam,Đại học Amsterdam,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Humboldt_Berlin,Đại học Humboldt Berlin,ORGANIZATION
+/wiki/Marburg,Marburg,LOCATION
+/wiki/Danh_s%C3%A1ch_ng%C6%B0%E1%BB%9Di_%C4%91o%E1%BA%A1t_gi%E1%BA%A3i_Nobel_Sinh_l%C3%BD_h%E1%BB%8Dc_v%C3%A0_Y_khoa,Danh sách người đoạt giải Nobel Sinh lý học hoặc Y học,AWARD 
+/wiki/16_th%C3%A1ng_3,16 tháng 3,DATE
+/wiki/1839,1839,DATE
+/wiki/Paris,Paris,LOCATION
+/wiki/Ph%C3%A1p,Pháp,LOCATION
+/wiki/Ch%C3%A2tenay-Malabry,Châtenay-Malabry,LOCATION
+/wiki/Geneva,Genève,LOCATION
+/wiki/Arnhem,Arnhem,LOCATION
+/wiki/H%C3%A0_Lan,Hà Lan,LOCATION
+/wiki/Haarlem,Haarlem,LOCATION
+/wiki/Amsterdam,Amsterdam,LOCATION
+/wiki/Huy_ch%C6%B0%C6%A1ng_Matteucci,Huy chương Matteucci,AWARD
+/wiki/9_th%C3%A1ng_10,9 tháng 10,DATE
+/wiki/1852,1852,DATE
+/wiki/Rhein,Rhein,PERSON
+/wiki/Berlin,Berlin,LOCATION
+/wiki/%C4%90%E1%BA%BF_qu%E1%BB%91c_%C4%90%E1%BB%A9c,Đế quốc Đức,ORGANIZATION
+/wiki/1902,1902,DATE
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Munich,Đại học Ludwig Maximilian München,ORGANIZATION
+/wiki/1875,1875,DATE
+/wiki/1881,1881,DATE
+/wiki/1888,1888,DATE
+/wiki/1892,1892,DATE
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Berlin,Đại học Humboldt Berlin,ORGANIZATION
+/wiki/1919,1919,DATE
+/wiki/Almora,Almora,LOCATION
+/wiki/Th%C3%A0nh_vi%C3%AAn_Hi%E1%BB%87p_h%E1%BB%99i_Ho%C3%A0ng_gia,Thành viên Hội Vương thất,LOCATION
+/wiki/Gi%E1%BA%A3i_Nobel_Sinh_l%C3%BD_h%E1%BB%8Dc_v%C3%A0_Y_khoa,Giải Nobel Sinh lý học hoặc Y học,AWARD
+/wiki/Kolkata,Kolkata,LOCATION
+/wiki/15_th%C3%A1ng_12,15 tháng 12,DATE
+/wiki/25_th%C3%A1ng_8,25 tháng 8,DATE
+/wiki/1908,1908,DATE
+/wiki/Le_Croisic,Le Croisic,LOCATION
+/wiki/Bretagne,Bretagne (vùng),LOCATION
+/wiki/Tr%C6%B0%E1%BB%9Dng_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_k%E1%BB%B9_thu%E1%BA%ADt,Viện công nghệ,ORGANIZATION
+/wiki/Warszawa,Warszawa,LOCATION
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_L%E1%BA%ADp_hi%E1%BA%BFn_Ba_Lan,Vương quốc Lập hiến Ba Lan,ORGANIZATION
+/wiki/%C4%90%E1%BA%BF_qu%E1%BB%91c_Nga,Đế quốc Nga,ORGANIZATION
+"/wiki/Passy,_Haute-Savoie","Passy, Haute-Savoie",LOCATION
+/wiki/%C3%88ve_Curie,Ève Curie,PERSON
+/wiki/Gi%E1%BA%A3i_Nobel_h%C3%B3a_h%E1%BB%8Dc,Giải Nobel hóa học,AWARD
+/wiki/Gi%E1%BA%A3i_Willard_Gibbs,Giải Willard Gibbs,AWARD 
+/wiki/Andr%C3%A9-Louis_Debierne,André-Louis Debierne,PERSON
+/wiki/Marguerite_Perey,Marguerite Perey,PERSON
+/wiki/Stockholm,Stockholm,LOCATION
+/wiki/Th%E1%BB%A5y_%C4%90i%E1%BB%83n,Thụy Điển,PERSON
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Uppsala,Đại học Uppsala,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Stockholm,Đại học Stockholm,ORGANIZATION
+/wiki/Per_Teodor_Cleve,Per Teodor Cleve,PERSON
+/wiki/8_th%C3%A1ng_12,8 tháng 12,DATE
+/wiki/1832,1832,DATE
+/wiki/Na_Uy,Na Uy,ORGANIZATION
+/wiki/26_th%C3%A1ng_4,26 tháng 4,DATE
+/wiki/1910,1910,DATE
+/wiki/Nh%C3%A0_v%C4%83n,Nhà văn,OCCUPATION 
+/wiki/Anh,Anh,LOCATION
+/wiki/Eton_College,Eton College,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Cambridge,Đại học Cambridge,ORGANIZATION
+/wiki/Joseph_John_Thomson,Joseph John Thomson,PERSON
+/wiki/2_th%C3%A1ng_10,2 tháng 10,DATE
+/wiki/Glasgow,Glasgow,LOCATION
+/wiki/Scotland,Scotland,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Glasgow,Đại học Glasgow,ORGANIZATION
+/wiki/1866,1866,DATE
+/wiki/1869,1869,DATE
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_T%C3%BCbingen,Đại học Tübingen,ORGANIZATION
+/wiki/1873,1873,DATE
+/wiki/1904,1904,DATE
+/wiki/1907,1907,DATE
+/wiki/1913,1913,DATE
+/wiki/1874,1874,DATE
+/wiki/1880,1880,DATE
+/wiki/1887,1887,DATE
+/wiki/Sankt-Peterburg,Sankt-Peterburg,LOCATION
+/wiki/Li%C3%AAn_X%C3%B4,Liên Xô,ORGANIZATION
+/wiki/Nga,Nga,LOCATION
+/wiki/Hungary,Hungary,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Heidelberg,Đại học Heidelberg,ORGANIZATION
+/wiki/Robert_Bunsen,Robert Bunsen,PERSON
+/wiki/Starnberg,Starnberg,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_K%E1%BB%B9_thu%E1%BA%ADt_Berlin,Đại học Kỹ thuật Berlin,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Strasbourg,Đại học Strasbourg,ORGANIZATION
+/wiki/August_Kekul%C3%A9,August Kekulé,PERSON
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Hannover,Vương quốc Hannover,ORGANIZATION
+/wiki/Baden-Baden,Baden-Baden,LOCATION
+/wiki/%C4%90%E1%BA%A1i_c%C3%B4ng_qu%E1%BB%91c_Baden,Đại công quốc Baden,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_G%C3%B6ttingen,Đại học Göttingen,ORGANIZATION
+/wiki/Praha,Praha,LOCATION
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Bohemia,Vương quốc Bohemia,PERSON
+/wiki/Vi%C3%AAn,Viên,LOCATION
+/wiki/%C3%81o-Hung,Đế quốc Áo-Hung,ORGANIZATION
+/wiki/18_th%C3%A1ng_12,18 tháng 12,DATE
+/wiki/1856,1856,DATE
+/wiki/Manchester,Manchester,LOCATION
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Li%C3%AAn_hi%E1%BB%87p_Anh_v%C3%A0_B%E1%BA%AFc_Ireland,Vương quốc Liên hiệp Anh và Bắc Ireland,LOCATION
+/wiki/Cambridge,Cambridge,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Manchester,Đại học Manchester,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Princeton,Đại học Princeton,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Yale,Đại học Yale,ORGANIZATION
+/wiki/Charles_T._R._Wilson,Charles Thomson Rees Wilson,PERSON
+/wiki/28_th%C3%A1ng_9,28 tháng 9,DATE
+/wiki/1898,1898,DATE
+/wiki/1906,1906,DATE
+/wiki/Petilla_de_Arag%C3%B3n,Petilla de Aragón,ORGANIZATION
+/wiki/T%C3%A2y_Ban_Nha,Tây Ban Nha,PERSON
+/wiki/Madrid,Madrid,LOCATION
+/wiki/27_th%C3%A1ng_7,27 tháng 7,DATE
+/wiki/1835,1835,DATE
+/wiki/Pietrasanta,Pietrasanta,LOCATION
+/wiki/Toscana,Toscana,LOCATION
+/wiki/%C3%9D,Ý,LOCATION
+/wiki/16_th%C3%A1ng_2,16 tháng 2,DATE
+/wiki/Bologna,Bologna,LOCATION
+/wiki/Th%C3%A0nh_ph%E1%BB%91_New_York,Thành phố New York,LOCATION
+/wiki/New_York_(bang),New York (tiểu bang),LOCATION
+/wiki/Hoa_K%E1%BB%B3,Hoa Kỳ,LOCATION
+/wiki/Theodore_Roosevelt_Jr.,Theodore Roosevelt Jr.,PERSON
+/wiki/Strzelno,Strzelno,LOCATION
+"/wiki/Pasadena,_California","Pasadena, California",LOCATION
+/wiki/H%E1%BB%8Dc_vi%E1%BB%87n_H%E1%BA%A3i_qu%C3%A2n_Hoa_K%E1%BB%B3,Học viện Hải quân Hoa Kỳ,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Chicago,Đại học Chicago,ORGANIZATION
+/wiki/Hermann_Helmholtz,Hermann von Helmholtz,PERSON
+/wiki/Robert_Millikan,Robert Millikan,PERSON
+/wiki/Val-de-Gr%C3%A2ce,Val-de-Grâce,ORGANIZATION
+/wiki/Lu%C3%A2n_%C4%90%C3%B4n,Luân Đôn,LOCATION
+/wiki/Milan,Milano,LOCATION
+/wiki/Autun,Autun,LOCATION
+/wiki/Barbizon,Barbizon,LOCATION
+/wiki/16_th%C3%A1ng_8,16 tháng 8,DATE
+/wiki/Luxembourg,Luxembourg,LOCATION
+/wiki/%C4%90%E1%BA%A1i_T%C3%A2y_D%C6%B0%C6%A1ng,Đại Tây Dương,LOCATION
+/wiki/Canada,Canada,LOCATION
+/wiki/30_th%C3%A1ng_8,30 tháng 8,DATE
+/wiki/1871,1871,DATE
+/wiki/New_Zealand,New Zealand,LOCATION
+/wiki/19_th%C3%A1ng_10,19 tháng 10,DATE
+/wiki/1937,1937,DATE
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_McGill,Đại học McGill,ORGANIZATION
+/wiki/Patrick_Blackett,Patrick Blackett,PERSON
+/wiki/Kharkiv_Oblast,Kharkiv (tỉnh),LOCATION
+/wiki/Ukraina,Ukraina,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Qu%E1%BB%91c_gia_Kharkiv,Đại học Quốc gia Kharkiv,ORGANIZATION
+/wiki/Strzelin,Strzelin,LOCATION
+/wiki/Hesse,Hessen,LOCATION
+/wiki/Nobel_Prize_in_Physiology_or_Medicine,Giải Nobel Sinh lý học hoặc Y học,AWARD
+/wiki/5_th%C3%A1ng_1,5 tháng 1,DATE
+/wiki/1846,1846,DATE
+/wiki/Aurich,Aurich,LOCATION
+/wiki/Hannover,Hannover,LOCATION
+/wiki/15_th%C3%A1ng_9,15 tháng 9,DATE
+/wiki/1926,1926,DATE
+/wiki/Jena,Jena,LOCATION
+/wiki/Th%C3%BCringen,Thüringen,LOCATION
+/wiki/Gothenburg,Göteborg,LOCATION
+/wiki/Ch%C3%ADnh_tr%E1%BB%8B_gia,Chính khách,LOCATION
+/wiki/%C4%90an_M%E1%BA%A1ch,Đan Mạch,PERSON
+/wiki/6_th%C3%A1ng_6,6 tháng 6,DATE
+/wiki/1850,1850,DATE
+/wiki/Brooklyn,Brooklyn,LOCATION
+/wiki/Ng%C6%B0%E1%BB%9Di_%C4%90%E1%BB%A9c,Người Đức,PERSON
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Marburg,Đại học Marburg,ORGANIZATION
+/wiki/2_th%C3%A1ng_9,2 tháng 9,DATE
+/wiki/1853,1853,DATE
+/wiki/Riga,Riga,LOCATION
+/wiki/Leipzig,Leipzig,LOCATION
+/wiki/1909,1909,DATE
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Leipzig,Đại học Leipzig,ORGANIZATION
+/wiki/Vi%E1%BB%87n_h%C3%A0n_l%C3%A2m_Khoa_h%E1%BB%8Dc_Leopoldina,Viện Hàn lâm Khoa học Leopoldina,ORGANIZATION
+/wiki/Arthur_Amos_Noyes,Arthur Amos Noyes,PERSON
+/wiki/20_th%C3%A1ng_11,20 tháng 11,DATE
+/wiki/1858,1858,DATE
+/wiki/V%C3%A4rmland,Värmland,ORGANIZATION
+/wiki/Ng%C6%B0%E1%BB%9Di_Th%E1%BB%A5y_%C4%90i%E1%BB%83n,Người Thụy Điển,PERSON
+/wiki/La_Fl%C3%A8che,La Flèche,LOCATION
+/wiki/Leiden,Leiden,LOCATION
+/wiki/Willem_Hendrik_Keesom,Willem Hendrik Keesom,PERSON
+/wiki/Kaliningrad,Kaliningrad,LOCATION
+/wiki/G%C3%B6ttingen,Göttingen,LOCATION
+/wiki/August_Wilhelm_von_Hofmann,August Wilhelm von Hofmann,PERSON
+/wiki/Friedrich_W%C3%B6hler,Friedrich Wöhler,PERSON
+/wiki/Friedrich_August_Kekul%C3%A9_von_Stradonitz,August Kekulé,PERSON
+/wiki/Walter_Haworth,Norman Haworth,PERSON
+/wiki/1927,1927,DATE
+/wiki/15_th%C3%A1ng_3,15 tháng 3,DATE
+/wiki/1830,1830,DATE
+/wiki/2_th%C3%A1ng_4,2 tháng 4,DATE
+/wiki/1914,1914,DATE
+/wiki/Hermann_von_Helmholtz,Hermann von Helmholtz,PERSON
+/wiki/Landskrona,Landskrona,LOCATION
+/wiki/29_th%C3%A1ng_4,29 tháng 4,DATE
+/wiki/1862,1862,DATE
+/wiki/Gent,Gent,LOCATION
+/wiki/B%E1%BB%89,Bỉ,ORGANIZATION
+/wiki/6_th%C3%A1ng_5,6 tháng 5,DATE
+/wiki/1949,1949,DATE
+/wiki/Nice,Nice,LOCATION
+/wiki/Cherbourg,Cherbourg,LOCATION
+/wiki/Lyon,Lyon,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Lyon,Đại học Lyon,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Nancy,Đại học Nancy,ORGANIZATION 
+/wiki/1854,1854,DATE
+/wiki/Carcassonne,Carcassonne,LOCATION
+/wiki/Toulouse,Toulouse,LOCATION
+/wiki/Sainte-Foy-l%C3%A8s-Lyon,Sainte-Foy-lès-Lyon,LOCATION
+"/wiki/Rh%C3%B4ne,_Rh%C3%B4ne-Alpes",Rhône (tỉnh),LOCATION
+/wiki/Gi%E1%BA%A3i_ph%E1%BA%ABu_h%E1%BB%8Dc,Giải phẫu học,OCCUPATION 
+/wiki/Sinh_h%E1%BB%8Dc,Sinh học,FIELD
+/wiki/15_th%C3%A1ng_11,15 tháng 11,DATE
+/wiki/Szczawno-Zdr%C3%B3j,Szczawno-Zdrój,LOCATION
+/wiki/Ba_Lan,Ba Lan,ORGANIZATION 
+/wiki/1946,1946,DATE
+/wiki/21_th%C3%A1ng_9,21 tháng 9,DATE
+/wiki/Groningen,Groningen (thành phố),LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Groningen,Đại học Groningen,ORGANIZATION
+/wiki/Gustav_Kirchhoff,Gustav Robert Kirchhoff,PERSON
+/wiki/12_th%C3%A1ng_12,12 tháng 12,DATE
+/wiki/Mulhouse,Mulhouse,LOCATION
+/wiki/Alsace,Alsace,LOCATION
+/wiki/Z%C3%BCrich,Zürich,LOCATION
+/wiki/Th%E1%BB%A5y_S%C4%A9,Thụy Sĩ,LOCATION
+/wiki/7_th%C3%A1ng_5,7 tháng 5,DATE
+/wiki/1861,1861,DATE
+/wiki/%E1%BA%A4n_%C4%90%E1%BB%99,Ấn Độ,LOCATION
+/wiki/Koblenz,Koblenz,LOCATION
+/wiki/Le%C3%B3_Szil%C3%A1rd,Leó Szilárd,PERSON
+/wiki/%C4%90%E1%BA%BF_qu%E1%BB%91c_%C3%81o-Hung,Đế quốc Áo-Hung,ORGANIZATION
+/wiki/%C3%81o,Áo,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Wien,Đại học Viên,ORGANIZATION
+/wiki/2_th%C3%A1ng_7,2 tháng 7,DATE
+/wiki/Cumberland,Cumberland,ORGANIZATION
+/wiki/1915,1915,DATE
+/wiki/Gi%E1%BA%A3i_John_J._Carty_cho_th%C4%83ng_ti%E1%BA%BFn_Khoa_h%E1%BB%8Dc,Giải John J. Carty cho thăng tiến Khoa học,AWARD
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Adelaide,Đại học Adelaide,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Leeds,Đại học Leeds,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_London,Đại học Luân Đôn,ORGANIZATION
+/wiki/31_th%C3%A1ng_3,31 tháng 3,DATE
+/wiki/1890,1890,DATE
+/wiki/%C3%9Ac,Úc,LOCATION
+/wiki/Suffolk,Suffolk,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Victoria,Đại học Victoria,ORGANIZATION 
+/wiki/13_th%C3%A1ng_8,13 tháng 8,DATE
+/wiki/1872,1872,DATE
+/wiki/Karlsruhe,Karlsruhe,LOCATION
+/wiki/ETH_Zurich,ETH Zürich,ORGANIZATION
+/wiki/29_th%C3%A1ng_1,29 tháng 1,DATE
+"/wiki/Clamecy,_Ni%C3%A8vre","Clamecy, Nièvre",LOCATION
+/wiki/Ni%C3%A8vre,Nièvre,LOCATION
+/wiki/V%C3%A9zelay,Vézelay,LOCATION
+/wiki/6_th%C3%A1ng_7,6 tháng 7,DATE
+/wiki/1859,1859,DATE
+/wiki/20_th%C3%A1ng_5,20 tháng 5,DATE
+/wiki/1940,1940,DATE
+/wiki/Cheshire,Cheshire,LOCATION
+/wiki/Edinburgh,Edinburgh,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Liverpool,Đại học Liverpool,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Edinburgh,Đại học Edinburgh,ORGANIZATION
+/wiki/Kiel,Kiel,LOCATION
+/wiki/T%C3%A2y_%C4%90%E1%BB%A9c,Tây Đức,ORGANIZATION
+/wiki/Wroc%C5%82aw,Wrocław,LOCATION
+/wiki/Basel,Basel,LOCATION
+/wiki/Freihung,Freihung,LOCATION
+/wiki/Traunstein,Traunstein,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Hannover,Đại học Hanover,ORGANIZATION
+/wiki/Soignies,Soignies,LOCATION
+/wiki/24_th%C3%A1ng_4,24 tháng 4,DATE
+/wiki/29_th%C3%A1ng_12,29 tháng 12,DATE
+/wiki/1924,1924,DATE
+"/wiki/Staunton,_Virginia","Staunton, Virginia",LOCATION
+/wiki/S%C3%A8vres,Sèvres,LOCATION
+/wiki/25_th%C3%A1ng_6,25 tháng 6,DATE
+/wiki/1864,1864,DATE
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Graz,Đại học Graz,ORGANIZATION
+/wiki/1920,1920,DATE
+/wiki/1928,1928,DATE
+/wiki/Ludwig_Boltzmann,Ludwig Boltzmann,PERSON
+/wiki/Gilbert_N._Lewis,Gilbert N. Lewis,PERSON
+/wiki/Max_Bodenstein,Max Bodenstein,PERSON
+/wiki/Hermann_Irving_Schlesinger,Hermann Irving Schlesinger,PERSON
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Copenhagen,Đại học Copenhagen,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Duke,Đại học Duke,ORGANIZATION
+/wiki/4_th%C3%A1ng_8,4 tháng 8,DATE
+/wiki/Ulm,Ulm,LOCATION
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_W%C3%BCrttemberg,Vương quốc Württemberg,ORGANIZATION
+"/wiki/Princeton,_New_Jersey","Princeton, New Jersey",ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Zurich,Đại học Zürich,ORGANIZATION
+/wiki/Mileva_Mari%C4%87,Mileva Marić,PERSON
+/wiki/Hans_Albert_Einstein,Hans Albert Einstein,PERSON
+"/wiki/Gia_%C4%91%C3%ACnh_Einstein#Eduard_""Tete""_Einstein_(con_trai_thứ_hai_của_Einstein)",Gia đình Einstein,PERSON
+/wiki/Huy_ch%C6%B0%C6%A1ng_Copley,Huy chương Copley,AWARD 
+/wiki/Huy_ch%C6%B0%C6%A1ng_v%C3%A0ng_c%E1%BB%A7a_H%E1%BB%99i_Thi%C3%AAn_v%C4%83n_h%E1%BB%8Dc_Ho%C3%A0ng_gia,Huy chương vàng của Hội Thiên văn Hoàng gia,AWARD 
+/wiki/Huy_ch%C6%B0%C6%A1ng_Max_Planck,Huy chương Max Planck,AWARD 
+/wiki/Bern,Bern,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Karl_%E1%BB%9F_Praha,Đại học Karl tại Praha,ORGANIZATION
+/wiki/Vi%E1%BB%87n_H%C3%A0n_l%C3%A2m_Khoa_h%E1%BB%8Dc_Ph%E1%BB%95,Viện Hàn lâm Khoa học Phổ,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Berlin_Humboldt,Đại học Humboldt Berlin,ORGANIZATION
+/wiki/Vi%E1%BB%87n_C%C3%B4ng_ngh%E1%BB%87_California,Viện Công nghệ California,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Oxford,Đại học Oxford,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Brandeis,Đại học Brandeis,ORGANIZATION 
+/wiki/Alfred_Kleiner,Alfred Kleiner,PERSON
+/wiki/Hermann_Minkowski,Hermann Minkowski,PERSON
+/wiki/V%E1%BA%ADt_l%C3%BD_hi%E1%BB%87n_%C4%91%E1%BA%A1i,Vật lý hiện đại,FIELD
+/wiki/1877,1877,DATE
+/wiki/Eastbourne,Eastbourne,LOCATION
+/wiki/Brighton,Brighton,LOCATION
+/wiki/1921,1921,DATE
+/wiki/1900,1900,DATE
+/wiki/1903,1903,DATE
+/wiki/1936,1936,DATE
+/wiki/16_th%C3%A1ng_4,16 tháng 4,DATE
+/wiki/1844,1844,DATE
+/wiki/12_th%C3%A1ng_10,12 tháng 10,DATE
+/wiki/Tours,Tours,LOCATION
+/wiki/23_th%C3%A1ng_11,23 tháng 11,DATE
+/wiki/1860,1860,DATE
+/wiki/Thu%E1%BB%B5_%C4%90i%E1%BB%83n,Thụy Điển,PERSON
+/wiki/24_th%C3%A1ng_2,24 tháng 2,DATE
+/wiki/1925,1925,DATE
+/wiki/Copenhagen,Copenhagen,LOCATION
+/wiki/Gi%E1%BA%A3i_Nguy%C3%AAn_t%E1%BB%AD_v%C3%AC_H%C3%B2a_b%C3%ACnh,Giải thưởng Nguyên tử vì Hòa bình,AWARD
+/wiki/Gi%E1%BA%A3i_Sonning,Giải Sonning,AWARD 
+/wiki/Lise_Meitner,Lise Meitner,PERSON
+/wiki/1_th%C3%A1ng_9,1 tháng 9,DATE
+/wiki/Birmingham,Birmingham,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Birmingham,Đại học Birmingham,ORGANIZATION 
+/wiki/1922,1922,DATE
+/wiki/Philadelphia,Philadelphia,LOCATION
+/wiki/12_th%C3%A1ng_8,12 tháng 8,DATE
+/wiki/14_th%C3%A1ng_7,14 tháng 7,DATE
+/wiki/1954,1954,DATE
+/wiki/Oslo,Oslo,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Oslo,Đại học Oslo,ORGANIZATION
+/wiki/Legion_of_Honor,Bắc Đẩu Bội tinh,LOCATION
+/wiki/22_th%C3%A1ng_3,22 tháng 3,DATE
+/wiki/1868,1868,DATE
+"/wiki/Morrison,_Illinois","Morrison, Illinois",LOCATION
+/wiki/California,California,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Oberlin,Đại học Oberlin,ORGANIZATION 
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Columbia,Đại học Columbia,ORGANIZATION
+/wiki/Gi%E1%BA%A3i_V%E1%BA%ADt_l%C3%BD_Comstock,Giải Vật lý Comstock,AWARD 
+/wiki/Huy_ch%C6%B0%C6%A1ng_Oersted,Huy chương Oersted,AWARD
+/wiki/Ljubljana,Ljubljana,LOCATION
+/wiki/Graz,Graz,LOCATION
+/wiki/1923,1923,DATE
+/wiki/Ontario,Ontario,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Toronto,Đại học Toronto,ORGANIZATION
+/wiki/13_th%C3%A1ng_6,13 tháng 6,DATE
+/wiki/1865,1865,DATE
+/wiki/Dublin,Dublin,LOCATION
+/wiki/C%E1%BB%99ng_h%C3%B2a_Ireland,Cộng hòa Ireland,LOCATION
+/wiki/28_th%C3%A1ng_1,28 tháng 1,DATE
+/wiki/1939,1939,DATE
+/wiki/Ng%C6%B0%E1%BB%9Di_Ireland,Người Ireland,LOCATION
+/wiki/%C3%96rebro,Örebro,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Lund,Đại học Lund,ORGANIZATION
+/wiki/Semarang,Semarang,LOCATION
+/wiki/Radomsko,Radomsko,LOCATION
+/wiki/5_th%C3%A1ng_12,5 tháng 12,DATE
+/wiki/Hamburg,Hamburg,LOCATION
+/wiki/Theodore_Puck,Theodore Puck,PERSON
+/wiki/%C4%90%C3%B4ng_Berlin,Đông Berlin,PERSON
+/wiki/C%E1%BB%99ng_h%C3%B2a_D%C3%A2n_ch%E1%BB%A7_%C4%90%E1%BB%A9c,Cộng hòa Dân chủ Đức,ORGANIZATION
+/wiki/1_th%C3%A1ng_4,1 tháng 4,DATE
+/wiki/Ireland,Đảo Ireland,LOCATION
+/wiki/Warwickshire,Warwickshire,LOCATION
+/wiki/England,Anh,LOCATION
+/wiki/London,Luân Đôn,LOCATION
+"/wiki/Marietta,_Ohio","Marietta, Ohio",LOCATION
+"/wiki/Evanston,_Illinois","Evanston, Illinois",LOCATION
+/wiki/Bachelor_of_Arts,Cử nhân Nghệ thuật,OCCUPATION
+/wiki/Lille,Lille,LOCATION
+/wiki/1867,1867,DATE
+/wiki/Silkeborg,Silkeborg,ORGANIZATION
+/wiki/Cecil_Frank_Powell,Cecil Frank Powell,PERSON
+/wiki/Pforzheim,Pforzheim,LOCATION
+/wiki/Bayern,Bayern,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_K%E1%BB%B9_thu%E1%BA%ADt_M%C3%BCnchen,Đại học Kỹ thuật München,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Freiburg,Đại học Freiburg,ORGANIZATION
+/wiki/Leopold_Horner,Leopold Horner,PERSON
+/wiki/Alton,"Alton, Illinois",LOCATION
+/wiki/Hampshire,Hampshire,LOCATION
+/wiki/1876,1876,DATE
+/wiki/Rouen,Rouen,LOCATION
+/wiki/1882,1882,DATE
+/wiki/Lillehammer,Lillehammer,LOCATION
+/wiki/Louveciennes,Louveciennes,LOCATION
+/wiki/Paul_Langevin,Paul Langevin,PERSON
+/wiki/Augsburg,Augsburg,LOCATION
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Bayern,Vương quốc Bayern,ORGANIZATION
+/wiki/Th%C3%A0nh_bang_t%E1%BB%B1_do_L%C3%BCbeck,Thành bang tự do Lübeck,ORGANIZATION
+/wiki/Gi%E1%BA%A3i_Goethe,Giải Goethe,AWARD 
+"/wiki/Saint_Paul,_Minnesota","Saint Paul, Minnesota",LOCATION
+/wiki/7_th%C3%A1ng_11,7 tháng 11,DATE
+/wiki/Tiruchirappalli,Tiruchirappalli,LOCATION
+/wiki/T%E1%BB%89nh,Tỉnh,LOCATION
+/wiki/Madras,Chennai,LOCATION
+/wiki/Bangalore,Bengaluru,LOCATION
+/wiki/Karnataka,Karnataka,LOCATION
+/wiki/1929,1929,DATE
+/wiki/1930,1930,DATE
+/wiki/Gi%E1%BA%A3i_th%C6%B0%E1%BB%9Fng_H%C3%B2a_b%C3%ACnh_Lenin,Giải thưởng Hòa bình Quốc tế Lenin,AWARD
+/wiki/1957,1957,DATE
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Calcutta,Đại học Calcutta,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Lausanne,Đại học Lausanne,ORGANIZATION
+/wiki/Emil_Fischer,Emil Fischer,PERSON
+/wiki/Baden_bei_Wien,Baden bei Wien,LOCATION
+/wiki/New_York_City,Thành phố New York,LOCATION
+/wiki/Fellow_of_the_Royal_Society,Thành viên Hội Vương thất,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Rockefeller,Đại học Rockefeller,ORGANIZATION
+/wiki/7_th%C3%A1ng_2,7 tháng 2,DATE
+/wiki/1885,1885,DATE
+"/wiki/Sauk_Centre,_Minnesota","Sauk Centre, Minnesota",LOCATION
+/wiki/10_th%C3%A1ng_1,10 tháng 1,DATE
+/wiki/1951,1951,DATE
+/wiki/Roma,Roma,LOCATION
+/wiki/27_th%C3%A1ng_8,27 tháng 8,DATE
+/wiki/Cologne,Köln,LOCATION
+/wiki/Heidelberg,Heidelberg,LOCATION
+/wiki/Huy_ch%C6%B0%C6%A1ng_Liebig,Huy chương Liebig,AWARD
+/wiki/1931,1931,DATE
+/wiki/BASF,BASF,ORGANIZATION
+/wiki/11_th%C3%A1ng_10,11 tháng 10,DATE
+/wiki/1884,1884,DATE
+/wiki/Breslau,Wrocław,LOCATION
+/wiki/Buenos_Aires,Buenos Aires,LOCATION
+/wiki/Argentina,Argentina,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Hanover,Đại học Hanover,ORGANIZATION
+/wiki/Freiburg,Freiburg,ORGANIZATION
+/wiki/%C4%90%E1%BA%BF_ch%E1%BA%BF_%C4%90%E1%BB%A9c,Đế quốc Đức,LOCATION 
+/wiki/Th%E1%BA%ADp_t%E1%BB%B1_S%E1%BA%AFt,Thập tự Sắt,PERSON
+/wiki/20_th%C3%A1ng_7,20 tháng 7,DATE
+/wiki/Dalarna,Dalarna,PERSON
+/wiki/8_th%C3%A1ng_4,8 tháng 4,DATE
+"/wiki/Cedarville,_Illinois","Cedarville, Illinois",LOCATION
+/wiki/Chicago,Chicago,LOCATION
+/wiki/W%C3%BCrzburg,Würzburg,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_St._Andrews,Đại học St. Andrews,ORGANIZATION
+/wiki/Arnold_Sommerfeld,Arnold Sommerfeld,PERSON
+/wiki/Edward_Teller,Edward Teller,PERSON
+/wiki/Huy_ch%C6%B0%C6%A1ng_Perkin,Huy chương Perkin,AWARD 
+/wiki/14_th%C3%A1ng_8,14 tháng 8,DATE
+/wiki/Kingston_upon_Thames,Kingston upon Thames,ORGANIZATION
+/wiki/Ng%C6%B0%E1%BB%9Di_Anh,Người Anh,PERSON
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Vi%C3%AAn,Đại học Viên,ORGANIZATION
+/wiki/8_th%C3%A1ng_8,8 tháng 8,DATE
+/wiki/Bristol,Bristol,LOCATION
+/wiki/20_th%C3%A1ng_10,20 tháng 10,DATE
+/wiki/1984,1984,DATE
+"/wiki/Tallahassee,_Florida","Tallahassee, Florida",LOCATION
+/wiki/Florida,Florida,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Bristol,Đại học Bristol,ORGANIZATION 
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Florida,Đại học Florida,ORGANIZATION
+/wiki/25_th%C3%A1ng_9,25 tháng 9,DATE
+/wiki/Kentucky,Kentucky,LOCATION
+/wiki/M%E1%BB%B9,Hoa Kỳ,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Johns_Hopkins,Đại học Johns Hopkins,ORGANIZATION
+/wiki/Gi%E1%BA%A3i_Nobel_Sinh_h%E1%BB%8Dc_v%C3%A0_Y_h%E1%BB%8Dc,Giải Nobel Sinh lý học hoặc Y học,AWARD
+/wiki/1933,1933,DATE
+/wiki/Nettie_Stevens,Nettie Stevens,PERSON
+/wiki/Calvin_Bridges,Calvin Bridges,PERSON
+/wiki/Alfred_Sturtevant,Alfred Sturtevant,PERSON
+/wiki/Voronezh,Voronezh,LOCATION
+/wiki/Croydon,Croydon,ORGANIZATION
+/wiki/1893,1893,DATE
+"/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_California,_Berkeley",Đại học California tại Berkeley,ORGANIZATION
+/wiki/1934,1934,DATE
+/wiki/Huy_ch%C6%B0%C6%A1ng_Priestley,Huy chương Priestley,AWARD 
+/wiki/1943,1943,DATE
+/wiki/1964,1964,DATE
+/wiki/Huy_ch%C6%B0%C6%A1ng_Arthur_L._Day,Huy chương Arthur L. Day,AWARD 
+/wiki/1969,1969,DATE
+"/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_California,_San_Diego",Đại học California tại San Diego,ORGANIZATION
+/wiki/Stanley_Miller,Stanley Miller,PERSON
+"/wiki/Ashland,_New_Hampshire","Ashland, New Hampshire",LOCATION
+"/wiki/Rochester,_New_York","Rochester, New York",LOCATION
+/wiki/Boston,Boston,LOCATION
+/wiki/Massachusetts,Massachusetts,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Harvard,Đại học Harvard,ORGANIZATION
+/wiki/1891,1891,DATE
+"/wiki/Paris,_Ph%C3%A1p",Paris,LOCATION
+/wiki/H%C3%A9l%C3%A8ne_Langevin-Joliot,Hélène Langevin-Joliot,PERSON
+/wiki/Gi%E1%BA%A3i_Nobel,Giải Nobel,AWARD
+/wiki/Peggau,Peggau,LOCATION
+/wiki/Mount_Vernon,Mount Vernon,LOCATION
+/wiki/Gi%E1%BA%A3i_Lieben,Giải Lieben,AWARD 
+/wiki/Vi%E1%BB%87n_H%C3%A0n_l%C3%A2m_Khoa_h%E1%BB%8Dc_%C3%81o,Viện Hàn lâm Khoa học Áo,ORGANIZATION
+/wiki/New_York_(ti%E1%BB%83u_bang),New York (tiểu bang),LOCATION
+/wiki/B.S.,Cử nhân Khoa học,OCCUPATION 
+/wiki/Ph.D,Doctor of Philosophy,OCCUPATION
+/wiki/Robert_A._Millikan,Robert Millikan,PERSON
+/wiki/24_th%C3%A1ng_3,24 tháng 3,DATE
+/wiki/Maastricht,Maastricht,LOCATION
+"/wiki/Ithaca,_New_York","Ithaca, New York",LOCATION
+/wiki/New_York,New York (định hướng),LOCATION
+/wiki/Huy_ch%C6%B0%C6%A1ng_Lorentz,Huy chương Lorentz,AWARD
+/wiki/1935,1935,DATE
+/wiki/1950,1950,DATE
+/wiki/1963,1963,DATE
+/wiki/Hu%C3%A2n_ch%C6%B0%C6%A1ng_Khoa_h%E1%BB%8Dc_Qu%E1%BB%91c_gia,Huân chương Khoa học Quốc gia,AWARD
+/wiki/1965,1965,DATE
+/wiki/1911,1911,DATE
+/wiki/1912,1912,DATE
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Cornell,Đại học Cornell,ORGANIZATION
+/wiki/Fritz_Zwicky,Fritz Zwicky,PERSON
+/wiki/16_th%C3%A1ng_10,16 tháng 10,DATE
+/wiki/Illinois,Illinois,LOCATION
+"/wiki/Charlottesville,_Virginia","Charlottesville, Virginia",LOCATION
+/wiki/Worcestershire,Worcestershire,PERSON
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Anh,Vương quốc Liên hiệp Anh và Bắc Ireland,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Durham,Đại học Durham,ORGANIZATION
+/wiki/Moskva,Moskva,LOCATION
+/wiki/Budapest,Budapest,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Szeged,Đại học Szeged,ORGANIZATION
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_%C3%9D_(1861-1946),Vương quốc Ý,LOCATION
+/wiki/L%C3%BD_Ch%C3%ADnh_%C4%90%E1%BA%A1o,Lý Chính Đạo,PERSON
+/wiki/Flanders,Vlaanderen,PERSON
+/wiki/26_th%C3%A1ng_6,26 tháng 6,DATE
+/wiki/Virginia,Virginia,LOCATION
+"/wiki/Palo_Alto,_California","Palo Alto, California",LOCATION
+/wiki/C%E1%BB%AD_nh%C3%A2n_ngh%E1%BB%87_thu%E1%BA%ADt,Cử nhân Nghệ thuật,OCCUPATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Minnesota,Viện Đại học Minnesota,ORGANIZATION
+/wiki/Doctor_of_Philosophy,Doctor of Philosophy,OCCUPATION
+/wiki/Gi%E1%BA%A3i_Enrico_Fermi,Giải Enrico Fermi,AWARD 
+/wiki/Ph%C3%B2ng_th%C3%AD_nghi%E1%BB%87m_Qu%E1%BB%91c_gia_Lawrence_Berkeley,Phòng thí nghiệm Quốc gia Lawrence Berkeley,ORGANIZATION
+/wiki/Ng%C3%B4_Ki%E1%BB%87n_H%C3%B9ng,Ngô Kiện Hùng,PERSON
+/wiki/Bremerhaven,Bremerhaven,LOCATION
+/wiki/Gi%E1%BA%A3i_Paul_Ehrlich_v%C3%A0_Ludwig_Darmstaedter,Giải Paul Ehrlich và Ludwig Darmstaedter,AWARD 
+/wiki/13_th%C3%A1ng_9,13 tháng 9,DATE
+/wiki/Croatia,Croatia,ORGANIZATION
+/wiki/1917,1917,DATE
+/wiki/16_th%C3%A1ng_6,16 tháng 6,DATE
+/wiki/H%C3%A4meenkyr%C3%B6,Hämeenkyrö,ORGANIZATION
+/wiki/Ph%E1%BA%A7n_Lan,Phần Lan,LOCATION 
+/wiki/3_th%C3%A1ng_6,3 tháng 6,DATE
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Hamburg,Đại học Hamburg,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_California_t%E1%BA%A1i_Berkeley,Đại học California tại Berkeley,ORGANIZATION
+/wiki/1_th%C3%A1ng_8,1 tháng 8,DATE
+/wiki/1958,1958,DATE
+/wiki/H%E1%BB%99i_Ho%C3%A0ng_gia,Hội Vương thất Luân Đôn,ORGANIZATION
+/wiki/Vi%E1%BB%87n_Niels_Bohr,Viện Niels Bohr,ORGANIZATION
+/wiki/David_Hume,David Hume,PERSON
+"/wiki/St._Louis,_Missouri",St. Louis,ORGANIZATION
+/wiki/Missouri,Missouri,LOCATION
+/wiki/Ryman%C3%B3w,Rymanów,LOCATION
+/wiki/H%E1%BB%8Dc_vi%E1%BB%87n_C%C3%B4ng_ngh%E1%BB%87_Massachusetts,Viện Công nghệ Massachusetts,ORGANIZATION
+/wiki/Frankfurt_am_Main,Frankfurt am Main,LOCATION
+/wiki/Copernicus,Nicolaus Copernicus,PERSON
+/wiki/Paracelsus,Paracelsus,PERSON
+/wiki/Hugo_Grotius,Hugo Grotius,PERSON
+/wiki/L%C3%A9gion_d%27Honneur,Bắc Đẩu Bội tinh,LOCATION
+/wiki/Fritz_Strassmann,Fritz Strassmann,PERSON
+/wiki/Wisconsin,Wisconsin,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Michigan,Đại học Michigan,ORGANIZATION
+/wiki/Vi%E1%BB%87n_nghi%C3%AAn_c%E1%BB%A9u_cao_c%E1%BA%A5p_Princeton,Viện Nghiên cứu Cao cấp Princeton,ORGANIZATION
+/wiki/15_th%C3%A1ng_1,15 tháng 1,DATE
+/wiki/1895,1895,DATE
+/wiki/Helsinki,Helsinki,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Helsinki,Đại học Helsinki,ORGANIZATION
+/wiki/1945,1945,DATE
+/wiki/H%E1%BB%99i_Ho%C3%A0ng_gia_Lu%C3%A2n_%C4%90%C3%B4n,Hội Vương thất Luân Đôn,ORGANIZATION
+/wiki/Gi%E1%BA%A3i_Nobel_Sinh_l%C3%BD_v%C3%A0_Y_khoa,Giải Nobel Sinh lý học hoặc Y học,AWARD
+/wiki/1979,1979,DATE
+/wiki/Adelaide,Adelaide,LOCATION
+/wiki/Nam_%C3%9Ac_(ti%E1%BB%83u_bang),Nam Úc,PERSON
+/wiki/Oxford,Oxford,LOCATION
+/wiki/7_th%C3%A1ng_4,7 tháng 4,DATE
+/wiki/1889,1889,DATE
+/wiki/Chile,Chile,LOCATION
+/wiki/21_th%C3%A1ng_4,21 tháng 4,DATE
+"/wiki/Cambridge,_Massachusetts","Cambridge, Massachusetts",LOCATION
+/wiki/New_Hampshire,New Hampshire,LOCATION
+/wiki/1932,1932,DATE
+/wiki/19_th%C3%A1ng_11,19 tháng 11,DATE
+"/wiki/Buffalo,_New_York","Buffalo, New York",LOCATION
+/wiki/5_th%C3%A1ng_7,5 tháng 7,DATE
+/wiki/Arizona,Arizona,LOCATION
+/wiki/Huy_ch%C6%B0%C6%A1ng_Daniel_Giraud_Elliot,Huy chương Daniel Giraud Elliot,AWARD
+/wiki/Indiana,Indiana,LOCATION
+/wiki/Salamanca,Salamanca,LOCATION
+/wiki/21_th%C3%A1ng_12,21 tháng 12,DATE
+/wiki/Indianapolis,Indianapolis,LOCATION
+/wiki/Calw,Calw,LOCATION
+/wiki/9_th%C3%A1ng_8,9 tháng 8,DATE
+/wiki/1962,1962,DATE
+"/wiki/Orlando,_Florida","Orlando, Florida",LOCATION
+/wiki/Bradford,Bradford,LOCATION
+/wiki/T%C3%A2y_Yorkshire,Tây Yorkshire,PERSON
+/wiki/Th%C3%A0nh_vi%C3%AAn_H%E1%BB%99i_Ho%C3%A0ng_gia,Thành viên Hội Vương thất,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Ho%C3%A0ng_%C4%91%E1%BA%BF_Lu%C3%A2n_%C4%90%C3%B4n,Đại học Nhà vua Luân Đôn,ORGANIZATION
+/wiki/Ph%C3%B2ng_Th%C3%AD_nghi%E1%BB%87m_Cavendish,Phòng thí nghiệm Cavendish,ORGANIZATION
+/wiki/1886,1886,DATE
+/wiki/Buckinghamshire,Buckinghamshire,LOCATION
+/wiki/1942,1942,DATE
+/wiki/1947,1947,DATE
+/wiki/1953,1953,DATE
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Sydney,Đại học Sydney,ORGANIZATION
+/wiki/Do_Th%C3%A1i,Do Thái,PERSON
+/wiki/22_th%C3%A1ng_11,22 tháng 11,DATE
+/wiki/18_th%C3%A1ng_11,18 tháng 11,DATE
+/wiki/1897,1897,DATE
+/wiki/1948,1948,DATE
+/wiki/10_th%C3%A1ng_8,10 tháng 8,DATE
+/wiki/Uppsala,Uppsala,LOCATION
+/wiki/1955,1955,DATE
+/wiki/Solothurn_(bang),Solothurn (bang),ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Basel,Đại học Basel,ORGANIZATION 
+/wiki/Tokyo,Tokyo,LOCATION
+/wiki/Nh%E1%BA%ADt_B%E1%BA%A3n,Nhật Bản,LOCATION 
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Kyoto,Đại học Kyōto,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Osaka,Đại học Osaka,ORGANIZATION
+/wiki/Gi%E1%BA%A3i_Nobel_v%E1%BA%ADt_l%C3%BD,Giải Nobel Vật lý,AWARD
+/wiki/12_th%C3%A1ng_5,12 tháng 5,DATE
+"/wiki/Niagara_Falls,_Ontario","Niagara Falls, Ontario",LOCATION
+"/wiki/New_Albany,_Mississippi","New Albany, Mississippi",LOCATION
+/wiki/Mississippi,Mississippi,LOCATION
+"/wiki/Byhalia,_Mississippi","Byhalia, Mississippi",LOCATION
+/wiki/Gi%E1%BA%A3i_Pulitzer_cho_t%C3%A1c_ph%E1%BA%A9m_h%C6%B0_c%E1%BA%A5u,Giải Pulitzer cho tác phẩm hư cấu,AWARD 
+/wiki/23_th%C3%A1ng_1,23 tháng 1,DATE
+/wiki/10_th%C3%A1ng_7,10 tháng 7,DATE
+/wiki/K%C3%B6nigsh%C3%BCtte,Chorzów,ORGANIZATION
+/wiki/Silesia,Silesia,LOCATION
+/wiki/20_th%C3%A1ng_6,20 tháng 6,DATE
+/wiki/Connecticut,Connecticut,LOCATION
+/wiki/New_Jersey,New Jersey,LOCATION
+/wiki/Gi%E1%BA%A3i_nghi%C3%AAn_c%E1%BB%A9u_Y_h%E1%BB%8Dc_l%C3%A2m_s%C3%A0ng_Lasker-DeBakey,Giải nghiên cứu Y học lâm sàng Lasker-DeBakey,AWARD 
+/wiki/Gi%E1%BA%A3i_Passano,Giải Passano,AWARD 
+/wiki/W%C5%82oc%C5%82awek,Włocławek,LOCATION
+"/wiki/Trinity_College,_Cambridge","Đại học Trinity, Cambridge",ORGANIZATION
+/wiki/Huy_ch%C6%B0%C6%A1ng_De_Morgan,Huy chương De Morgan,AWARD 
+/wiki/Huy_ch%C6%B0%C6%A1ng_Sylvester,Huy chương Sylvester,AWARD
+/wiki/Gi%E1%BA%A3i_Jerusalem,Giải Jerusalem,AWARD 
+/wiki/Detroit,Detroit,LOCATION
+/wiki/Michigan,Michigan,LOCATION
+/wiki/Ch%C3%ADnh_tr%E1%BB%8B_h%E1%BB%8Dc,Khoa học chính trị,OCCUPATION 
+/wiki/27_th%C3%A1ng_5,27 tháng 5,DATE
+/wiki/1938,1938,DATE
+/wiki/1961,1961,DATE
+/wiki/6_th%C3%A1ng_10,6 tháng 10,DATE
+/wiki/Belfast,Belfast,LOCATION
+/wiki/El_Cerrito,El Cerrito,LOCATION
+/wiki/H%E1%BB%8Dc_vi%E1%BB%87n_C%C3%B4ng_ngh%E1%BB%87_California,Viện Công nghệ California,ORGANIZATION
+/wiki/Edward_Condon,Edward Condon,PERSON
+/wiki/19_th%C3%A1ng_4,19 tháng 4,DATE
+/wiki/1966,1966,DATE
+"/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_California,_Los_Angeles","Đại học California, Los Angeles",ORGANIZATION
+/wiki/Pretoria,Pretoria,LOCATION
+/wiki/C%E1%BB%99ng_h%C3%B2a_Nam_Phi,Cộng hòa Nam Phi,LOCATION
+"/wiki/New_Haven,_Connecticut","New Haven, Connecticut",LOCATION
+/wiki/23_th%C3%A1ng_5,23 tháng 5,DATE
+/wiki/V%C3%A4xj%C3%B6,Växjö,LOCATION
+/wiki/11_th%C3%A1ng_7,11 tháng 7,DATE
+/wiki/1974,1974,DATE
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Stanford,Đại học Stanford,ORGANIZATION
+"/wiki/Taylorville,_Illinois","Taylorville, Illinois",LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Purdue,Đại học Purdue,ORGANIZATION
+/wiki/1952,1952,DATE
+/wiki/1967,1967,DATE
+/wiki/Vi%E1%BB%87n_C%C3%B4ng_ngh%E1%BB%87_Massachusetts,Viện Công nghệ Massachusetts,ORGANIZATION
+/wiki/Liverpool,Liverpool,LOCATION
+/wiki/Norwich,Norwich,LOCATION
+/wiki/Kiev,Kyiv,LOCATION
+"/wiki/Qu%E1%BA%ADn_Barnstable,_Massachusetts","Quận Barnstable, Massachusetts",ORGANIZATION
+/wiki/Huy_ch%C6%B0%C6%A1ng_Leeuwenhoek,Huy chương Leeuwenhoek,AWARD
+/wiki/Bordeaux,Bordeaux,LOCATION
+/wiki/1970,1970,DATE
+/wiki/14_th%C3%A1ng_1,14 tháng 1,DATE
+/wiki/Kaysersberg,Kaysersberg,LOCATION
+/wiki/4_th%C3%A1ng_9,4 tháng 9,DATE
+/wiki/C%E1%BB%99ng_h%C3%B2a_Gabon,Gabon,LOCATION
+/wiki/16_th%C3%A1ng_7,16 tháng 7,DATE
+/wiki/Amersfoort,Amersfoort,LOCATION
+/wiki/%C4%90%E1%BA%A1i_c%C3%B4ng_qu%E1%BB%91c_Hesse,Đại công quốc Hessen,ORGANIZATION
+/wiki/Hildesheim,Hildesheim,LOCATION
+/wiki/Gi%E1%BA%A3i_Humboldt,Giải Humboldt,AWARD 
+/wiki/Tr%C6%B0%E1%BB%9Dng_Harrow,Trường Harrow,ORGANIZATION
+/wiki/31_th%C3%A1ng_12,31 tháng 12,DATE
+"/wiki/Uniontown,_Pennsylvania","Uniontown, Pennsylvania",ORGANIZATION
+/wiki/Pennsylvania,Pennsylvania,LOCATION
+/wiki/1959,1959,DATE
+"/wiki/Washington,_D.C.","Washington, D.C.",LOCATION
+/wiki/Robert_Oppenheimer,Robert Oppenheimer,PERSON
+/wiki/Friedrich_Hund,Friedrich Hund,PERSON
+/wiki/8_th%C3%A1ng_1,8 tháng 1,DATE
+/wiki/Oranienburg,Oranienburg,LOCATION
+/wiki/C%E1%BB%99ng_h%C3%B2a_Li%C3%AAn_bang_%C4%90%E1%BB%A9c,Đức,LOCATION
+"/wiki/Portland,_Oregon","Portland, Oregon",LOCATION
+/wiki/California_Institute_of_Technology,Viện Công nghệ California,ORGANIZATION
+/wiki/Stanford_University,Đại học Stanford,ORGANIZATION
+/wiki/Waterford,Waterford,LOCATION
+"/wiki/Auburn,_Alabama","Auburn, Alabama",LOCATION
+"/wiki/Cleveland,_Ohio",Cleveland,LOCATION
+/wiki/Ohio,Ohio,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Missouri-Columbia,Đại học Missouri,ORGANIZATION
+"/wiki/Oak_Park,_Illinois","Oak Park, Illinois",LOCATION
+/wiki/Nh%C3%A0_b%C3%A1o,Nhà báo,OCCUPATION
+/wiki/Martha_Gellhorn,Martha Gellhorn,PERSON
+/wiki/Los_Angeles,Los Angeles,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Arizona,Đại học Arizona,ORGANIZATION
+"/wiki/Dallas,_Texas",Dallas,LOCATION
+/wiki/Texas,Texas,LOCATION
+/wiki/Ithaca,Ithaki,LOCATION
+/wiki/Link%C3%B6ping,Linköping,LOCATION
+/wiki/Reykjav%C3%ADk,Reykjavík,LOCATION
+/wiki/Iceland,Iceland,LOCATION
+/wiki/8_th%C3%A1ng_2,8 tháng 2,DATE
+/wiki/1998,1998,DATE
+"/wiki/Madison,_Wisconsin","Madison, Wisconsin",ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Wisconsin-Madison,Đại học Wisconsin–Madison,ORGANIZATION
+/wiki/John_Schrieffer,John Schrieffer,PERSON
+/wiki/H%E1%BA%A1_M%C3%B4n,Hạ Môn,LOCATION
+/wiki/Trung_Qu%E1%BB%91c,Trung Quốc,ORGANIZATION
+/wiki/Seattle,Seattle,LOCATION
+/wiki/Washington,Washington,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Oregon,Đại học Oregon,ORGANIZATION
+/wiki/13_th%C3%A1ng_2,13 tháng 2,DATE
+"/wiki/Stanford,_California","Stanford, California",LOCATION
+/wiki/Caltech,Viện Công nghệ California,ORGANIZATION
+/wiki/Saratov,Saratov,LOCATION
+/wiki/Abram_Ioffe,Abram Ioffe,PERSON
+/wiki/1988,1988,DATE
+/wiki/German_Empire,Đế quốc Đức,ORGANIZATION
+/wiki/Schopfheim,Schopfheim,LOCATION
+/wiki/24_th%C3%A1ng_12,24 tháng 12,DATE
+/wiki/Moguer,Moguer,LOCATION
+/wiki/Andalusia,Andalucía,LOCATION
+/wiki/29_th%C3%A1ng_5,29 tháng 5,DATE
+/wiki/H%E1%BB%A3p_Ph%C3%AC,Hợp Phì,LOCATION
+/wiki/An_Huy,An Huy,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Thanh_Hoa,Đại học Thanh Hoa,ORGANIZATION
+/wiki/Vi%E1%BB%87n_Nghi%C3%AAn_c%E1%BB%A9u_Cao_c%E1%BA%A5p_Princeton,Viện Nghiên cứu Cao cấp Princeton,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Trung_v%C4%83n_H%C6%B0%C6%A1ng_C%E1%BA%A3ng,Đại học Trung văn Hồng Kông,ORGANIZATION
+/wiki/Th%C6%B0%E1%BB%A3ng_H%E1%BA%A3i,Thượng Hải,LOCATION
+/wiki/San_Francisco,San Francisco,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Chi%E1%BA%BFt_Giang,Đại học Chiết Giang,ORGANIZATION
+/wiki/Robert_Robinson,Robert Robinson,PERSON
+/wiki/Alg%C3%A9rie_thu%E1%BB%99c_Ph%C3%A1p,Algérie thuộc Pháp,LOCATION
+/wiki/Dr%C3%A9an,Dréan,LOCATION
+/wiki/Alg%C3%A9rie,Algérie,LOCATION
+/wiki/Villeblevin,Villeblevin,LOCATION
+/wiki/Ottawa,Ottawa,LOCATION
+/wiki/Voronezh_(t%E1%BB%89nh),Voronezh (tỉnh),LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Qu%E1%BB%91c_gia_Moskva,Đại học Quốc gia Moskva,ORGANIZATION
+/wiki/Gi%E1%BA%A3i_th%C6%B0%E1%BB%9Fng_nh%C3%A0_n%C6%B0%E1%BB%9Bc_Li%C3%AAn_X%C3%B4,Giải thưởng Nhà nước Liên Xô,AWARD 
+/wiki/8_th%C3%A1ng_7,8 tháng 7,DATE
+/wiki/Vladivostok,Vladivostok,LOCATION
+/wiki/1918,1918,DATE
+/wiki/Gi%E1%BA%A3i_qu%E1%BB%91c_t%E1%BA%BF_Qu%E1%BB%B9_Gairdner,Giải quốc tế Quỹ Gairdner,AWARD
+/wiki/1971,1971,DATE
+/wiki/1977,1977,DATE
+/wiki/Gi%E1%BA%A3i_Albert_Lasker_cho_nghi%C3%AAn_c%E1%BB%A9u_Y_h%E1%BB%8Dc_c%C6%A1_b%E1%BA%A3n,Giải Albert Lasker cho nghiên cứu Y học cơ bản,AWARD 
+/wiki/1980,1980,DATE
+/wiki/Gi%E1%BA%A3i_Louisa_Gross_Horwitz,Giải Louisa Gross Horwitz,AWARD 
+/wiki/Nebraska,Nebraska,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Nebraska-Lincoln,Đại học Nebraska–Lincoln,ORGANIZATION
+/wiki/Colorado,Colorado,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Wisconsin%E2%80%93Madison,Đại học Wisconsin–Madison,ORGANIZATION
+/wiki/10_th%C3%A1ng_2,10 tháng 2,DATE
+/wiki/30_th%C3%A1ng_5,30 tháng 5,DATE
+/wiki/1960,1960,DATE
+/wiki/Dinant,Dinant,LOCATION
+/wiki/Leuven,Leuven,LOCATION
+/wiki/Ph%C3%B2ng_th%C3%AD_nghi%E1%BB%87m_Qu%E1%BB%91c_gia_Los_Alamos,Phòng thí nghiệm Quốc gia Los Alamos,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Palermo,Đại học Palermo,ORGANIZATION
+/wiki/Dartmouth_College,Đại học Dartmouth,ORGANIZATION
+/wiki/20_th%C3%A1ng_12,20 tháng 12,DATE
+/wiki/%C4%8Cechy,Bohemia,LOCATION
+/wiki/Ti%E1%BB%87p_Kh%E1%BA%AFc,Tiệp Khắc,PERSON
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_New_York,Đại học New York,ORGANIZATION
+/wiki/20_th%C3%A1ng_8,20 tháng 8,DATE
+/wiki/1901,1901,DATE
+/wiki/Sicilia,Sicilia,LOCATION
+/wiki/1968,1968,DATE
+"/wiki/Berkeley,_California","Berkeley, California",LOCATION
+/wiki/1975,1975,DATE
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_California_t%E1%BA%A1i_Los_Angeles,"Đại học California, Los Angeles",ORGANIZATION
+"/wiki/Traralgon,_Victoria","Traralgon, Victoria",LOCATION
+/wiki/Australia,Úc,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Melbourne,Đại học Melbourne,ORGANIZATION
+/wiki/31_th%C3%A1ng_5,31 tháng 5,DATE
+/wiki/Pointe-%C3%A0-Pitre,Pointe-à-Pitre,LOCATION
+/wiki/Guadeloupe,Guadeloupe,LOCATION
+/wiki/20_th%C3%A1ng_9,20 tháng 9,DATE
+/wiki/Provence,Provence,LOCATION
+/wiki/2007,2007,DATE
+/wiki/1986,1986,DATE
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Pennsylvania,Đại học Pennsylvania,ORGANIZATION
+/wiki/Minnesota,Minnesota,LOCATION
+/wiki/Huy_ch%C6%B0%C6%A1ng_v%C3%A0ng,Huy chương vàng,AWARD
+/wiki/C%E1%BB%99ng_h%C3%B2a_Li%C3%AAn_bang_X%C3%A3_h%E1%BB%99i_ch%E1%BB%A7_ngh%C4%A9a_Nam_T%C6%B0,Cộng hòa Liên bang Xã hội chủ nghĩa Nam Tư,ORGANIZATION
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Nam_T%C6%B0,Vương quốc Nam Tư,ORGANIZATION
+"/wiki/Nh%C3%A0_n%C6%B0%E1%BB%9Bc_Slovene,_Croat_v%C3%A0_Serb","Nhà nước Slovene, Croat và Serb",LOCATION
+/wiki/J%C3%B6nk%C3%B6ping,Jönköping,LOCATION
+/wiki/Li%C3%AAn_minh_gi%E1%BB%AFa_Th%E1%BB%A5y_%C4%90i%E1%BB%83n_v%C3%A0_Na_Uy,Liên minh giữa Thụy Điển và Na Uy,ORGANIZATION 
+/wiki/Ndola,Ndola,LOCATION
+/wiki/B%E1%BA%AFc_Rhodesia,Bắc Rhodesia,LOCATION
+/wiki/Li%C3%AAn_bang_Rhodesia_v%C3%A0_Nyasaland,Liên bang Rhodesia và Nyasaland,ORGANIZATION
+/wiki/Zambia,Zambia,LOCATION
+/wiki/Baku,Baku,LOCATION
+/wiki/19_th%C3%A1ng_5,19 tháng 5,DATE
+/wiki/Huy_ch%C6%B0%C6%A1ng_Otto_Warburg,Huy chương Otto Warburg,AWARD 
+/wiki/1993,1993,DATE
+/wiki/Ph%C3%B2ng_Th%C3%AD_nghi%E1%BB%87m_Sinh_h%E1%BB%8Dc_Ph%C3%A2n_t%E1%BB%AD_MRC,Phòng Thí nghiệm Sinh học Phân tử MRC,PERSON
+/wiki/Max_Ferdinand_Perutz,Max Perutz,PERSON
+/wiki/Northamptonshire,Northamptonshire,LOCATION
+/wiki/San_Diego,San Diego,LOCATION
+/wiki/Gi%E1%BA%A3i_Eli_Lilly_v%E1%BB%81_H%C3%B3a_Sinh,Giải Eli Lilly về Hóa Sinh,AWARD 
+/wiki/27_th%C3%A1ng_2,27 tháng 2,DATE
+/wiki/17_th%C3%A1ng_11,17 tháng 11,DATE
+/wiki/%C3%81o-Hungary,Đế quốc Áo-Hung,ORGANIZATION
+/wiki/28_th%C3%A1ng_6,28 tháng 6,DATE
+/wiki/Kattowitz,Katowice,LOCATION
+/wiki/Ph%C3%B2ng_th%C3%AD_nghi%E1%BB%87m_Los_Alamos,Phòng thí nghiệm Quốc gia Los Alamos,ORGANIZATION
+/wiki/Kassel,Kassel,LOCATION
+/wiki/M%C3%BClheim,Mülheim,LOCATION
+/wiki/Bergamo,Bergamo,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Pavia,Đại học Pavia,ORGANIZATION
+/wiki/Hy_L%E1%BA%A1p,Hy Lạp,LOCATION
+/wiki/Nam_California,Miền Nam California,PERSON
+"/wiki/Oakland,_California","Oakland, California",LOCATION
+/wiki/Nh%C3%A2n_v%E1%BA%ADt_c%E1%BB%A7a_n%C4%83m,Nhân vật của năm (tạp chí Time),ORGANIZATION
+/wiki/Huy_ch%C6%B0%C6%A1ng_Karl_Schwarzschild,Huy chương Karl Schwarzschild,AWARD 
+/wiki/2001,2001,DATE
+/wiki/Gi%E1%BA%A3i_Vannevar_Bush,Giải Vannevar Bush,AWARD
+/wiki/2006,2006,DATE
+/wiki/Ph%C3%B2ng_th%C3%AD_nghi%E1%BB%87m_Bell,Phòng thí nghiệm Bell,ORGANIZATION
+/wiki/Vi%E1%BB%87n_h%C3%A0n_l%C3%A2m_gi%C3%A1o_ho%C3%A0ng_v%E1%BB%81_Khoa_h%E1%BB%8Dc,Viện Hàn lâm Giáo hoàng về Khoa học,ORGANIZATION
+/wiki/1916,1916,DATE
+/wiki/Queensland,Queensland,LOCATION
+/wiki/Gi%E1%BA%A3i_Demidov,Giải Demidov,AWARD 
+/wiki/Cairo,Cairo,LOCATION
+/wiki/Ai_C%E1%BA%ADp,Ai Cập,LOCATION
+"/wiki/Somerville_College,_Oxford","Somerville College, Oxford",ORGANIZATION
+/wiki/1982,1982,DATE
+/wiki/Atlanta,Atlanta,LOCATION
+"/wiki/Memphis,_Tennessee","Memphis, Tennessee",LOCATION
+/wiki/Ti%E1%BA%BFn_s%C4%A9,Tiến sĩ,OCCUPATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Boston,Đại học Boston,ORGANIZATION
+/wiki/Phong_tr%C3%A0o_D%C3%A2n_quy%E1%BB%81n_M%E1%BB%B9,Phong trào dân quyền Hoa Kỳ,ORGANIZATION 
+/wiki/12_th%C3%A1ng_2,12 tháng 2,DATE
+/wiki/Gi%E1%BA%A3i_th%C6%B0%E1%BB%9Fng_Albert_Einstein,Giải thưởng Albert Einstein,AWARD 
+/wiki/Roy_Glauber,Roy J. Glauber,PERSON
+/wiki/Ben_R._Mottelson,Ben Roy Mottelson,PERSON
+/wiki/Queens,Queens,LOCATION
+/wiki/Bachelor_of_Science,Cử nhân Khoa học,OCCUPATION
+/wiki/John_Archibald_Wheeler,John Archibald Wheeler,PERSON
+/wiki/George_Zweig,George Zweig,PERSON
+/wiki/Robert_Barro,Robert Barro,PERSON
+/wiki/10_th%C3%A1ng_4,10 tháng 4,DATE
+/wiki/1978,1978,DATE
+/wiki/Ainay-le-Ch%C3%A2teau,Ainay-le-Château,LOCATION
+/wiki/Vi%E1%BB%87n_Pasteur,Viện Pasteur,ORGANIZATION
+/wiki/9_th%C3%A1ng_2,9 tháng 2,DATE
+/wiki/Cannes,Cannes,LOCATION
+/wiki/Gi%E1%BA%A3i_Charles_L%C3%A9opold_Mayer,Giải Charles Léopold Mayer,AWARD 
+/wiki/Guebwiller,Guebwiller,LOCATION
+/wiki/7_th%C3%A1ng_6,7 tháng 6,DATE
+/wiki/1896,1896,DATE
+"/wiki/Newburyport,_Massachusetts","Newburyport, Massachusetts",LOCATION
+"/wiki/Arlington,_Virginia","Quận Arlington, Virginia",ORGANIZATION
+/wiki/1983,1983,DATE
+/wiki/Baltimore,Baltimore,LOCATION
+/wiki/Maryland,Maryland,LOCATION
+/wiki/Th%C3%A0nh_ph%E1%BB%91_Halifax,"Halifax, Nova Scotia",LOCATION
+/wiki/Nova_Scotia,Nova Scotia,LOCATION
+/wiki/17_th%C3%A1ng_7,17 tháng 7,DATE
+/wiki/Buchach,Buchach,LOCATION
+/wiki/17_th%C3%A1ng_2,17 tháng 2,DATE
+/wiki/Jerusalem,Jerusalem,LOCATION
+/wiki/Israel,Israel,ORGANIZATION
+/wiki/Strasbourg,Strasbourg,LOCATION
+/wiki/Huy_ch%C6%B0%C6%A1ng_Eddington,Huy chương Eddington,AWARD
+/wiki/Bochum,Bochum,LOCATION
+/wiki/27_th%C3%A1ng_11,27 tháng 11,DATE
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Brown,Đại học Brown,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Miami,Đại học Miami (Florida),ORGANIZATION
+"/wiki/Urbana,_Illinois","Urbana, Illinois",LOCATION
+"/wiki/Los_Gatos,_California","Los Gatos, California",LOCATION
+/wiki/Cornell_University,Đại học Cornell,ORGANIZATION
+/wiki/%C5%8Csaka,Ōsaka,LOCATION
+/wiki/Kamakura,Kamakura,PERSON
+/wiki/Kanagawa,Kanagawa,LOCATION
+/wiki/Manhattan,Manhattan,LOCATION
+"/wiki/Santa_Fe,_New_Mexico","Santa Fe, New Mexico",LOCATION
+"/wiki/College_Station,_Texas","College Station, Texas",LOCATION
+/wiki/1997,1997,DATE
+/wiki/Den_Haag,Den Haag,LOCATION
+/wiki/Danh_s%C3%A1ch_ng%C6%B0%E1%BB%9Di_%C4%91o%E1%BA%A1t_gi%E1%BA%A3i_Nobel_Kinh_t%E1%BA%BF,Danh sách người đoạt giải Nobel Kinh tế,AWARD
+/wiki/Norrk%C3%B6ping,Norrköping,LOCATION
+/wiki/Huy_ch%C6%B0%C6%A1ng_William_Bowie,Huy chương William Bowie,AWARD 
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_California_t%E1%BA%A1i_San_Diego,Đại học California tại San Diego,ORGANIZATION
+"/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Maryland,_College_Park","Đại học Maryland, College Park",ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Nam_California,Đại học Nam California,ORGANIZATION
+/wiki/6_th%C3%A1ng_9,6 tháng 9,DATE
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Buenos_Aires,Đại học Buenos Aires,ORGANIZATION
+/wiki/Hu%C3%A2n_ch%C6%B0%C6%A1ng_B%E1%BA%AFc_%C4%91%E1%BA%A9u_b%E1%BB%99i_tinh,Bắc Đẩu Bội tinh,LOCATION
+/wiki/St_Louis,St. Louis,ORGANIZATION
+/wiki/1944,1944,DATE
+/wiki/1981,1981,DATE
+/wiki/1905,1905,DATE
+/wiki/Kislovodsk,Kislovodsk,PERSON
+/wiki/C%E1%BB%99ng_h%C3%B2a_X%C3%A3_h%E1%BB%99i_Ch%E1%BB%A7_ngh%C4%A9a_X%C3%B4_vi%E1%BA%BFt_Li%C3%AAn_bang_Nga,Cộng hòa Xã hội chủ nghĩa Xô viết Liên bang Nga,ORGANIZATION
+/wiki/Gi%E1%BA%A3i_th%C6%B0%E1%BB%9Fng_Nh%C3%A0_n%C6%B0%E1%BB%9Bc_Li%C3%AAn_bang_Nga,Giải thưởng Nhà nước Liên bang Nga,AWARD 
+"/wiki/Cresco,_Iowa","Cresco, Iowa",LOCATION
+/wiki/Iowa,Iowa,LOCATION
+/wiki/Hu%C3%A2n_ch%C6%B0%C6%A1ng_T%E1%BB%B1_do_c%E1%BB%A7a_T%E1%BB%95ng_th%E1%BB%91ng,Huân chương Tự do Tổng thống,AWARD 
+/wiki/DuPont,DuPont,ORGANIZATION
+/wiki/Huy_ch%C6%B0%C6%A1ng_John_Bates_Clark,Giải John Bates Clark,AWARD
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Hungary,Vương quốc Hungary,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Carleton,Đại học Carleton (Canada),ORGANIZATION
+/wiki/Kansas,Kansas,LOCATION
+"/wiki/Miami,_Florida",Miami,LOCATION
+/wiki/12_th%C3%A1ng_7,12 tháng 7,DATE
+/wiki/Santiago_de_Chile,Santiago de Chile,LOCATION
+/wiki/Unkel,Unkel,LOCATION
+/wiki/1972,1972,DATE
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_California_t%E1%BA%A1i_Santa_Barbara,Đại học California tại Santa Barbara,ORGANIZATION
+/wiki/Gi%E1%BA%A3i_Nobel_kinh_t%E1%BA%BF,Giải Nobel Kinh tế,AWARD 
+/wiki/Gi%E1%BA%A3i_John_Bates_Clark,Giải John Bates Clark,AWARD
+/wiki/Bergen,Bergen,LOCATION
+/wiki/1973,1973,DATE
+/wiki/Cardiff,Cardiff,LOCATION
+/wiki/Wales,Wales,LOCATION
+/wiki/1976,1976,DATE
+/wiki/Si%C3%AAu_d%E1%BA%ABn,Siêu dẫn,PERSON
+/wiki/Gi%E1%BA%A3i_t%C6%B0%E1%BB%9Fng_ni%E1%BB%87m_Alfred-Stock,Giải tưởng niệm Alfred Stock,AWARD 
+/wiki/Gi%E1%BA%A3i_Balzan,Giải Balzan,AWARD 
+/wiki/Knightsbridge,Knightsbridge,LOCATION
+/wiki/F%C3%BCrth,Fürth,LOCATION
+/wiki/Bavaria,Bayern,LOCATION
+/wiki/C%E1%BB%AD_nh%C3%A2n_Ngh%E1%BB%87_thu%E1%BA%ADt,Cử nhân Nghệ thuật,OCCUPATION 
+/wiki/PhD,Doctor of Philosophy,OCCUPATION
+/wiki/Vi%E1%BB%87t_Nam,Việt Nam,LOCATION
+/wiki/Nam_Tr%E1%BB%B1c,Nam Trực (huyện),LOCATION
+/wiki/Nam_%C4%90%E1%BB%8Bnh_(t%E1%BB%89nh),Nam Định (tỉnh),LOCATION
+/wiki/B%E1%BA%AFc_K%E1%BB%B3,Bắc Kỳ,LOCATION 
+/wiki/Li%C3%AAn_bang_%C4%90%C3%B4ng_D%C6%B0%C6%A1ng,Liên bang Đông Dương,ORGANIZATION
+/wiki/Ninh_B%C3%ACnh,Ninh Bình,LOCATION
+/wiki/B%E1%BB%87nh_vi%E1%BB%87n_Trung_%C6%B0%C6%A1ng_Qu%C3%A2n_%C4%91%E1%BB%99i_108,Bệnh viện Trung ương Quân đội 108,ORGANIZATION
+/wiki/Hai_B%C3%A0_Tr%C6%B0ng_(qu%E1%BA%ADn),Hai Bà Trưng (quận),LOCATION
+/wiki/H%C3%A0_N%E1%BB%99i,Hà Nội,LOCATION
+/wiki/Munich,München,LOCATION
+/wiki/L%C3%A9on_Walras,Léon Walras,PERSON
+/wiki/Ph%C3%B2ng_th%C3%AD_nghi%E1%BB%87m_Cavendish,Phòng thí nghiệm Cavendish,ORGANIZATION
+/wiki/Jocelyn_Bell_Burnell,Jocelyn Bell Burnell,PERSON
+/wiki/19_th%C3%A1ng_6,19 tháng 6,DATE
+"/wiki/Sterling,_Illinois","Sterling, Illinois",LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_bang_Ohio,Đại học bang Ohio,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Carnegie_Mellon,Đại học Carnegie Mellon,ORGANIZATION
+/wiki/1899,1899,DATE
+/wiki/Surrey,Surrey,PERSON
+/wiki/Gi%E1%BA%A3i_Francqui,Giải Francqui,AWARD
+/wiki/Ia%C8%99i,Iași,LOCATION
+/wiki/National_Medal_of_Science,Huân chương Khoa học Quốc gia,AWARD
+/wiki/29_th%C3%A1ng_7,29 tháng 7,DATE
+"/wiki/Tabuse,_Yamaguchi","Tabuse, Yamaguchi",LOCATION
+/wiki/%C4%90%E1%BA%BF_qu%E1%BB%91c_Nh%E1%BA%ADt_B%E1%BA%A3n,Đế quốc Nhật Bản,LOCATION 
+/wiki/Karl_Popper,Karl Popper,PERSON
+/wiki/Ludwig_Erhard,Ludwig Erhard,PERSON
+/wiki/Huy_ch%C6%B0%C6%A1ng_H._C._%C3%98rsted,Huy chương H. C. Ørsted,AWARD 
+/wiki/D%E1%BB%B1_%C3%A1n_Manhattan,Dự án Manhattan,ORGANIZATION
+/wiki/Idaho,Idaho,LOCATION
+/wiki/Sydney,Sydney,LOCATION
+/wiki/Sarajevo,Sarajevo,LOCATION
+/wiki/Bosna_v%C3%A0_Hercegovina,Bosna và Hercegovina,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Zagreb,Đại học Zagreb,PERSON
+/wiki/22_th%C3%A1ng_2,22 tháng 2,DATE
+/wiki/Catanzaro,Catanzaro,LOCATION
+/wiki/Gi%E1%BA%A3i_Vi_sinh_h%E1%BB%8Dc_Selman_A._Waksman,Giải Vi sinh học Selman A. Waksman,AWARD
+/wiki/Gi%E1%BA%A3i_Sinh_h%E1%BB%8Dc_ph%C3%A2n_t%E1%BB%AD_c%E1%BB%A7a_Vi%E1%BB%87n_h%C3%A0n_l%C3%A2m_Khoa_h%E1%BB%8Dc_qu%E1%BB%91c_gia_Hoa_K%E1%BB%B3,Giải Sinh học phân tử của Viện hàn lâm Khoa học quốc gia Hoa Kỳ,AWARD
+/wiki/Genova,Genova,LOCATION
+/wiki/12_th%C3%A1ng_9,12 tháng 9,DATE
+/wiki/Milano,Milano,LOCATION
+/wiki/C%E1%BB%99ng_h%C3%B2a_X%C3%A3_h%E1%BB%99i_ch%E1%BB%A7_ngh%C4%A9a_X%C3%B4_vi%E1%BA%BFt_Li%C3%AAn_bang_Nga,Cộng hòa Xã hội chủ nghĩa Xô viết Liên bang Nga,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Qu%E1%BB%91c_gia_Moscow,Đại học Quốc gia Moskva,ORGANIZATION
+/wiki/Anh_h%C3%B9ng_lao_%C4%91%E1%BB%99ng_x%C3%A3_h%E1%BB%99i_ch%E1%BB%A7_ngh%C4%A9a,Anh hùng lao động Xã hội Chủ nghĩa Liên Xô,LOCATION
+/wiki/Gi%E1%BA%A3i_th%C6%B0%E1%BB%9Fng_Nh%C3%A0_n%C6%B0%E1%BB%9Bc_Li%C3%AAn_X%C3%B4,Giải thưởng Nhà nước Liên Xô,AWARD 
+/wiki/Gi%E1%BA%A3i_th%C6%B0%E1%BB%9Fng_Lenin,Giải thưởng Lenin,AWARD
+/wiki/Igor_Yevgenyevich_Tamm,Igor Yevgenyevich Tamm,PERSON
+"/wiki/Sankt-Peterburg,_Nga",Sankt-Peterburg,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_T%E1%BB%95ng_h%E1%BB%A3p_Sankt-Peterburg,Đại học Tổng hợp Sankt-Peterburg,ORGANIZATION
+/wiki/9_th%C3%A1ng_12,9 tháng 12,DATE
+"/wiki/Mountain_View,_California","Mountain View, California",LOCATION
+/wiki/10_th%C3%A1ng_6,10 tháng 6,DATE
+/wiki/Margaret_Thatcher,Margaret Thatcher,PERSON
+/wiki/Augusto_Pinochet,Augusto Pinochet,PERSON
+/wiki/Alan_Greenspan,Alan Greenspan,PERSON
+/wiki/Chicago_Boys,Chicago Boys,LOCATION
+/wiki/Hu%C3%A2n_ch%C6%B0%C6%A1ng_T%E1%BB%B1_do_T%E1%BB%95ng_th%E1%BB%91ng,Huân chương Tự do Tổng thống,AWARD 
+"/wiki/Indianapolis,_Indiana",Indianapolis,LOCATION
+/wiki/John_Hasbrouck_van_Vleck,John Hasbrouck Van Vleck,PERSON
+/wiki/30_th%C3%A1ng_9,30 tháng 9,DATE
+/wiki/Leeds,Leeds,LOCATION
+/wiki/1941,1941,DATE
+"/wiki/Middletown,_Connecticut","Middletown, Connecticut",LOCATION
+/wiki/Harvard_University,Đại học Harvard,ORGANIZATION
+/wiki/University_of_Minnesota,Viện Đại học Minnesota,ORGANIZATION
+/wiki/University_of_Oxford,Đại học Oxford,ORGANIZATION
+/wiki/Thomas_Kuhn,Thomas Kuhn,PERSON
+/wiki/25_th%C3%A1ng_1,25 tháng 1,DATE
+/wiki/Brussels,Bruxelles,ORGANIZATION
+/wiki/Vi%E1%BB%87n_h%C3%A0n_l%C3%A2m_Romania,Viện Hàn lâm România,PERSON
+/wiki/Alan_Turing,Alan Turing,PERSON
+/wiki/Dijon,Dijon,LOCATION
+/wiki/%C4%90%E1%BB%87_tam_C%E1%BB%99ng_h%C3%B2a_Ph%C3%A1p,Đệ Tam Cộng hòa Pháp,ORGANIZATION
+"/wiki/San_Diego,_California",San Diego,LOCATION
+/wiki/%C4%90%E1%BB%87_nh%E1%BB%8B_C%E1%BB%99ng_h%C3%B2a_Ba_Lan,Đệ Nhị Cộng hòa Ba Lan,AWARD
+/wiki/The_Bronx,The Bronx,LOCATION
+/wiki/Sevilla,Sevilla,LOCATION
+/wiki/H%E1%BA%A1t_Sk%C3%A5ne,Skåne (hạt),LOCATION
+/wiki/%C3%85re_(%C4%91%C3%B4_th%E1%BB%8B),Åre (đô thị),LOCATION
+/wiki/H%E1%BA%A1t_J%C3%A4mtland,Jämtland (hạt),LOCATION
+/wiki/%C4%90%E1%BB%A9c_Qu%E1%BB%91c_X%C3%A3,Đức Quốc Xã,LOCATION
+"/wiki/San_Francisco,_California",San Francisco,LOCATION
+"/wiki/Houston,_Texas",Houston,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Rice,Đại học Rice,ORGANIZATION
+/wiki/Huy_ch%C6%B0%C6%A1ng_Henry_Draper,Huy chương Henry Draper,AWARD 
+/wiki/29_th%C3%A1ng_9,29 tháng 9,DATE
+/wiki/Gi%E1%BA%A3i_Rosenstiel,Giải Rosenstiel,AWARD 
+"/wiki/Wilmington,_Delaware","Wilmington, Delaware",LOCATION
+/wiki/Delaware,Delaware,LOCATION
+/wiki/Leoncin,Leoncin,LOCATION
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Ba_Lan,Vương quốc Ba Lan,LOCATION
+/wiki/Nobel_Prize_in_Literature,Giải Nobel Văn học,AWARD
+/wiki/25_th%C3%A1ng_12,25 tháng 12,DATE
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_H%E1%BB%93i_gi%C3%A1o_Ai_C%E1%BA%ADp,Vương quốc Hồi giáo Ai Cập,ORGANIZATION
+/wiki/Jehan_Sadat,Jehan Sadat,PERSON
+"/wiki/Brest,_Belarus","Brest, Belarus",LOCATION
+/wiki/9_th%C3%A1ng_3,9 tháng 3,DATE
+/wiki/1992,1992,DATE
+/wiki/Tel_Aviv,Tel Aviv,ORGANIZATION
+/wiki/Milwaukee,Milwaukee,LOCATION
+/wiki/Pittsburgh,Pittsburgh,LOCATION
+/wiki/Gi%E1%BA%A3i_Turing,Giải Turing,AWARD 
+/wiki/Pakistan,Pakistan,LOCATION
+/wiki/Huy_ch%C6%B0%C6%A1ng_Tate,Huy chương Tate,AWARD 
+"/wiki/Austin,_Texas","Austin, Texas",LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Texas_%E1%BB%9F_Austin,Đại học Texas tại Austin,ORGANIZATION
+"/wiki/Lafayette,_Indiana","Lafayette, Indiana",LOCATION
+/wiki/Negishi_Eiichi,Negishi Eiichi,PERSON
+/wiki/Gi%E1%BA%A3i_Otto_Hahn,Giải Otto Hahn,AWARD 
+/wiki/28_th%C3%A1ng_8,28 tháng 8,DATE
+/wiki/Heraklion,Heraklion,LOCATION
+/wiki/Athens,Athens,LOCATION
+/wiki/Skopje,Skopje,LOCATION
+/wiki/%C4%90%E1%BA%BF_qu%E1%BB%91c_Ottoman,Đế quốc Ottoman,PERSON
+/wiki/T%C3%A2y_Bengal,Tây Bengal,LOCATION
+/wiki/Castries,Castries,LOCATION
+/wiki/Saint_Lucia,Saint Lucia,PERSON
+/wiki/%C4%90%E1%BA%BF_qu%E1%BB%91c_Anh,Đế quốc Anh,LOCATION
+"/wiki/Saint_Michael,_Barbados","Saint Michael, Barbados",PERSON
+/wiki/Barbados,Barbados,ORGANIZATION
+"/wiki/Chicago,_Illinois",Chicago,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Washington_t%E1%BA%A1i_St._Louis,Đại học Washington tại St. Louis,ORGANIZATION
+/wiki/Gi%E1%BA%A3i_Nobel_Ho%C3%A1_h%E1%BB%8Dc,Danh sách người đoạt giải Nobel Hóa học,AWARD 
+/wiki/Caracas,Caracas,LOCATION
+/wiki/Venezuela,Venezuela,LOCATION
+/wiki/Palma_de_Mallorca,Palma de Mallorca,LOCATION
+/wiki/Mallorca,Mallorca,LOCATION
+/wiki/Gi%E1%BA%A3i_Wolf_v%E1%BB%81_Y_h%E1%BB%8Dc,Giải Wolf về Y học,AWARD 
+/wiki/Maine,Maine,LOCATION
+/wiki/30_th%C3%A1ng_6,30 tháng 6,DATE
+/wiki/Krak%C3%B3w,Kraków,LOCATION
+/wiki/Gi%E1%BA%A3i_v%C4%83n_h%E1%BB%8Dc_qu%E1%BB%91c_t%E1%BA%BF_Neustadt,Giải văn học quốc tế Neustadt,AWARD 
+"/wiki/Omaha,_Nebraska","Omaha, Nebraska",LOCATION
+/wiki/Dordrecht,Dordrecht,LOCATION
+"/wiki/Tucson,_Arizona","Tucson, Arizona",LOCATION
+/wiki/Nara_(th%C3%A0nh_ph%E1%BB%91),Nara (thành phố),LOCATION
+/wiki/Zolochiv,Zolochiv,LOCATION
+"/wiki/Champaign,_Illinois","Champaign, Illinois",LOCATION
+/wiki/John_Kenneth_Galbraith,John Kenneth Galbraith,PERSON
+"/wiki/Waltham,_Massachusetts","Waltham, Massachusetts",LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Ohio_State,Đại học bang Ohio,ORGANIZATION
+/wiki/Litva,Litva,ORGANIZATION
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Li%C3%AAn_hi%E1%BB%87p_Anh_v%C3%A0_Ireland,Vương quốc Liên hiệp Anh và Ireland,LOCATION
+/wiki/Aracataca,Aracataca,LOCATION
+/wiki/Magdalena,Magdalena,LOCATION
+/wiki/Colombia,Colombia,LOCATION
+/wiki/Th%C3%A0nh_ph%E1%BB%91_M%C3%A9xico,Thành phố México,LOCATION
+/wiki/M%C3%A9xico,México,LOCATION
+/wiki/Rodrigo_Garc%C3%ADa_(%C4%91%E1%BA%A1o_di%E1%BB%85n),Rodrigo García (đạo diễn),PERSON
+/wiki/Zamora,Zamora,PERSON
+/wiki/Michoac%C3%A1n,Michoacán,LOCATION
+"/wiki/Seattle,_Washington",Seattle,LOCATION
+/wiki/Lahore,Lahore,LOCATION
+/wiki/Arthur_Eddington,Arthur Eddington,PERSON
+/wiki/Fred_Hoyle,Fred Hoyle,PERSON
+/wiki/30_th%C3%A1ng_11,30 tháng 11,DATE
+/wiki/Saskatchewan,Saskatchewan,LOCATION
+/wiki/Palo_Alto,Palo Alto,LOCATION
+/wiki/1985,1985,DATE
+"/wiki/Hartford,_Connecticut","Hartford, Connecticut",LOCATION
+/wiki/Huy_ch%C6%B0%C6%A1ng_Thomas_Hunt_Morgan,Huy chương Thomas Hunt Morgan,AWARD 
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Missouri,Đại học Missouri,ORGANIZATION
+/wiki/Calais,Calais,LOCATION
+/wiki/Stephen_Smale,Stephen Smale,PERSON
+/wiki/Fort_Worth,"Fort Worth, Texas",LOCATION
+/wiki/Huy_ch%C6%B0%C6%A1ng_Glenn_T._Seaborg,Huy chương Glenn T. Seaborg,AWARD 
+/wiki/Freiburg_im_Breisgau,Freiburg im Breisgau,LOCATION
+/wiki/23_th%C3%A1ng_9,23 tháng 9,DATE
+/wiki/Nam_Phi,Cộng hòa Nam Phi,LOCATION
+/wiki/Cape_Town,Cape Town,LOCATION
+"/wiki/London,_Anh",Luân Đôn,LOCATION
+/wiki/%C4%90%E1%BB%A9c_qu%E1%BB%91c_x%C3%A3,Đức Quốc Xã,LOCATION
+/wiki/Bang_New_York,New York (tiểu bang),LOCATION
+/wiki/Nam_Carolina,South Carolina,LOCATION
+/wiki/10_th%C3%A1ng_10,10 tháng 10,DATE
+/wiki/Antananarivo,Antananarivo,LOCATION
+/wiki/2005,2005,DATE
+/wiki/Gi%E1%BA%A3i_M%C3%A9dicis,Giải Médicis,AWARD 
+/wiki/Italia,Ý,PERSON
+/wiki/T%C3%A2y_Berlin,Tây Berlin,LOCATION
+/wiki/Huy_ch%C6%B0%C6%A1ng_Robert_Koch,Huy chương Robert Koch,AWARD 
+/wiki/Max_Knoll,Max Knoll,PERSON
+/wiki/St._Gallen,St. Gallen,LOCATION
+"/wiki/San_Jose,_California","San Jose, California",LOCATION
+/wiki/Gi%E1%BA%A3i_Irving_Langmuir,Giải Irving Langmuir,AWARD 
+/wiki/T%C3%A2n_Tr%C3%BAc_(th%C3%A0nh_ph%E1%BB%91),Tân Trúc (thành phố),LOCATION
+/wiki/%C4%90%C3%A0i_Loan,Đài Loan,ORGANIZATION
+/wiki/Ng%C6%B0%E1%BB%9Di_%C4%90%C3%A0i_Loan,Người Đài Loan,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Qu%E1%BB%91c_gia_%C4%90%C3%A0i_Loan,Đại học quốc lập Đài Loan,ORGANIZATION
+/wiki/Torino,Torino,LOCATION
+/wiki/Sighetu_Marma%C8%9Biei,Sighetu Marmației,LOCATION
+/wiki/B%E1%BA%AFc_%C4%90%E1%BA%A9u_B%E1%BB%99i_tinh,Bắc Đẩu Bội tinh,LOCATION
+/wiki/Order_of_the_British_Empire,Huân chương Đế quốc Anh,AWARD 
+"/wiki/Murfreesboro,_Tennessee","Murfreesboro, Tennessee",LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_George_Mason,Đại học George Mason,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Virginia,Đại học Virginia,ORGANIZATION
+"/wiki/Neuenkirchen,_Steinfurt","Neuenkirchen, Steinfurt",LOCATION
+/wiki/Nordrhein-Westfalen,Nordrhein-Westfalen,LOCATION
+/wiki/Vermont,Vermont,LOCATION
+/wiki/Rosheim,Rosheim,LOCATION
+/wiki/Busan,Busan,LOCATION
+/wiki/%C4%90%E1%BA%BF_qu%E1%BB%91c_%C4%90%E1%BA%A1i_H%C3%A0n,Đế quốc Đại Hàn,PERSON
+/wiki/Salem,Salem,LOCATION
+/wiki/Nagoya,Nagoya,LOCATION
+"/wiki/Twin_Falls,_Idaho","Twin Falls, Idaho",LOCATION
+/wiki/Bad_Kissingen,Bad Kissingen,LOCATION
+/wiki/CERN,CERN,ORGANIZATION
+/wiki/Ludwigsburg,Ludwigsburg,LOCATION
+/wiki/W%C3%BCrttemberg,Württemberg,LOCATION
+/wiki/Gi%E1%BA%A3i_Gottfried_Wilhelm_Leibniz,Giải Gottfried Wilhelm Leibniz,AWARD 
+/wiki/14_th%C3%A1ng_6,14 tháng 6,DATE
+/wiki/2010,2010,DATE
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Malaya,Đại học Malaya,ORGANIZATION
+/wiki/Huy_ch%C6%B0%C6%A1ng_Garvan-Olin,Huy chương Garvan-Olin,AWARD 
+/wiki/H%E1%BB%99i_ho%C3%A0ng_gia_Lu%C3%A2n_%C4%90%C3%B4n,Hội Vương thất Luân Đôn,ORGANIZATION
+/wiki/11_th%C3%A1ng_12,11 tháng 12,DATE
+/wiki/Saint-Cloud,Saint-Cloud,LOCATION
+/wiki/Huy_ch%C6%B0%C6%A1ng_v%C3%A0ng_c%E1%BB%A7a_Trung_t%C3%A2m_nghi%C3%AAn_c%E1%BB%A9u_Khoa_h%E1%BB%8Dc_qu%E1%BB%91c_gia_Ph%C3%A1p,Huy chương vàng của Trung tâm nghiên cứu Khoa học quốc gia Pháp,AWARD
+/wiki/IEEE,Hội Kỹ sư Điện và Điện tử,ORGANIZATION
+/wiki/G%C3%B6rlitz,Görlitz,LOCATION
+/wiki/Washington_(bang),Washington (tiểu bang),LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Washington,Đại học Washington,ORGANIZATION
+/wiki/Sachsen,Sachsen,LOCATION
+/wiki/Bonn,Bonn,LOCATION
+/wiki/Montr%C3%A9al,Montréal,LOCATION
+/wiki/Qu%C3%A9bec,Québec,LOCATION
+"/wiki/Gi%E1%BA%A3i_Alfred_P._Sloan,_Jr.","Giải Alfred P. Sloan, Jr.",AWARD 
+/wiki/1989,1989,DATE
+/wiki/Skedsmo,Skedsmo,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Aarhus,Đại học Aarhus,ORGANIZATION
+/wiki/Alberta,Alberta,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Alberta,Đại học Alberta,PERSON
+"/wiki/Methuen,_Massachusetts","Methuen, Massachusetts",LOCATION
+/wiki/Gi%E1%BA%A3i_Wolf_v%E1%BB%81_H%C3%B3a_h%E1%BB%8Dc,Giải Wolf về Hóa học,AWARD
+/wiki/1990,1990,DATE
+/wiki/2004,2004,DATE
+/wiki/Gi%E1%BA%A3i_H%C3%B2a_b%C3%ACnh_c%E1%BB%A7a_ng%C3%A0nh_kinh_doanh_s%C3%A1ch_%C4%90%E1%BB%A9c,Giải Hòa bình của ngành kinh doanh sách Đức,AWARD 
+/wiki/Nga_X%C3%B4,Nga Xô viết,LOCATION 
+"/wiki/Boston,_Massachusetts",Boston,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_California_t%E1%BA%A1i_Irvine,Đại học California tại Irvine,ORGANIZATION
+/wiki/Armen_Alchian,Armen Alchian,PERSON
+/wiki/Orsay,Orsay,LOCATION
+/wiki/Gi%E1%BA%A3i_Wolf_V%E1%BA%ADt_l%C3%BD,Giải Wolf Vật lý,AWARD 
+/wiki/Coll%C3%A8ge_de_France,Collège de France,ORGANIZATION
+/wiki/Tr%C6%B0%E1%BB%9Dng_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Paris_XI,Đại học Paris-Sud,ORGANIZATION
+/wiki/Winterthur,Winterthur,LOCATION
+/wiki/Landsberg_am_Lech,Landsberg am Lech,LOCATION
+/wiki/Stuttgart,Stuttgart,LOCATION
+/wiki/Johannesburg,Johannesburg,ORGANIZATION
+/wiki/Yangon,Yangon,LOCATION
+/wiki/Mi%E1%BA%BFn_%C4%90i%E1%BB%87n_thu%E1%BB%99c_Anh,Miến Điện thuộc Anh,PERSON
+/wiki/Dubrovytsia,Dubrovytsia,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_California_t%E1%BA%A1i_Davis,Đại học California tại Davis,ORGANIZATION
+"/wiki/Pottsville,_Pennsylvania","Pottsville, Pennsylvania",ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Massachusetts_Amherst,Đại học Massachusetts Amherst,ORGANIZATION
+"/wiki/Newport_Beach,_California","Newport Beach, California",LOCATION
+/wiki/H%E1%BB%8Dc_vi%E1%BB%87n_C%C3%B4ng_ngh%E1%BB%87_Georgia,Học viện Công nghệ Georgia,ORGANIZATION
+/wiki/Gi%E1%BA%A3i_Robert_Koch,Giải Robert Koch,AWARD 
+/wiki/Evelyn_Mase,Evelyn Mase,PERSON
+/wiki/Winnie_Madikizela-Mandela,Winnie Madikizela-Mandela,PERSON
+/wiki/Gra%C3%A7a_Machel,Graça Machel,PERSON
+/wiki/Zenani_Mandela-Dlamini,Zenani Mandela-Dlamini,PERSON
+/wiki/Gauteng,Gauteng,LOCATION
+"/wiki/Oak_Lawn,_Illinois","Oak Lawn, Illinois",LOCATION
+/wiki/Lethbridge,Lethbridge,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_British_Columbia,Đại học British Columbia,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_McMaster,Đại học McMaster,ORGANIZATION
+/wiki/B%E1%BA%AFc_Carolina,North Carolina,LOCATION
+"/wiki/Uchiko,_Ehime","Uchiko, Ehime",LOCATION
+/wiki/Ehime,Ehime,LOCATION
+/wiki/Ng%C6%B0%E1%BB%9Di_Palestine,Người Palestine,PERSON
+/wiki/2_th%C3%A1ng_8,2 tháng 8,DATE
+/wiki/%C4%90%E1%BB%87_Nh%E1%BB%8B_C%E1%BB%99ng_h%C3%B2a_Ba_Lan,Đệ Nhị Cộng hòa Ba Lan,AWARD
+/wiki/2016,2016,DATE
+/wiki/Ramat_Gan,Ramat Gan,ORGANIZATION
+/wiki/1_th%C3%A1ng_3,1 tháng 3,DATE
+/wiki/L%C3%A3nh_th%E1%BB%95_%E1%BB%A6y_tr%E1%BB%8B_Palestine,Lãnh thổ Ủy trị Palestine,AWARD
+/wiki/4_th%C3%A1ng_11,4 tháng 11,DATE
+/wiki/1995,1995,DATE
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Hungary_(1920%E2%80%931946),Vương quốc Hungary (1920–1946),LOCATION 
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_E%C3%B6tv%C3%B6s_Lor%C3%A1nd,Đại học Eötvös Loránd,PERSON
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Qu%E1%BB%91c_gia_Australia,Đại học Quốc gia Úc,ORGANIZATION
+"/wiki/Bluefield,_West_Virginia","Bluefield, West Virginia",LOCATION
+/wiki/Gi%E1%BA%A3i_Abel,Giải Abel,AWARD 
+/wiki/Vi%E1%BB%87n_c%C3%B4ng_ngh%E1%BB%87_Massachusetts,Viện Công nghệ Massachusetts,ORGANIZATION
+/wiki/Pozna%C5%84,Poznań,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Goethe_Frankfurt,Đại học Goethe Frankfurt,ORGANIZATION
+"/wiki/Paterson,_New_Jersey","Paterson, New Jersey",LOCATION
+"/wiki/Orange,_California","Orange, California",LOCATION
+/wiki/Gi%E1%BA%A3i_Bruno_Rossi,Giải Bruno Rossi,AWARD
+/wiki/Gi%E1%BA%A3i_Panofsky,Giải Panofsky,AWARD 
+/wiki/Mexico_City,Thành phố México,LOCATION
+/wiki/Mexico,México,LOCATION
+/wiki/NASA,NASA,ORGANIZATION
+/wiki/Li%C3%AAn_h%E1%BB%A3p_qu%E1%BB%91c,Liên Hợp Quốc,ORGANIZATION
+/wiki/1999,1999,DATE
+/wiki/2003,2003,DATE
+/wiki/Hu%C3%A2n_ch%C6%B0%C6%A1ng_T%E1%BB%B1_do,Huân chương Tự do,AWARD 
+/wiki/2013,2013,DATE
+/wiki/Jet_Propulsion_Laboratory,Phòng Thí nghiệm Sức đẩy Phản lực,PERSON
+/wiki/13_th%C3%A1ng_4,13 tháng 4,DATE
+/wiki/Lawrence_Summers,Lawrence Summers,PERSON
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_B%C3%A1ch_khoa_Virginia,Đại học Bách khoa Virginia,ORGANIZATION
+/wiki/23_th%C3%A1ng_8,23 tháng 8,DATE
+"/wiki/Alice,_Texas","Alice, Texas",LOCATION
+/wiki/Houston,Houston,LOCATION
+/wiki/1996,1996,DATE
+"/wiki/Akron,_Ohio","Akron, Ohio",LOCATION
+/wiki/1991,1991,DATE
+/wiki/Huy_ch%C6%B0%C6%A1ng_Glenn_T.Seaborg,Huy chương Glenn T. Seaborg,AWARD 
+/wiki/2002,2002,DATE
+/wiki/Brisbane,Brisbane,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Queensland,Đại học Queensland,ORGANIZATION
+/wiki/K%C3%B3rnik,Kórnik,LOCATION
+/wiki/26_th%C3%A1ng_12,26 tháng 12,DATE
+/wiki/Dili,Dili,LOCATION
+/wiki/Timor_thu%E1%BB%99c_B%E1%BB%93_%C4%90%C3%A0o_Nha,Timor thuộc Bồ Đào Nha,PERSON
+/wiki/%C4%90%C3%B4ng_Timor,Đông Timor,LOCATION
+"/wiki/Victoria,_British_Columbia","Victoria, British Columbia",LOCATION
+/wiki/Gi%C3%A1o_ho%C3%A0ng_Constantin%C3%B4,Giáo hoàng Constantinô,PERSON
+/wiki/Constantine_(t%E1%BB%89nh),Constantine (tỉnh),LOCATION
+"/wiki/Wilkes-Barre,_Pennsylvania","Wilkes-Barre, Pennsylvania",ORGANIZATION
+/wiki/National_Institute_of_Standards_and_Technology,Viện Tiêu chuẩn và Công nghệ Quốc gia,ORGANIZATION
+/wiki/Provo,"Provo, Utah",LOCATION
+/wiki/Utah,Utah,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Brigham_Young,Đại học Brigham Young,ORGANIZATION
+/wiki/Aarhus,Aarhus,LOCATION
+"/wiki/Des_Moines,_Iowa","Des Moines, Iowa",LOCATION
+/wiki/Gi%E1%BA%A3i_Nobel_Sinh_l%C3%BD_v%C3%A0_Y_h%E1%BB%8Dc,Giải Nobel Sinh lý học hoặc Y học,AWARD
+/wiki/Gi%E1%BA%A3i_Potamkin,Giải Potamkin,AWARD 
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_California_t%E1%BA%A1i_San_Francisco,Đại học California tại San Francisco,ORGANIZATION
+"/wiki/New_York_City,_New_York",Thành phố New York,LOCATION
+"/wiki/Santa_Barbara,_California","Santa Barbara, California",LOCATION
+"/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_California,_Santa_Barbara",Đại học California tại Santa Barbara,ORGANIZATION
+/wiki/31_th%C3%A1ng_10,31 tháng 10,DATE
+/wiki/Somerset,Somerset,LOCATION
+"/wiki/Charleston,_Nam_Carolina","Charleston, South Carolina",LOCATION
+"/wiki/Menlo_Park,_California","Menlo Park, California",LOCATION
+/wiki/Abbott,Abbott Laboratories,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_George_Washington,Đại học George Washington,ORGANIZATION
+/wiki/B%E1%BB%93_%C4%90%C3%A0o_Nha,Bồ Đào Nha,ORGANIZATION
+/wiki/Santiniketan,Santiniketan,LOCATION
+/wiki/Tr%C6%B0%E1%BB%9Dng_Kinh_t%E1%BA%BF_London,Trường Kinh tế và Khoa học Chính trị Luân Đôn,ORGANIZATION
+/wiki/Mahbub_ul_Haq,Mahbub ul Haq,PERSON
+/wiki/Tony_Atkinson,Tony Atkinson,PERSON
+/wiki/Den_Helder,Den Helder,PERSON
+/wiki/Gi%E1%BA%A3i_th%C6%B0%E1%BB%9Fng_Wolf,Giải Wolf về Toán học,AWARD 
+/wiki/Waalwijk,Waalwijk,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Michigan-Ann_Arbor,Đại học Michigan,ORGANIZATION
+/wiki/Gerardus_%27t_Hooft,Gerard 't Hooft,PERSON
+/wiki/Gi%E1%BA%A3i_Wolf,Giải Wolf,AWARD 
+/wiki/Gi%E1%BA%A3i_H%C3%B3a_h%E1%BB%8Dc_c%E1%BB%A7a_Vi%E1%BB%87n_h%C3%A0n_l%C3%A2m_Khoa_h%E1%BB%8Dc_qu%E1%BB%91c_gia_Hoa_K%E1%BB%B3,Giải Hóa học của Viện hàn lâm Khoa học quốc gia Hoa Kỳ,AWARD
+/wiki/Gi%E1%BA%A3i_Ph%E1%BB%95_h%E1%BB%8Dc_Edgar_Bright_Wilson,Giải Phổ học Edgar Bright Wilson,AWARD 
+/wiki/Gi%E1%BA%A3i_Khoa_h%E1%BB%8Dc_th%E1%BA%BF_gi%E1%BB%9Bi_Albert_Einstein,Giải Khoa học thế giới Albert Einstein,AWARD
+/wiki/2011,2011,DATE
+/wiki/Th%C3%A0nh_ph%E1%BB%91_t%E1%BB%B1_do_Danzig,Thành phố tự do Danzig,ORGANIZATION
+/wiki/L%C3%BCbeck,Lübeck,LOCATION
+/wiki/Gi%E1%BA%A3i_Georg_B%C3%BCchner,Giải Georg Büchner,AWARD 
+/wiki/Gi%E1%BA%A3i_th%C6%B0%E1%BB%9Fng_Ho%C3%A0ng_t%E1%BB%AD_x%E1%BB%A9_Asturias,Giải thưởng Nữ thân vương xứ Asturias,AWARD 
+/wiki/2021,2021,DATE
+/wiki/Siena,Siena,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Waterloo,Đại học Waterloo,ORGANIZATION
+/wiki/Columbia_University,Đại học Columbia,ORGANIZATION
+"/wiki/Jefferson_City,_Missouri","Jefferson City, Missouri",LOCATION
+/wiki/Ng%C6%B0%E1%BB%9Di_M%E1%BB%B9,Người Mỹ,PERSON
+/wiki/Gi%E1%BA%A3i_Kyoto,Giải Kyoto,AWARD 
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Nebraska,Hệ thống Đại học Nebraska,ORGANIZATION
+/wiki/14_th%C3%A1ng_4,14 tháng 4,DATE
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_St_Andrews,Đại học St. Andrews,ORGANIZATION
+/wiki/Trung_Hoa_D%C3%A2n_Qu%E1%BB%91c,Đài Loan,ORGANIZATION
+/wiki/C%E1%BB%99ng_h%C3%B2a_Nh%C3%A2n_d%C3%A2n_Trung_Hoa,Trung Quốc,LOCATION
+/wiki/Nam_Jeolla,Jeolla Nam,LOCATION
+/wiki/Tri%E1%BB%81u_Ti%C3%AAn_thu%E1%BB%99c_Nh%E1%BA%ADt,Triều Tiên thuộc Nhật,LOCATION
+/wiki/Seoul,Seoul,LOCATION
+/wiki/H%C3%A0n_Qu%E1%BB%91c,Hàn Quốc,LOCATION
+"/wiki/Raleigh,_North_Carolina","Raleigh, North Carolina",LOCATION
+/wiki/Huy_ch%C6%B0%C6%A1ng_Frisch,Huy chương Frisch,AWARD
+/wiki/MIT,Viện Công nghệ Massachusetts,ORGANIZATION
+"/wiki/Corvallis,_Oregon","Corvallis, Oregon",LOCATION
+/wiki/1_th%C3%A1ng_6,1 tháng 6,DATE
+"/wiki/Taunton,_Massachusetts","Taunton, Massachusetts",LOCATION
+"/wiki/Chesterfield,_Missouri","Chesterfield, Missouri",LOCATION
+/wiki/Kobe,Kōbe,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Nagoya,Đại học Nagoya,ORGANIZATION
+/wiki/2009,2009,DATE
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Dartmouth,Đại học Dartmouth,ORGANIZATION
+/wiki/2000,2000,DATE
+/wiki/Chaguanas,Chaguanas,LOCATION
+/wiki/Trinidad_v%C3%A0_Tobago,Trinidad và Tobago,LOCATION
+/wiki/United_Kingdom,Vương quốc Liên hiệp Anh và Bắc Ireland,LOCATION
+/wiki/Man_Booker_Prize,Giải Booker,AWARD
+/wiki/Kumasi,Kumasi,LOCATION
+/wiki/B%E1%BB%9D_Bi%E1%BB%83n_V%C3%A0ng,Ghana,LOCATION
+/wiki/Ghana,Ghana,LOCATION
+/wiki/Janet_Yellen,Janet Yellen,PERSON
+"/wiki/Toyohashi,_Aichi","Toyohashi, Aichi",LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Tokyo,Đại học Tokyo,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Milano,Đại học Milano,ORGANIZATION
+/wiki/15_th%C3%A1ng_6,15 tháng 6,DATE
+/wiki/Toyama,Toyama,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Tohoku,Đại học Tōhoku,ORGANIZATION
+/wiki/Aarberg,Aarberg,LOCATION
+/wiki/Gi%E1%BA%A3i_Y_h%E1%BB%8Dc_Louis-Jeantet,Giải Y học Louis-Jeantet,AWARD 
+/wiki/Vi%E1%BB%87n_Scripps,Viện Scripps,ORGANIZATION
+/wiki/Singapore,Singapore,LOCATION
+/wiki/Gi%E1%BA%A3i_Nobel_V%C4%83n_ch%C6%B0%C6%A1ng,Giải Nobel Văn học,AWARD
+/wiki/Georgia,Georgia,LOCATION
+/wiki/Rosalynn_Carter,Rosalynn Carter,PERSON
+/wiki/L%C3%A3nh_th%E1%BB%95_U%E1%BB%B7_tr%E1%BB%8B_Palestine,Lãnh thổ Ủy trị Palestine,AWARD
+/wiki/Hi%E1%BB%87p_h%E1%BB%99i_T%C3%A2m_l%C3%BD_h%E1%BB%8Dc_Hoa_K%E1%BB%B3,Hiệp hội Tâm lý học Hoa Kỳ,ORGANIZATION
+"/wiki/Wichita,_Kansas","Wichita, Kansas",LOCATION
+"/wiki/Northfield,_Minnesota","Northfield, Minnesota",ORGANIZATION
+/wiki/Gi%E1%BA%A3i_th%C6%B0%E1%BB%9Fng_Albert_Lasker_cho_Nghi%C3%AAn_c%E1%BB%A9u_Y_h%E1%BB%8Dc_c%C6%A1_b%E1%BA%A3n,Giải Albert Lasker cho nghiên cứu Y học cơ bản,AWARD 
+"/wiki/Sidney,_Ohio","Sidney, Ohio",LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Pittsburgh,Đại học Pittsburgh,ORGANIZATION
+/wiki/Iran,Iran,LOCATION
+"/wiki/Syracuse,_New_York","Syracuse, New York",LOCATION
+/wiki/Swansea,Swansea,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Nottingham,Đại học Nottingham,ORGANIZATION
+/wiki/New_York_(state),New York (tiểu bang),LOCATION
+/wiki/University_of_Chicago,Đại học Chicago,ORGANIZATION
+/wiki/Princeton_University,Đại học Princeton,ORGANIZATION
+/wiki/Gi%E1%BA%A3i_Sakurai,Giải Sakurai,AWARD
+/wiki/Massachusetts_Institute_of_Technology,Viện Công nghệ Massachusetts,ORGANIZATION
+/wiki/Haifa,Haifa,LOCATION
+/wiki/Palestine,Nhà nước Palestine,LOCATION
+/wiki/Karcag,Karcag,LOCATION
+/wiki/Tr%C6%B0%E1%BB%9Dng_Trung_h%E1%BB%8Dc_Stuyvesant,Trường Trung học Stuyvesant,ORGANIZATION
+/wiki/M%C3%BCrzzuschlag,Mürzzuschlag,LOCATION
+/wiki/Steiermark,Steiermark,LOCATION
+/wiki/Kenya,Kenya,LOCATION
+/wiki/Stavanger,Stavanger,LOCATION
+"/wiki/Glens_Falls,_New_York","Glens Falls, New York",LOCATION
+/wiki/Carnegie_Mellon_University,Đại học Carnegie Mellon,ORGANIZATION
+/wiki/2018,2018,DATE
+/wiki/21_th%C3%A1ng_8,21 tháng 8,DATE
+/wiki/Denver,Denver,LOCATION
+/wiki/Gi%E1%BA%A3i_Nobel_V%E1%BA%ADt_l%C3%BD,Giải Nobel Vật lý,AWARD
+/wiki/Gi%E1%BA%A3i_Nobel_H%C3%B3a_h%E1%BB%8Dc,Giải Nobel hóa học,AWARD
+/wiki/Gi%E1%BA%A3i_Nobel_Sinh_l%C3%BD_h%E1%BB%8Dc_ho%E1%BA%B7c_Y_h%E1%BB%8Dc,Giải Nobel Sinh lý học hoặc Y học,AWARD
+/wiki/Gi%E1%BA%A3i_Nobel_V%C4%83n_h%E1%BB%8Dc,Giải Nobel Văn học,AWARD
+/wiki/Gi%E1%BA%A3i_Nobel_H%C3%B2a_b%C3%ACnh,Giải Nobel Hòa bình,AWARD
+/wiki/Gi%E1%BA%A3i_Nobel_Kinh_t%E1%BA%BF,Giải Nobel Kinh tế,AWARD 
+/wiki/Wilhelm_R%C3%B6ntgen,Wilhelm Röntgen,PERSON
+/wiki/Jacobus_Henricus_van_%27t_Hoff,Jacobus Henricus van 't Hoff,PERSON
+/wiki/Emil_Adolf_von_Behring,Emil Adolf von Behring,PERSON
+/wiki/Sully_Prudhomme,Sully Prudhomme,PERSON
+/wiki/Henry_Dunant,Henry Dunant,PERSON
+/wiki/Fr%C3%A9d%C3%A9ric_Passy,Frédéric Passy,PERSON
+/wiki/Hendrik_Lorentz,Hendrik Lorentz,PERSON
+/wiki/Pieter_Zeeman,Pieter Zeeman,PERSON
+/wiki/Hermann_Emil_Fischer,Emil Fischer,PERSON
+/wiki/Ronald_Ross,Ronald Ross,PERSON
+/wiki/Theodor_Mommsen,Theodor Mommsen,PERSON
+/wiki/%C3%89lie_Ducommun,Élie Ducommun,PERSON
+/wiki/Charles_Albert_Gobat,Charles Albert Gobat,PERSON
+/wiki/Henri_Becquerel,Henri Becquerel,PERSON
+/wiki/Pierre_Curie,Pierre Curie,PERSON
+/wiki/Marie_Curie,Marie Curie,PERSON
+/wiki/Svante_Arrhenius,Svante Arrhenius,PERSON
+/wiki/Niels_Ryberg_Finsen,Niels Ryberg Finsen,PERSON
+/wiki/Bj%C3%B8rnstjerne_Bj%C3%B8rnson,Bjørnstjerne Bjørnson,PERSON
+/wiki/Randal_Cremer,William Randal Cremer,PERSON
+"/wiki/John_William_Strutt,_Nam_t%C6%B0%E1%BB%9Bc_Rayleigh_th%E1%BB%A9_3","John William Strutt, Nam tước Rayleigh thứ 3",PERSON
+/wiki/William_Ramsay,William Ramsay,PERSON
+/wiki/Ivan_Pavlov,Ivan Petrovich Pavlov,PERSON
+/wiki/Fr%C3%A9d%C3%A9ric_Mistral,Frédéric Mistral,PERSON
+/wiki/Jos%C3%A9_Echegaray,José Echegaray,PERSON
+/wiki/Philipp_Lenard,Philipp Lenard,PERSON
+/wiki/Adolf_von_Baeyer,Adolf von Baeyer,PERSON
+/wiki/Robert_Koch,Robert Koch,PERSON
+/wiki/Henryk_Sienkiewicz,Henryk Sienkiewicz,PERSON
+/wiki/Bertha_von_Suttner,Bertha von Suttner,PERSON
+/wiki/J._J._Thomson,Joseph John Thomson,PERSON
+/wiki/Henri_Moissan,Henri Moissan,PERSON
+/wiki/Santiago_Ram%C3%B3n_y_Cajal,Santiago Ramón y Cajal,PERSON
+/wiki/Giosu%C3%A8_Carducci,Giosuè Carducci,PERSON
+/wiki/Theodore_Roosevelt,Theodore Roosevelt,PERSON
+/wiki/Albert_Abraham_Michelson,Albert Abraham Michelson,PERSON
+/wiki/Eduard_Buchner,Eduard Buchner,PERSON
+/wiki/Charles_Louis_Alphonse_Laveran,Charles Louis Alphonse Laveran,PERSON
+/wiki/Rudyard_Kipling,Rudyard Kipling,PERSON
+/wiki/Ernesto_Teodoro_Moneta,Ernesto Teodoro Moneta,PERSON
+/wiki/Louis_Renault_(jurist),Louis Renault (luật gia),PERSON
+/wiki/Gabriel_Lippmann,Gabriel Lippmann,PERSON
+/wiki/Ernest_Rutherford,Ernest Rutherford,PERSON
+/wiki/%C3%89lie_Metchnikoff,Ilya Ilyich Mechnikov,PERSON
+/wiki/Paul_Ehrlich,Paul Ehrlich,PERSON
+/wiki/Rudolf_Christoph_Eucken,Rudolf Christoph Eucken,PERSON
+/wiki/Klas_Pontus_Arnoldson,Klas Pontus Arnoldson,PERSON
+/wiki/Fredrik_Bajer,Fredrik Bajer,PERSON
+/wiki/Karl_Ferdinand_Braun,Karl Ferdinand Braun,PERSON
+/wiki/Guglielmo_Marconi,Guglielmo Marconi,PERSON
+/wiki/Wilhelm_Ostwald,Wilhelm Ostwald,PERSON
+/wiki/Emil_Theodor_Kocher,Emil Theodor Kocher,PERSON
+/wiki/Selma_Lagerl%C3%B6f,Selma Lagerlöf,PERSON
+/wiki/Auguste_Marie_Fran%C3%A7ois_Beernaert,Auguste Beernaert,PERSON
+/wiki/Paul-Henri-Benjamin_d%27Estournelles_de_Constant,Paul-Henri-Benjamin d'Estournelles de Constant,PERSON
+/wiki/Johannes_Diderik_van_der_Waals,Johannes Diderik van der Waals,PERSON
+/wiki/Otto_Wallach,Otto Wallach,PERSON
+/wiki/Albrecht_Kossel,Albrecht Kossel,PERSON
+/wiki/Paul_Heyse,Paul Johann Ludwig von Heyse,PERSON
+/wiki/Wilhelm_Wien,Wilhelm Wien,PERSON
+/wiki/Allvar_Gullstrand,Allvar Gullstrand,PERSON
+/wiki/Maurice_Maeterlinck,Maurice Maeterlinck,PERSON
+/wiki/Tobias_Asser,Tobias Michael Carel Asser,PERSON
+/wiki/Alfred_Hermann_Fried,Alfred Hermann Fried,PERSON
+/wiki/Gustaf_Dal%C3%A9n,Gustaf Dalén,PERSON
+/wiki/Victor_Grignard,Victor Grignard,PERSON
+/wiki/Paul_Sabatier_(chemist),Paul Sabatier,PERSON
+/wiki/Alexis_Carrel,Alexis Carrel,PERSON
+/wiki/Gerhart_Hauptmann,Gerhart Hauptmann,PERSON
+/wiki/Heike_Kamerlingh_Onnes,Heike Kamerlingh Onnes,PERSON
+/wiki/Alfred_Werner,Alfred Werner,PERSON
+/wiki/Charles_Richet,Charles Robert Richet,PERSON
+/wiki/Rabindranath_Tagore,Rabindranath Tagore,PERSON
+/wiki/Henri_La_Fontaine,Henri La Fontaine,PERSON
+/wiki/Max_von_Laue,Max von Laue,PERSON
+/wiki/Theodore_William_Richards,Theodore William Richards,PERSON
+/wiki/Robert_B%C3%A1r%C3%A1ny,Robert Bárány,PERSON
+/wiki/William_Henry_Bragg,William Henry Bragg,PERSON
+/wiki/William_Lawrence_Bragg,William Lawrence Bragg,PERSON
+/wiki/Richard_Willst%C3%A4tter,Richard Willstätter,PERSON
+/wiki/Romain_Rolland,Romain Rolland,PERSON
+/wiki/Verner_von_Heidenstam,Verner von Heidenstam,PERSON
+/wiki/Charles_Glover_Barkla,Charles Glover Barkla,PERSON
+/wiki/Karl_Adolph_Gjellerup,Karl Gjellerup,PERSON
+/wiki/Henrik_Pontoppidan,Henrik Pontoppidan,PERSON
+/wiki/%E1%BB%A6y_ban_Ch%E1%BB%AF_th%E1%BA%ADp_%C4%91%E1%BB%8F_qu%E1%BB%91c_t%E1%BA%BF,Ủy ban Chữ thập đỏ quốc tế,ORGANIZATION
+/wiki/Max_Planck,Max Planck,PERSON
+/wiki/Fritz_Haber,Fritz Haber,PERSON
+/wiki/Johannes_Stark,Johannes Stark,PERSON
+/wiki/Jules_Bordet,Jules Bordet,PERSON
+/wiki/Carl_Spitteler,Carl Spitteler,PERSON
+/wiki/Woodrow_Wilson,Woodrow Wilson,PERSON
+/wiki/Charles_%C3%89douard_Guillaume,Charles Édouard Guillaume,PERSON
+/wiki/Walther_Nernst,Walther Nernst,PERSON
+/wiki/August_Krogh,August Krogh,PERSON
+/wiki/Knut_Hamsun,Knut Hamsun,PERSON
+/wiki/Albert_Einstein,Albert Einstein,PERSON
+/wiki/Frederick_Soddy,Frederick Soddy,PERSON
+/wiki/Anatole_France,Anatole France,PERSON
+/wiki/Hjalmar_Branting,Hjalmar Branting,PERSON
+/wiki/Christian_Lous_Lange,Christian Lous Lange,ORGANIZATION
+/wiki/Niels_Bohr,Niels Bohr,PERSON
+/wiki/Francis_William_Aston,Francis William Aston,PERSON
+/wiki/Otto_Fritz_Meyerhof,Otto Fritz Meyerhof,PERSON
+/wiki/Jacinto_Benavente,Jacinto Benavente,PERSON
+/wiki/Fridtjof_Nansen,Fridtjof Nansen,PERSON
+/wiki/Robert_Andrews_Millikan,Robert Millikan,PERSON
+/wiki/Fritz_Pregl,Fritz Pregl,PERSON
+/wiki/Frederick_Banting,Frederick Banting,PERSON
+/wiki/John_James_Rickard_Macleod,John James Rickard Macleod,PERSON
+/wiki/W._B._Yeats,William Butler Yeats,PERSON
+/wiki/Manne_Siegbahn,Manne Siegbahn,PERSON
+/wiki/Willem_Einthoven,Willem Einthoven,PERSON
+/wiki/W%C5%82adys%C5%82aw_Reymont,Władysław Reymont,PERSON
+/wiki/James_Franck,James Franck,PERSON
+/wiki/Gustav_Ludwig_Hertz,Gustav Ludwig Hertz,PERSON
+/wiki/Richard_Adolf_Zsigmondy,Richard Adolf Zsigmondy,PERSON
+/wiki/George_Bernard_Shaw,George Bernard Shaw,PERSON
+/wiki/Austen_Chamberlain,Austen Chamberlain,PERSON
+/wiki/Charles_G._Dawes,Charles G. Dawes,PERSON
+/wiki/Jean_Baptiste_Perrin,Jean Baptiste Perrin,PERSON
+/wiki/Theodor_Svedberg,Theodor Svedberg,PERSON
+/wiki/Johannes_Fibiger,Johannes Fibiger,PERSON
+/wiki/Grazia_Deledda,Grazia Deledda,PERSON
+/wiki/Gustav_Stresemann,Gustav Stresemann,PERSON
+/wiki/Arthur_Compton,Arthur Compton,PERSON
+/wiki/Charles_Thomson_Rees_Wilson,Charles Thomson Rees Wilson,PERSON
+/wiki/Heinrich_Otto_Wieland,Heinrich Otto Wieland,PERSON
+/wiki/Julius_Wagner-Jauregg,Julius Wagner-Jauregg,PERSON
+/wiki/Henri_Bergson,Henri Bergson,PERSON
+/wiki/Owen_Willans_Richardson,Owen Willans Richardson,PERSON
+/wiki/Adolf_Otto_Reinhold_Windaus,Adolf Windaus,PERSON
+/wiki/Charles_Nicolle,Charles Nicolle,PERSON
+/wiki/Sigrid_Undset,Sigrid Undset,PERSON
+/wiki/Louis_de_Broglie,Louis de Broglie,PERSON
+/wiki/Arthur_Harden,Arthur Harden,PERSON
+/wiki/Hans_von_Euler-Chelpin,Hans von Euler-Chelpin,PERSON
+/wiki/Frederick_Gowland_Hopkins,Frederick Gowland Hopkins,PERSON
+/wiki/Thomas_Mann,Thomas Mann,PERSON
+/wiki/Frank_B._Kellogg,Frank Billings Kellogg,PERSON
+/wiki/C._V._Raman,Chandrasekhara Venkata Raman,PERSON
+/wiki/Hans_Fischer,Hans Fischer,PERSON
+/wiki/Karl_Landsteiner,Karl Landsteiner,PERSON
+/wiki/Sinclair_Lewis,Sinclair Lewis,PERSON
+/wiki/Nathan_S%C3%B6derblom,Nathan Söderblom,PERSON
+/wiki/Carl_Bosch,Carl Bosch,PERSON
+/wiki/Friedrich_Bergius,Friedrich Bergius,PERSON
+/wiki/Otto_Heinrich_Warburg,Otto Heinrich Warburg,PERSON
+/wiki/Erik_Axel_Karlfeldt,Erik Axel Karlfeldt,PERSON
+/wiki/Jane_Addams,Jane Addams,PERSON
+/wiki/Werner_Heisenberg,Werner Heisenberg,PERSON
+/wiki/Irving_Langmuir,Irving Langmuir,PERSON
+/wiki/John_Galsworthy,John Galsworthy,PERSON
+/wiki/Erwin_Schr%C3%B6dinger,Erwin Schrödinger,PERSON
+/wiki/Paul_Dirac,Paul Dirac,PERSON
+/wiki/Thomas_Hunt_Morgan,Thomas Hunt Morgan,PERSON
+/wiki/Ivan_Bunin,Ivan Alekseyevich Bunin,PERSON
+/wiki/Norman_Angell,Norman Angell,PERSON
+/wiki/Harold_Urey,Harold Urey,PERSON
+/wiki/George_Whipple,George Whipple,PERSON
+/wiki/George_Minot,George Minot,PERSON
+/wiki/William_P._Murphy,William P. Murphy,PERSON
+/wiki/Luigi_Pirandello,Luigi Pirandello,PERSON
+/wiki/James_Chadwick,James Chadwick,PERSON
+/wiki/Fr%C3%A9d%C3%A9ric_Joliot-Curie,Frédéric Joliot-Curie,PERSON
+/wiki/Ir%C3%A8ne_Joliot-Curie,Irène Joliot-Curie,PERSON
+/wiki/Victor_Francis_Hess,Victor Francis Hess,PERSON
+/wiki/Carl_David_Anderson,Carl David Anderson,PERSON
+/wiki/Peter_Debye,Peter Debye,PERSON
+/wiki/Eugene_O%27Neill,Eugene O'Neill,PERSON
+/wiki/Carlos_Saavedra_Lamas,Carlos Saavedra Lamas,PERSON
+/wiki/Clinton_Davisson,Clinton Davisson,PERSON
+/wiki/George_Paget_Thomson,George Paget Thomson,PERSON
+/wiki/Norman_Haworth,Norman Haworth,PERSON
+/wiki/Paul_Karrer,Paul Karrer,PERSON
+/wiki/Albert_Szent-Gy%C3%B6rgyi,Albert Szent-Györgyi,PERSON
+/wiki/Roger_Martin_du_Gard,Roger Martin du Gard,PERSON
+/wiki/Enrico_Fermi,Enrico Fermi,PERSON
+/wiki/Richard_Kuhn,Richard Kuhn,PERSON
+#endnote_Note1A,Trang Chính,LOCATION
+/wiki/Corneille_Heymans,Corneille Heymans,PERSON
+/wiki/Pearl_S._Buck,Pearl S. Buck,PERSON
+/wiki/Ph%C3%B2ng_qu%E1%BB%91c_t%E1%BA%BF_Nansen_cho_c%C3%A1c_ng%C6%B0%E1%BB%9Di_t%E1%BB%8B_n%E1%BA%A1n,Cơ quan quốc tế về người tị nạn Nansen,ORGANIZATION
+/wiki/Ernest_Lawrence,Ernest Lawrence,PERSON
+/wiki/Adolf_Butenandt,Adolf Butenandt,PERSON
+/wiki/Leopold_Ru%C5%BEi%C4%8Dka,Leopold Ružička,PERSON
+/wiki/Gerhard_Domagk,Gerhard Domagk,PERSON
+/wiki/Frans_Eemil_Sillanp%C3%A4%C3%A4,Frans Eemil Sillanpää,PERSON
+/wiki/Otto_Stern,Otto Stern,PERSON
+/wiki/George_de_Hevesy,George de Hevesy,PERSON
+/wiki/Henrik_Dam,Henrik Dam,PERSON
+/wiki/Edward_Adelbert_Doisy,Edward Adelbert Doisy,PERSON
+/wiki/Isidor_Isaac_Rabi,Isidor Isaac Rabi,PERSON
+/wiki/Otto_Hahn,Otto Hahn,PERSON
+/wiki/Joseph_Erlanger,Joseph Erlanger,PERSON
+/wiki/Herbert_Spencer_Gasser,Herbert Spencer Gasser,PERSON
+/wiki/Johannes_Vilhelm_Jensen,Johannes Vilhelm Jensen,PERSON
+/wiki/Wolfgang_Pauli,Wolfgang Ernst Pauli,PERSON
+/wiki/Artturi_Ilmari_Virtanen,Artturi Ilmari Virtanen,PERSON
+/wiki/Alexander_Fleming,Alexander Fleming,PERSON
+/wiki/Ernst_Boris_Chain,Ernst Boris Chain,PERSON
+/wiki/Howard_Florey,Howard Walter Florey,PERSON
+/wiki/Gabriela_Mistral,Gabriela Mistral,PERSON
+/wiki/Percy_Williams_Bridgman,Percy Williams Bridgman,PERSON
+/wiki/James_B._Sumner,James Batcheller Sumner,PERSON
+/wiki/John_Howard_Northrop,John Howard Northrop,PERSON
+/wiki/Wendell_Meredith_Stanley,Wendell Meredith Stanley,PERSON
+/wiki/Hermann_Joseph_Muller,Hermann Joseph Muller,PERSON
+/wiki/Hermann_Hesse,Hermann Hesse,PERSON
+/wiki/Emily_Greene_Balch,Emily Greene Balch,PERSON
+/wiki/John_Mott,John Mott,PERSON
+/wiki/Edward_Victor_Appleton,Edward Victor Appleton,PERSON
+/wiki/Robert_Robinson_(organic_chemist),Robert Robinson,PERSON
+/wiki/Carl_Ferdinand_Cori,Carl Ferdinand Cori,PERSON
+/wiki/Gerty_Cori,Gerty Theresa Cori,PERSON
+/wiki/Bernardo_Houssay,Bernardo Houssay,PERSON
+/wiki/Andr%C3%A9_Gide,André Gide,PERSON
+"/wiki/Patrick_Blackett,_Baron_Blackett",Patrick Blackett,PERSON
+/wiki/Arne_Tiselius,Arne Tiselius,PERSON
+/wiki/Paul_Hermann_M%C3%BCller,Paul Hermann Müller,PERSON
+/wiki/T._S._Eliot,T. S. Eliot,PERSON
+#endnote_Note1B,Trang Chính,LOCATION
+/wiki/Hideki_Yukawa,Yukawa Hideki,PERSON
+/wiki/William_Giauque,William Giauque,PERSON
+/wiki/Walter_Rudolf_Hess,Walter Rudolf Hess,PERSON
+/wiki/William_Faulkner,William Faulkner,PERSON
+/wiki/C._F._Powell,Cecil Frank Powell,PERSON
+/wiki/Otto_Diels,Otto Diels,PERSON
+/wiki/Kurt_Alder,Kurt Alder,PERSON
+/wiki/Philip_Showalter_Hench,Philip Showalter Hench,PERSON
+/wiki/Edward_Calvin_Kendall,Edward Calvin Kendall,PERSON
+/wiki/Tadeus_Reichstein,Tadeus Reichstein,PERSON
+/wiki/Bertrand_Russell,Bertrand Russell,PERSON
+/wiki/Ralph_Bunche,Ralph Bunche,PERSON
+/wiki/John_Cockcroft,John Cockcroft,PERSON
+/wiki/Ernest_Walton,Ernest Walton,PERSON
+/wiki/Edwin_McMillan,Edwin McMillan,PERSON
+/wiki/Glenn_T._Seaborg,Glenn Seaborg,PERSON
+/wiki/Max_Theiler,Max Theiler,PERSON
+/wiki/P%C3%A4r_Lagerkvist,Pär Lagerkvist,PERSON
+/wiki/L%C3%A9on_Jouhaux,Léon Jouhaux,PERSON
+/wiki/Felix_Bloch,Felix Bloch,PERSON
+/wiki/Edward_Mills_Purcell,Edward Mills Purcell,PERSON
+/wiki/Archer_John_Porter_Martin,Archer Martin,PERSON
+/wiki/Richard_Laurence_Millington_Synge,Richard Laurence Millington Synge,PERSON
+/wiki/Selman_Waksman,Selman Waksman,PERSON
+/wiki/Fran%C3%A7ois_Mauriac,François Mauriac,PERSON
+/wiki/Albert_Schweitzer,Albert Schweitzer,PERSON
+/wiki/Frits_Zernike,Frits Zernike,PERSON
+/wiki/Hermann_Staudinger,Hermann Staudinger,PERSON
+/wiki/Hans_Adolf_Krebs,Hans Adolf Krebs,PERSON
+/wiki/Fritz_Albert_Lipmann,Fritz Albert Lipmann,PERSON
+/wiki/Winston_Churchill,Winston Churchill,PERSON
+/wiki/George_Marshall,George Marshall,PERSON
+/wiki/Max_Born,Max Born,PERSON
+/wiki/Walther_Bothe,Walther Bothe,PERSON
+/wiki/Linus_Pauling,Linus Pauling,PERSON
+/wiki/John_Franklin_Enders,John Franklin Enders,PERSON
+/wiki/Frederick_Chapman_Robbins,Frederick Chapman Robbins,PERSON
+/wiki/Ernest_Hemingway,Ernest Hemingway,PERSON
+/wiki/Cao_%E1%BB%A7y_Li%C3%AAn_H%E1%BB%A3p_Qu%E1%BB%91c_v%E1%BB%81_ng%C6%B0%E1%BB%9Di_t%E1%BB%8B_n%E1%BA%A1n,Cao ủy Liên Hợp Quốc về người tị nạn,ORGANIZATION
+/wiki/Willis_Lamb,Willis Lamb,PERSON
+/wiki/Polykarp_Kusch,Polykarp Kusch,PERSON
+/wiki/Vincent_du_Vigneaud,Vincent du Vigneaud,PERSON
+/wiki/Hugo_Theorell,Hugo Theorell,PERSON
+/wiki/Halld%C3%B3r_Laxness,Halldór Laxness,PERSON
+/wiki/John_Bardeen,John Bardeen,PERSON
+/wiki/Walter_Houser_Brattain,Walter Houser Brattain,PERSON
+/wiki/William_Shockley,William Shockley,PERSON
+/wiki/Cyril_Norman_Hinshelwood,Cyril Norman Hinshelwood,PERSON
+/wiki/Nikolay_Semyonov,Nikolay Nikolayevich Semyonov,PERSON
+/wiki/Andr%C3%A9_Fr%C3%A9d%C3%A9ric_Cournand,André Frédéric Cournand,PERSON
+/wiki/Werner_Forssmann,Werner Forssmann,PERSON
+/wiki/Juan_Ram%C3%B3n_Jim%C3%A9nez,Juan Ramón Jiménez,PERSON
+/wiki/Chen_Ning_Yang,Dương Chấn Ninh,PERSON
+/wiki/Tsung-Dao_Lee,Lý Chính Đạo,PERSON
+"/wiki/Alexander_R._Todd,_Baron_Todd",Alexander R. Todd,PERSON
+/wiki/Albert_Camus,Albert Camus,PERSON
+/wiki/Lester_B._Pearson,Lester B. Pearson,PERSON
+/wiki/Pavel_Cherenkov,Pavel Alekseyevich Cherenkov,PERSON
+/wiki/Ilya_Frank,Ilya Mikhailovich Frank,PERSON
+/wiki/Igor_Tamm,Igor Yevgenyevich Tamm,PERSON
+/wiki/Frederick_Sanger,Frederick Sanger,PERSON
+/wiki/George_Wells_Beadle,George Wells Beadle,PERSON
+/wiki/Edward_Lawrie_Tatum,Edward Lawrie Tatum,PERSON
+/wiki/Boris_Pasternak,Boris Leonidovich Pasternak,PERSON
+/wiki/Dominique_Pire,Dominique Pire,PERSON
+/wiki/Emilio_G._Segr%C3%A8,Emilio G. Segrè,PERSON
+/wiki/Owen_Chamberlain,Owen Chamberlain,PERSON
+/wiki/Jaroslav_Heyrovsk%C3%BD,Jaroslav Heyrovský,PERSON
+/wiki/Severo_Ochoa,Severo Ochoa,PERSON
+/wiki/Salvatore_Quasimodo,Salvatore Quasimodo,PERSON
+/wiki/Donald_A._Glaser,Donald Arthur Glaser,PERSON
+/wiki/Willard_Libby,Willard Libby,PERSON
+/wiki/Frank_Macfarlane_Burnet,Frank Macfarlane Burnet,PERSON
+/wiki/Saint-John_Perse,Saint-John Perse,PERSON
+/wiki/Robert_Hofstadter,Robert Hofstadter,PERSON
+/wiki/Rudolf_M%C3%B6ssbauer,Rudolf Mößbauer,PERSON
+/wiki/Melvin_Calvin,Melvin Calvin,PERSON
+/wiki/Ivo_Andri%C4%87,Ivo Andrić,PERSON
+/wiki/Dag_Hammarskj%C3%B6ld,Dag Hammarskjöld,PERSON
+/wiki/Lev_Landau,Lev Davidovich Landau,PERSON
+/wiki/Max_Perutz,Max Perutz,PERSON
+/wiki/John_Kendrew,John Kendrew,PERSON
+/wiki/Francis_Crick,Francis Crick,PERSON
+/wiki/James_D._Watson,James D. Watson,PERSON
+/wiki/Maurice_Wilkins,Maurice Wilkins,PERSON
+/wiki/John_Steinbeck,John Steinbeck,PERSON
+/wiki/Eugene_Wigner,Eugene Wigner,PERSON
+/wiki/Maria_Goeppert-Mayer,Maria Goeppert-Mayer,PERSON
+/wiki/J._Hans_D._Jensen,Johannes Hans Daniel Jensen,PERSON
+/wiki/Karl_Ziegler,Karl Ziegler,PERSON
+/wiki/Giulio_Natta,Giulio Natta,PERSON
+/wiki/Giorgos_Seferis,Giorgos Seferis,PERSON
+/wiki/Li%C3%AAn_hi%E1%BB%87p_c%C3%A1c_H%E1%BB%99i_Ch%E1%BB%AF_th%E1%BA%ADp_%C4%90%E1%BB%8F_qu%E1%BB%91c_t%E1%BA%BF,Phong trào Chữ thập đỏ và Trăng lưỡi liềm đỏ quốc tế,LOCATION
+/wiki/Charles_Hard_Townes,Charles Townes,PERSON
+/wiki/Nikolay_Basov,Nikolay Gennadiyevich Basov,PERSON
+/wiki/Alexander_Prokhorov,Aleksandr Mikhailovich Prokhorov,PERSON
+/wiki/Dorothy_Hodgkin,Dorothy Hodgkin,PERSON
+/wiki/Konrad_Emil_Bloch,Konrad Emil Bloch,PERSON
+/wiki/Jean-Paul_Sartre,Jean-Paul Sartre,PERSON
+#endnote_Note1D,Trang Chính,LOCATION
+"/wiki/Martin_Luther_King,_Jr.",Martin Luther King,PERSON
+/wiki/Sin-Itiro_Tomonaga,Tomonaga Shinichirō,PERSON
+/wiki/Julian_Schwinger,Julian Schwinger,PERSON
+/wiki/Richard_Feynman,Richard Feynman,PERSON
+/wiki/Robert_Burns_Woodward,Robert Burns Woodward,PERSON
+/wiki/Fran%C3%A7ois_Jacob,François Jacob,PERSON
+/wiki/Andr%C3%A9_Michel_Lwoff,André Michel Lwoff,PERSON
+/wiki/Jacques_Monod,Jacques Monod,PERSON
+/wiki/Mikhail_Sholokhov,Mikhail Aleksandrovich Sholokhov,PERSON
+/wiki/Qu%E1%BB%B9_Nhi_%C4%91%E1%BB%93ng_Li%C3%AAn_H%E1%BB%A3p_Qu%E1%BB%91c,Quỹ Nhi đồng Liên Hợp Quốc,ORGANIZATION
+/wiki/Alfred_Kastler,Alfred Kastler,PERSON
+/wiki/Robert_S._Mulliken,Robert S. Mulliken,PERSON
+/wiki/Francis_Peyton_Rous,Francis Peyton Rous,PERSON
+/wiki/Charles_Brenton_Huggins,Charles Brenton Huggins,PERSON
+/wiki/Shmuel_Yosef_Agnon,Shmuel Yosef Agnon,PERSON
+/wiki/Nelly_Sachs,Nelly Sachs,PERSON
+/wiki/Hans_Bethe,Hans Bethe,PERSON
+/wiki/Manfred_Eigen,Manfred Eigen,PERSON
+/wiki/Ronald_George_Wreyford_Norrish,Ronald George Wreyford Norrish,PERSON
+/wiki/George_Porter,George Porter,PERSON
+/wiki/Ragnar_Granit,Ragnar Granit,PERSON
+/wiki/Miguel_%C3%81ngel_Asturias,Miguel Ángel Asturias,PERSON
+/wiki/Luis_Walter_Alvarez,Luis Alvarez,PERSON
+/wiki/Lars_Onsager,Lars Onsager,PERSON
+/wiki/Robert_W._Holley,Robert W. Holley,PERSON
+/wiki/Yasunari_Kawabata,Kawabata Yasunari,PERSON
+/wiki/Ren%C3%A9_Cassin,René Cassin,PERSON
+/wiki/Murray_Gell-Mann,Murray Gell-Mann,PERSON
+/wiki/Derek_Barton,Derek Barton,PERSON
+/wiki/Odd_Hassel,Odd Hassel,PERSON
+/wiki/Alfred_Hershey,Alfred Hershey,PERSON
+/wiki/Samuel_Beckett,Samuel Beckett,PERSON
+/wiki/T%E1%BB%95_ch%E1%BB%A9c_Lao_%C4%91%E1%BB%99ng_Qu%E1%BB%91c_t%E1%BA%BF,Tổ chức Lao động Quốc tế,ORGANIZATION
+/wiki/Ragnar_Frisch,Ragnar Frisch,PERSON
+/wiki/Jan_Tinbergen,Jan Tinbergen,PERSON
+/wiki/Hannes_Alfv%C3%A9n,Hannes Alfvén,PERSON
+/wiki/Louis_N%C3%A9el,Louis Eugène Félix Néel,ORGANIZATION
+/wiki/Luis_Federico_Leloir,Luis Federico Leloir,PERSON
+/wiki/Ulf_von_Euler,Ulf von Euler,PERSON
+/wiki/Aleksandr_Solzhenitsyn,Aleksandr Isayevich Solzhenitsyn,PERSON
+/wiki/Norman_Borlaug,Norman Borlaug,PERSON
+/wiki/Paul_Samuelson,Paul Samuelson,PERSON
+/wiki/Dennis_Gabor,Dennis Gabor,PERSON
+/wiki/Gerhard_Herzberg,Gerhard Herzberg,PERSON
+"/wiki/Earl_Wilbur_Sutherland,_Jr.",Earl Wilbur Sutherland Jr.,PERSON
+/wiki/Pablo_Neruda,Pablo Neruda,PERSON
+/wiki/Willy_Brandt,Willy Brandt,PERSON
+/wiki/Simon_Kuznets,Simon Kuznets,PERSON
+/wiki/Leon_Cooper,Leon Neil Cooper,PERSON
+/wiki/John_Robert_Schrieffer,John Schrieffer,PERSON
+/wiki/Christian_B._Anfinsen,Christian B. Anfinsen,PERSON
+/wiki/Stanford_Moore,Stanford Moore,PERSON
+/wiki/William_Howard_Stein,William Howard Stein,PERSON
+/wiki/Rodney_Robert_Porter,Rodney Robert Porter,PERSON
+/wiki/Heinrich_B%C3%B6ll,Heinrich Böll,PERSON
+/wiki/John_Hicks,John Hicks,PERSON
+/wiki/Kenneth_Arrow,Kenneth Arrow,PERSON
+/wiki/Leo_Esaki,Esaki Reona,PERSON
+/wiki/Ivar_Giaever,Ivar Giaever,PERSON
+/wiki/Brian_David_Josephson,Brian David Josephson,PERSON
+/wiki/Ernst_Otto_Fischer,Ernst Otto Fischer,PERSON
+/wiki/Geoffrey_Wilkinson,Geoffrey Wilkinson,PERSON
+/wiki/Karl_von_Frisch,Karl von Frisch,PERSON
+/wiki/Konrad_Lorenz,Konrad Lorenz,PERSON
+/wiki/Patrick_White,Patrick White,PERSON
+/wiki/Henry_Kissinger,Henry Kissinger,PERSON
+/wiki/L%C3%AA_%C4%90%E1%BB%A9c_Th%E1%BB%8D,Lê Đức Thọ,PERSON
+#endnote_Note1E,Trang Chính,LOCATION
+/wiki/Wassily_Leontief,Wassily Leontief,PERSON
+/wiki/Martin_Ryle,Martin Ryle,PERSON
+/wiki/Antony_Hewish,Antony Hewish,PERSON
+/wiki/Paul_Flory,Paul Flory,PERSON
+/wiki/Albert_Claude,Albert Claude,PERSON
+/wiki/Christian_de_Duve,Christian de Duve,PERSON
+/wiki/George_Emil_Palade,George Emil Palade,PERSON
+/wiki/Eyvind_Johnson,Eyvind Johnson,PERSON
+/wiki/Harry_Martinson,Harry Martinson,PERSON
+/wiki/Eisaku_Sat%C5%8D,Satō Eisaku,PERSON
+/wiki/Gunnar_Myrdal,Karl Gunnar Myrdal,PERSON
+/wiki/Friedrich_Hayek,Friedrich Hayek,PERSON
+/wiki/Aage_Bohr,Aage Niels Bohr,PERSON
+/wiki/Ben_Roy_Mottelson,Ben Roy Mottelson,PERSON
+/wiki/James_Rainwater,James Rainwater,PERSON
+/wiki/John_Cornforth,John Cornforth,PERSON
+/wiki/Vladimir_Prelog,Vladimir Prelog,PERSON
+/wiki/Renato_Dulbecco,Renato Dulbecco,PERSON
+/wiki/Howard_Martin_Temin,Howard Martin Temin,PERSON
+/wiki/Eugenio_Montale,Eugenio Montale,PERSON
+/wiki/Andrei_Sakharov,Andrey Dmitryevich Sakharov,PERSON
+/wiki/Leonid_Kantorovich,Leonid Vitaliyevich Kantorovich,PERSON
+/wiki/Tjalling_Koopmans,Tjalling Koopmans,PERSON
+/wiki/Burton_Richter,Burton Richter,PERSON
+/wiki/William_Lipscomb,William Lipscomb,PERSON
+/wiki/Baruch_Samuel_Blumberg,Baruch Samuel Blumberg,PERSON
+/wiki/Saul_Bellow,Saul Bellow,PERSON
+/wiki/Milton_Friedman,Milton Friedman,PERSON
+/wiki/Philip_Warren_Anderson,Philip Warren Anderson,PERSON
+/wiki/Nevill_Francis_Mott,Nevill Francis Mott,PERSON
+/wiki/John_Hasbrouck_Van_Vleck,John Hasbrouck Van Vleck,PERSON
+/wiki/Ilya_Prigogine,Ilya Prigogine,PERSON
+/wiki/Roger_Guillemin,Roger Guillemin,PERSON
+/wiki/Andrew_Schally,Andrew Schally,PERSON
+/wiki/Rosalyn_Sussman_Yalow,Rosalyn Sussman Yalow,PERSON
+/wiki/Vicente_Aleixandre,Vicente Aleixandre,PERSON
+/wiki/%C3%82n_x%C3%A1_Qu%E1%BB%91c_t%E1%BA%BF,Ân xá Quốc tế,ORGANIZATION
+/wiki/Bertil_Ohlin,Bertil Ohlin,PERSON
+/wiki/James_Meade,James Meade,PERSON
+/wiki/Pyotr_Kapitsa,Pyotr Leonidovich Kapitsa,PERSON
+/wiki/Arno_Allan_Penzias,Arno Allan Penzias,PERSON
+/wiki/Robert_Woodrow_Wilson,Robert Woodrow Wilson,PERSON
+/wiki/Peter_D._Mitchell,Peter D. Mitchell,PERSON
+/wiki/Werner_Arber,Werner Arber,PERSON
+/wiki/Daniel_Nathans,Daniel Nathans,PERSON
+/wiki/Hamilton_O._Smith,Hamilton O. Smith,PERSON
+/wiki/Isaac_Bashevis_Singer,Isaac Bashevis Singer,PERSON
+/wiki/Anwar_Sadat,Anwar Al-Sadad,PERSON
+/wiki/Menachem_Begin,Menachem Begin,PERSON
+/wiki/Herbert_A._Simon,Herbert A. Simon,PERSON
+/wiki/Sheldon_Lee_Glashow,Sheldon Lee Glashow,PERSON
+/wiki/Abdus_Salam,Abdus Salam,PERSON
+/wiki/Steven_Weinberg,Steven Weinberg,PERSON
+/wiki/Herbert_C._Brown,Herbert C. Brown,PERSON
+/wiki/Georg_Wittig,Georg Wittig,PERSON
+/wiki/Godfrey_Hounsfield,Godfrey Hounsfield,PERSON
+/wiki/Odysseas_Elytis,Odysseas Elytis,PERSON
+/wiki/M%E1%BA%B9_Teresa,Mẹ Têrêsa,PERSON
+/wiki/Theodore_Schultz,Theodore Schultz,PERSON
+/wiki/Arthur_Lewis_(economist),Arthur Lewis,PERSON
+/wiki/James_Cronin,James Cronin,PERSON
+/wiki/Paul_Berg,Paul Berg,PERSON
+/wiki/Walter_Gilbert,Walter Gilbert,PERSON
+/wiki/Baruj_Benacerraf,Baruj Benacerraf,PERSON
+/wiki/Jean_Dausset,Jean Dausset,PERSON
+/wiki/George_Davis_Snell,George Davis Snell,PERSON
+/wiki/Czes%C5%82aw_Mi%C5%82osz,Czesław Miłosz,PERSON
+/wiki/Adolfo_P%C3%A9rez_Esquivel,Adolfo Pérez Esquivel,PERSON
+/wiki/Lawrence_Klein,Lawrence Klein,PERSON
+/wiki/Nicolaas_Bloembergen,Nicolaas Bloembergen,PERSON
+/wiki/Arthur_Leonard_Schawlow,Arthur Leonard Schawlow,PERSON
+/wiki/Kai_Siegbahn,Kai Siegbahn,PERSON
+/wiki/Kenichi_Fukui,Fukui Kenichi,PERSON
+/wiki/Roald_Hoffmann,Roald Hoffmann,PERSON
+/wiki/Elias_Canetti,Elias Canetti,PERSON
+/wiki/James_Tobin,James Tobin,PERSON
+/wiki/Kenneth_G._Wilson,Kenneth G. Wilson,PERSON
+/wiki/Aaron_Klug,Aaron Klug,PERSON
+/wiki/Sune_Bergstr%C3%B6m,Sune Bergström,PERSON
+/wiki/Bengt_I._Samuelsson,Bengt I. Samuelsson,PERSON
+/wiki/John_Vane,John Robert Vane,PERSON
+/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez,Gabriel García Márquez,PERSON
+/wiki/Alva_Myrdal,Alva Myrdal,PERSON
+/wiki/Alfonso_Garc%C3%ADa_Robles,Alfonso García Robles,PERSON
+/wiki/George_Stigler,George Stigler,PERSON
+/wiki/Subrahmanyan_Chandrasekhar,Subrahmanyan Chandrasekhar,PERSON
+/wiki/William_Alfred_Fowler,William Alfred Fowler,PERSON
+/wiki/Henry_Taube,Henry Taube,PERSON
+/wiki/Barbara_McClintock,Barbara McClintock,PERSON
+/wiki/William_Golding,William Golding,PERSON
+/wiki/Lech_Wa%C5%82%C4%99sa,Lech Wałęsa,PERSON
+/wiki/G%C3%A9rard_Debreu,Gérard Debreu,PERSON
+/wiki/Robert_Bruce_Merrifield,Robert Bruce Merrifield,PERSON
+/wiki/Niels_Kaj_Jerne,Niels Kaj Jerne,PERSON
+/wiki/Georges_J._F._K%C3%B6hler,Georges J. F. Köhler,PERSON
+/wiki/Jaroslav_Seifert,Jaroslav Seifert,PERSON
+/wiki/Desmond_Tutu,Desmond Tutu,PERSON
+/wiki/Richard_Stone,Richard Stone,PERSON
+/wiki/Klaus_von_Klitzing,Klaus von Klitzing,PERSON
+/wiki/Herbert_A._Hauptman,Herbert A. Hauptman,PERSON
+/wiki/Jerome_Karle,Jerome Karle,PERSON
+/wiki/Michael_Stuart_Brown,Michael Stuart Brown,PERSON
+/wiki/Joseph_L._Goldstein,Joseph L. Goldstein,PERSON
+/wiki/Claude_Simon,Claude Simon,PERSON
+/wiki/Hi%E1%BB%87p_h%E1%BB%99i_Y_s%C4%A9_Qu%E1%BB%91c_t%E1%BA%BF_Ph%C3%B2ng_ng%E1%BB%ABa_Chi%E1%BA%BFn_tranh_h%E1%BA%A1t_nh%C3%A2n,Hiệp hội Y sĩ Quốc tế Phòng ngừa Chiến tranh hạt nhân,PERSON
+/wiki/Franco_Modigliani,Franco Modigliani,PERSON
+/wiki/Ernst_Ruska,Ernst Ruska,PERSON
+/wiki/Gerd_Binnig,Gerd Binnig,PERSON
+/wiki/Heinrich_Rohrer,Heinrich Rohrer,PERSON
+/wiki/Dudley_R._Herschbach,Dudley R. Herschbach,PERSON
+/wiki/Yuan_T._Lee,Lý Viễn Triết,PERSON
+/wiki/John_Polanyi,John Polanyi,PERSON
+/wiki/Rita_Levi-Montalcini,Rita Levi-Montalcini,PERSON
+/wiki/Wole_Soyinka,Wole Soyinka,PERSON
+/wiki/Elie_Wiesel,Elie Wiesel,PERSON
+/wiki/James_M._Buchanan,James M. Buchanan,PERSON
+/wiki/Johannes_Georg_Bednorz,Johannes Georg Bednorz,PERSON
+/wiki/Karl_Alexander_M%C3%BCller,Karl Alexander Müller,PERSON
+/wiki/Donald_J._Cram,Donald J. Cram,PERSON
+/wiki/Jean-Marie_Lehn,Jean-Marie Lehn,PERSON
+/wiki/Charles_J._Pedersen,Charles J. Pedersen,PERSON
+/wiki/Susumu_Tonegawa,Tonegawa Susumu,PERSON
+/wiki/Joseph_Brodsky,Iosif Aleksandrovich Brodsky,PERSON
+/wiki/%C3%93scar_Arias,Óscar Arias,PERSON
+/wiki/Robert_Solow,Robert Solow,PERSON
+/wiki/Melvin_Schwartz,Melvin Schwartz,PERSON
+/wiki/Jack_Steinberger,Jack Steinberger,PERSON
+/wiki/Johann_Deisenhofer,Johann Deisenhofer,PERSON
+/wiki/Robert_Huber,Robert Huber,PERSON
+/wiki/Hartmut_Michel,Hartmut Michel,PERSON
+/wiki/James_W._Black,James W. Black,PERSON
+/wiki/Gertrude_B._Elion,Gertrude B. Elion,PERSON
+/wiki/Naguib_Mahfouz,Naguib Mahfouz,PERSON
+/wiki/G%C3%ACn_gi%E1%BB%AF_h%C3%B2a_b%C3%ACnh_Li%C3%AAn_H%E1%BB%A3p_Qu%E1%BB%91c,Gìn giữ hòa bình Liên Hợp Quốc,ORGANIZATION
+/wiki/Maurice_Allais,Maurice Allais,PERSON
+"/wiki/Norman_Foster_Ramsey,_Jr.","Norman Foster Ramsey, Jr.",PERSON
+/wiki/Hans_Georg_Dehmelt,Hans Georg Dehmelt,PERSON
+/wiki/Wolfgang_Paul,Wolfgang Paul,PERSON
+/wiki/Sidney_Altman,Sidney Altman,PERSON
+/wiki/Thomas_Cech,Thomas Cech,PERSON
+/wiki/Harold_E._Varmus,Harold E. Varmus,PERSON
+/wiki/Camilo_Jos%C3%A9_Cela,Camilo José Cela,PERSON
+/wiki/Tenzin_Gyatso,Tenzin Gyatso,PERSON
+/wiki/Trygve_Haavelmo,Trygve Haavelmo,PERSON
+/wiki/Jerome_Isaac_Friedman,Jerome Isaac Friedman,PERSON
+/wiki/Richard_E._Taylor,Richard E. Taylor,PERSON
+/wiki/Elias_James_Corey,Elias James Corey,PERSON
+/wiki/Joseph_Murray,Joseph E. Murray,PERSON
+/wiki/E._Donnall_Thomas,E. Donnall Thomas,PERSON
+/wiki/Octavio_Paz,Octavio Paz,PERSON
+/wiki/Mikhail_Gorbachev,Mikhail Sergeyevich Gorbachyov,PERSON
+/wiki/Harry_Markowitz,Harry Markowitz,PERSON
+/wiki/Merton_Miller,Merton Miller,PERSON
+/wiki/William_Forsyth_Sharpe,William Forsyth Sharpe,PERSON
+/wiki/Pierre-Gilles_de_Gennes,Pierre-Gilles de Gennes,PERSON
+/wiki/Richard_R._Ernst,Richard R. Ernst,PERSON
+/wiki/Erwin_Neher,Erwin Neher,PERSON
+/wiki/Bert_Sakmann,Bert Sakmann,PERSON
+/wiki/Nadine_Gordimer,Nadine Gordimer,PERSON
+/wiki/Aung_San_Suu_Kyi,Aung San Suu Kyi,PERSON
+/wiki/Ronald_Coase,Ronald Coase,PERSON
+/wiki/Georges_Charpak,Georges Charpak,PERSON
+/wiki/Rudolph_A._Marcus,Rudolph A. Marcus,PERSON
+/wiki/Edwin_G._Krebs,Edwin G. Krebs,PERSON
+/wiki/Derek_Walcott,Derek Walcott,PERSON
+/wiki/Rigoberta_Mench%C3%BA,Rigoberta Menchú,PERSON
+/wiki/Gary_Becker,Gary Becker,PERSON
+/wiki/Russell_Alan_Hulse,Russell Alan Hulse,PERSON
+"/wiki/Joseph_Hooton_Taylor,_Jr.","Joseph Hooton Taylor, Jr.",PERSON
+/wiki/Kary_Mullis,Kary Mullis,PERSON
+/wiki/Phillip_Allen_Sharp,Phillip Allen Sharp,PERSON
+/wiki/Toni_Morrison,Toni Morrison,PERSON
+/wiki/Nelson_Mandela,Nelson Mandela,PERSON
+/wiki/F._W._de_Klerk,Frederik Willem de Klerk,PERSON
+/wiki/Robert_Fogel,Robert Fogel,PERSON
+/wiki/Douglass_North,Douglass North,PERSON
+/wiki/Bertram_Brockhouse,Bertram Brockhouse,PERSON
+/wiki/Clifford_Shull,Clifford Shull,PERSON
+/wiki/George_Andrew_Olah,George Andrew Olah,PERSON
+/wiki/Alfred_G._Gilman,Alfred G. Gilman,PERSON
+/wiki/Martin_Rodbell,Martin Rodbell,PERSON
+/wiki/Kenzabur%C5%8D_%C5%8Ce,Ōe Kenzaburo,PERSON
+/wiki/Yasser_Arafat,Yasser Arafat,PERSON
+/wiki/Shimon_Peres,Shimon Peres,PERSON
+/wiki/Yitzhak_Rabin,Yitzhak Rabin,PERSON
+/wiki/John_Harsanyi,John Harsanyi,PERSON
+"/wiki/John_Forbes_Nash,_Jr.",John Forbes Nash Jr.,PERSON
+/wiki/Reinhard_Selten,Reinhard Selten,PERSON
+/wiki/Martin_Lewis_Perl,Martin Lewis Perl,PERSON
+/wiki/Frederick_Reines,Frederick Reines,PERSON
+/wiki/Paul_J._Crutzen,Paul J. Crutzen,PERSON
+/wiki/Mario_J._Molina,Mario J. Molina,PERSON
+/wiki/Frank_Sherwood_Rowland,Frank Sherwood Rowland,PERSON
+/wiki/Edward_B._Lewis,Edward B. Lewis,PERSON
+/wiki/Seamus_Heaney,Seamus Heaney,PERSON
+"/wiki/Robert_Lucas,_Jr.","Robert Lucas, Jr.",PERSON
+/wiki/Robert_Coleman_Richardson,Robert Coleman Richardson,PERSON
+/wiki/Robert_Curl,Robert Curl,PERSON
+/wiki/Harry_Kroto,Harold Kroto,PERSON
+/wiki/Richard_Smalley,Richard Smalley,PERSON
+/wiki/Peter_C._Doherty,Peter Doherty,PERSON
+/wiki/Wis%C5%82awa_Szymborska,Wisława Szymborska,PERSON
+/wiki/Jos%C3%A9_Ramos-Horta,José Ramos-Horta,PERSON
+/wiki/James_Mirrlees,James Mirrlees,PERSON
+/wiki/William_Vickrey,William Vickrey,PERSON
+/wiki/Steven_Chu,Steven Chu,PERSON
+/wiki/Claude_Cohen-Tannoudji,Claude Cohen-Tannoudji,PERSON
+/wiki/William_Daniel_Phillips,William Daniel Phillips,PERSON
+/wiki/Paul_D._Boyer,Paul D. Boyer,PERSON
+/wiki/John_E._Walker,John E. Walker,PERSON
+/wiki/Jens_Christian_Skou,Jens Christian Skou,PERSON
+/wiki/Stanley_B._Prusiner,Stanley B. Prusiner,PERSON
+/wiki/Dario_Fo,Dario Fo,PERSON
+/wiki/Robert_C._Merton,Robert C. Merton,PERSON
+/wiki/Myron_Scholes,Myron Scholes,PERSON
+/wiki/Robert_B._Laughlin,Robert B. Laughlin,PERSON
+/wiki/Horst_Ludwig_St%C3%B6rmer,Horst Ludwig Störmer,PERSON
+/wiki/Walter_Kohn,Walter Kohn,PERSON
+/wiki/John_Pople,John Pople,PERSON
+/wiki/Robert_F._Furchgott,Robert F. Furchgott,PERSON
+/wiki/Ferid_Murad,Ferid Murad,PERSON
+/wiki/Jos%C3%A9_Saramago,José Saramago,PERSON
+/wiki/Amartya_Sen,Amartya Sen,PERSON
+/wiki/Gerard_%27t_Hooft,Gerard 't Hooft,PERSON
+/wiki/Martinus_J._G._Veltman,Martinus J. G. Veltman,PERSON
+/wiki/Ahmed_Zewail,Ahmed Zewail,PERSON
+/wiki/G%C3%BCnter_Blobel,Günter Blobel,PERSON
+/wiki/G%C3%BCnter_Grass,Günter Grass,PERSON
+/wiki/B%C3%A1c_s%C4%A9_kh%C3%B4ng_bi%C3%AAn_gi%E1%BB%9Bi,Bác sĩ không biên giới,OCCUPATION
+/wiki/Robert_Mundell,Robert Mundell,PERSON
+/wiki/Jack_Kilby,Jack Kilby,PERSON
+/wiki/Alan_J._Heeger,Alan J. Heeger,PERSON
+/wiki/Alan_MacDiarmid,Alan MacDiarmid,PERSON
+/wiki/Hideki_Shirakawa,Shirakawa Hideki,PERSON
+/wiki/Gao_Xingjian,Cao Hành Kiện,PERSON
+/wiki/Kim_Dae-jung,Kim Dae-jung,PERSON
+/wiki/James_Heckman,James Heckman,PERSON
+/wiki/Daniel_McFadden,Daniel McFadden,PERSON
+/wiki/Eric_Allin_Cornell,Eric Allin Cornell,PERSON
+/wiki/Wolfgang_Ketterle,Wolfgang Ketterle,PERSON
+/wiki/Carl_Wieman,Carl Wieman,PERSON
+/wiki/William_Standish_Knowles,William Standish Knowles,PERSON
+/wiki/Ry%C5%8Dji_Noyori,Noyori Ryōji,PERSON
+/wiki/Karl_Barry_Sharpless,Karl Barry Sharpless,PERSON
+/wiki/Leland_H._Hartwell,Leland H. Hartwell,PERSON
+/wiki/Tim_Hunt,Tim Hunt,PERSON
+/wiki/Paul_Nurse,Paul Nurse,PERSON
+/wiki/V._S._Naipaul,V. S. Naipaul,PERSON
+/wiki/Li%C3%AAn_H%E1%BB%A3p_Qu%E1%BB%91c,Liên Hợp Quốc,ORGANIZATION
+/wiki/Kofi_Annan,Kofi Annan,PERSON
+/wiki/George_Akerlof,George Akerlof,PERSON
+/wiki/Michael_Spence,Michael Spence,PERSON
+/wiki/Joseph_Stiglitz,Joseph Stiglitz,PERSON
+/wiki/Masatoshi_Koshiba,Koshiba Masatoshi,PERSON
+/wiki/Riccardo_Giacconi,Riccardo Giacconi,PERSON
+/wiki/John_Fenn,John Fenn,PERSON
+/wiki/Koichi_Tanaka,Tanaka Kōichi,PERSON
+/wiki/Kurt_W%C3%BCthrich,Kurt Wüthrich,PERSON
+/wiki/Sydney_Brenner,Sydney Brenner,PERSON
+/wiki/H._Robert_Horvitz,Howard Robert Horvitz,PERSON
+/wiki/John_Sulston,John Sulston,PERSON
+/wiki/Imre_Kert%C3%A9sz,Imre Kertész,PERSON
+/wiki/Jimmy_Carter,Jimmy Carter,PERSON
+/wiki/Daniel_Kahneman,Daniel Kahneman,PERSON
+/wiki/Vernon_L._Smith,Vernon L. Smith,PERSON
+/wiki/Vitaly_Ginzburg,Vitalij Lazarevich Ginzburg,PERSON
+/wiki/Peter_Agre,Peter Agre,PERSON
+/wiki/Roderick_MacKinnon,Roderick MacKinnon,PERSON
+/wiki/Paul_Lauterbur,Paul Lauterbur,PERSON
+/wiki/J._M._Coetzee,John Maxwell Coetzee,PERSON
+/wiki/Shirin_Ebadi,Shirin Ebadi,PERSON
+/wiki/Robert_F._Engle,Robert F. Engle,PERSON
+/wiki/Clive_Granger,Clive Granger,PERSON
+/wiki/David_Gross,David Gross,PERSON
+/wiki/Hugh_David_Politzer,Hugh David Politzer,PERSON
+/wiki/Frank_Wilczek,Frank Wilczek,PERSON
+/wiki/Aaron_Ciechanover,Aaron Ciechanover,PERSON
+/wiki/Avram_Hershko,Avram Hershko,PERSON
+/wiki/Irwin_Rose,Irwin Rose,PERSON
+/wiki/Richard_Axel,Richard Axel,PERSON
+/wiki/Linda_B._Buck,Linda B. Buck,PERSON
+/wiki/Elfriede_Jelinek,Elfriede Jelinek,PERSON
+/wiki/Wangari_Maathai,Wangari Maathai,PERSON
+/wiki/Finn_E._Kydland,Finn E. Kydland,PERSON
+/wiki/Edward_C._Prescott,Edward C. Prescott,PERSON
+/wiki/Roy_J._Glauber,Roy J. Glauber,PERSON
+/wiki/John_L._Hall,John L. Hall,PERSON
+/wiki/Theodor_W._H%C3%A4nsch,Theodor W. Hänsch,PERSON
+/wiki/Yves_Chauvin,Yves Chauvin,PERSON
+/wiki/Robert_H._Grubbs,Robert H. Grubbs,PERSON
+/wiki/Richard_R._Schrock,Richard R. Schrock,PERSON
+/wiki/Barry_Marshall,Barry Marshall,PERSON
+/wiki/Harold_Pinter,Harold Pinter,PERSON
+/wiki/C%C6%A1_quan_N%C4%83ng_l%C6%B0%E1%BB%A3ng_Nguy%C3%AAn_t%E1%BB%AD_Qu%E1%BB%91c_t%E1%BA%BF,Cơ quan Năng lượng Nguyên tử Quốc tế,ORGANIZATION
+/wiki/Mohamed_ElBaradei,Mohamed ElBaradei,PERSON
+/wiki/Robert_Aumann,Robert Aumann,PERSON
+/wiki/Thomas_Schelling,Thomas Schelling,PERSON
+/wiki/John_C._Mather,John C. Mather,PERSON
+/wiki/Roger_D._Kornberg,Roger D. Kornberg,PERSON
+/wiki/Andrew_Fire,Andrew Fire,PERSON
+/wiki/Craig_Mello,Craig Mello,PERSON
+/wiki/Orhan_Pamuk,Orhan Pamuk,PERSON
+/wiki/Muhammad_Yunus,Muhammad Yunus,PERSON
+/wiki/Ng%C3%A2n_h%C3%A0ng_Grameen,Ngân hàng Grameen,ORGANIZATION
+/wiki/Edmund_Phelps,Edmund Phelps,PERSON
+/wiki/Albert_Fert,Albert Fert,PERSON
+/wiki/Peter_Gr%C3%BCnberg,Peter Grünberg,PERSON
+/wiki/Gerhard_Ertl,Gerhard Ertl,PERSON
+/wiki/Mario_Capecchi,Mario Capecchi,PERSON
+/wiki/Martin_Evans,Martin Evans,PERSON
+/wiki/Oliver_Smithies,Oliver Smithies,PERSON
+/wiki/Doris_Lessing,Doris Lessing,PERSON
+/wiki/%E1%BB%A6y_ban_Li%C3%AAn_ch%C3%ADnh_ph%E1%BB%A7_v%E1%BB%81_Bi%E1%BA%BFn_%C4%91%E1%BB%95i_Kh%C3%AD_h%E1%BA%ADu,Ủy ban Liên chính phủ về Biến đổi Khí hậu,ORGANIZATION
+/wiki/Al_Gore,Al Gore,PERSON
+/wiki/Leonid_Hurwicz,Leonid Hurwicz,PERSON
+/wiki/Eric_Maskin,Eric Maskin,PERSON
+/wiki/Roger_Myerson,Roger Myerson,PERSON
+/wiki/Yoichiro_Nambu,Nambu Yōichirō,PERSON
+/wiki/Kobayashi_Makoto_(nh%C3%A0_v%E1%BA%ADt_l%C3%BD),Kobayashi Makoto (nhà vật lý),PERSON
+/wiki/Toshihide_Maskawa,Masukawa Toshihide,PERSON
+/wiki/Osamu_Shimomura,Shimomura Osamu,PERSON
+/wiki/Martin_Chalfie,Martin Chalfie,PERSON
+/wiki/Roger_Y._Tsien,Roger Y. Tsien,PERSON
+/wiki/Harald_zur_Hausen,Harald zur Hausen,PERSON
+/wiki/Fran%C3%A7oise_Barr%C3%A9-Sinoussi,Françoise Barré-Sinoussi,PERSON
+/wiki/Luc_Montagnier,Luc Montagnier,PERSON
+/wiki/J._M._G._Le_Cl%C3%A9zio,Jean-Marie Gustave Le Clézio,PERSON
+/wiki/Martti_Ahtisaari,Martti Ahtisaari,PERSON
+/wiki/Paul_Krugman,Paul Krugman,PERSON
+/wiki/Charles_K._Kao,Cao Côn,PERSON
+/wiki/Willard_Boyle,Willard Boyle,PERSON
+/wiki/George_E._Smith,George E. Smith,PERSON
+/wiki/Venkatraman_Ramakrishnan,Venkatraman Ramakrishnan,PERSON
+/wiki/Thomas_A._Steitz,Thomas A. Steitz,PERSON
+/wiki/Ada_Yonath,Ada Yonath,PERSON
+/wiki/Elizabeth_Blackburn,Elizabeth Blackburn,PERSON
+/wiki/Carol_W._Greider,Carol W. Greider,PERSON
+/wiki/Jack_W._Szostak,Jack W. Szostak,PERSON
+/wiki/Herta_M%C3%BCller,Herta Müller,PERSON
+/wiki/Barack_Obama,Barack Obama,PERSON
+/wiki/Elinor_Ostrom,Elinor Ostrom,PERSON
+/wiki/Oliver_E._Williamson,Oliver E. Williamson,PERSON
+/wiki/Andre_Geim,Andrei Konstantinovich Geim,PERSON
+/wiki/Konstantin_Novoselov,Konstantin Sergeevich Novoselov,PERSON
+/wiki/Richard_F._Heck,Richard Heck,PERSON
+/wiki/Ei-ichi_Negishi,Negishi Eiichi,PERSON
+/wiki/Suzuki_Akira_(nh%C3%A0_h%C3%B3a_h%E1%BB%8Dc),Suzuki Akira (nhà hóa học),PERSON
+/wiki/Robert_G._Edwards,Robert G. Edwards,PERSON
+/wiki/Mario_Vargas_Llosa,Mario Vargas Llosa,PERSON
+/wiki/L%C6%B0u_Hi%E1%BB%83u_Ba,Lưu Hiểu Ba,PERSON
+#endnote_Note1F,Trang Chính,LOCATION
+/wiki/Peter_Diamond,Peter A. Diamond,PERSON
+/wiki/Dale_T._Mortensen,Dale T. Mortensen,PERSON
+/wiki/Christopher_A._Pissarides,Christopher A. Pissarides,PERSON
+/wiki/Saul_Perlmutter,Saul Perlmutter,PERSON
+/wiki/Adam_Riess,Adam Riess,PERSON
+/wiki/Brian_P._Schmidt,Brian P. Schmidt,PERSON
+/wiki/Dan_Shechtman,Dan Shechtman,PERSON
+/wiki/Bruce_A._Beutler,Bruce Beutler,PERSON
+/wiki/Jules_A._Hoffmann,Jules A. Hoffmann,PERSON
+/wiki/Ralph_M._Steinman,Ralph M. Steinman,PERSON
+/wiki/Tomas_Transtr%C3%B6mer,Tomas Tranströmer,PERSON
+/wiki/Ellen_Johnson_Sirleaf,Ellen Johnson Sirleaf,PERSON
+/wiki/Leymah_Gbowee,Leymah Gbowee,PERSON
+/wiki/Tawakel_Karman,Tawakkul Karman,PERSON
+/wiki/Thomas_J._Sargent,Thomas J. Sargent,PERSON
+/wiki/Christopher_A._Sims,Christopher A. Sims,PERSON
+/wiki/Serge_Haroche,Serge Haroche,PERSON
+/wiki/David_J._Wineland,David J. Wineland,PERSON
+/wiki/Brian_Kobilka,Brian Kobilka,PERSON
+/wiki/Robert_Lefkowitz,Robert Lefkowitz,PERSON
+/wiki/John_Gurdon,John Gurdon,PERSON
+/wiki/Shinya_Yamanaka,Yamanaka Shin'ya,PERSON
+/wiki/M%E1%BA%A1c_Ng%C3%B4n,Mạc Ngôn,PERSON
+/wiki/Li%C3%AAn_hi%E1%BB%87p_ch%C3%A2u_%C3%82u,Liên minh châu Âu,ORGANIZATION
+/wiki/Alvin_E._Roth,Alvin E. Roth,PERSON
+/wiki/Lloyd_Shapley,Lloyd Shapley,PERSON
+/wiki/Fran%C3%A7ois_Englert,François Englert,PERSON
+/wiki/Peter_Higgs,Peter Higgs,PERSON
+/wiki/Martin_Karplus,Martin Karplus,PERSON
+/wiki/Michael_Levitt,Michael Levitt,PERSON
+/wiki/Arieh_Warshel,Arieh Warshel,PERSON
+/wiki/James_Rothman,James Rothman,PERSON
+/wiki/Randy_Schekman,Randy Schekman,PERSON
+/wiki/Thomas_C._S%C3%BCdhof,Thomas Südhof,PERSON
+/wiki/Alice_Munro,Alice Munro,PERSON
+/wiki/T%E1%BB%95_ch%E1%BB%A9c_C%E1%BA%A5m_V%C5%A9_kh%C3%AD_H%C3%B3a_h%E1%BB%8Dc,Tổ chức Cấm Vũ khí Hóa học,ORGANIZATION
+/wiki/Eugene_Fama,Eugene Fama,PERSON
+/wiki/Lars_Peter_Hansen,Lars Peter Hansen,PERSON
+/wiki/Robert_J._Shiller,Robert J. Shiller,PERSON
+/wiki/Isamu_Akasaki,Akasaki Isamu,ORGANIZATION
+/wiki/Hiroshi_Amano,Amano Hiroshi,PERSON
+/wiki/Shuji_Nakamura,Nakamura Shuji,PERSON
+/wiki/Eric_Betzig,Eric Betzig,PERSON
+/wiki/Stefan_Hell,Stefan Hell,PERSON
+/wiki/William_Moerner,William E. Moerner,PERSON
+/wiki/John_O%27Keefe_(nh%C3%A0_th%E1%BA%A7n_kinh_h%E1%BB%8Dc),John O'Keefe (nhà thần kinh học),PERSON
+/wiki/May-Britt_Moser,May-Britt Moser,PERSON
+/wiki/Edvard_Moser,Edvard Moser,PERSON
+/wiki/Patrick_Modiano,Patrick Modiano,PERSON
+/wiki/Kailash_Satyarthi,Kailash Satyarthi,PERSON
+/wiki/Malala_Yousafzai,Malala Yousafzai,PERSON
+/wiki/Jean_Tirole,Jean Tirole,PERSON
+/wiki/Takaaki_Kajita,Kajita Takaaki,PERSON
+/wiki/Arthur_B._McDonald,Arthur B. McDonald,PERSON
+/wiki/Paul_L._Modrich,Paul L. Modrich,PERSON
+/wiki/Tomas_Lindahl,Tomas Lindahl,PERSON
+/wiki/Aziz_Sancar,Aziz Sancar,PERSON
+/wiki/William_Campbell_(nh%C3%A0_khoa_h%E1%BB%8Dc),William Campbell (nhà khoa học),PERSON
+/wiki/%C5%8Cmura_Satoshi,Ōmura Satoshi,PERSON
+/wiki/%C4%90%E1%BB%93_U_U,Đồ U U,PERSON
+/wiki/Svetlana_Alexandrovna_Alexievich,Svetlana Alexandrovna Alexievich,PERSON
+/wiki/B%E1%BB%99_t%E1%BB%A9_%C4%90%E1%BB%91i_tho%E1%BA%A1i_Qu%E1%BB%91c_gia_Tunisia,Bộ tứ Đối thoại Quốc gia Tunisia,LOCATION
+/wiki/Angus_Deaton,Angus Deaton,PERSON
+/wiki/John_M._Kosterlitz,John M. Kosterlitz,PERSON
+/wiki/Duncan_Haldane,Duncan Haldane,PERSON
+/wiki/David_J._Thouless,David J. Thouless,PERSON
+/wiki/Fraser_Stoddart,Fraser Stoddart,PERSON
+/wiki/Jean-Pierre_Sauvage,Jean-Pierre Sauvage,PERSON
+/wiki/Ben_Feringa,Ben Feringa,PERSON
+/wiki/%C5%8Csumi_Yoshinori,Ōsumi Yoshinori,PERSON
+/wiki/Bob_Dylan,Bob Dylan,PERSON
+/wiki/Juan_Manuel_Santos,Juan Manuel Santos,PERSON
+/wiki/Oliver_Hart_(nh%C3%A0_kinh_t%E1%BA%BF),Oliver Hart (nhà kinh tế),PERSON
+/wiki/Bengt_Holmstr%C3%B6m,Bengt Holmström,PERSON
+/wiki/Rainer_Weiss,Rainer Weiss,PERSON
+/wiki/Barry_Barish,Barry Barish,PERSON
+/wiki/Kip_Thorne,Kip Thorne,PERSON
+/wiki/Jacques_Dubochet,Jacques Dubochet,PERSON
+/wiki/Joachim_Frank,Joachim Frank,PERSON
+/wiki/Richard_Henderson_(nh%C3%A0_sinh_h%E1%BB%8Dc),Richard Henderson (nhà sinh học),PERSON
+/wiki/Jeffrey_C._Hall,Jeffrey C. Hall,PERSON
+/wiki/Michael_Rosbash,Michael Rosbash,PERSON
+/wiki/Michael_W._Young,Michael W. Young,PERSON
+/wiki/Kazuo_Ishiguro,Kazuo Ishiguro,PERSON
+/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_qu%E1%BB%91c_t%E1%BA%BF_nh%E1%BA%B1m_lo%E1%BA%A1i_b%E1%BB%8F_v%C5%A9_kh%C3%AD_h%E1%BA%A1t_nh%C3%A2n,Chiến dịch quốc tế nhằm loại bỏ vũ khí hạt nhân,ORGANIZATION
+/wiki/Richard_Thaler,Richard Thaler,PERSON
+/wiki/Arthur_Ashkin,Arthur Ashkin,PERSON
+/wiki/G%C3%A9rard_Mourou,Gérard Mourou,PERSON
+/wiki/Donna_Strickland,Donna Strickland,PERSON
+/wiki/Frances_Arnold,Frances Arnold,PERSON
+/wiki/George_Smith_(nh%C3%A0_h%C3%B3a_h%E1%BB%8Dc),George Smith (nhà hóa học),PERSON
+/wiki/Greg_Winter,Greg Winter,PERSON
+/wiki/James_P._Allison,James P. Allison,PERSON
+/wiki/Tasuku_Honjo,Honjo Tasuku,PERSON
+/wiki/Olga_Tokarczuk,Olga Tokarczuk,PERSON
+#endnote_Note1G,Trang Chính,LOCATION
+/wiki/Denis_Mukwege,Denis Mukwege,PERSON
+/wiki/Nadia_Murad,Nadia Murad,PERSON
+/wiki/William_Nordhaus,William Nordhaus,PERSON
+/wiki/Paul_Romer,Paul Romer,PERSON
+/wiki/James_Peebles,Jim Peebles,PERSON
+/wiki/Michel_Mayor,Michel Mayor,PERSON
+/wiki/Didier_Queloz,Didier Queloz,PERSON
+/wiki/John_B._Goodenough,John B. Goodenough,PERSON
+/wiki/M._Stanley_Whittingham,M. Stanley Whittingham,PERSON
+/wiki/Akira_Yoshino,Yoshino Akira,PERSON
+/wiki/William_Kaelin_Jr.,William Kaelin Jr.,PERSON
+/wiki/Peter_J._Ratcliffe,Peter J. Ratcliffe,PERSON
+/wiki/Gregg_L._Semenza,Gregg L. Semenza,PERSON
+/wiki/Peter_Handke,Peter Handke,PERSON
+/wiki/Abiy_Ahmed,Abiy Ahmed,PERSON
+/wiki/Abhijit_Banerjee,Abhijit Banerjee,PERSON
+/wiki/Esther_Duflo,Esther Duflo,PERSON
+/wiki/Michael_Kremer,Michael Kremer,PERSON
+/wiki/Roger_Penrose,Roger Penrose,PERSON
+/wiki/Reinhard_Genzel,Reinhard Genzel,PERSON
+/wiki/Andrea_M._Ghez,Andrea M. Ghez,PERSON
+/wiki/Emmanuelle_Charpentier,Emmanuelle Charpentier,PERSON
+/wiki/Jennifer_Doudna,Jennifer Doudna,PERSON
+/wiki/Harvey_J._Alter,Harvey J. Alter,PERSON
+/wiki/Michael_Houghton_(nh%C3%A0_virus_h%E1%BB%8Dc),Michael Houghton (nhà virus học),PERSON
+/wiki/Charles_M._Rice,Charles M. Rice,PERSON
+/wiki/Louise_Gl%C3%BCck,Louise Glück,PERSON
+/wiki/Ch%C6%B0%C6%A1ng_tr%C3%ACnh_L%C6%B0%C6%A1ng_th%E1%BB%B1c_Th%E1%BA%BF_gi%E1%BB%9Bi,Chương trình Lương thực Thế giới,ORGANIZATION
+/wiki/Paul_Milgrom,Paul Milgrom,PERSON
+/wiki/Robert_B._Wilson,Robert B. Wilson,PERSON
+/wiki/Syukuro_Manabe,Manabe Syukuro,PERSON
+/wiki/Klaus_Hasselmann,Klaus Hasselmann,PERSON
+/wiki/Giorgio_Parisi,Giorgio Parisi,PERSON
+/wiki/Benjamin_List,Benjamin List,PERSON
+/wiki/David_MacMillan,David MacMillan,PERSON
+/wiki/David_Julius,David Julius,PERSON
+/wiki/Ardem_Patapoutian,Ardem Patapoutian,PERSON
+/wiki/Abdulrazak_Gurnah,Abdulrazak Gurnah,PERSON
+/wiki/Maria_Ressa,Maria Ressa,PERSON
+/wiki/Dmitry_Muratov,Dmitry Andreyevich Muratov,PERSON
+/wiki/David_Card,David Card,PERSON
+/wiki/Joshua_Angrist,Joshua Angrist,PERSON
+/wiki/Guido_Imbens,Guido Imbens,PERSON
+/wiki/Alain_Aspect,Alain Aspect,ORGANIZATION
+/wiki/John_Clauser,John Clauser,PERSON
+/wiki/Anton_Zeilinger,Anton Zeilinger,PERSON
+/wiki/Carolyn_R._Bertozzi,Carolyn R. Bertozzi,PERSON
+/wiki/Morten_P._Meldal,Morten P. Meldal,PERSON
+/wiki/Svante_P%C3%A4%C3%A4bo,Svante Pääbo,PERSON
+/wiki/Annie_Ernaux,Annie Ernaux,PERSON
+/wiki/Ales_Bialiatski,Ales Bialiatski,PERSON
+/wiki/Ben_Bernanke,Ben Bernanke,PERSON
+/wiki/Douglas_Diamond,Douglas Diamond,PERSON
+/wiki/Philip_H._Dybvig,Philip H. Dybvig,PERSON
+/wiki/Pierre_Agostini,Pierre Agostini,PERSON
+/wiki/Ferenc_Krausz,Ferenc Krausz,PERSON
+/wiki/Anne_L%27Huillier,Anne L'Huillier,PERSON
+/wiki/Katalin_Karik%C3%B3,Katalin Karikó,PERSON
+/wiki/Drew_Weissman,Drew Weissman,PERSON
+/wiki/Jon_Fosse,Jon Fosse,PERSON
+/wiki/Claudia_Goldin,Claudia Goldin,PERSON
+/wiki/Victor_Ambros,Victor Ambros,PERSON
+/wiki/Gary_Ruvkun,Gary Ruvkun,PERSON
+/wiki/Han_Kang,Han Kang,PERSON
+/wiki/Daron_Acemoglu,Daron Acemoğlu,PERSON
+/wiki/L%C3%A1szl%C3%B3_Krasznahorkai,László Krasznahorkai,PERSON
+/wiki/Mar%C3%ADa_Corina_Machado,María Corina Machado,ORGANIZATION
+/wiki/27_th%C3%A1ng_3,27 tháng 3,DATE
+/wiki/1845,1845,DATE
+/wiki/Bang_li%C3%AAn_%C4%90%E1%BB%A9c,Bang liên Đức,ORGANIZATION
+/wiki/M%C3%BCnchen,München,LOCATION
+/wiki/C%E1%BB%99ng_h%C3%B2a_Weimar,Cộng hòa Weimar,ORGANIZATION
+/wiki/%C4%90%E1%BB%A9c,Đức,LOCATION
+/wiki/ETH_Z%C3%BCrich,ETH Zürich,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Z%C3%BCrich,Đại học Zürich,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Ludwig_Maximilian_M%C3%BCnchen,Đại học Ludwig Maximilian München,ORGANIZATION
+/wiki/Rotterdam,Rotterdam,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Leiden,Đại học Leiden,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Bonn,Đại học Bonn,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Paris,Đại học Paris,ORGANIZATION 
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Utrecht,Đại học Utrecht,ORGANIZATION
+/wiki/Danh_s%C3%A1ch_ng%C6%B0%E1%BB%9Di_%C4%91o%E1%BA%A1t_gi%E1%BA%A3i_Nobel_H%C3%B3a_h%E1%BB%8Dc,Danh sách người đoạt giải Nobel Hóa học,AWARD 
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Amsterdam,Đại học Amsterdam,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Humboldt_Berlin,Đại học Humboldt Berlin,ORGANIZATION
+/wiki/Marburg,Marburg,LOCATION
+/wiki/Danh_s%C3%A1ch_ng%C6%B0%E1%BB%9Di_%C4%91o%E1%BA%A1t_gi%E1%BA%A3i_Nobel_Sinh_l%C3%BD_h%E1%BB%8Dc_v%C3%A0_Y_khoa,Danh sách người đoạt giải Nobel Sinh lý học hoặc Y học,AWARD 
+/wiki/16_th%C3%A1ng_3,16 tháng 3,DATE
+/wiki/1839,1839,DATE
+/wiki/Paris,Paris,LOCATION
+/wiki/Ph%C3%A1p,Pháp,LOCATION
+/wiki/Ch%C3%A2tenay-Malabry,Châtenay-Malabry,LOCATION
+/wiki/Geneva,Genève,LOCATION
+/wiki/Arnhem,Arnhem,LOCATION
+/wiki/H%C3%A0_Lan,Hà Lan,LOCATION
+/wiki/Haarlem,Haarlem,LOCATION
+/wiki/Amsterdam,Amsterdam,LOCATION
+/wiki/Huy_ch%C6%B0%C6%A1ng_Matteucci,Huy chương Matteucci,AWARD
+/wiki/9_th%C3%A1ng_10,9 tháng 10,DATE
+/wiki/1852,1852,DATE
+/wiki/Rhein,Rhein,PERSON
+/wiki/Berlin,Berlin,LOCATION
+/wiki/%C4%90%E1%BA%BF_qu%E1%BB%91c_%C4%90%E1%BB%A9c,Đế quốc Đức,ORGANIZATION
+/wiki/1902,1902,DATE
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Munich,Đại học Ludwig Maximilian München,ORGANIZATION
+/wiki/1875,1875,DATE
+/wiki/1881,1881,DATE
+/wiki/1888,1888,DATE
+/wiki/1892,1892,DATE
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Berlin,Đại học Humboldt Berlin,ORGANIZATION
+/wiki/1919,1919,DATE
+/wiki/Almora,Almora,LOCATION
+/wiki/Th%C3%A0nh_vi%C3%AAn_Hi%E1%BB%87p_h%E1%BB%99i_Ho%C3%A0ng_gia,Thành viên Hội Vương thất,LOCATION
+/wiki/Gi%E1%BA%A3i_Nobel_Sinh_l%C3%BD_h%E1%BB%8Dc_v%C3%A0_Y_khoa,Giải Nobel Sinh lý học hoặc Y học,AWARD
+/wiki/Kolkata,Kolkata,LOCATION
+/wiki/15_th%C3%A1ng_12,15 tháng 12,DATE
+/wiki/25_th%C3%A1ng_8,25 tháng 8,DATE
+/wiki/1908,1908,DATE
+/wiki/Le_Croisic,Le Croisic,LOCATION
+/wiki/Bretagne,Bretagne (vùng),LOCATION
+/wiki/Tr%C6%B0%E1%BB%9Dng_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_k%E1%BB%B9_thu%E1%BA%ADt,Viện công nghệ,ORGANIZATION
+/wiki/Warszawa,Warszawa,LOCATION
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_L%E1%BA%ADp_hi%E1%BA%BFn_Ba_Lan,Vương quốc Lập hiến Ba Lan,LOCATION 
+/wiki/%C4%90%E1%BA%BF_qu%E1%BB%91c_Nga,Đế quốc Nga,ORGANIZATION
+"/wiki/Passy,_Haute-Savoie","Passy, Haute-Savoie",LOCATION
+/wiki/%C3%88ve_Curie,Ève Curie,PERSON
+/wiki/Gi%E1%BA%A3i_Nobel_h%C3%B3a_h%E1%BB%8Dc,Giải Nobel hóa học,AWARD
+/wiki/Gi%E1%BA%A3i_Willard_Gibbs,Giải Willard Gibbs,AWARD 
+/wiki/Andr%C3%A9-Louis_Debierne,André-Louis Debierne,PERSON
+/wiki/Marguerite_Perey,Marguerite Perey,PERSON
+/wiki/Stockholm,Stockholm,LOCATION
+/wiki/Th%E1%BB%A5y_%C4%90i%E1%BB%83n,Thụy Điển,PERSON
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Uppsala,Đại học Uppsala,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Stockholm,Đại học Stockholm,ORGANIZATION
+/wiki/Per_Teodor_Cleve,Per Teodor Cleve,PERSON
+/wiki/8_th%C3%A1ng_12,8 tháng 12,DATE
+/wiki/1832,1832,DATE
+/wiki/Na_Uy,Na Uy,ORGANIZATION
+/wiki/26_th%C3%A1ng_4,26 tháng 4,DATE
+/wiki/1910,1910,DATE
+/wiki/Nh%C3%A0_v%C4%83n,Nhà văn,OCCUPATION 
+/wiki/Anh,Anh,LOCATION
+/wiki/Eton_College,Eton College,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Cambridge,Đại học Cambridge,ORGANIZATION
+/wiki/Joseph_John_Thomson,Joseph John Thomson,PERSON
+/wiki/2_th%C3%A1ng_10,2 tháng 10,DATE
+/wiki/Glasgow,Glasgow,LOCATION
+/wiki/Scotland,Scotland,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Glasgow,Đại học Glasgow,ORGANIZATION
+/wiki/1866,1866,DATE
+/wiki/1869,1869,DATE
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_T%C3%BCbingen,Đại học Tübingen,ORGANIZATION
+/wiki/1873,1873,DATE
+/wiki/1904,1904,DATE
+/wiki/1907,1907,DATE
+/wiki/1913,1913,DATE
+/wiki/1874,1874,DATE
+/wiki/1880,1880,DATE
+/wiki/1887,1887,DATE
+/wiki/Sankt-Peterburg,Sankt-Peterburg,LOCATION
+/wiki/Li%C3%AAn_X%C3%B4,Liên Xô,ORGANIZATION
+/wiki/Nga,Nga,LOCATION
+/wiki/Hungary,Hungary,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Heidelberg,Đại học Heidelberg,ORGANIZATION
+/wiki/Robert_Bunsen,Robert Bunsen,PERSON
+/wiki/Starnberg,Starnberg,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_K%E1%BB%B9_thu%E1%BA%ADt_Berlin,Đại học Kỹ thuật Berlin,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Strasbourg,Đại học Strasbourg,ORGANIZATION
+/wiki/August_Kekul%C3%A9,August Kekulé,PERSON
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Hannover,Vương quốc Hannover,ORGANIZATION
+/wiki/Baden-Baden,Baden-Baden,LOCATION
+/wiki/%C4%90%E1%BA%A1i_c%C3%B4ng_qu%E1%BB%91c_Baden,Đại công quốc Baden,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_G%C3%B6ttingen,Đại học Göttingen,ORGANIZATION
+/wiki/Praha,Praha,LOCATION
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Bohemia,Vương quốc Bohemia,PERSON
+/wiki/Vi%C3%AAn,Viên,LOCATION
+/wiki/%C3%81o-Hung,Đế quốc Áo-Hung,ORGANIZATION
+/wiki/18_th%C3%A1ng_12,18 tháng 12,DATE
+/wiki/1856,1856,DATE
+/wiki/Manchester,Manchester,LOCATION
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Li%C3%AAn_hi%E1%BB%87p_Anh_v%C3%A0_B%E1%BA%AFc_Ireland,Vương quốc Liên hiệp Anh và Bắc Ireland,LOCATION
+/wiki/Cambridge,Cambridge,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Manchester,Đại học Manchester,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Princeton,Đại học Princeton,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Yale,Đại học Yale,ORGANIZATION
+/wiki/Charles_T._R._Wilson,Charles Thomson Rees Wilson,PERSON
+/wiki/28_th%C3%A1ng_9,28 tháng 9,DATE
+/wiki/1898,1898,DATE
+/wiki/1906,1906,DATE
+/wiki/Petilla_de_Arag%C3%B3n,Petilla de Aragón,ORGANIZATION
+/wiki/T%C3%A2y_Ban_Nha,Tây Ban Nha,PERSON
+/wiki/Madrid,Madrid,LOCATION
+/wiki/27_th%C3%A1ng_7,27 tháng 7,DATE
+/wiki/1835,1835,DATE
+/wiki/Pietrasanta,Pietrasanta,LOCATION
+/wiki/Toscana,Toscana,LOCATION
+/wiki/%C3%9D,Ý,LOCATION
+/wiki/16_th%C3%A1ng_2,16 tháng 2,DATE
+/wiki/Bologna,Bologna,LOCATION
+/wiki/Th%C3%A0nh_ph%E1%BB%91_New_York,Thành phố New York,LOCATION
+/wiki/New_York_(bang),New York (tiểu bang),LOCATION
+/wiki/Hoa_K%E1%BB%B3,Hoa Kỳ,LOCATION 
+/wiki/Theodore_Roosevelt_Jr.,Theodore Roosevelt Jr.,PERSON
+/wiki/Strzelno,Strzelno,LOCATION
+"/wiki/Pasadena,_California","Pasadena, California",LOCATION
+/wiki/H%E1%BB%8Dc_vi%E1%BB%87n_H%E1%BA%A3i_qu%C3%A2n_Hoa_K%E1%BB%B3,Học viện Hải quân Hoa Kỳ,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Chicago,Đại học Chicago,ORGANIZATION
+/wiki/Hermann_Helmholtz,Hermann von Helmholtz,PERSON
+/wiki/Robert_Millikan,Robert Millikan,PERSON
+/wiki/Val-de-Gr%C3%A2ce,Val-de-Grâce,ORGANIZATION
+/wiki/Lu%C3%A2n_%C4%90%C3%B4n,Luân Đôn,LOCATION
+/wiki/Milan,Milano,LOCATION
+/wiki/Autun,Autun,LOCATION
+/wiki/Barbizon,Barbizon,LOCATION
+/wiki/16_th%C3%A1ng_8,16 tháng 8,DATE
+/wiki/Luxembourg,Luxembourg,LOCATION
+/wiki/%C4%90%E1%BA%A1i_T%C3%A2y_D%C6%B0%C6%A1ng,Đại Tây Dương,LOCATION
+/wiki/Canada,Canada,LOCATION
+/wiki/30_th%C3%A1ng_8,30 tháng 8,DATE
+/wiki/1871,1871,DATE
+/wiki/New_Zealand,New Zealand,LOCATION
+/wiki/19_th%C3%A1ng_10,19 tháng 10,DATE
+/wiki/1937,1937,DATE
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_McGill,Đại học McGill,ORGANIZATION
+/wiki/Patrick_Blackett,Patrick Blackett,PERSON
+/wiki/Kharkiv_Oblast,Kharkiv (tỉnh),LOCATION
+/wiki/Ukraina,Ukraina,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Qu%E1%BB%91c_gia_Kharkiv,Đại học Quốc gia Kharkiv,ORGANIZATION
+/wiki/Strzelin,Strzelin,LOCATION
+/wiki/Hesse,Hessen,LOCATION
+/wiki/Nobel_Prize_in_Physiology_or_Medicine,Giải Nobel Sinh lý học hoặc Y học,AWARD
+/wiki/5_th%C3%A1ng_1,5 tháng 1,DATE
+/wiki/1846,1846,DATE
+/wiki/Aurich,Aurich,LOCATION
+/wiki/Hannover,Hannover,LOCATION
+/wiki/15_th%C3%A1ng_9,15 tháng 9,DATE
+/wiki/1926,1926,DATE
+/wiki/Jena,Jena,LOCATION
+/wiki/Th%C3%BCringen,Thüringen,LOCATION
+/wiki/Gothenburg,Göteborg,LOCATION
+/wiki/Ch%C3%ADnh_tr%E1%BB%8B_gia,Chính khách,LOCATION
+/wiki/%C4%90an_M%E1%BA%A1ch,Đan Mạch,PERSON
+/wiki/6_th%C3%A1ng_6,6 tháng 6,DATE
+/wiki/1850,1850,DATE
+/wiki/Brooklyn,Brooklyn,LOCATION
+/wiki/Ng%C6%B0%E1%BB%9Di_%C4%90%E1%BB%A9c,Người Đức,PERSON
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Marburg,Đại học Marburg,ORGANIZATION
+/wiki/2_th%C3%A1ng_9,2 tháng 9,DATE
+/wiki/1853,1853,DATE
+/wiki/Riga,Riga,LOCATION
+/wiki/Leipzig,Leipzig,LOCATION
+/wiki/1909,1909,DATE
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Leipzig,Đại học Leipzig,ORGANIZATION
+/wiki/Vi%E1%BB%87n_h%C3%A0n_l%C3%A2m_Khoa_h%E1%BB%8Dc_Leopoldina,Viện Hàn lâm Khoa học Leopoldina,ORGANIZATION
+/wiki/Arthur_Amos_Noyes,Arthur Amos Noyes,PERSON
+/wiki/20_th%C3%A1ng_11,20 tháng 11,DATE
+/wiki/1858,1858,DATE
+/wiki/V%C3%A4rmland,Värmland,ORGANIZATION
+/wiki/Ng%C6%B0%E1%BB%9Di_Th%E1%BB%A5y_%C4%90i%E1%BB%83n,Người Thụy Điển,PERSON
+/wiki/La_Fl%C3%A8che,La Flèche,LOCATION
+/wiki/Leiden,Leiden,LOCATION
+/wiki/Willem_Hendrik_Keesom,Willem Hendrik Keesom,PERSON
+/wiki/Kaliningrad,Kaliningrad,LOCATION
+/wiki/G%C3%B6ttingen,Göttingen,LOCATION
+/wiki/August_Wilhelm_von_Hofmann,August Wilhelm von Hofmann,PERSON
+/wiki/Friedrich_W%C3%B6hler,Friedrich Wöhler,PERSON
+/wiki/Friedrich_August_Kekul%C3%A9_von_Stradonitz,August Kekulé,PERSON
+/wiki/Walter_Haworth,Norman Haworth,PERSON
+/wiki/1927,1927,DATE
+/wiki/15_th%C3%A1ng_3,15 tháng 3,DATE
+/wiki/1830,1830,DATE
+/wiki/2_th%C3%A1ng_4,2 tháng 4,DATE
+/wiki/1914,1914,DATE
+/wiki/Hermann_von_Helmholtz,Hermann von Helmholtz,PERSON
+/wiki/Landskrona,Landskrona,LOCATION
+/wiki/29_th%C3%A1ng_4,29 tháng 4,DATE
+/wiki/1862,1862,DATE
+/wiki/Gent,Gent,LOCATION
+/wiki/B%E1%BB%89,Bỉ,ORGANIZATION
+/wiki/6_th%C3%A1ng_5,6 tháng 5,DATE
+/wiki/1949,1949,DATE
+/wiki/Nice,Nice,LOCATION
+/wiki/Cherbourg,Cherbourg,LOCATION
+/wiki/Lyon,Lyon,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Lyon,Đại học Lyon,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Nancy,Đại học Nancy,ORGANIZATION 
+/wiki/1854,1854,DATE
+/wiki/Carcassonne,Carcassonne,LOCATION
+/wiki/Toulouse,Toulouse,LOCATION
+/wiki/Sainte-Foy-l%C3%A8s-Lyon,Sainte-Foy-lès-Lyon,LOCATION
+"/wiki/Rh%C3%B4ne,_Rh%C3%B4ne-Alpes",Rhône (tỉnh),LOCATION
+/wiki/Gi%E1%BA%A3i_ph%E1%BA%ABu_h%E1%BB%8Dc,Giải phẫu học,OCCUPATION 
+/wiki/Sinh_h%E1%BB%8Dc,Sinh học,FIELD
+/wiki/15_th%C3%A1ng_11,15 tháng 11,DATE
+/wiki/Szczawno-Zdr%C3%B3j,Szczawno-Zdrój,LOCATION
+/wiki/Ba_Lan,Ba Lan,LOCATION
+/wiki/1946,1946,DATE
+/wiki/21_th%C3%A1ng_9,21 tháng 9,DATE
+/wiki/Groningen,Groningen (thành phố),LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Groningen,Đại học Groningen,ORGANIZATION
+/wiki/Gustav_Kirchhoff,Gustav Robert Kirchhoff,PERSON
+/wiki/12_th%C3%A1ng_12,12 tháng 12,DATE
+/wiki/Mulhouse,Mulhouse,LOCATION
+/wiki/Alsace,Alsace,LOCATION
+/wiki/Z%C3%BCrich,Zürich,LOCATION
+/wiki/Th%E1%BB%A5y_S%C4%A9,Thụy Sĩ,LOCATION
+/wiki/7_th%C3%A1ng_5,7 tháng 5,DATE
+/wiki/1861,1861,DATE
+/wiki/%E1%BA%A4n_%C4%90%E1%BB%99,Ấn Độ,LOCATION
+/wiki/Koblenz,Koblenz,LOCATION
+/wiki/Le%C3%B3_Szil%C3%A1rd,Leó Szilárd,PERSON
+/wiki/%C4%90%E1%BA%BF_qu%E1%BB%91c_%C3%81o-Hung,Đế quốc Áo-Hung,ORGANIZATION
+/wiki/%C3%81o,Áo,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Wien,Đại học Viên,ORGANIZATION
+/wiki/2_th%C3%A1ng_7,2 tháng 7,DATE
+/wiki/Cumberland,Cumberland,ORGANIZATION
+/wiki/1915,1915,DATE
+/wiki/Gi%E1%BA%A3i_John_J._Carty_cho_th%C4%83ng_ti%E1%BA%BFn_Khoa_h%E1%BB%8Dc,Giải John J. Carty cho thăng tiến Khoa học,AWARD 
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Adelaide,Đại học Adelaide,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Leeds,Đại học Leeds,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_London,Đại học Luân Đôn,ORGANIZATION
+/wiki/31_th%C3%A1ng_3,31 tháng 3,DATE
+/wiki/1890,1890,DATE
+/wiki/%C3%9Ac,Úc,LOCATION
+/wiki/Suffolk,Suffolk,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Victoria,Đại học Victoria,ORGANIZATION 
+/wiki/13_th%C3%A1ng_8,13 tháng 8,DATE
+/wiki/1872,1872,DATE
+/wiki/Karlsruhe,Karlsruhe,LOCATION
+/wiki/ETH_Zurich,ETH Zürich,ORGANIZATION
+/wiki/29_th%C3%A1ng_1,29 tháng 1,DATE
+"/wiki/Clamecy,_Ni%C3%A8vre","Clamecy, Nièvre",LOCATION
+/wiki/Ni%C3%A8vre,Nièvre,LOCATION
+/wiki/V%C3%A9zelay,Vézelay,LOCATION
+/wiki/6_th%C3%A1ng_7,6 tháng 7,DATE
+/wiki/1859,1859,DATE
+/wiki/20_th%C3%A1ng_5,20 tháng 5,DATE
+/wiki/1940,1940,DATE
+/wiki/Cheshire,Cheshire,LOCATION
+/wiki/Edinburgh,Edinburgh,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Liverpool,Đại học Liverpool,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Edinburgh,Đại học Edinburgh,ORGANIZATION
+/wiki/Kiel,Kiel,LOCATION
+/wiki/T%C3%A2y_%C4%90%E1%BB%A9c,Tây Đức,ORGANIZATION
+/wiki/Wroc%C5%82aw,Wrocław,LOCATION
+/wiki/Basel,Basel,LOCATION
+/wiki/Freihung,Freihung,LOCATION
+/wiki/Traunstein,Traunstein,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Hannover,Đại học Hanover,ORGANIZATION
+/wiki/Soignies,Soignies,LOCATION
+/wiki/24_th%C3%A1ng_4,24 tháng 4,DATE
+/wiki/29_th%C3%A1ng_12,29 tháng 12,DATE
+/wiki/1924,1924,DATE
+"/wiki/Staunton,_Virginia","Staunton, Virginia",LOCATION
+/wiki/S%C3%A8vres,Sèvres,LOCATION
+/wiki/25_th%C3%A1ng_6,25 tháng 6,DATE
+/wiki/1864,1864,DATE
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Graz,Đại học Graz,ORGANIZATION
+/wiki/1920,1920,DATE
+/wiki/1928,1928,DATE
+/wiki/Ludwig_Boltzmann,Ludwig Boltzmann,PERSON
+/wiki/Gilbert_N._Lewis,Gilbert N. Lewis,PERSON
+/wiki/Max_Bodenstein,Max Bodenstein,PERSON
+/wiki/Hermann_Irving_Schlesinger,Hermann Irving Schlesinger,PERSON
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Copenhagen,Đại học Copenhagen,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Duke,Đại học Duke,ORGANIZATION
+/wiki/4_th%C3%A1ng_8,4 tháng 8,DATE
+/wiki/Ulm,Ulm,LOCATION
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_W%C3%BCrttemberg,Vương quốc Württemberg,ORGANIZATION
+"/wiki/Princeton,_New_Jersey","Princeton, New Jersey",ORGANIZATION
+/wiki/M%E1%BB%B9,Hoa Kỳ,PERSON
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Zurich,Đại học Zürich,ORGANIZATION
+/wiki/Mileva_Mari%C4%87,Mileva Marić,PERSON
+/wiki/Hans_Albert_Einstein,Hans Albert Einstein,PERSON
+"/wiki/Gia_%C4%91%C3%ACnh_Einstein#Eduard_""Tete""_Einstein_(con_trai_thứ_hai_của_Einstein)",Gia đình Einstein,PERSON
+/wiki/Huy_ch%C6%B0%C6%A1ng_Copley,Huy chương Copley,AWARD 
+/wiki/Huy_ch%C6%B0%C6%A1ng_v%C3%A0ng_c%E1%BB%A7a_H%E1%BB%99i_Thi%C3%AAn_v%C4%83n_h%E1%BB%8Dc_Ho%C3%A0ng_gia,Huy chương vàng của Hội Thiên văn Hoàng gia,AWARD 
+/wiki/Huy_ch%C6%B0%C6%A1ng_Max_Planck,Huy chương Max Planck,AWARD 
+/wiki/Bern,Bern,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Karl_%E1%BB%9F_Praha,Đại học Karl tại Praha,ORGANIZATION
+/wiki/Vi%E1%BB%87n_H%C3%A0n_l%C3%A2m_Khoa_h%E1%BB%8Dc_Ph%E1%BB%95,Viện Hàn lâm Khoa học Phổ,ORGANIZATION 
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Berlin_Humboldt,Đại học Humboldt Berlin,ORGANIZATION
+/wiki/Vi%E1%BB%87n_C%C3%B4ng_ngh%E1%BB%87_California,Viện Công nghệ California,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Oxford,Đại học Oxford,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Brandeis,Đại học Brandeis,ORGANIZATION 
+/wiki/Alfred_Kleiner,Alfred Kleiner,PERSON
+/wiki/Hermann_Minkowski,Hermann Minkowski,PERSON
+/wiki/V%E1%BA%ADt_l%C3%BD_hi%E1%BB%87n_%C4%91%E1%BA%A1i,Vật lý hiện đại,FIELD
+/wiki/1877,1877,DATE
+/wiki/Eastbourne,Eastbourne,LOCATION
+/wiki/Brighton,Brighton,LOCATION
+/wiki/1921,1921,DATE
+/wiki/1900,1900,DATE
+/wiki/1903,1903,DATE
+/wiki/1936,1936,DATE
+/wiki/16_th%C3%A1ng_4,16 tháng 4,DATE
+/wiki/1844,1844,DATE
+/wiki/12_th%C3%A1ng_10,12 tháng 10,DATE
+/wiki/Tours,Tours,LOCATION
+/wiki/23_th%C3%A1ng_11,23 tháng 11,DATE
+/wiki/1860,1860,DATE
+/wiki/Thu%E1%BB%B5_%C4%90i%E1%BB%83n,Thụy Điển,PERSON
+/wiki/24_th%C3%A1ng_2,24 tháng 2,DATE
+/wiki/1925,1925,DATE
+/wiki/Copenhagen,Copenhagen,LOCATION
+/wiki/Gi%E1%BA%A3i_Nguy%C3%AAn_t%E1%BB%AD_v%C3%AC_H%C3%B2a_b%C3%ACnh,Giải thưởng Nguyên tử vì Hòa bình,AWARD 
+/wiki/Gi%E1%BA%A3i_Sonning,Giải Sonning,AWARD 
+/wiki/Lise_Meitner,Lise Meitner,PERSON
+/wiki/1_th%C3%A1ng_9,1 tháng 9,DATE
+/wiki/Birmingham,Birmingham,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Birmingham,Đại học Birmingham,ORGANIZATION 
+/wiki/1922,1922,DATE
+/wiki/Philadelphia,Philadelphia,LOCATION
+/wiki/12_th%C3%A1ng_8,12 tháng 8,DATE
+/wiki/14_th%C3%A1ng_7,14 tháng 7,DATE
+/wiki/1954,1954,DATE
+/wiki/Oslo,Oslo,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Oslo,Đại học Oslo,ORGANIZATION
+/wiki/Nh%C3%A0_khoa_h%E1%BB%8Dc,Nhà khoa học,OCCUPATION 
+/wiki/Ngo%E1%BA%A1i_giao,Ngoại giao,LOCATION
+/wiki/Legion_of_Honor,Bắc Đẩu Bội tinh,LOCATION
+/wiki/22_th%C3%A1ng_3,22 tháng 3,DATE
+/wiki/1868,1868,DATE
+"/wiki/Morrison,_Illinois","Morrison, Illinois",LOCATION
+/wiki/California,California,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Oberlin,Đại học Oberlin,PERSON
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Columbia,Đại học Columbia,ORGANIZATION
+/wiki/Gi%E1%BA%A3i_V%E1%BA%ADt_l%C3%BD_Comstock,Giải Vật lý Comstock,AWARD 
+/wiki/Huy_ch%C6%B0%C6%A1ng_Oersted,Huy chương Oersted,AWARD
+/wiki/Ljubljana,Ljubljana,LOCATION
+/wiki/Graz,Graz,LOCATION
+/wiki/1923,1923,DATE
+/wiki/Ontario,Ontario,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Toronto,Đại học Toronto,ORGANIZATION
+/wiki/13_th%C3%A1ng_6,13 tháng 6,DATE
+/wiki/1865,1865,DATE
+/wiki/Dublin,Dublin,LOCATION
+/wiki/C%E1%BB%99ng_h%C3%B2a_Ireland,Cộng hòa Ireland,LOCATION
+/wiki/28_th%C3%A1ng_1,28 tháng 1,DATE
+/wiki/1939,1939,DATE
+/wiki/Ng%C6%B0%E1%BB%9Di_Ireland,Người Ireland,LOCATION
+/wiki/%C3%96rebro,Örebro,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Lund,Đại học Lund,ORGANIZATION
+/wiki/Semarang,Semarang,LOCATION
+/wiki/Radomsko,Radomsko,LOCATION
+/wiki/5_th%C3%A1ng_12,5 tháng 12,DATE
+/wiki/Hamburg,Hamburg,LOCATION
+/wiki/Theodore_Puck,Theodore Puck,PERSON
+/wiki/%C4%90%C3%B4ng_Berlin,Đông Berlin,PERSON
+/wiki/C%E1%BB%99ng_h%C3%B2a_D%C3%A2n_ch%E1%BB%A7_%C4%90%E1%BB%A9c,Cộng hòa Dân chủ Đức,ORGANIZATION
+/wiki/1_th%C3%A1ng_4,1 tháng 4,DATE
+/wiki/Ireland,Đảo Ireland,LOCATION
+/wiki/Warwickshire,Warwickshire,LOCATION
+/wiki/England,Anh,LOCATION
+/wiki/London,Luân Đôn,LOCATION
+"/wiki/Marietta,_Ohio","Marietta, Ohio",LOCATION
+"/wiki/Evanston,_Illinois","Evanston, Illinois",LOCATION
+/wiki/Bachelor_of_Arts,Cử nhân Nghệ thuật,OCCUPATION
+/wiki/Lille,Lille,LOCATION
+/wiki/1867,1867,DATE
+/wiki/Silkeborg,Silkeborg,ORGANIZATION
+/wiki/Cecil_Frank_Powell,Cecil Frank Powell,PERSON
+/wiki/Pforzheim,Pforzheim,LOCATION
+/wiki/Bayern,Bayern,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_K%E1%BB%B9_thu%E1%BA%ADt_M%C3%BCnchen,Đại học Kỹ thuật München,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Freiburg,Đại học Freiburg,ORGANIZATION
+/wiki/Leopold_Horner,Leopold Horner,PERSON
+/wiki/Alton,"Alton, Illinois",LOCATION
+/wiki/Hampshire,Hampshire,LOCATION
+/wiki/1876,1876,DATE
+/wiki/Rouen,Rouen,LOCATION
+/wiki/1882,1882,DATE
+/wiki/Lillehammer,Lillehammer,LOCATION
+/wiki/Louveciennes,Louveciennes,LOCATION
+/wiki/Paul_Langevin,Paul Langevin,PERSON
+/wiki/Augsburg,Augsburg,LOCATION
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Bayern,Vương quốc Bayern,ORGANIZATION
+/wiki/Th%C3%A0nh_bang_t%E1%BB%B1_do_L%C3%BCbeck,Thành bang tự do Lübeck,ORGANIZATION
+/wiki/Gi%E1%BA%A3i_Goethe,Giải Goethe,AWARD 
+"/wiki/Saint_Paul,_Minnesota","Saint Paul, Minnesota",LOCATION
+/wiki/7_th%C3%A1ng_11,7 tháng 11,DATE
+/wiki/Tiruchirappalli,Tiruchirappalli,LOCATION
+/wiki/T%E1%BB%89nh,Tỉnh,LOCATION
+/wiki/Madras,Chennai,LOCATION
+/wiki/Bangalore,Bengaluru,LOCATION
+/wiki/Karnataka,Karnataka,LOCATION
+/wiki/1929,1929,DATE
+/wiki/1930,1930,DATE
+/wiki/Gi%E1%BA%A3i_th%C6%B0%E1%BB%9Fng_H%C3%B2a_b%C3%ACnh_Lenin,Giải thưởng Hòa bình Quốc tế Lenin,AWARD 
+/wiki/1957,1957,DATE
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Calcutta,Đại học Calcutta,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Lausanne,Đại học Lausanne,ORGANIZATION
+/wiki/Emil_Fischer,Emil Fischer,PERSON
+/wiki/Baden_bei_Wien,Baden bei Wien,LOCATION
+/wiki/New_York_City,Thành phố New York,LOCATION
+/wiki/Fellow_of_the_Royal_Society,Thành viên Hội Vương thất,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Rockefeller,Đại học Rockefeller,ORGANIZATION
+/wiki/7_th%C3%A1ng_2,7 tháng 2,DATE
+/wiki/1885,1885,DATE
+"/wiki/Sauk_Centre,_Minnesota","Sauk Centre, Minnesota",LOCATION
+/wiki/10_th%C3%A1ng_1,10 tháng 1,DATE
+/wiki/1951,1951,DATE
+/wiki/Roma,Roma,LOCATION
+/wiki/27_th%C3%A1ng_8,27 tháng 8,DATE
+/wiki/Cologne,Köln,LOCATION
+/wiki/Heidelberg,Heidelberg,LOCATION
+/wiki/Huy_ch%C6%B0%C6%A1ng_Liebig,Huy chương Liebig,AWARD
+/wiki/1931,1931,DATE
+/wiki/BASF,BASF,ORGANIZATION
+/wiki/11_th%C3%A1ng_10,11 tháng 10,DATE
+/wiki/1884,1884,DATE
+/wiki/Breslau,Wrocław,LOCATION
+/wiki/Buenos_Aires,Buenos Aires,LOCATION
+/wiki/Argentina,Argentina,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Hanover,Đại học Hanover,ORGANIZATION
+/wiki/Freiburg,Freiburg,ORGANIZATION
+/wiki/%C4%90%E1%BA%BF_ch%E1%BA%BF_%C4%90%E1%BB%A9c,Đế quốc Đức,ORGANIZATION
+/wiki/Th%E1%BA%ADp_t%E1%BB%B1_S%E1%BA%AFt,Thập tự Sắt,PERSON
+/wiki/20_th%C3%A1ng_7,20 tháng 7,DATE
+/wiki/Dalarna,Dalarna,PERSON
+/wiki/8_th%C3%A1ng_4,8 tháng 4,DATE
+"/wiki/Cedarville,_Illinois","Cedarville, Illinois",LOCATION
+/wiki/Chicago,Chicago,LOCATION
+/wiki/W%C3%BCrzburg,Würzburg,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_St._Andrews,Đại học St. Andrews,ORGANIZATION
+/wiki/Arnold_Sommerfeld,Arnold Sommerfeld,PERSON
+/wiki/Edward_Teller,Edward Teller,PERSON
+/wiki/Huy_ch%C6%B0%C6%A1ng_Perkin,Huy chương Perkin,AWARD 
+/wiki/14_th%C3%A1ng_8,14 tháng 8,DATE
+/wiki/Kingston_upon_Thames,Kingston upon Thames,ORGANIZATION
+/wiki/Ng%C6%B0%E1%BB%9Di_Anh,Người Anh,PERSON
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Vi%C3%AAn,Đại học Viên,ORGANIZATION
+/wiki/8_th%C3%A1ng_8,8 tháng 8,DATE
+/wiki/Bristol,Bristol,LOCATION
+/wiki/20_th%C3%A1ng_10,20 tháng 10,DATE
+/wiki/1984,1984,DATE
+"/wiki/Tallahassee,_Florida","Tallahassee, Florida",LOCATION
+/wiki/Florida,Florida,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Bristol,Đại học Bristol,ORGANIZATION 
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Florida,Đại học Florida,ORGANIZATION
+/wiki/25_th%C3%A1ng_9,25 tháng 9,DATE
+/wiki/Kentucky,Kentucky,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Johns_Hopkins,Đại học Johns Hopkins,ORGANIZATION
+/wiki/Gi%E1%BA%A3i_Nobel_Sinh_h%E1%BB%8Dc_v%C3%A0_Y_h%E1%BB%8Dc,Giải Nobel Sinh lý học hoặc Y học,AWARD
+/wiki/1933,1933,DATE
+/wiki/Nettie_Stevens,Nettie Stevens,PERSON
+/wiki/Calvin_Bridges,Calvin Bridges,PERSON
+/wiki/Alfred_Sturtevant,Alfred Sturtevant,PERSON
+/wiki/Voronezh,Voronezh,LOCATION
+/wiki/Croydon,Croydon,ORGANIZATION
+/wiki/1893,1893,DATE
+"/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_California,_Berkeley","Đại học California, Berkeley",ORGANIZATION
+/wiki/1934,1934,DATE
+/wiki/Huy_ch%C6%B0%C6%A1ng_Priestley,Huy chương Priestley,AWARD 
+/wiki/1943,1943,DATE
+/wiki/1964,1964,DATE
+/wiki/Huy_ch%C6%B0%C6%A1ng_Arthur_L._Day,Huy chương Arthur L. Day,AWARD 
+/wiki/1969,1969,DATE
+"/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_California,_San_Diego","Đại học California, San Diego",ORGANIZATION
+/wiki/Stanley_Miller,Stanley Miller,PERSON
+"/wiki/Ashland,_New_Hampshire","Ashland, New Hampshire",LOCATION
+"/wiki/Rochester,_New_York","Rochester, New York",LOCATION
+"/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_California,_San_Francisco","Đại học California, San Francisco",ORGANIZATION
+/wiki/Boston,Boston,LOCATION
+/wiki/Massachusetts,Massachusetts,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Harvard,Đại học Harvard,ORGANIZATION
+/wiki/1891,1891,DATE
+"/wiki/Paris,_Ph%C3%A1p",Paris,LOCATION
+/wiki/H%C3%A9l%C3%A8ne_Langevin-Joliot,Hélène Langevin-Joliot,PERSON
+/wiki/Gi%E1%BA%A3i_Nobel,Giải Nobel,AWARD 
+/wiki/Peggau,Peggau,LOCATION
+/wiki/Mount_Vernon,Mount Vernon,LOCATION
+/wiki/Gi%E1%BA%A3i_Lieben,Giải Lieben,AWARD 
+/wiki/Vi%E1%BB%87n_H%C3%A0n_l%C3%A2m_Khoa_h%E1%BB%8Dc_%C3%81o,Viện Hàn lâm Khoa học Áo,ORGANIZATION
+/wiki/New_York_(ti%E1%BB%83u_bang),New York (tiểu bang),LOCATION
+/wiki/B.S.,Cử nhân Khoa học,OCCUPATION 
+/wiki/Ph.D,Doctor of Philosophy,OCCUPATION
+/wiki/Robert_A._Millikan,Robert Millikan,PERSON
+/wiki/24_th%C3%A1ng_3,24 tháng 3,DATE
+/wiki/Maastricht,Maastricht,LOCATION
+"/wiki/Ithaca,_New_York","Ithaca, New York",LOCATION
+/wiki/New_York,New York (định hướng),LOCATION
+/wiki/Huy_ch%C6%B0%C6%A1ng_Lorentz,Huy chương Lorentz,AWARD 
+/wiki/1935,1935,DATE
+/wiki/1950,1950,DATE
+/wiki/1963,1963,DATE
+/wiki/Hu%C3%A2n_ch%C6%B0%C6%A1ng_Khoa_h%E1%BB%8Dc_Qu%E1%BB%91c_gia,Huân chương Khoa học Quốc gia,AWARD 
+/wiki/1965,1965,DATE
+/wiki/1911,1911,DATE
+/wiki/1912,1912,DATE
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Cornell,Đại học Cornell,ORGANIZATION
+/wiki/Fritz_Zwicky,Fritz Zwicky,PERSON
+/wiki/16_th%C3%A1ng_10,16 tháng 10,DATE
+/wiki/Illinois,Illinois,LOCATION
+"/wiki/Charlottesville,_Virginia","Charlottesville, Virginia",LOCATION
+/wiki/Worcestershire,Worcestershire,PERSON
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Anh,Vương quốc Liên hiệp Anh và Bắc Ireland,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Durham,Đại học Durham,ORGANIZATION
+/wiki/Moskva,Moskva,LOCATION
+/wiki/Budapest,Budapest,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Szeged,Đại học Szeged,ORGANIZATION
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_%C3%9D_(1861-1946),Vương quốc Ý,ORGANIZATION
+/wiki/L%C3%BD_Ch%C3%ADnh_%C4%90%E1%BA%A1o,Lý Chính Đạo,PERSON
+/wiki/Flanders,Vlaanderen,PERSON
+/wiki/26_th%C3%A1ng_6,26 tháng 6,DATE
+/wiki/Virginia,Virginia,LOCATION
+"/wiki/Palo_Alto,_California","Palo Alto, California",LOCATION
+/wiki/C%E1%BB%AD_nh%C3%A2n_ngh%E1%BB%87_thu%E1%BA%ADt,Cử nhân Nghệ thuật,OCCUPATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Minnesota,Viện Đại học Minnesota,ORGANIZATION
+/wiki/Doctor_of_Philosophy,Doctor of Philosophy,OCCUPATION
+/wiki/Gi%E1%BA%A3i_Enrico_Fermi,Giải Enrico Fermi,AWARD 
+/wiki/Ph%C3%B2ng_th%C3%AD_nghi%E1%BB%87m_Qu%E1%BB%91c_gia_Lawrence_Berkeley,Phòng thí nghiệm Quốc gia Lawrence Berkeley,ORGANIZATION
+/wiki/Ng%C3%B4_Ki%E1%BB%87n_H%C3%B9ng,Ngô Kiện Hùng,PERSON
+/wiki/Bremerhaven,Bremerhaven,LOCATION
+/wiki/Gi%E1%BA%A3i_Paul_Ehrlich_v%C3%A0_Ludwig_Darmstaedter,Giải Paul Ehrlich và Ludwig Darmstaedter,AWARD 
+/wiki/13_th%C3%A1ng_9,13 tháng 9,DATE
+/wiki/Croatia,Croatia,ORGANIZATION
+/wiki/1917,1917,DATE
+/wiki/16_th%C3%A1ng_6,16 tháng 6,DATE
+/wiki/H%C3%A4meenkyr%C3%B6,Hämeenkyrö,ORGANIZATION
+/wiki/Ph%E1%BA%A7n_Lan,Phần Lan,LOCATION
+/wiki/3_th%C3%A1ng_6,3 tháng 6,DATE
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Hamburg,Đại học Hamburg,ORGANIZATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_California_t%E1%BA%A1i_Berkeley,"Đại học California, Berkeley",ORGANIZATION
+/wiki/1_th%C3%A1ng_8,1 tháng 8,DATE
+/wiki/1958,1958,DATE
+/wiki/H%E1%BB%99i_Ho%C3%A0ng_gia,Hội Vương thất Luân Đôn,ORGANIZATION
+/wiki/Vi%E1%BB%87n_Niels_Bohr,Viện Niels Bohr,ORGANIZATION
+/wiki/David_Hume,David Hume,PERSON
+"/wiki/St._Louis,_Missouri",St. Louis,ORGANIZATION
+/wiki/Missouri,Missouri,LOCATION
+/wiki/Ryman%C3%B3w,Rymanów,LOCATION
+/wiki/H%E1%BB%8Dc_vi%E1%BB%87n_C%C3%B4ng_ngh%E1%BB%87_Massachusetts,Viện Công nghệ Massachusetts,ORGANIZATION
+/wiki/Frankfurt_am_Main,Frankfurt am Main,LOCATION
+/wiki/Copernicus,Nicolaus Copernicus,PERSON
+/wiki/Paracelsus,Paracelsus,PERSON
+/wiki/Hugo_Grotius,Hugo Grotius,PERSON
+/wiki/L%C3%A9gion_d%27Honneur,Bắc Đẩu Bội tinh,LOCATION
+/wiki/Fritz_Strassmann,Fritz Strassmann,PERSON
+/wiki/Wisconsin,Wisconsin,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Michigan,Đại học Michigan,ORGANIZATION
+/wiki/Vi%E1%BB%87n_nghi%C3%AAn_c%E1%BB%A9u_cao_c%E1%BA%A5p_Princeton,Viện Nghiên cứu Cao cấp Princeton,ORGANIZATION
+/wiki/15_th%C3%A1ng_1,15 tháng 1,DATE
+/wiki/1895,1895,DATE
+/wiki/Helsinki,Helsinki,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Helsinki,Đại học Helsinki,ORGANIZATION
+/wiki/1945,1945,DATE
+/wiki/H%E1%BB%99i_Ho%C3%A0ng_gia_Lu%C3%A2n_%C4%90%C3%B4n,Hội Vương thất Luân Đôn,ORGANIZATION
+/wiki/Gi%E1%BA%A3i_Nobel_Sinh_l%C3%BD_v%C3%A0_Y_khoa,Giải Nobel Sinh lý học hoặc Y học,AWARD
+/wiki/1979,1979,DATE
+/wiki/Adelaide,Adelaide,LOCATION
+/wiki/Nam_%C3%9Ac_(ti%E1%BB%83u_bang),Nam Úc,PERSON
+/wiki/Oxford,Oxford,LOCATION
+/wiki/7_th%C3%A1ng_4,7 tháng 4,DATE
+/wiki/1889,1889,DATE
+/wiki/Chile,Chile,LOCATION
+/wiki/21_th%C3%A1ng_4,21 tháng 4,DATE
+"/wiki/Cambridge,_Massachusetts","Cambridge, Massachusetts",LOCATION
+/wiki/New_Hampshire,New Hampshire,LOCATION
+/wiki/1932,1932,DATE
+/wiki/19_th%C3%A1ng_11,19 tháng 11,DATE
+"/wiki/Buffalo,_New_York","Buffalo, New York",LOCATION
+/wiki/5_th%C3%A1ng_7,5 tháng 7,DATE
+/wiki/Arizona,Arizona,LOCATION
+/wiki/Huy_ch%C6%B0%C6%A1ng_Daniel_Giraud_Elliot,Huy chương Daniel Giraud Elliot,AWARD 
+/wiki/Indiana,Indiana,LOCATION
+/wiki/Salamanca,Salamanca,LOCATION
+/wiki/21_th%C3%A1ng_12,21 tháng 12,DATE
+/wiki/Indianapolis,Indianapolis,LOCATION
+/wiki/Calw,Calw,LOCATION
+/wiki/9_th%C3%A1ng_8,9 tháng 8,DATE
+/wiki/1962,1962,DATE
+"/wiki/Orlando,_Florida","Orlando, Florida",LOCATION
+/wiki/Bradford,Bradford,LOCATION
+/wiki/T%C3%A2y_Yorkshire,Tây Yorkshire,PERSON
+/wiki/Th%C3%A0nh_vi%C3%AAn_H%E1%BB%99i_Ho%C3%A0ng_gia,Thành viên Hội Vương thất,LOCATION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Ho%C3%A0ng_%C4%91%E1%BA%BF_Lu%C3%A2n_%C4%90%C3%B4n,Đại học Nhà vua Luân Đôn,ORGANIZATION
+/wiki/Ph%C3%B2ng_Th%C3%AD_nghi%E1%BB%87m_Cavendish,Phòng thí nghiệm Cavendish,ORGANIZATION
+/wiki/1886,1886,DATE

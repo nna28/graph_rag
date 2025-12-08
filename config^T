@@ -1,0 +1,38 @@
+Host 203.205.18.240
+  HostName 203.205.18.240
+  Port 20022
+  User moreh02
+
+Host 203.205.18.240
+  HostName 203.205.18.240
+  Port 20022
+  User moreh02
+
+Host 203.205.18.240
+  HostName 203.205.18.240
+  Port 20022
+  User moreh02
+
+Host 203.205.18.240
+  HostName 203.205.18.240
+  Port 20022
+  User moreh02
+
+Host 203.205.18.240
+  HostName 203.205.18.240
+  Port 20022
+  User moreh03
+
+Host 203.205.18.240:20022
+  HostName 203.205.18.240:20022
+
+Host 203.204.18.240:20022
+  HostName 203.204.18.240:20022
+
+Host 1.249.213.156
+  HostName 1.249.213.156
+  User uet22022565
+  Port 22000
+  IdentityFile ~/.ssh/id_rsa
+
+

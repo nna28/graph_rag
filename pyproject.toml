@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "GraphBuilder"
+version = "0.0.1"
+authors = [
+    {name = "Ngo Ngoc Anh", email = "22024524@vnu.edu.vn"},
+]
+description = "Graph Builder module"
+readme = "README.md"
+
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools]
+package-dir = {"" = "src"}

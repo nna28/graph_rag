@@ -1,0 +1,10 @@
+{
+    "python.analysis.extraPaths": [
+        "./src/GraphBuilder/db",
+        "./knowledge_graph_chatbot",
+        "./script"
+    ],
+    "cSpell.words": [
+        "dotenv"
+    ]
+}

@@ -1,0 +1,2210 @@
+link,name,model_label,model_conf,heuristic_label,final_label
+/wiki/Gi%E1%BA%A3i_Nobel_V%E1%BA%ADt_l%C3%BD,Giải Nobel Vật lý,PER,0.8263865113258362,AWARD,AWARD
+/wiki/Gi%E1%BA%A3i_Nobel_H%C3%B3a_h%E1%BB%8Dc,Giải Nobel hóa học,PER,0.9652747511863708,AWARD,AWARD
+/wiki/Gi%E1%BA%A3i_Nobel_Sinh_l%C3%BD_h%E1%BB%8Dc_ho%E1%BA%B7c_Y_h%E1%BB%8Dc,Giải Nobel Sinh lý học hoặc Y học,MISC,0.4568023681640625,AWARD,AWARD
+/wiki/Gi%E1%BA%A3i_Nobel_V%C4%83n_h%E1%BB%8Dc,Giải Nobel Văn học,PER,0.7632434964179993,AWARD,AWARD
+/wiki/Gi%E1%BA%A3i_Nobel_H%C3%B2a_b%C3%ACnh,Giải Nobel Hòa bình,PER,0.9001380801200867,AWARD,AWARD
+/wiki/Gi%E1%BA%A3i_Nobel_Kinh_t%E1%BA%BF,Giải Nobel Kinh tế,MISC,0.7162068486213684,AWARD,AWARD
+/wiki/Wilhelm_R%C3%B6ntgen,Wilhelm Röntgen,PER,0.8385171890258789,UNKNOWN,PERSON
+/wiki/Jacobus_Henricus_van_%27t_Hoff,Jacobus Henricus van 't Hoff,PER,0.9430418610572815,UNKNOWN,PERSON
+/wiki/Emil_Adolf_von_Behring,Emil Adolf von Behring,PER,0.9893885850906372,UNKNOWN,PERSON
+/wiki/Sully_Prudhomme,Sully Prudhomme,PER,0.9150387644767761,UNKNOWN,PERSON
+/wiki/Henry_Dunant,Henry Dunant,PER,0.9995065331459045,UNKNOWN,PERSON
+/wiki/Fr%C3%A9d%C3%A9ric_Passy,Frédéric Passy,PER,0.9989539384841919,UNKNOWN,PERSON
+/wiki/Hendrik_Lorentz,Hendrik Lorentz,PER,0.9995113611221313,UNKNOWN,PERSON
+/wiki/Pieter_Zeeman,Pieter Zeeman,PER,0.9888224601745605,UNKNOWN,PERSON
+/wiki/Hermann_Emil_Fischer,Emil Fischer,PER,0.9995608329772949,UNKNOWN,PERSON
+/wiki/Ronald_Ross,Ronald Ross,PER,0.9994815587997437,UNKNOWN,PERSON
+/wiki/Theodor_Mommsen,Theodor Mommsen,PER,0.9803075790405273,UNKNOWN,PERSON
+/wiki/%C3%89lie_Ducommun,Élie Ducommun,PER,0.9990490078926086,UNKNOWN,PERSON
+/wiki/Charles_Albert_Gobat,Charles Albert Gobat,PER,0.9977392554283142,UNKNOWN,PERSON
+/wiki/Henri_Becquerel,Henri Becquerel,PER,0.987684428691864,UNKNOWN,PERSON
+/wiki/Pierre_Curie,Pierre Curie,PER,0.9993487000465393,UNKNOWN,PERSON
+/wiki/Marie_Curie,Marie Curie,PER,0.9293150901794434,UNKNOWN,PERSON
+/wiki/Svante_Arrhenius,Svante Arrhenius,PER,0.8497878313064575,UNKNOWN,PERSON
+/wiki/Niels_Ryberg_Finsen,Niels Ryberg Finsen,PER,0.99958735704422,UNKNOWN,PERSON
+/wiki/Bj%C3%B8rnstjerne_Bj%C3%B8rnson,Bjørnstjerne Bjørnson,PER,0.9961565136909485,UNKNOWN,PERSON
+/wiki/Randal_Cremer,William Randal Cremer,PER,0.9620122909545898,UNKNOWN,PERSON
+"/wiki/John_William_Strutt,_Nam_t%C6%B0%E1%BB%9Bc_Rayleigh_th%E1%BB%A9_3","John William Strutt, Nam tước Rayleigh thứ 3",PER,0.9955024719238281,UNKNOWN,PERSON
+/wiki/William_Ramsay,William Ramsay,PER,0.9995951652526855,UNKNOWN,PERSON
+/wiki/Ivan_Pavlov,Ivan Petrovich Pavlov,PER,0.99955815076828,UNKNOWN,PERSON
+/wiki/Fr%C3%A9d%C3%A9ric_Mistral,Frédéric Mistral,PER,0.9993686079978943,UNKNOWN,PERSON
+/wiki/Jos%C3%A9_Echegaray,José Echegaray,PER,0.9975212216377258,UNKNOWN,PERSON
+/wiki/Philipp_Lenard,Philipp Lenard,PER,0.9997427463531494,UNKNOWN,PERSON
+/wiki/Adolf_von_Baeyer,Adolf von Baeyer,PER,0.9990164637565613,UNKNOWN,PERSON
+/wiki/Robert_Koch,Robert Koch,PER,0.9996680021286011,UNKNOWN,PERSON
+/wiki/Henryk_Sienkiewicz,Henryk Sienkiewicz,PER,0.9952194094657898,UNKNOWN,PERSON
+/wiki/Bertha_von_Suttner,Bertha von Suttner,PER,0.8791748285293579,UNKNOWN,PERSON
+/wiki/J._J._Thomson,Joseph John Thomson,PER,0.9976827502250671,UNKNOWN,PERSON
+/wiki/Henri_Moissan,Henri Moissan,PER,0.8756122589111328,UNKNOWN,PERSON
+/wiki/Santiago_Ram%C3%B3n_y_Cajal,Santiago Ramón y Cajal,PER,0.8971889615058899,UNKNOWN,PERSON
+/wiki/Giosu%C3%A8_Carducci,Giosuè Carducci,PER,0.9996707439422607,UNKNOWN,PERSON
+/wiki/Theodore_Roosevelt,Theodore Roosevelt,PER,0.9786750078201294,UNKNOWN,PERSON
+/wiki/Albert_Abraham_Michelson,Albert Abraham Michelson,PER,0.8798568844795227,UNKNOWN,PERSON
+/wiki/Eduard_Buchner,Eduard Buchner,PER,0.9983987212181091,UNKNOWN,PERSON
+/wiki/Charles_Louis_Alphonse_Laveran,Charles Louis Alphonse Laveran,PER,0.9968577027320862,UNKNOWN,PERSON
+/wiki/Rudyard_Kipling,Rudyard Kipling,PER,0.9993972778320312,UNKNOWN,PERSON
+/wiki/Ernesto_Teodoro_Moneta,Ernesto Teodoro Moneta,PER,0.9973657727241516,UNKNOWN,PERSON
+/wiki/Louis_Renault_(jurist),Louis Renault (luật gia),PER,0.9995921850204468,UNKNOWN,PERSON
+/wiki/Gabriel_Lippmann,Gabriel Lippmann,PER,0.999610424041748,UNKNOWN,PERSON
+/wiki/Ernest_Rutherford,Ernest Rutherford,PER,0.9994149804115295,UNKNOWN,PERSON
+/wiki/%C3%89lie_Metchnikoff,Ilya Ilyich Mechnikov,ORG,0.7135278582572937,UNKNOWN,INSTITUTION
+/wiki/Paul_Ehrlich,Paul Ehrlich,PER,0.9967358112335205,UNKNOWN,PERSON
+/wiki/Rudolf_Christoph_Eucken,Rudolf Christoph Eucken,PER,0.9911462068557739,UNKNOWN,PERSON
+/wiki/Klas_Pontus_Arnoldson,Klas Pontus Arnoldson,PER,0.9994750618934631,UNKNOWN,PERSON
+/wiki/Fredrik_Bajer,Fredrik Bajer,PER,0.8914371728897095,UNKNOWN,PERSON
+/wiki/Karl_Ferdinand_Braun,Karl Ferdinand Braun,PER,0.9953767657279968,UNKNOWN,PERSON
+/wiki/Guglielmo_Marconi,Guglielmo Marconi,PER,0.9994285702705383,UNKNOWN,PERSON
+/wiki/Wilhelm_Ostwald,Wilhelm Ostwald,PER,0.9767252206802368,UNKNOWN,PERSON
+/wiki/Emil_Theodor_Kocher,Emil Theodor Kocher,PER,0.9994331002235413,UNKNOWN,PERSON
+/wiki/Selma_Lagerl%C3%B6f,Selma Lagerlöf,PER,0.9993577599525452,UNKNOWN,PERSON
+/wiki/Auguste_Marie_Fran%C3%A7ois_Beernaert,Auguste Beernaert,PER,0.9994979500770569,UNKNOWN,PERSON
+/wiki/Paul-Henri-Benjamin_d%27Estournelles_de_Constant,Paul-Henri-Benjamin d'Estournelles de Constant,PER,0.999336302280426,UNKNOWN,PERSON
+/wiki/Johannes_Diderik_van_der_Waals,Johannes Diderik van der Waals,PER,0.9962193965911865,UNKNOWN,PERSON
+/wiki/Otto_Wallach,Otto Wallach,PER,0.9994926452636719,UNKNOWN,PERSON
+/wiki/Albrecht_Kossel,Albrecht Kossel,PER,0.9023246765136719,UNKNOWN,PERSON
+/wiki/Paul_Heyse,Paul Johann Ludwig von Heyse,PER,0.9926279187202454,UNKNOWN,PERSON
+/wiki/Ph%C3%B2ng_H%C3%B2a_b%C3%ACnh_Qu%E1%BB%91c_t%E1%BA%BF,Phòng Hòa bình Quốc tế,PER,0.31766989827156067,AWARD,AWARD
+/wiki/Wilhelm_Wien,Wilhelm Wien,PER,0.9966773986816406,UNKNOWN,PERSON
+/wiki/Allvar_Gullstrand,Allvar Gullstrand,PER,0.9416229128837585,UNKNOWN,PERSON
+/wiki/Maurice_Maeterlinck,Maurice Maeterlinck,PER,0.9988157153129578,UNKNOWN,PERSON
+/wiki/Tobias_Asser,Tobias Michael Carel Asser,PER,0.9946324229240417,UNKNOWN,PERSON
+/wiki/Alfred_Hermann_Fried,Alfred Hermann Fried,PER,0.9972745180130005,UNKNOWN,PERSON
+/wiki/Gustaf_Dal%C3%A9n,Gustaf Dalén,PER,0.9959631562232971,UNKNOWN,PERSON
+/wiki/Victor_Grignard,Victor Grignard,PER,0.9990123510360718,UNKNOWN,PERSON
+/wiki/Paul_Sabatier_(chemist),Paul Sabatier,PER,0.9989322423934937,UNKNOWN,PERSON
+/wiki/Alexis_Carrel,Alexis Carrel,PER,0.9996768236160278,UNKNOWN,PERSON
+/wiki/Gerhart_Hauptmann,Gerhart Hauptmann,PER,0.9997414946556091,UNKNOWN,PERSON
+/wiki/Heike_Kamerlingh_Onnes,Heike Kamerlingh Onnes,PER,0.9997188448905945,UNKNOWN,PERSON
+/wiki/Alfred_Werner,Alfred Werner,PER,0.9994292259216309,UNKNOWN,PERSON
+/wiki/Charles_Richet,Charles Robert Richet,PER,0.9826563596725464,UNKNOWN,PERSON
+/wiki/Rabindranath_Tagore,Rabindranath Tagore,PER,0.9996224641799927,UNKNOWN,PERSON
+/wiki/Henri_La_Fontaine,Henri La Fontaine,PER,0.9973369836807251,FIELD,FIELD
+/wiki/Max_von_Laue,Max von Laue,PER,0.9995880126953125,UNKNOWN,PERSON
+/wiki/Theodore_William_Richards,Theodore William Richards,PER,0.9964373707771301,UNKNOWN,PERSON
+/wiki/Robert_B%C3%A1r%C3%A1ny,Robert Bárány,PER,0.9928388595581055,UNKNOWN,PERSON
+/wiki/William_Henry_Bragg,William Henry Bragg,PER,0.9902544617652893,UNKNOWN,PERSON
+/wiki/William_Lawrence_Bragg,William Lawrence Bragg,PER,0.9982492923736572,UNKNOWN,PERSON
+/wiki/Richard_Willst%C3%A4tter,Richard Willstätter,PER,0.9410947561264038,UNKNOWN,PERSON
+/wiki/Romain_Rolland,Romain Rolland,PER,0.9986836314201355,FIELD,FIELD
+/wiki/Verner_von_Heidenstam,Verner von Heidenstam,PER,0.9994718432426453,UNKNOWN,PERSON
+/wiki/Charles_Glover_Barkla,Charles Glover Barkla,PER,0.999074399471283,UNKNOWN,PERSON
+/wiki/Karl_Adolph_Gjellerup,Karl Gjellerup,PER,0.998383641242981,UNKNOWN,PERSON
+/wiki/Henrik_Pontoppidan,Henrik Pontoppidan,PER,0.9927221536636353,UNKNOWN,PERSON
+/wiki/%E1%BB%A6y_ban_Ch%E1%BB%AF_th%E1%BA%ADp_%C4%91%E1%BB%8F_qu%E1%BB%91c_t%E1%BA%BF,Ủy ban Chữ thập đỏ quốc tế,MISC,0.8401382565498352,UNKNOWN,UNKNOWN
+/wiki/Max_Planck,Max Planck,PER,0.9535918235778809,UNKNOWN,PERSON
+/wiki/Fritz_Haber,Fritz Haber,PER,0.9993093609809875,UNKNOWN,PERSON
+/wiki/Johannes_Stark,Johannes Stark,PER,0.9996440410614014,UNKNOWN,PERSON
+/wiki/Jules_Bordet,Jules Bordet,PER,0.9911081194877625,UNKNOWN,PERSON
+/wiki/Carl_Spitteler,Carl Spitteler,PER,0.9974657297134399,UNKNOWN,PERSON
+/wiki/Woodrow_Wilson,Woodrow Wilson,PER,0.9947222471237183,UNKNOWN,PERSON
+/wiki/Charles_%C3%89douard_Guillaume,Charles Édouard Guillaume,PER,0.9922555088996887,UNKNOWN,PERSON
+/wiki/Walther_Nernst,Walther Nernst,PER,0.9996986389160156,UNKNOWN,PERSON
+/wiki/August_Krogh,August Krogh,PER,0.7544026374816895,UNKNOWN,PERSON
+/wiki/Knut_Hamsun,Knut Hamsun,PER,0.9996970891952515,UNKNOWN,PERSON
+/wiki/Albert_Einstein,Albert Einstein,PER,0.9901720285415649,UNKNOWN,PERSON
+/wiki/Frederick_Soddy,Frederick Soddy,PER,0.9995507597923279,UNKNOWN,PERSON
+/wiki/Anatole_France,Anatole France,LOC,0.9434096217155457,UNKNOWN,LOC
+/wiki/Hjalmar_Branting,Hjalmar Branting,PER,0.9643009305000305,UNKNOWN,PERSON
+/wiki/Christian_Lous_Lange,Christian Lous Lange,PER,0.9990153312683105,UNKNOWN,PERSON
+/wiki/Niels_Bohr,Niels Bohr,PER,0.9995762705802917,UNKNOWN,PERSON
+/wiki/Francis_William_Aston,Francis William Aston,PER,0.9976078867912292,UNKNOWN,PERSON
+/wiki/Otto_Fritz_Meyerhof,Otto Fritz Meyerhof,PER,0.9956760406494141,UNKNOWN,PERSON
+/wiki/Jacinto_Benavente,Jacinto Benavente,PER,0.8763684034347534,UNKNOWN,PERSON
+/wiki/Fridtjof_Nansen,Fridtjof Nansen,PER,0.9995086193084717,UNKNOWN,PERSON
+/wiki/Robert_Andrews_Millikan,Robert Millikan,PER,0.9996461868286133,UNKNOWN,PERSON
+/wiki/Fritz_Pregl,Fritz Pregl,PER,0.9901144504547119,UNKNOWN,PERSON
+/wiki/Frederick_Banting,Frederick Banting,PER,0.9995893836021423,UNKNOWN,PERSON
+/wiki/John_James_Rickard_Macleod,John James Rickard Macleod,PER,0.997370183467865,UNKNOWN,PERSON
+/wiki/W._B._Yeats,William Butler Yeats,PER,0.9948206543922424,UNKNOWN,PERSON
+/wiki/Manne_Siegbahn,Manne Siegbahn,ORG,0.9725528955459595,UNKNOWN,INSTITUTION
+/wiki/Willem_Einthoven,Willem Einthoven,PER,0.9765306711196899,UNKNOWN,PERSON
+/wiki/W%C5%82adys%C5%82aw_Reymont,Władysław Reymont,PER,0.999572217464447,UNKNOWN,PERSON
+/wiki/James_Franck,James Franck,PER,0.9672046303749084,UNKNOWN,PERSON
+/wiki/Gustav_Ludwig_Hertz,Gustav Ludwig Hertz,PER,0.9862015247344971,UNKNOWN,PERSON
+/wiki/Richard_Adolf_Zsigmondy,Richard Adolf Zsigmondy,PER,0.8958101868629456,UNKNOWN,PERSON
+/wiki/George_Bernard_Shaw,George Bernard Shaw,PER,0.9980112910270691,UNKNOWN,PERSON
+/wiki/Austen_Chamberlain,Austen Chamberlain,PER,0.9991673827171326,FIELD,PERSON 
+/wiki/Charles_G._Dawes,Charles G. Dawes,PER,0.9917289614677429,UNKNOWN,PERSON
+/wiki/Jean_Baptiste_Perrin,Jean Baptiste Perrin,PER,0.9600865244865417,UNKNOWN,PERSON
+/wiki/Theodor_Svedberg,Theodor Svedberg,PER,0.9987056255340576,UNKNOWN,PERSON
+/wiki/Johannes_Fibiger,Johannes Fibiger,PER,0.9965359568595886,UNKNOWN,PERSON
+/wiki/Grazia_Deledda,Grazia Deledda,PER,0.9987794756889343,UNKNOWN,PERSON
+/wiki/Gustav_Stresemann,Gustav Stresemann,PER,0.9995236992835999,UNKNOWN,PERSON
+/wiki/Arthur_Compton,Arthur Compton,PER,0.9996927976608276,UNKNOWN,PERSON
+/wiki/Charles_Thomson_Rees_Wilson,Charles Thomson Rees Wilson,PER,0.9963618516921997,UNKNOWN,PERSON
+/wiki/Heinrich_Otto_Wieland,Heinrich Otto Wieland,PER,0.903132975101471,UNKNOWN,PERSON
+/wiki/Julius_Wagner-Jauregg,Julius Wagner-Jauregg,PER,0.9997180700302124,UNKNOWN,PERSON
+/wiki/Henri_Bergson,Henri Bergson,PER,0.9988081455230713,UNKNOWN,PERSON
+/wiki/Owen_Willans_Richardson,Owen Willans Richardson,PER,0.9991752505302429,UNKNOWN,PERSON
+/wiki/Adolf_Otto_Reinhold_Windaus,Adolf Windaus,PER,0.9922976493835449,UNKNOWN,PERSON
+/wiki/Charles_Nicolle,Charles Nicolle,PER,0.9981741309165955,UNKNOWN,PERSON
+/wiki/Sigrid_Undset,Sigrid Undset,PER,0.9978219270706177,UNKNOWN,PERSON
+/wiki/Louis_de_Broglie,Louis de Broglie,PER,0.9989778995513916,UNKNOWN,PERSON
+/wiki/Arthur_Harden,Arthur Harden,PER,0.939572811126709,UNKNOWN,PERSON
+/wiki/Hans_von_Euler-Chelpin,Hans von Euler-Chelpin,PER,0.999139666557312,UNKNOWN,PERSON
+/wiki/Frederick_Gowland_Hopkins,Frederick Gowland Hopkins,PER,0.998778223991394,UNKNOWN,PERSON
+/wiki/Thomas_Mann,Thomas Mann,PER,0.9993013143539429,UNKNOWN,PERSON
+/wiki/Frank_B._Kellogg,Frank Billings Kellogg,PER,0.9132170677185059,UNKNOWN,PERSON
+/wiki/C._V._Raman,Chandrasekhara Venkata Raman,PER,0.9972992539405823,UNKNOWN,PERSON
+/wiki/Hans_Fischer,Hans Fischer,PER,0.9996598958969116,UNKNOWN,PERSON
+/wiki/Karl_Landsteiner,Karl Landsteiner,PER,0.9995037913322449,UNKNOWN,PERSON
+/wiki/Sinclair_Lewis,Sinclair Lewis,PER,0.936418354511261,FIELD,FIELD
+/wiki/Nathan_S%C3%B6derblom,Nathan Söderblom,PER,0.905310869216919,UNKNOWN,PERSON
+/wiki/Carl_Bosch,Carl Bosch,PER,0.9994876980781555,UNKNOWN,PERSON
+/wiki/Friedrich_Bergius,Friedrich Bergius,PER,0.9807209968566895,UNKNOWN,PERSON
+/wiki/Otto_Heinrich_Warburg,Otto Heinrich Warburg,PER,0.9781054854393005,UNKNOWN,PERSON
+/wiki/Erik_Axel_Karlfeldt,Erik Axel Karlfeldt,PER,0.9977892637252808,UNKNOWN,PERSON
+/wiki/Jane_Addams,Jane Addams,PER,0.9983924031257629,UNKNOWN,PERSON
+/wiki/Werner_Heisenberg,Werner Heisenberg,PER,0.9906167984008789,UNKNOWN,PERSON
+/wiki/Irving_Langmuir,Irving Langmuir,PER,0.9992361068725586,UNKNOWN,PERSON
+/wiki/John_Galsworthy,John Galsworthy,PER,0.9993343353271484,UNKNOWN,PERSON
+/wiki/Erwin_Schr%C3%B6dinger,Erwin Schrödinger,PER,0.9762550592422485,UNKNOWN,PERSON
+/wiki/Paul_Dirac,Paul Dirac,PER,0.9997337460517883,UNKNOWN,PERSON
+/wiki/Thomas_Hunt_Morgan,Thomas Hunt Morgan,PER,0.9987173080444336,UNKNOWN,PERSON
+/wiki/Ivan_Bunin,Ivan Alekseyevich Bunin,PER,0.948589026927948,UNKNOWN,PERSON
+/wiki/Norman_Angell,Norman Angell,PER,0.9997691512107849,UNKNOWN,PERSON
+/wiki/Harold_Urey,Harold Urey,PER,0.9994071125984192,UNKNOWN,PERSON
+/wiki/George_Whipple,George Whipple,PER,0.9994723796844482,UNKNOWN,PERSON
+/wiki/George_Minot,George Minot,PER,0.999722421169281,UNKNOWN,PERSON
+/wiki/William_P._Murphy,William P. Murphy,PER,0.9899012446403503,UNKNOWN,PERSON
+/wiki/Luigi_Pirandello,Luigi Pirandello,PER,0.9980915784835815,UNKNOWN,PERSON
+/wiki/James_Chadwick,James Chadwick,PER,0.9945724010467529,UNKNOWN,PERSON
+/wiki/Fr%C3%A9d%C3%A9ric_Joliot-Curie,Frédéric Joliot-Curie,PER,0.9992237091064453,UNKNOWN,PERSON
+/wiki/Ir%C3%A8ne_Joliot-Curie,Irène Joliot-Curie,PER,0.9985837936401367,UNKNOWN,PERSON
+/wiki/Victor_Francis_Hess,Victor Francis Hess,PER,0.9992372393608093,UNKNOWN,PERSON
+/wiki/Carl_David_Anderson,Carl David Anderson,PER,0.9991673827171326,UNKNOWN,PERSON
+/wiki/Peter_Debye,Peter Debye,PER,0.9996154308319092,UNKNOWN,PERSON
+/wiki/Eugene_O%27Neill,Eugene O'Neill,PER,0.9995882511138916,UNKNOWN,PERSON
+/wiki/Carlos_Saavedra_Lamas,Carlos Saavedra Lamas,PER,0.9975813031196594,UNKNOWN,PERSON
+/wiki/Clinton_Davisson,Clinton Davisson,PER,0.999731183052063,UNKNOWN,PERSON
+/wiki/George_Paget_Thomson,George Paget Thomson,PER,0.9990850687026978,UNKNOWN,PERSON
+/wiki/Norman_Haworth,Norman Haworth,PER,0.999516487121582,UNKNOWN,PERSON
+/wiki/Paul_Karrer,Paul Karrer,PER,0.9987030625343323,UNKNOWN,PERSON
+/wiki/Albert_Szent-Gy%C3%B6rgyi,Albert Szent-Györgyi,PER,0.9954184889793396,UNKNOWN,PERSON
+/wiki/Roger_Martin_du_Gard,Roger Martin du Gard,PER,0.9771212339401245,UNKNOWN,PERSON
+/wiki/Enrico_Fermi,Enrico Fermi,PER,0.9995298385620117,UNKNOWN,PERSON
+/wiki/Richard_Kuhn,Richard Kuhn,PER,0.9996473789215088,UNKNOWN,PERSON
+/wiki/Corneille_Heymans,Corneille Heymans,PER,0.9994909763336182,UNKNOWN,PERSON
+/wiki/Pearl_S._Buck,Pearl S. Buck,PER,0.9486066102981567,UNKNOWN,PERSON
+/wiki/Ph%C3%B2ng_qu%E1%BB%91c_t%E1%BA%BF_Nansen_cho_c%C3%A1c_ng%C6%B0%E1%BB%9Di_t%E1%BB%8B_n%E1%BA%A1n,Cơ quan quốc tế về người tị nạn Nansen,PER,0.914760172367096,UNKNOWN,PERSON
+/wiki/Ernest_Lawrence,Ernest Lawrence,PER,0.9989203810691833,UNKNOWN,PERSON
+/wiki/Adolf_Butenandt,Adolf Butenandt,PER,0.9253284931182861,UNKNOWN,PERSON
+/wiki/Leopold_Ru%C5%BEi%C4%8Dka,Leopold Ružička,PER,0.9913132786750793,UNKNOWN,PERSON
+/wiki/Gerhard_Domagk,Gerhard Domagk,PER,0.9412215948104858,UNKNOWN,PERSON
+/wiki/Frans_Eemil_Sillanp%C3%A4%C3%A4,Frans Eemil Sillanpää,PER,0.9994741082191467,UNKNOWN,PERSON
+/wiki/Otto_Stern,Otto Stern,PER,0.9997023344039917,UNKNOWN,PERSON
+/wiki/George_de_Hevesy,George de Hevesy,PER,0.9992185235023499,UNKNOWN,PERSON
+/wiki/Henrik_Dam,Henrik Dam,PER,0.9993795156478882,UNKNOWN,PERSON
+/wiki/Edward_Adelbert_Doisy,Edward Adelbert Doisy,PER,0.930099606513977,UNKNOWN,PERSON
+/wiki/Isidor_Isaac_Rabi,Isidor Isaac Rabi,PER,0.9994825124740601,UNKNOWN,PERSON
+/wiki/Otto_Hahn,Otto Hahn,PER,0.9995923042297363,UNKNOWN,PERSON
+/wiki/Joseph_Erlanger,Joseph Erlanger,PER,0.9945206046104431,UNKNOWN,PERSON
+/wiki/Herbert_Spencer_Gasser,Herbert Spencer Gasser,PER,0.9970085024833679,UNKNOWN,PERSON
+/wiki/Johannes_Vilhelm_Jensen,Johannes Vilhelm Jensen,PER,0.9980523586273193,UNKNOWN,PERSON
+/wiki/Wolfgang_Pauli,Wolfgang Ernst Pauli,PER,0.9993427395820618,UNKNOWN,PERSON
+/wiki/Artturi_Ilmari_Virtanen,Artturi Ilmari Virtanen,PER,0.8918037414550781,UNKNOWN,PERSON
+/wiki/Alexander_Fleming,Alexander Fleming,PER,0.9995977878570557,UNKNOWN,PERSON
+/wiki/Ernst_Boris_Chain,Ernst Boris Chain,PER,0.9736940264701843,FIELD,FIELD
+/wiki/Howard_Florey,Howard Walter Florey,PER,0.9971429109573364,UNKNOWN,PERSON
+/wiki/Gabriela_Mistral,Gabriela Mistral,PER,0.9871304631233215,UNKNOWN,PERSON
+/wiki/Percy_Williams_Bridgman,Percy Williams Bridgman,PER,0.9617632627487183,UNKNOWN,PERSON
+/wiki/James_B._Sumner,James Batcheller Sumner,PER,0.9992395639419556,UNKNOWN,PERSON
+/wiki/John_Howard_Northrop,John Howard Northrop,PER,0.9991683959960938,UNKNOWN,PERSON
+/wiki/Wendell_Meredith_Stanley,Wendell Meredith Stanley,PER,0.9977421760559082,UNKNOWN,PERSON
+/wiki/Hermann_Joseph_Muller,Hermann Joseph Muller,PER,0.9977614879608154,UNKNOWN,PERSON
+/wiki/Hermann_Hesse,Hermann Hesse,PER,0.9877059459686279,UNKNOWN,PERSON
+/wiki/Emily_Greene_Balch,Emily Greene Balch,PER,0.9762287139892578,UNKNOWN,PERSON
+/wiki/John_Mott,John Mott,PER,0.9992122650146484,UNKNOWN,PERSON
+/wiki/Edward_Victor_Appleton,Edward Victor Appleton,PER,0.9951456785202026,UNKNOWN,PERSON
+/wiki/Robert_Robinson_(organic_chemist),Robert Robinson,PER,0.9993888735771179,UNKNOWN,PERSON
+/wiki/Carl_Ferdinand_Cori,Carl Ferdinand Cori,PER,0.9867227077484131,UNKNOWN,PERSON
+/wiki/Gerty_Cori,Gerty Theresa Cori,PER,0.9983281493186951,UNKNOWN,PERSON
+/wiki/Bernardo_Houssay,Bernardo Houssay,PER,0.9987902045249939,UNKNOWN,PERSON
+/wiki/Andr%C3%A9_Gide,André Gide,PER,0.9954400062561035,UNKNOWN,PERSON
+"/wiki/Patrick_Blackett,_Baron_Blackett",Patrick Blackett,PER,0.9995865821838379,UNKNOWN,PERSON
+/wiki/Arne_Tiselius,Arne Tiselius,PER,0.9995328187942505,UNKNOWN,PERSON
+/wiki/Paul_Hermann_M%C3%BCller,Paul Hermann Müller,PER,0.999378502368927,UNKNOWN,PERSON
+/wiki/T._S._Eliot,T. S. Eliot,PER,0.8983842134475708,UNKNOWN,PERSON
+/wiki/Hideki_Yukawa,Yukawa Hideki,PER,0.8653393983840942,UNKNOWN,PERSON
+/wiki/William_Giauque,William Giauque,PER,0.9027751088142395,UNKNOWN,PERSON
+/wiki/Walter_Rudolf_Hess,Walter Rudolf Hess,PER,0.997885525226593,UNKNOWN,PERSON
+/wiki/William_Faulkner,William Faulkner,PER,0.9982665777206421,UNKNOWN,PERSON
+/wiki/C._F._Powell,Cecil Frank Powell,PER,0.9992238879203796,UNKNOWN,PERSON
+/wiki/Otto_Diels,Otto Diels,PER,0.9991211891174316,UNKNOWN,PERSON
+/wiki/Kurt_Alder,Kurt Alder,PER,0.9994500279426575,UNKNOWN,PERSON
+/wiki/Philip_Showalter_Hench,Philip Showalter Hench,PER,0.9771001935005188,UNKNOWN,PERSON
+/wiki/Edward_Calvin_Kendall,Edward Calvin Kendall,PER,0.998953104019165,UNKNOWN,PERSON
+/wiki/Tadeus_Reichstein,Tadeus Reichstein,PER,0.9757238626480103,UNKNOWN,PERSON
+/wiki/Bertrand_Russell,Bertrand Russell,PER,0.9940325021743774,UNKNOWN,PERSON
+/wiki/Ralph_Bunche,Ralph Bunche,PER,0.9995407462120056,UNKNOWN,PERSON
+/wiki/John_Cockcroft,John Cockcroft,PER,0.9995085000991821,UNKNOWN,PERSON
+/wiki/Ernest_Walton,Ernest Walton,PER,0.9996175765991211,UNKNOWN,PERSON
+/wiki/Edwin_McMillan,Edwin McMillan,PER,0.9995231628417969,UNKNOWN,PERSON
+/wiki/Glenn_T._Seaborg,Glenn Seaborg,PER,0.999729335308075,UNKNOWN,PERSON
+/wiki/Max_Theiler,Max Theiler,PER,0.8946606516838074,UNKNOWN,PERSON
+/wiki/P%C3%A4r_Lagerkvist,Pär Lagerkvist,PER,0.9992187023162842,UNKNOWN,PERSON
+/wiki/L%C3%A9on_Jouhaux,Léon Jouhaux,PER,0.988166093826294,UNKNOWN,PERSON
+/wiki/Felix_Bloch,Felix Bloch,PER,0.9967243671417236,UNKNOWN,PERSON
+/wiki/Edward_Mills_Purcell,Edward Mills Purcell,PER,0.9105161428451538,UNKNOWN,PERSON
+/wiki/Archer_John_Porter_Martin,Archer Martin,PER,0.9992943406105042,UNKNOWN,PERSON
+/wiki/Richard_Laurence_Millington_Synge,Richard Laurence Millington Synge,PER,0.956292450428009,UNKNOWN,PERSON
+/wiki/Selman_Waksman,Selman Waksman,PER,0.9994620680809021,UNKNOWN,PERSON
+/wiki/Fran%C3%A7ois_Mauriac,François Mauriac,PER,0.9988077878952026,UNKNOWN,PERSON
+/wiki/Albert_Schweitzer,Albert Schweitzer,PER,0.9691851735115051,UNKNOWN,PERSON
+/wiki/Frits_Zernike,Frits Zernike,PER,0.9993255138397217,UNKNOWN,PERSON
+/wiki/Hermann_Staudinger,Hermann Staudinger,PER,0.9979138374328613,UNKNOWN,PERSON
+/wiki/Hans_Adolf_Krebs,Hans Adolf Krebs,PER,0.9287614822387695,UNKNOWN,PERSON
+/wiki/Fritz_Albert_Lipmann,Fritz Albert Lipmann,PER,0.9386106729507446,UNKNOWN,PERSON
+/wiki/Winston_Churchill,Winston Churchill,PER,0.9987666010856628,UNKNOWN,PERSON
+/wiki/George_Marshall,George Marshall,PER,0.9992210865020752,UNKNOWN,PERSON
+/wiki/Max_Born,Max Born,PER,0.9987343549728394,UNKNOWN,PERSON
+/wiki/Walther_Bothe,Walther Bothe,PER,0.9997071623802185,UNKNOWN,PERSON
+/wiki/Linus_Pauling,Linus Pauling,PER,0.9970695376396179,UNKNOWN,PERSON
+/wiki/John_Franklin_Enders,John Franklin Enders,PER,0.9192288517951965,UNKNOWN,PERSON
+/wiki/Frederick_Chapman_Robbins,Frederick Chapman Robbins,PER,0.9943242073059082,UNKNOWN,PERSON
+/wiki/Ernest_Hemingway,Ernest Hemingway,PER,0.9991657733917236,UNKNOWN,PERSON
+/wiki/Cao_%E1%BB%A7y_Li%C3%AAn_H%E1%BB%A3p_Qu%E1%BB%91c_v%E1%BB%81_ng%C6%B0%E1%BB%9Di_t%E1%BB%8B_n%E1%BA%A1n,Cao ủy Liên Hợp Quốc về người tị nạn,PER,0.5797895193099976,UNKNOWN,PERSON
+/wiki/Willis_Lamb,Willis Lamb,PER,0.9996793270111084,UNKNOWN,PERSON
+/wiki/Polykarp_Kusch,Polykarp Kusch,PER,0.9390487670898438,UNKNOWN,PERSON
+/wiki/Vincent_du_Vigneaud,Vincent du Vigneaud,PER,0.9791572690010071,UNKNOWN,PERSON
+/wiki/Hugo_Theorell,Hugo Theorell,PER,0.9987316727638245,UNKNOWN,PERSON
+/wiki/Halld%C3%B3r_Laxness,Halldór Laxness,PER,0.9853565096855164,UNKNOWN,PERSON
+/wiki/John_Bardeen,John Bardeen,PER,0.9450106620788574,UNKNOWN,PERSON
+/wiki/Walter_Houser_Brattain,Walter Houser Brattain,PER,0.977753221988678,FIELD,FIELD
+/wiki/William_Shockley,William Shockley,PER,0.9984747767448425,UNKNOWN,PERSON
+/wiki/Cyril_Norman_Hinshelwood,Cyril Norman Hinshelwood,PER,0.849091112613678,UNKNOWN,PERSON
+/wiki/Nikolay_Semyonov,Nikolay Nikolayevich Semyonov,PER,0.9745416045188904,UNKNOWN,PERSON
+/wiki/Andr%C3%A9_Fr%C3%A9d%C3%A9ric_Cournand,André Frédéric Cournand,PER,0.9637531042098999,UNKNOWN,PERSON
+/wiki/Werner_Forssmann,Werner Forssmann,PER,0.9982107281684875,UNKNOWN,PERSON
+/wiki/Juan_Ram%C3%B3n_Jim%C3%A9nez,Juan Ramón Jiménez,PER,0.8992322683334351,UNKNOWN,PERSON
+/wiki/Chen_Ning_Yang,Dương Chấn Ninh,PER,0.9972213506698608,UNKNOWN,PERSON
+/wiki/Tsung-Dao_Lee,Lý Chính Đạo,PER,0.9932770133018494,UNKNOWN,PERSON
+"/wiki/Alexander_R._Todd,_Baron_Todd",Alexander R. Todd,PER,0.9788333773612976,UNKNOWN,PERSON
+/wiki/Albert_Camus,Albert Camus,PER,0.9996055364608765,UNKNOWN,PERSON
+/wiki/Lester_B._Pearson,Lester B. Pearson,PER,0.8295975923538208,UNKNOWN,PERSON
+/wiki/Pavel_Cherenkov,Pavel Alekseyevich Cherenkov,PER,0.9440672397613525,UNKNOWN,PERSON
+/wiki/Ilya_Frank,Ilya Mikhailovich Frank,PER,0.9978510141372681,FIELD,FIELD
+/wiki/Igor_Tamm,Igor Yevgenyevich Tamm,PER,0.9640923142433167,UNKNOWN,PERSON
+/wiki/Frederick_Sanger,Frederick Sanger,PER,0.9936930537223816,UNKNOWN,PERSON
+/wiki/George_Wells_Beadle,George Wells Beadle,PER,0.936631977558136,UNKNOWN,PERSON
+/wiki/Edward_Lawrie_Tatum,Edward Lawrie Tatum,PER,0.9992775917053223,UNKNOWN,PERSON
+/wiki/Boris_Pasternak,Boris Leonidovich Pasternak,PER,0.9845852851867676,UNKNOWN,PERSON
+/wiki/Dominique_Pire,Dominique Pire,PER,0.9025037884712219,UNKNOWN,PERSON
+/wiki/Emilio_G._Segr%C3%A8,Emilio G. Segrè,PER,0.9053820967674255,UNKNOWN,PERSON
+/wiki/Owen_Chamberlain,Owen Chamberlain,PER,0.9995838403701782,FIELD,FIELD
+/wiki/Jaroslav_Heyrovsk%C3%BD,Jaroslav Heyrovský,PER,0.9992425441741943,UNKNOWN,PERSON
+/wiki/Severo_Ochoa,Severo Ochoa,PER,0.9995121955871582,UNKNOWN,PERSON
+/wiki/Salvatore_Quasimodo,Salvatore Quasimodo,PER,0.9889428019523621,UNKNOWN,PERSON
+/wiki/Donald_A._Glaser,Donald Arthur Glaser,PER,0.9992355108261108,UNKNOWN,PERSON
+/wiki/Willard_Libby,Willard Libby,PER,0.9990440011024475,UNKNOWN,PERSON
+/wiki/Frank_Macfarlane_Burnet,Frank Macfarlane Burnet,PER,0.9995001554489136,UNKNOWN,PERSON
+/wiki/Saint-John_Perse,Saint-John Perse,PER,0.9254162907600403,FIELD,FIELD
+/wiki/Robert_Hofstadter,Robert Hofstadter,PER,0.998708963394165,UNKNOWN,PERSON
+/wiki/Rudolf_M%C3%B6ssbauer,Rudolf Mößbauer,PER,0.9887352585792542,UNKNOWN,PERSON
+/wiki/Melvin_Calvin,Melvin Calvin,PER,0.9995390176773071,UNKNOWN,PERSON
+/wiki/Ivo_Andri%C4%87,Ivo Andrić,PER,0.9994696974754333,UNKNOWN,PERSON
+/wiki/Dag_Hammarskj%C3%B6ld,Dag Hammarskjöld,PER,0.9973764419555664,UNKNOWN,PERSON
+/wiki/Lev_Landau,Lev Davidovich Landau,PER,0.9837617874145508,UNKNOWN,PERSON
+/wiki/Max_Perutz,Max Perutz,PER,0.9997549057006836,UNKNOWN,PERSON
+/wiki/John_Kendrew,John Kendrew,PER,0.9960460066795349,UNKNOWN,PERSON
+/wiki/Francis_Crick,Francis Crick,PER,0.9994404911994934,UNKNOWN,PERSON
+/wiki/James_D._Watson,James D. Watson,PER,0.9955699443817139,UNKNOWN,PERSON
+/wiki/Maurice_Wilkins,Maurice Wilkins,PER,0.9997075796127319,UNKNOWN,PERSON
+/wiki/John_Steinbeck,John Steinbeck,PER,0.9992556571960449,UNKNOWN,PERSON
+/wiki/Eugene_Wigner,Eugene Wigner,PER,0.9961339235305786,UNKNOWN,PERSON
+/wiki/Maria_Goeppert-Mayer,Maria Goeppert-Mayer,PER,0.9978210926055908,UNKNOWN,PERSON
+/wiki/J._Hans_D._Jensen,Johannes Hans Daniel Jensen,PER,0.9990912675857544,UNKNOWN,PERSON
+/wiki/Karl_Ziegler,Karl Ziegler,PER,0.9987432956695557,UNKNOWN,PERSON
+/wiki/Giulio_Natta,Giulio Natta,PER,0.9997212290763855,UNKNOWN,PERSON
+/wiki/Giorgos_Seferis,Giorgos Seferis,PER,0.999688982963562,UNKNOWN,PERSON
+/wiki/Li%C3%AAn_hi%E1%BB%87p_c%C3%A1c_H%E1%BB%99i_Ch%E1%BB%AF_th%E1%BA%ADp_%C4%90%E1%BB%8F_qu%E1%BB%91c_t%E1%BA%BF,Phong trào Chữ thập đỏ và Trăng lưỡi liềm đỏ quốc tế,MISC,0.9723844528198242,UNKNOWN,UNKNOWN
+/wiki/Charles_Hard_Townes,Charles Townes,PER,0.9980508089065552,UNKNOWN,PERSON
+/wiki/Nikolay_Basov,Nikolay Gennadiyevich Basov,PER,0.984368622303009,UNKNOWN,PERSON
+/wiki/Alexander_Prokhorov,Aleksandr Mikhailovich Prokhorov,PER,0.9599652290344238,FIELD,FIELD
+/wiki/Dorothy_Hodgkin,Dorothy Hodgkin,PER,0.891340434551239,UNKNOWN,PERSON
+/wiki/Konrad_Emil_Bloch,Konrad Emil Bloch,PER,0.9992888569831848,UNKNOWN,PERSON
+/wiki/Jean-Paul_Sartre,Jean-Paul Sartre,PER,0.9995114803314209,UNKNOWN,PERSON
+"/wiki/Martin_Luther_King,_Jr.",Martin Luther King,PER,0.994873046875,UNKNOWN,PERSON
+/wiki/Sin-Itiro_Tomonaga,Tomonaga Shinichirō,PER,0.9222935438156128,UNKNOWN,PERSON
+/wiki/Julian_Schwinger,Julian Schwinger,PER,0.9489461779594421,UNKNOWN,PERSON
+/wiki/Richard_Feynman,Richard Feynman,PER,0.7874455451965332,UNKNOWN,PERSON
+/wiki/Robert_Burns_Woodward,Robert Burns Woodward,PER,0.9988461136817932,UNKNOWN,PERSON
+/wiki/Fran%C3%A7ois_Jacob,François Jacob,PER,0.9996664524078369,UNKNOWN,PERSON
+/wiki/Andr%C3%A9_Michel_Lwoff,André Michel Lwoff,PER,0.9838783144950867,UNKNOWN,PERSON
+/wiki/Jacques_Monod,Jacques Monod,PER,0.9995003342628479,UNKNOWN,PERSON
+/wiki/Mikhail_Sholokhov,Mikhail Aleksandrovich Sholokhov,PER,0.9961197972297668,FIELD,FIELD
+/wiki/Qu%E1%BB%B9_Nhi_%C4%91%E1%BB%93ng_Li%C3%AAn_H%E1%BB%A3p_Qu%E1%BB%91c,Quỹ Nhi đồng Liên Hợp Quốc,MISC,0.6111696362495422,UNKNOWN,UNKNOWN
+/wiki/Alfred_Kastler,Alfred Kastler,PER,0.978607177734375,UNKNOWN,PERSON
+/wiki/Robert_S._Mulliken,Robert S. Mulliken,PER,0.9840905070304871,UNKNOWN,PERSON
+/wiki/Francis_Peyton_Rous,Francis Peyton Rous,PER,0.9788922667503357,UNKNOWN,PERSON
+/wiki/Charles_Brenton_Huggins,Charles Brenton Huggins,PER,0.9990488886833191,UNKNOWN,PERSON
+/wiki/Shmuel_Yosef_Agnon,Shmuel Yosef Agnon,PER,0.9996795654296875,UNKNOWN,PERSON
+/wiki/Nelly_Sachs,Nelly Sachs,PER,0.9988331198692322,UNKNOWN,PERSON
+/wiki/Hans_Bethe,Hans Bethe,PER,0.9994785785675049,UNKNOWN,PERSON
+/wiki/Manfred_Eigen,Manfred Eigen,PER,0.9972639679908752,UNKNOWN,PERSON
+/wiki/Ronald_George_Wreyford_Norrish,Ronald George Wreyford Norrish,PER,0.9855618476867676,UNKNOWN,PERSON
+/wiki/George_Porter,George Porter,PER,0.9995577335357666,UNKNOWN,PERSON
+/wiki/Ragnar_Granit,Ragnar Granit,PER,0.9981207251548767,UNKNOWN,PERSON
+/wiki/Miguel_%C3%81ngel_Asturias,Miguel Ángel Asturias,PER,0.9963579177856445,UNKNOWN,PERSON
+/wiki/Luis_Walter_Alvarez,Luis Alvarez,PER,0.9996652603149414,UNKNOWN,PERSON
+/wiki/Lars_Onsager,Lars Onsager,PER,0.9797868728637695,UNKNOWN,PERSON
+/wiki/Robert_W._Holley,Robert W. Holley,PER,0.9526793956756592,UNKNOWN,PERSON
+/wiki/Yasunari_Kawabata,Kawabata Yasunari,PER,0.999497652053833,UNKNOWN,PERSON
+/wiki/Ren%C3%A9_Cassin,René Cassin,PER,0.9812562465667725,UNKNOWN,PERSON
+/wiki/Murray_Gell-Mann,Murray Gell-Mann,PER,0.9991765022277832,UNKNOWN,PERSON
+/wiki/Derek_Barton,Derek Barton,PER,0.9997055530548096,UNKNOWN,PERSON
+/wiki/Odd_Hassel,Odd Hassel,PER,0.9991032481193542,UNKNOWN,PERSON
+/wiki/Alfred_Hershey,Alfred Hershey,PER,0.9628316760063171,UNKNOWN,PERSON
+/wiki/Samuel_Beckett,Samuel Beckett,PER,0.9992247819900513,UNKNOWN,PERSON
+/wiki/T%E1%BB%95_ch%E1%BB%A9c_Lao_%C4%91%E1%BB%99ng_Qu%E1%BB%91c_t%E1%BA%BF,Tổ chức Lao động Quốc tế,MISC,0.5702590942382812,UNKNOWN,UNKNOWN
+/wiki/Ragnar_Frisch,Ragnar Frisch,PER,0.9978834986686707,UNKNOWN,PERSON
+/wiki/Jan_Tinbergen,Jan Tinbergen,PER,0.9996160864830017,UNKNOWN,PERSON
+/wiki/Hannes_Alfv%C3%A9n,Hannes Alfvén,PER,0.999363124370575,UNKNOWN,PERSON
+/wiki/Louis_N%C3%A9el,Louis Eugène Félix Néel,PER,0.996002197265625,UNKNOWN,PERSON
+/wiki/Luis_Federico_Leloir,Luis Federico Leloir,PER,0.9938733577728271,UNKNOWN,PERSON
+/wiki/Ulf_von_Euler,Ulf von Euler,PER,0.999531626701355,UNKNOWN,PERSON
+/wiki/Aleksandr_Solzhenitsyn,Aleksandr Isayevich Solzhenitsyn,PER,0.9995529055595398,UNKNOWN,PERSON
+/wiki/Norman_Borlaug,Norman Borlaug,PER,0.9979697465896606,UNKNOWN,PERSON
+/wiki/Paul_Samuelson,Paul Samuelson,PER,0.9958333969116211,UNKNOWN,PERSON
+/wiki/Dennis_Gabor,Dennis Gabor,PER,0.9997270107269287,UNKNOWN,PERSON
+/wiki/Gerhard_Herzberg,Gerhard Herzberg,PER,0.9980704188346863,UNKNOWN,PERSON
+"/wiki/Earl_Wilbur_Sutherland,_Jr.",Earl Wilbur Sutherland Jr.,PER,0.9974585175514221,UNKNOWN,PERSON
+/wiki/Pablo_Neruda,Pablo Neruda,PER,0.999442458152771,UNKNOWN,PERSON
+/wiki/Willy_Brandt,Willy Brandt,PER,0.9985625743865967,UNKNOWN,PERSON
+/wiki/Simon_Kuznets,Simon Kuznets,PER,0.9781415462493896,UNKNOWN,PERSON
+/wiki/Leon_Cooper,Leon Neil Cooper,PER,0.9967098832130432,UNKNOWN,PERSON
+/wiki/John_Robert_Schrieffer,John Schrieffer,PER,0.9833986163139343,UNKNOWN,PERSON
+/wiki/Christian_B._Anfinsen,Christian B. Anfinsen,PER,0.9957334995269775,UNKNOWN,PERSON
+/wiki/Stanford_Moore,Stanford Moore,PER,0.9927338361740112,UNKNOWN,PERSON
+/wiki/William_Howard_Stein,William Howard Stein,PER,0.9917095303535461,UNKNOWN,PERSON
+/wiki/Rodney_Robert_Porter,Rodney Robert Porter,PER,0.998645007610321,UNKNOWN,PERSON
+/wiki/Heinrich_B%C3%B6ll,Heinrich Böll,PER,0.9314242005348206,UNKNOWN,PERSON
+/wiki/John_Hicks,John Hicks,PER,0.9997345209121704,UNKNOWN,PERSON
+/wiki/Kenneth_Arrow,Kenneth Arrow,PER,0.9995774626731873,UNKNOWN,PERSON
+/wiki/Leo_Esaki,Esaki Reona,PER,0.9994895458221436,UNKNOWN,PERSON
+/wiki/Ivar_Giaever,Ivar Giaever,PER,0.9996145963668823,UNKNOWN,PERSON
+/wiki/Brian_David_Josephson,Brian David Josephson,PER,0.9994299411773682,UNKNOWN,PERSON
+/wiki/Ernst_Otto_Fischer,Ernst Otto Fischer,PER,0.9980589747428894,UNKNOWN,PERSON
+/wiki/Geoffrey_Wilkinson,Geoffrey Wilkinson,PER,0.9997212886810303,UNKNOWN,PERSON
+/wiki/Karl_von_Frisch,Karl von Frisch,PER,0.998487114906311,UNKNOWN,PERSON
+/wiki/Konrad_Lorenz,Konrad Lorenz,PER,0.9993429183959961,UNKNOWN,PERSON
+/wiki/Patrick_White,Patrick White,PER,0.9996591806411743,UNKNOWN,PERSON
+/wiki/Henry_Kissinger,Henry Kissinger,PER,0.9927034378051758,UNKNOWN,PERSON
+/wiki/L%C3%AA_%C4%90%E1%BB%A9c_Th%E1%BB%8D,Lê Đức Thọ,PER,0.9134404063224792,UNKNOWN,PERSON
+/wiki/Wassily_Leontief,Wassily Leontief,PER,0.9996963739395142,UNKNOWN,PERSON
+/wiki/Martin_Ryle,Martin Ryle,PER,0.9994608759880066,UNKNOWN,PERSON
+/wiki/Antony_Hewish,Antony Hewish,PER,0.993868350982666,UNKNOWN,PERSON
+/wiki/Paul_Flory,Paul Flory,PER,0.999256432056427,UNKNOWN,PERSON
+/wiki/Albert_Claude,Albert Claude,PER,0.9970850944519043,UNKNOWN,PERSON
+/wiki/Christian_de_Duve,Christian de Duve,PER,0.9962823390960693,UNKNOWN,PERSON
+/wiki/George_Emil_Palade,George Emil Palade,PER,0.9990698099136353,UNKNOWN,PERSON
+/wiki/Eyvind_Johnson,Eyvind Johnson,PER,0.999430239200592,UNKNOWN,PERSON
+/wiki/Harry_Martinson,Harry Martinson,PER,0.9380821585655212,UNKNOWN,PERSON
+/wiki/Eisaku_Sat%C5%8D,Satō Eisaku,PER,0.9992629885673523,UNKNOWN,PERSON
+/wiki/Gunnar_Myrdal,Karl Gunnar Myrdal,PER,0.994356632232666,UNKNOWN,PERSON
+/wiki/Friedrich_Hayek,Friedrich Hayek,PER,0.9994452595710754,UNKNOWN,PERSON
+/wiki/Aage_Bohr,Aage Niels Bohr,PER,0.9992631077766418,UNKNOWN,PERSON
+/wiki/Ben_Roy_Mottelson,Ben Roy Mottelson,PER,0.9971627593040466,UNKNOWN,PERSON
+/wiki/James_Rainwater,James Rainwater,PER,0.9987031817436218,FIELD,FIELD
+/wiki/John_Cornforth,John Cornforth,PER,0.9993605613708496,UNKNOWN,PERSON
+/wiki/Vladimir_Prelog,Vladimir Prelog,PER,0.9973224997520447,UNKNOWN,PERSON
+/wiki/Renato_Dulbecco,Renato Dulbecco,PER,0.9995237588882446,UNKNOWN,PERSON
+/wiki/Howard_Martin_Temin,Howard Martin Temin,PER,0.9995574951171875,UNKNOWN,PERSON
+/wiki/Eugenio_Montale,Eugenio Montale,PER,0.9985365867614746,UNKNOWN,PERSON
+/wiki/Andrei_Sakharov,Andrey Dmitryevich Sakharov,PER,0.9420530200004578,UNKNOWN,PERSON
+/wiki/Leonid_Kantorovich,Leonid Vitaliyevich Kantorovich,PER,0.9995854496955872,UNKNOWN,PERSON
+/wiki/Tjalling_Koopmans,Tjalling Koopmans,PER,0.9958706498146057,UNKNOWN,PERSON
+/wiki/Burton_Richter,Burton Richter,PER,0.9997223615646362,UNKNOWN,PERSON
+/wiki/William_Lipscomb,William Lipscomb,PER,0.9993237257003784,UNKNOWN,PERSON
+/wiki/Baruch_Samuel_Blumberg,Baruch Samuel Blumberg,PER,0.9969525337219238,UNKNOWN,PERSON
+/wiki/Saul_Bellow,Saul Bellow,PER,0.9980618357658386,UNKNOWN,PERSON
+/wiki/Milton_Friedman,Milton Friedman,PER,0.9977262020111084,UNKNOWN,PERSON
+/wiki/Philip_Warren_Anderson,Philip Warren Anderson,PER,0.9992213845252991,UNKNOWN,PERSON
+/wiki/Nevill_Francis_Mott,Nevill Francis Mott,PER,0.9985669255256653,UNKNOWN,PERSON
+/wiki/John_Hasbrouck_Van_Vleck,John Hasbrouck Van Vleck,PER,0.8547713160514832,UNKNOWN,PERSON
+/wiki/Ilya_Prigogine,Ilya Prigogine,PER,0.9979144930839539,UNKNOWN,PERSON
+/wiki/Roger_Guillemin,Roger Guillemin,PER,0.9995383024215698,UNKNOWN,PERSON
+/wiki/Andrew_Schally,Andrew Schally,PER,0.9997265338897705,UNKNOWN,PERSON
+/wiki/Rosalyn_Sussman_Yalow,Rosalyn Sussman Yalow,PER,0.999588668346405,UNKNOWN,PERSON
+/wiki/Vicente_Aleixandre,Vicente Aleixandre,PER,0.9951955676078796,UNKNOWN,PERSON
+/wiki/%C3%82n_x%C3%A1_Qu%E1%BB%91c_t%E1%BA%BF,Ân xá Quốc tế,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Bertil_Ohlin,Bertil Ohlin,PER,0.932982861995697,UNKNOWN,PERSON
+/wiki/James_Meade,James Meade,PER,0.8839038014411926,UNKNOWN,PERSON
+/wiki/Pyotr_Kapitsa,Pyotr Leonidovich Kapitsa,PER,0.9996023774147034,UNKNOWN,PERSON
+/wiki/Arno_Allan_Penzias,Arno Allan Penzias,PER,0.9989228844642639,UNKNOWN,PERSON
+/wiki/Robert_Woodrow_Wilson,Robert Woodrow Wilson,PER,0.9948482513427734,UNKNOWN,PERSON
+/wiki/Peter_D._Mitchell,Peter D. Mitchell,PER,0.9952020049095154,UNKNOWN,PERSON
+/wiki/Werner_Arber,Werner Arber,PER,0.9995498657226562,UNKNOWN,PERSON
+/wiki/Daniel_Nathans,Daniel Nathans,PER,0.999727725982666,UNKNOWN,PERSON
+/wiki/Hamilton_O._Smith,Hamilton O. Smith,PER,0.920377254486084,UNKNOWN,PERSON
+/wiki/Isaac_Bashevis_Singer,Isaac Bashevis Singer,PER,0.9938446879386902,UNKNOWN,PERSON
+/wiki/Anwar_Sadat,Anwar Al-Sadad,PER,0.9996095299720764,UNKNOWN,PERSON
+/wiki/Menachem_Begin,Menachem Begin,PER,0.9987433552742004,UNKNOWN,PERSON
+/wiki/Herbert_A._Simon,Herbert A. Simon,PER,0.9384896755218506,UNKNOWN,PERSON
+/wiki/Sheldon_Lee_Glashow,Sheldon Lee Glashow,PER,0.997019350528717,UNKNOWN,PERSON
+/wiki/Abdus_Salam,Abdus Salam,PER,0.9093693494796753,UNKNOWN,PERSON
+/wiki/Steven_Weinberg,Steven Weinberg,PER,0.9951775670051575,UNKNOWN,PERSON
+/wiki/Herbert_C._Brown,Herbert C. Brown,PER,0.9929225444793701,UNKNOWN,PERSON
+/wiki/Georg_Wittig,Georg Wittig,PER,0.9982696771621704,UNKNOWN,PERSON
+/wiki/Godfrey_Hounsfield,Godfrey Hounsfield,PER,0.9919381141662598,UNKNOWN,PERSON
+/wiki/Odysseas_Elytis,Odysseas Elytis,PER,0.9990021586418152,UNKNOWN,PERSON
+/wiki/M%E1%BA%B9_Teresa,Mẹ Têrêsa,ORG,0.8582309484481812,UNKNOWN,INSTITUTION
+/wiki/Theodore_Schultz,Theodore Schultz,PER,0.9996248483657837,UNKNOWN,PERSON
+/wiki/Arthur_Lewis_(economist),Arthur Lewis,PER,0.9981439113616943,UNKNOWN,PERSON
+/wiki/James_Cronin,James Cronin,PER,0.9972246289253235,UNKNOWN,PERSON
+/wiki/Paul_Berg,Paul Berg,PER,0.9997680187225342,UNKNOWN,PERSON
+/wiki/Walter_Gilbert,Walter Gilbert,PER,0.9992156624794006,UNKNOWN,PERSON
+/wiki/Baruj_Benacerraf,Baruj Benacerraf,PER,0.9992071986198425,UNKNOWN,PERSON
+/wiki/Jean_Dausset,Jean Dausset,PER,0.9845556020736694,UNKNOWN,PERSON
+/wiki/George_Davis_Snell,George Davis Snell,PER,0.9970501661300659,UNKNOWN,PERSON
+/wiki/Czes%C5%82aw_Mi%C5%82osz,Czesław Miłosz,PER,0.9994456171989441,UNKNOWN,PERSON
+/wiki/Adolfo_P%C3%A9rez_Esquivel,Adolfo Pérez Esquivel,PER,0.7945767045021057,UNKNOWN,PERSON
+/wiki/Lawrence_Klein,Lawrence Klein,PER,0.9988085627555847,UNKNOWN,PERSON
+/wiki/Nicolaas_Bloembergen,Nicolaas Bloembergen,PER,0.9450663924217224,UNKNOWN,PERSON
+/wiki/Arthur_Leonard_Schawlow,Arthur Leonard Schawlow,PER,0.9993891716003418,UNKNOWN,PERSON
+/wiki/Kai_Siegbahn,Kai Siegbahn,PER,0.9994282126426697,FIELD,FIELD
+/wiki/Kenichi_Fukui,Fukui Kenichi,PER,0.9984801411628723,UNKNOWN,PERSON
+/wiki/Roald_Hoffmann,Roald Hoffmann,PER,0.9996401071548462,UNKNOWN,PERSON
+/wiki/Elias_Canetti,Elias Canetti,PER,0.999261200428009,UNKNOWN,PERSON
+/wiki/James_Tobin,James Tobin,PER,0.9941058158874512,UNKNOWN,PERSON
+/wiki/Kenneth_G._Wilson,Kenneth G. Wilson,PER,0.9898509383201599,UNKNOWN,PERSON
+/wiki/Aaron_Klug,Aaron Klug,PER,0.999558687210083,UNKNOWN,PERSON
+/wiki/Sune_Bergstr%C3%B6m,Sune Bergström,PER,0.8611022233963013,UNKNOWN,PERSON
+/wiki/Bengt_I._Samuelsson,Bengt I. Samuelsson,PER,0.9995415210723877,UNKNOWN,PERSON
+/wiki/John_Vane,John Robert Vane,PER,0.9638980627059937,UNKNOWN,PERSON
+/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez,Gabriel García Márquez,PER,0.9873964190483093,UNKNOWN,PERSON
+/wiki/Alva_Myrdal,Alva Myrdal,PER,0.9981776475906372,UNKNOWN,PERSON
+/wiki/Alfonso_Garc%C3%ADa_Robles,Alfonso García Robles,PER,0.9936949014663696,UNKNOWN,PERSON
+/wiki/George_Stigler,George Stigler,PER,0.997677743434906,UNKNOWN,PERSON
+/wiki/Subrahmanyan_Chandrasekhar,Subrahmanyan Chandrasekhar,PER,0.9995543360710144,UNKNOWN,PERSON
+/wiki/William_Alfred_Fowler,William Alfred Fowler,PER,0.9947835803031921,UNKNOWN,PERSON
+/wiki/Henry_Taube,Henry Taube,PER,0.996245801448822,UNKNOWN,PERSON
+/wiki/Barbara_McClintock,Barbara McClintock,PER,0.9990903735160828,UNKNOWN,PERSON
+/wiki/William_Golding,William Golding,PER,0.9990959763526917,UNKNOWN,PERSON
+/wiki/Lech_Wa%C5%82%C4%99sa,Lech Wałęsa,PER,0.9771159887313843,UNKNOWN,PERSON
+/wiki/G%C3%A9rard_Debreu,Gérard Debreu,PER,0.9997089505195618,UNKNOWN,PERSON
+/wiki/Robert_Bruce_Merrifield,Robert Bruce Merrifield,PER,0.8933097124099731,UNKNOWN,PERSON
+/wiki/Niels_Kaj_Jerne,Niels Kaj Jerne,PER,0.99954754114151,UNKNOWN,PERSON
+/wiki/Georges_J._F._K%C3%B6hler,Georges J. F. Köhler,PER,0.8534253239631653,UNKNOWN,PERSON
+/wiki/Jaroslav_Seifert,Jaroslav Seifert,PER,0.9995056390762329,UNKNOWN,PERSON
+/wiki/Desmond_Tutu,Desmond Tutu,PER,0.9991581439971924,UNKNOWN,PERSON
+/wiki/Richard_Stone,Richard Stone,PER,0.9996414184570312,UNKNOWN,PERSON
+/wiki/Klaus_von_Klitzing,Klaus von Klitzing,PER,0.9983457922935486,UNKNOWN,PERSON
+/wiki/Herbert_A._Hauptman,Herbert A. Hauptman,PER,0.9944115281105042,UNKNOWN,PERSON
+/wiki/Jerome_Karle,Jerome Karle,PER,0.999701738357544,UNKNOWN,PERSON
+/wiki/Michael_Stuart_Brown,Michael Stuart Brown,PER,0.999434769153595,UNKNOWN,PERSON
+/wiki/Joseph_L._Goldstein,Joseph L. Goldstein,PER,0.9934089779853821,UNKNOWN,PERSON
+/wiki/Claude_Simon,Claude Simon,PER,0.9990596771240234,UNKNOWN,PERSON
+/wiki/Hi%E1%BB%87p_h%E1%BB%99i_Y_s%C4%A9_Qu%E1%BB%91c_t%E1%BA%BF_Ph%C3%B2ng_ng%E1%BB%ABa_Chi%E1%BA%BFn_tranh_h%E1%BA%A1t_nh%C3%A2n,Hiệp hội Y sĩ Quốc tế Phòng ngừa Chiến tranh hạt nhân,PER,0.603066086769104,UNKNOWN,PERSON
+/wiki/Franco_Modigliani,Franco Modigliani,PER,0.9994502067565918,UNKNOWN,PERSON
+/wiki/Ernst_Ruska,Ernst Ruska,PER,0.9994463920593262,UNKNOWN,PERSON
+/wiki/Gerd_Binnig,Gerd Binnig,PER,0.9997137188911438,UNKNOWN,PERSON
+/wiki/Heinrich_Rohrer,Heinrich Rohrer,PER,0.9807161688804626,UNKNOWN,PERSON
+/wiki/Dudley_R._Herschbach,Dudley R. Herschbach,PER,0.9211559295654297,UNKNOWN,PERSON
+/wiki/Yuan_T._Lee,Lý Viễn Triết,PER,0.8280079960823059,UNKNOWN,PERSON
+/wiki/John_Polanyi,John Polanyi,PER,0.9997236132621765,UNKNOWN,PERSON
+/wiki/Rita_Levi-Montalcini,Rita Levi-Montalcini,PER,0.9996681213378906,UNKNOWN,PERSON
+/wiki/Wole_Soyinka,Wole Soyinka,PER,0.9996179342269897,UNKNOWN,PERSON
+/wiki/Elie_Wiesel,Elie Wiesel,PER,0.9748049974441528,UNKNOWN,PERSON
+/wiki/James_M._Buchanan,James M. Buchanan,PER,0.9929113388061523,UNKNOWN,PERSON
+/wiki/Johannes_Georg_Bednorz,Johannes Georg Bednorz,PER,0.9985835552215576,UNKNOWN,PERSON
+/wiki/Karl_Alexander_M%C3%BCller,Karl Alexander Müller,PER,0.9984691739082336,UNKNOWN,PERSON
+/wiki/Donald_J._Cram,Donald J. Cram,PER,0.9911662340164185,UNKNOWN,PERSON
+/wiki/Jean-Marie_Lehn,Jean-Marie Lehn,PER,0.8946231603622437,UNKNOWN,PERSON
+/wiki/Charles_J._Pedersen,Charles J. Pedersen,PER,0.9935784339904785,UNKNOWN,PERSON
+/wiki/Susumu_Tonegawa,Tonegawa Susumu,PER,0.9776178002357483,UNKNOWN,PERSON
+/wiki/Joseph_Brodsky,Iosif Aleksandrovich Brodsky,PER,0.9997397065162659,UNKNOWN,PERSON
+/wiki/%C3%93scar_Arias,Óscar Arias,PER,0.9929292798042297,UNKNOWN,PERSON
+/wiki/Robert_Solow,Robert Solow,PER,0.955482006072998,UNKNOWN,PERSON
+/wiki/Melvin_Schwartz,Melvin Schwartz,PER,0.9996449947357178,UNKNOWN,PERSON
+/wiki/Jack_Steinberger,Jack Steinberger,PER,0.9982563853263855,UNKNOWN,PERSON
+/wiki/Johann_Deisenhofer,Johann Deisenhofer,PER,0.9684669375419617,UNKNOWN,PERSON
+/wiki/Robert_Huber,Robert Huber,PER,0.9986867904663086,UNKNOWN,PERSON
+/wiki/Hartmut_Michel,Hartmut Michel,PER,0.9843756556510925,UNKNOWN,PERSON
+/wiki/James_W._Black,James W. Black,PER,0.9884899854660034,UNKNOWN,PERSON
+/wiki/Gertrude_B._Elion,Gertrude B. Elion,PER,0.9903934001922607,UNKNOWN,PERSON
+/wiki/Naguib_Mahfouz,Naguib Mahfouz,PER,0.9995859265327454,UNKNOWN,PERSON
+/wiki/G%C3%ACn_gi%E1%BB%AF_h%C3%B2a_b%C3%ACnh_Li%C3%AAn_H%E1%BB%A3p_Qu%E1%BB%91c,Gìn giữ hòa bình Liên Hợp Quốc,PER,0.7795349955558777,AWARD,AWARD
+/wiki/Maurice_Allais,Maurice Allais,PER,0.9992754459381104,FIELD,FIELD
+"/wiki/Norman_Foster_Ramsey,_Jr.","Norman Foster Ramsey, Jr.",PER,0.9877995252609253,UNKNOWN,PERSON
+/wiki/Hans_Georg_Dehmelt,Hans Georg Dehmelt,PER,0.9927663803100586,UNKNOWN,PERSON
+/wiki/Wolfgang_Paul,Wolfgang Paul,PER,0.9994935989379883,UNKNOWN,PERSON
+/wiki/Sidney_Altman,Sidney Altman,PER,0.99361652135849,UNKNOWN,PERSON
+/wiki/Thomas_Cech,Thomas Cech,PER,0.9077253341674805,UNKNOWN,PERSON
+/wiki/Harold_E._Varmus,Harold E. Varmus,PER,0.997140109539032,UNKNOWN,PERSON
+/wiki/Camilo_Jos%C3%A9_Cela,Camilo José Cela,PER,0.9471758008003235,UNKNOWN,PERSON
+/wiki/Tenzin_Gyatso,Tenzin Gyatso,PER,0.9993846416473389,UNKNOWN,PERSON
+/wiki/Trygve_Haavelmo,Trygve Haavelmo,PER,0.9975816011428833,UNKNOWN,PERSON
+/wiki/Jerome_Isaac_Friedman,Jerome Isaac Friedman,PER,0.9993079304695129,UNKNOWN,PERSON
+/wiki/Richard_E._Taylor,Richard E. Taylor,PER,0.9817675948143005,UNKNOWN,PERSON
+/wiki/Elias_James_Corey,Elias James Corey,PER,0.9986771941184998,UNKNOWN,PERSON
+/wiki/Joseph_Murray,Joseph E. Murray,PER,0.9892517328262329,UNKNOWN,PERSON
+/wiki/E._Donnall_Thomas,E. Donnall Thomas,PER,0.9058030247688293,UNKNOWN,PERSON
+/wiki/Octavio_Paz,Octavio Paz,PER,0.9949678778648376,UNKNOWN,PERSON
+/wiki/Mikhail_Gorbachev,Mikhail Sergeyevich Gorbachyov,PER,0.9731951951980591,FIELD,FIELD
+/wiki/Harry_Markowitz,Harry Markowitz,PER,0.9811636209487915,UNKNOWN,PERSON
+/wiki/Merton_Miller,Merton Miller,PER,0.9994664788246155,UNKNOWN,PERSON
+/wiki/William_Forsyth_Sharpe,William Forsyth Sharpe,PER,0.9969338178634644,UNKNOWN,PERSON
+/wiki/Pierre-Gilles_de_Gennes,Pierre-Gilles de Gennes,PER,0.9995859265327454,UNKNOWN,PERSON
+/wiki/Richard_R._Ernst,Richard R. Ernst,PER,0.9945703744888306,UNKNOWN,PERSON
+/wiki/Erwin_Neher,Erwin Neher,PER,0.9996809363365173,UNKNOWN,PERSON
+/wiki/Bert_Sakmann,Bert Sakmann,PER,0.9997026324272156,UNKNOWN,PERSON
+/wiki/Nadine_Gordimer,Nadine Gordimer,PER,0.9991826415061951,UNKNOWN,PERSON
+/wiki/Aung_San_Suu_Kyi,Aung San Suu Kyi,ORG,0.8509731888771057,UNKNOWN,INSTITUTION
+/wiki/Ronald_Coase,Ronald Coase,PER,0.9982898235321045,UNKNOWN,PERSON
+/wiki/Georges_Charpak,Georges Charpak,PER,0.9987328052520752,UNKNOWN,PERSON
+/wiki/Rudolph_A._Marcus,Rudolph A. Marcus,PER,0.9867497682571411,UNKNOWN,PERSON
+/wiki/Edwin_G._Krebs,Edwin G. Krebs,PER,0.9134429097175598,UNKNOWN,PERSON
+/wiki/Derek_Walcott,Derek Walcott,PER,0.9995359778404236,UNKNOWN,PERSON
+/wiki/Rigoberta_Mench%C3%BA,Rigoberta Menchú,PER,0.9937011003494263,UNKNOWN,PERSON
+/wiki/Gary_Becker,Gary Becker,PER,0.9997559189796448,UNKNOWN,PERSON
+/wiki/Russell_Alan_Hulse,Russell Alan Hulse,PER,0.8989522457122803,UNKNOWN,PERSON
+"/wiki/Joseph_Hooton_Taylor,_Jr.","Joseph Hooton Taylor, Jr.",PER,0.9300578832626343,UNKNOWN,PERSON
+/wiki/Kary_Mullis,Kary Mullis,PER,0.9997462630271912,UNKNOWN,PERSON
+/wiki/Phillip_Allen_Sharp,Phillip Allen Sharp,PER,0.9985365271568298,UNKNOWN,PERSON
+/wiki/Toni_Morrison,Toni Morrison,PER,0.998490035533905,UNKNOWN,PERSON
+/wiki/Nelson_Mandela,Nelson Mandela,PER,0.9948921203613281,UNKNOWN,PERSON
+/wiki/F._W._de_Klerk,Frederik Willem de Klerk,PER,0.99928879737854,UNKNOWN,PERSON
+/wiki/Robert_Fogel,Robert Fogel,PER,0.9994356632232666,UNKNOWN,PERSON
+/wiki/Douglass_North,Douglass North,ORG,0.9749705195426941,UNKNOWN,INSTITUTION
+/wiki/Bertram_Brockhouse,Bertram Brockhouse,PER,0.9862116575241089,UNKNOWN,PERSON
+/wiki/Clifford_Shull,Clifford Shull,PER,0.9946327209472656,UNKNOWN,PERSON
+/wiki/George_Andrew_Olah,George Andrew Olah,PER,0.9954800605773926,UNKNOWN,PERSON
+/wiki/Alfred_G._Gilman,Alfred G. Gilman,PER,0.9889850616455078,UNKNOWN,PERSON
+/wiki/Martin_Rodbell,Martin Rodbell,PER,0.9995788931846619,UNKNOWN,PERSON
+/wiki/Kenzabur%C5%8D_%C5%8Ce,Ōe Kenzaburo,PER,0.9992300271987915,UNKNOWN,PERSON
+/wiki/Yasser_Arafat,Yasser Arafat,PER,0.9997319579124451,UNKNOWN,PERSON
+/wiki/Shimon_Peres,Shimon Peres,PER,0.9996404647827148,UNKNOWN,PERSON
+/wiki/Yitzhak_Rabin,Yitzhak Rabin,PER,0.9976636171340942,UNKNOWN,PERSON
+/wiki/John_Harsanyi,John Harsanyi,PER,0.9985318183898926,UNKNOWN,PERSON
+"/wiki/John_Forbes_Nash,_Jr.",John Forbes Nash Jr.,PER,0.9992111921310425,UNKNOWN,PERSON
+/wiki/Reinhard_Selten,Reinhard Selten,PER,0.9993667006492615,UNKNOWN,PERSON
+/wiki/Martin_Lewis_Perl,Martin Lewis Perl,PER,0.9994407296180725,UNKNOWN,PERSON
+/wiki/Frederick_Reines,Frederick Reines,PER,0.9992464184761047,UNKNOWN,PERSON
+/wiki/Paul_J._Crutzen,Paul J. Crutzen,PER,0.9266570210456848,UNKNOWN,PERSON
+/wiki/Mario_J._Molina,Mario J. Molina,PER,0.9297664761543274,UNKNOWN,PERSON
+/wiki/Frank_Sherwood_Rowland,Frank Sherwood Rowland,PER,0.9990817904472351,UNKNOWN,PERSON
+/wiki/Edward_B._Lewis,Edward B. Lewis,PER,0.9900898933410645,UNKNOWN,PERSON
+/wiki/Seamus_Heaney,Seamus Heaney,PER,0.9980910420417786,UNKNOWN,PERSON
+"/wiki/Robert_Lucas,_Jr.","Robert Lucas, Jr.",PER,0.9700411558151245,UNKNOWN,PERSON
+/wiki/Robert_Coleman_Richardson,Robert Coleman Richardson,PER,0.9991051554679871,UNKNOWN,PERSON
+/wiki/Robert_Curl,Robert Curl,PER,0.9977094531059265,UNKNOWN,PERSON
+/wiki/Harry_Kroto,Harold Kroto,PER,0.99843430519104,UNKNOWN,PERSON
+/wiki/Richard_Smalley,Richard Smalley,PER,0.9793320298194885,UNKNOWN,PERSON
+/wiki/Peter_C._Doherty,Peter Doherty,PER,0.9997122287750244,UNKNOWN,PERSON
+/wiki/Wis%C5%82awa_Szymborska,Wisława Szymborska,PER,0.9993988275527954,UNKNOWN,PERSON
+/wiki/Jos%C3%A9_Ramos-Horta,José Ramos-Horta,PER,0.9997245073318481,UNKNOWN,PERSON
+/wiki/James_Mirrlees,James Mirrlees,PER,0.9249266982078552,UNKNOWN,PERSON
+/wiki/William_Vickrey,William Vickrey,PER,0.9974437952041626,UNKNOWN,PERSON
+/wiki/Steven_Chu,Steven Chu,PER,0.9996910095214844,UNKNOWN,PERSON
+/wiki/Claude_Cohen-Tannoudji,Claude Cohen-Tannoudji,PER,0.9997570514678955,UNKNOWN,PERSON
+/wiki/William_Daniel_Phillips,William Daniel Phillips,PER,0.9946324229240417,UNKNOWN,PERSON
+/wiki/Paul_D._Boyer,Paul D. Boyer,PER,0.9975119829177856,UNKNOWN,PERSON
+/wiki/John_E._Walker,John E. Walker,PER,0.9877954721450806,UNKNOWN,PERSON
+/wiki/Jens_Christian_Skou,Jens Christian Skou,PER,0.9990873336791992,UNKNOWN,PERSON
+/wiki/Stanley_B._Prusiner,Stanley B. Prusiner,PER,0.9443747997283936,UNKNOWN,PERSON
+/wiki/Dario_Fo,Dario Fo,PER,0.9960179924964905,UNKNOWN,PERSON
+/wiki/Robert_C._Merton,Robert C. Merton,PER,0.9949529767036438,UNKNOWN,PERSON
+/wiki/Myron_Scholes,Myron Scholes,PER,0.9997132420539856,UNKNOWN,PERSON
+/wiki/Robert_B._Laughlin,Robert B. Laughlin,PER,0.9345200657844543,UNKNOWN,PERSON
+/wiki/Horst_Ludwig_St%C3%B6rmer,Horst Ludwig Störmer,PER,0.9993754029273987,UNKNOWN,PERSON
+/wiki/Walter_Kohn,Walter Kohn,PER,0.9996476769447327,UNKNOWN,PERSON
+/wiki/John_Pople,John Pople,PER,0.9759507179260254,UNKNOWN,PERSON
+/wiki/Robert_F._Furchgott,Robert F. Furchgott,PER,0.8997719883918762,UNKNOWN,PERSON
+/wiki/Ferid_Murad,Ferid Murad,PER,0.9578391313552856,UNKNOWN,PERSON
+/wiki/Jos%C3%A9_Saramago,José Saramago,PER,0.9701849222183228,UNKNOWN,PERSON
+/wiki/Amartya_Sen,Amartya Sen,PER,0.9919113516807556,UNKNOWN,PERSON
+/wiki/Gerard_%27t_Hooft,Gerard 't Hooft,PER,0.8537479639053345,UNKNOWN,PERSON
+/wiki/Martinus_J._G._Veltman,Martinus J. G. Veltman,PER,0.9833754897117615,UNKNOWN,PERSON
+/wiki/Ahmed_Zewail,Ahmed Zewail,PER,0.999161422252655,FIELD,FIELD
+/wiki/G%C3%BCnter_Blobel,Günter Blobel,PER,0.9997058510780334,UNKNOWN,PERSON
+/wiki/G%C3%BCnter_Grass,Günter Grass,PER,0.9995920062065125,UNKNOWN,PERSON
+/wiki/B%C3%A1c_s%C4%A9_kh%C3%B4ng_bi%C3%AAn_gi%E1%BB%9Bi,Bác sĩ không biên giới,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Robert_Mundell,Robert Mundell,PER,0.9970335960388184,UNKNOWN,PERSON
+/wiki/Jack_Kilby,Jack Kilby,PER,0.9996046423912048,UNKNOWN,PERSON
+/wiki/Alan_J._Heeger,Alan J. Heeger,PER,0.9920520782470703,UNKNOWN,PERSON
+/wiki/Alan_MacDiarmid,Alan MacDiarmid,PER,0.9836167097091675,UNKNOWN,PERSON
+/wiki/Hideki_Shirakawa,Shirakawa Hideki,PER,0.9594846963882446,UNKNOWN,PERSON
+/wiki/Gao_Xingjian,Cao Hành Kiện,PER,0.9294058680534363,UNKNOWN,PERSON
+/wiki/Kim_Dae-jung,Kim Dae-jung,PER,0.9957618117332458,UNKNOWN,PERSON
+/wiki/James_Heckman,James Heckman,PER,0.999457597732544,UNKNOWN,PERSON
+/wiki/Daniel_McFadden,Daniel McFadden,PER,0.9991312623023987,UNKNOWN,PERSON
+/wiki/Eric_Allin_Cornell,Eric Allin Cornell,PER,0.9980150461196899,UNKNOWN,PERSON
+/wiki/Wolfgang_Ketterle,Wolfgang Ketterle,PER,0.9691567420959473,UNKNOWN,PERSON
+/wiki/Carl_Wieman,Carl Wieman,PER,0.9980926513671875,UNKNOWN,PERSON
+/wiki/William_Standish_Knowles,William Standish Knowles,PER,0.9992470145225525,UNKNOWN,PERSON
+/wiki/Ry%C5%8Dji_Noyori,Noyori Ryōji,PER,0.9995111227035522,UNKNOWN,PERSON
+/wiki/Karl_Barry_Sharpless,Karl Barry Sharpless,PER,0.9995214343070984,UNKNOWN,PERSON
+/wiki/Leland_H._Hartwell,Leland H. Hartwell,PER,0.9973024129867554,UNKNOWN,PERSON
+/wiki/Tim_Hunt,Tim Hunt,PER,0.9997554421424866,UNKNOWN,PERSON
+/wiki/Paul_Nurse,Paul Nurse,PER,0.9996601939201355,UNKNOWN,PERSON
+/wiki/V._S._Naipaul,V. S. Naipaul,PER,0.9254891872406006,FIELD,FIELD
+/wiki/Li%C3%AAn_H%E1%BB%A3p_Qu%E1%BB%91c,Liên Hợp Quốc,PER,0.8927599787712097,UNKNOWN,PERSON
+/wiki/Kofi_Annan,Kofi Annan,PER,0.9986523985862732,UNKNOWN,PERSON
+/wiki/George_Akerlof,George Akerlof,PER,0.9857509732246399,UNKNOWN,PERSON
+/wiki/Michael_Spence,Michael Spence,PER,0.9997245073318481,UNKNOWN,PERSON
+/wiki/Joseph_Stiglitz,Joseph Stiglitz,PER,0.8973110318183899,UNKNOWN,PERSON
+/wiki/Masatoshi_Koshiba,Koshiba Masatoshi,PER,0.9992554783821106,UNKNOWN,PERSON
+/wiki/Riccardo_Giacconi,Riccardo Giacconi,PER,0.998999297618866,UNKNOWN,PERSON
+/wiki/John_Fenn,John Fenn,PER,0.9997255802154541,UNKNOWN,PERSON
+/wiki/Koichi_Tanaka,Tanaka Kōichi,PER,0.9816535115242004,UNKNOWN,PERSON
+/wiki/Kurt_W%C3%BCthrich,Kurt Wüthrich,PER,0.9306995272636414,UNKNOWN,PERSON
+/wiki/Sydney_Brenner,Sydney Brenner,PER,0.9993112087249756,UNKNOWN,PERSON
+/wiki/H._Robert_Horvitz,Howard Robert Horvitz,PER,0.9867839813232422,UNKNOWN,PERSON
+/wiki/John_Sulston,John Sulston,PER,0.9971785545349121,UNKNOWN,PERSON
+/wiki/Imre_Kert%C3%A9sz,Imre Kertész,PER,0.8257235884666443,UNKNOWN,PERSON
+/wiki/Jimmy_Carter,Jimmy Carter,PER,0.9995847940444946,UNKNOWN,PERSON
+/wiki/Daniel_Kahneman,Daniel Kahneman,PER,0.9986600279808044,UNKNOWN,PERSON
+/wiki/Vernon_L._Smith,Vernon L. Smith,PER,0.9838640093803406,UNKNOWN,PERSON
+/wiki/Vitaly_Ginzburg,Vitalij Lazarevich Ginzburg,PER,0.9711297154426575,UNKNOWN,PERSON
+/wiki/Peter_Agre,Peter Agre,PER,0.8965085744857788,UNKNOWN,PERSON
+/wiki/Roderick_MacKinnon,Roderick MacKinnon,PER,0.999708354473114,UNKNOWN,PERSON
+/wiki/Paul_Lauterbur,Paul Lauterbur,PER,0.9743879437446594,UNKNOWN,PERSON
+/wiki/J._M._Coetzee,John Maxwell Coetzee,PER,0.9910996556282043,UNKNOWN,PERSON
+/wiki/Shirin_Ebadi,Shirin Ebadi,PER,0.9996144771575928,UNKNOWN,PERSON
+/wiki/Robert_F._Engle,Robert F. Engle,PER,0.9848419427871704,UNKNOWN,PERSON
+/wiki/Clive_Granger,Clive Granger,PER,0.9997850060462952,UNKNOWN,PERSON
+/wiki/David_Gross,David Gross,PER,0.9996910095214844,UNKNOWN,PERSON
+/wiki/Hugh_David_Politzer,Hugh David Politzer,PER,0.9352405071258545,UNKNOWN,PERSON
+/wiki/Frank_Wilczek,Frank Wilczek,PER,0.9991682171821594,UNKNOWN,PERSON
+/wiki/Aaron_Ciechanover,Aaron Ciechanover,PER,0.9996296167373657,UNKNOWN,PERSON
+/wiki/Avram_Hershko,Avram Hershko,PER,0.9995205402374268,UNKNOWN,PERSON
+/wiki/Irwin_Rose,Irwin Rose,PER,0.9991644024848938,UNKNOWN,PERSON
+/wiki/Richard_Axel,Richard Axel,PER,0.9993711113929749,UNKNOWN,PERSON
+/wiki/Linda_B._Buck,Linda B. Buck,PER,0.9753228425979614,UNKNOWN,PERSON
+/wiki/Elfriede_Jelinek,Elfriede Jelinek,PER,0.9991371035575867,UNKNOWN,PERSON
+/wiki/Wangari_Maathai,Wangari Maathai,PER,0.9283959269523621,FIELD,FIELD
+/wiki/Finn_E._Kydland,Finn E. Kydland,PER,0.9955364465713501,UNKNOWN,PERSON
+/wiki/Edward_C._Prescott,Edward C. Prescott,PER,0.985724925994873,UNKNOWN,PERSON
+/wiki/Roy_J._Glauber,Roy J. Glauber,PER,0.9903942942619324,UNKNOWN,PERSON
+/wiki/John_L._Hall,John L. Hall,PER,0.9804269075393677,UNKNOWN,PERSON
+/wiki/Theodor_W._H%C3%A4nsch,Theodor W. Hänsch,PER,0.9442882537841797,UNKNOWN,PERSON
+/wiki/Yves_Chauvin,Yves Chauvin,PER,0.998148500919342,UNKNOWN,PERSON
+/wiki/Robert_H._Grubbs,Robert H. Grubbs,PER,0.9803082346916199,UNKNOWN,PERSON
+/wiki/Richard_R._Schrock,Richard R. Schrock,PER,0.9930357933044434,UNKNOWN,PERSON
+/wiki/Barry_Marshall,Barry Marshall,PER,0.9996846318244934,UNKNOWN,PERSON
+/wiki/Harold_Pinter,Harold Pinter,PER,0.9994060397148132,UNKNOWN,PERSON
+/wiki/C%C6%A1_quan_N%C4%83ng_l%C6%B0%E1%BB%A3ng_Nguy%C3%AAn_t%E1%BB%AD_Qu%E1%BB%91c_t%E1%BA%BF,Cơ quan Năng lượng Nguyên tử Quốc tế,PER,0.7963585257530212,INSTITUTION,INSTITUTION
+/wiki/Mohamed_ElBaradei,Mohamed ElBaradei,PER,0.9933552742004395,UNKNOWN,PERSON
+/wiki/Robert_Aumann,Robert Aumann,PER,0.9883901476860046,UNKNOWN,PERSON
+/wiki/Thomas_Schelling,Thomas Schelling,PER,0.9903962016105652,UNKNOWN,PERSON
+/wiki/John_C._Mather,John C. Mather,PER,0.9946218729019165,FIELD,FIELD
+/wiki/Roger_D._Kornberg,Roger D. Kornberg,PER,0.9839809536933899,UNKNOWN,PERSON
+/wiki/Andrew_Fire,Andrew Fire,PER,0.9985203742980957,UNKNOWN,PERSON
+/wiki/Craig_Mello,Craig Mello,PER,0.9989960789680481,FIELD,FIELD
+/wiki/Orhan_Pamuk,Orhan Pamuk,PER,0.9831453561782837,UNKNOWN,PERSON
+/wiki/Muhammad_Yunus,Muhammad Yunus,PER,0.9995798468589783,UNKNOWN,PERSON
+/wiki/Ng%C3%A2n_h%C3%A0ng_Grameen,Ngân hàng Grameen,ORG,0.8727870583534241,UNKNOWN,INSTITUTION
+/wiki/Edmund_Phelps,Edmund Phelps,PER,0.9994597434997559,UNKNOWN,PERSON
+/wiki/Albert_Fert,Albert Fert,PER,0.960960328578949,UNKNOWN,PERSON
+/wiki/Peter_Gr%C3%BCnberg,Peter Grünberg,PER,0.9986053109169006,UNKNOWN,PERSON
+/wiki/Gerhard_Ertl,Gerhard Ertl,PER,0.999586284160614,UNKNOWN,PERSON
+/wiki/Mario_Capecchi,Mario Capecchi,PER,0.9984733462333679,UNKNOWN,PERSON
+/wiki/Martin_Evans,Martin Evans,PER,0.9996622204780579,UNKNOWN,PERSON
+/wiki/Oliver_Smithies,Oliver Smithies,PER,0.9770063757896423,UNKNOWN,PERSON
+/wiki/Doris_Lessing,Doris Lessing,PER,0.86285400390625,UNKNOWN,PERSON
+/wiki/%E1%BB%A6y_ban_Li%C3%AAn_ch%C3%ADnh_ph%E1%BB%A7_v%E1%BB%81_Bi%E1%BA%BFn_%C4%91%E1%BB%95i_Kh%C3%AD_h%E1%BA%ADu,Ủy ban Liên chính phủ về Biến đổi Khí hậu,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Al_Gore,Al Gore,PER,0.999570369720459,UNKNOWN,PERSON
+/wiki/Leonid_Hurwicz,Leonid Hurwicz,PER,0.9995449185371399,UNKNOWN,PERSON
+/wiki/Eric_Maskin,Eric Maskin,PER,0.9969086050987244,UNKNOWN,PERSON
+/wiki/Roger_Myerson,Roger Myerson,PER,0.9997959136962891,UNKNOWN,PERSON
+/wiki/Yoichiro_Nambu,Nambu Yōichirō,PER,0.9963661432266235,UNKNOWN,PERSON
+/wiki/Kobayashi_Makoto_(nh%C3%A0_v%E1%BA%ADt_l%C3%BD),Kobayashi Makoto (nhà vật lý),PER,0.9996533393859863,FIELD,FIELD
+/wiki/Toshihide_Maskawa,Masukawa Toshihide,PER,0.9995777010917664,UNKNOWN,PERSON
+/wiki/Osamu_Shimomura,Shimomura Osamu,PER,0.7895552515983582,UNKNOWN,PERSON
+/wiki/Martin_Chalfie,Martin Chalfie,PER,0.988373875617981,UNKNOWN,PERSON
+/wiki/Roger_Y._Tsien,Roger Y. Tsien,PER,0.9989101886749268,UNKNOWN,PERSON
+/wiki/Harald_zur_Hausen,Harald zur Hausen,PER,0.9993162155151367,UNKNOWN,PERSON
+/wiki/Fran%C3%A7oise_Barr%C3%A9-Sinoussi,Françoise Barré-Sinoussi,PER,0.9742279052734375,UNKNOWN,PERSON
+/wiki/Luc_Montagnier,Luc Montagnier,PER,0.9984514713287354,UNKNOWN,PERSON
+/wiki/J._M._G._Le_Cl%C3%A9zio,Jean-Marie Gustave Le Clézio,PER,0.9455474019050598,UNKNOWN,PERSON
+/wiki/Martti_Ahtisaari,Martti Ahtisaari,PER,0.9992159605026245,UNKNOWN,PERSON
+/wiki/Paul_Krugman,Paul Krugman,PER,0.9994737505912781,UNKNOWN,PERSON
+/wiki/Charles_K._Kao,Cao Côn,PER,0.9399845004081726,UNKNOWN,PERSON
+/wiki/Willard_Boyle,Willard Boyle,PER,0.9994804859161377,UNKNOWN,PERSON
+/wiki/George_E._Smith,George E. Smith,PER,0.9761502742767334,UNKNOWN,PERSON
+/wiki/Venkatraman_Ramakrishnan,Venkatraman Ramakrishnan,PER,0.9995322227478027,UNKNOWN,PERSON
+/wiki/Thomas_A._Steitz,Thomas A. Steitz,PER,0.972767174243927,UNKNOWN,PERSON
+/wiki/Ada_Yonath,Ada Yonath,PER,0.8298311829566956,UNKNOWN,PERSON
+/wiki/Elizabeth_Blackburn,Elizabeth Blackburn,PER,0.9995954036712646,UNKNOWN,PERSON
+/wiki/Carol_W._Greider,Carol W. Greider,PER,0.9949073195457458,UNKNOWN,PERSON
+/wiki/Jack_W._Szostak,Jack W. Szostak,PER,0.9357221722602844,UNKNOWN,PERSON
+/wiki/Herta_M%C3%BCller,Herta Müller,PER,0.9992708563804626,UNKNOWN,PERSON
+/wiki/Barack_Obama,Barack Obama,PER,0.9989996552467346,UNKNOWN,PERSON
+/wiki/Elinor_Ostrom,Elinor Ostrom,PER,0.999508261680603,UNKNOWN,PERSON
+/wiki/Oliver_E._Williamson,Oliver E. Williamson,PER,0.9949653744697571,UNKNOWN,PERSON
+/wiki/Andre_Geim,Andrei Konstantinovich Geim,PER,0.9094168543815613,UNKNOWN,PERSON
+/wiki/Konstantin_Novoselov,Konstantin Sergeevich Novoselov,PER,0.9900537133216858,UNKNOWN,PERSON
+/wiki/Richard_F._Heck,Richard Heck,PER,0.9755646586418152,UNKNOWN,PERSON
+/wiki/Ei-ichi_Negishi,Negishi Eiichi,PER,0.9955646991729736,UNKNOWN,PERSON
+/wiki/Suzuki_Akira_(nh%C3%A0_h%C3%B3a_h%E1%BB%8Dc),Suzuki Akira (nhà hóa học),PER,0.5253928303718567,FIELD,FIELD
+/wiki/Robert_G._Edwards,Robert G. Edwards,PER,0.9821277856826782,UNKNOWN,PERSON
+/wiki/Mario_Vargas_Llosa,Mario Vargas Llosa,PER,0.999176561832428,UNKNOWN,PERSON
+/wiki/L%C6%B0u_Hi%E1%BB%83u_Ba,Lưu Hiểu Ba,PER,0.9963111281394958,UNKNOWN,PERSON
+/wiki/Peter_Diamond,Peter A. Diamond,PER,0.9649736881256104,UNKNOWN,PERSON
+/wiki/Dale_T._Mortensen,Dale T. Mortensen,PER,0.9956931471824646,UNKNOWN,PERSON
+/wiki/Christopher_A._Pissarides,Christopher A. Pissarides,PER,0.9892265200614929,UNKNOWN,PERSON
+/wiki/Saul_Perlmutter,Saul Perlmutter,PER,0.9720481634140015,UNKNOWN,PERSON
+/wiki/Adam_Riess,Adam Riess,PER,0.9752898216247559,UNKNOWN,PERSON
+/wiki/Brian_P._Schmidt,Brian P. Schmidt,PER,0.9762234687805176,UNKNOWN,PERSON
+/wiki/Dan_Shechtman,Dan Shechtman,PER,0.9451373815536499,UNKNOWN,PERSON
+/wiki/Bruce_A._Beutler,Bruce Beutler,PER,0.990628182888031,UNKNOWN,PERSON
+/wiki/Jules_A._Hoffmann,Jules A. Hoffmann,PER,0.9944403171539307,UNKNOWN,PERSON
+/wiki/Ralph_M._Steinman,Ralph M. Steinman,PER,0.9842269420623779,UNKNOWN,PERSON
+/wiki/Tomas_Transtr%C3%B6mer,Tomas Tranströmer,PER,0.9915152192115784,UNKNOWN,PERSON
+/wiki/Ellen_Johnson_Sirleaf,Ellen Johnson Sirleaf,PER,0.9994051456451416,UNKNOWN,PERSON
+/wiki/Leymah_Gbowee,Leymah Gbowee,PER,0.9990894794464111,UNKNOWN,PERSON
+/wiki/Tawakel_Karman,Tawakkul Karman,PER,0.9989656209945679,UNKNOWN,PERSON
+/wiki/Thomas_J._Sargent,Thomas J. Sargent,PER,0.9968991279602051,UNKNOWN,PERSON
+/wiki/Christopher_A._Sims,Christopher A. Sims,PER,0.9956488609313965,UNKNOWN,PERSON
+/wiki/Serge_Haroche,Serge Haroche,PER,0.9912611246109009,UNKNOWN,PERSON
+/wiki/David_J._Wineland,David J. Wineland,PER,0.7021902203559875,UNKNOWN,PERSON
+/wiki/Brian_Kobilka,Brian Kobilka,PER,0.9909713268280029,UNKNOWN,PERSON
+/wiki/Robert_Lefkowitz,Robert Lefkowitz,PER,0.8977023363113403,UNKNOWN,PERSON
+/wiki/John_Gurdon,John Gurdon,PER,0.9962446093559265,UNKNOWN,PERSON
+/wiki/Shinya_Yamanaka,Yamanaka Shin'ya,PER,0.9764877557754517,UNKNOWN,PERSON
+/wiki/M%E1%BA%A1c_Ng%C3%B4n,Mạc Ngôn,PER,0.9986887574195862,UNKNOWN,PERSON
+/wiki/Li%C3%AAn_hi%E1%BB%87p_ch%C3%A2u_%C3%82u,Liên minh châu Âu,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Alvin_E._Roth,Alvin E. Roth,PER,0.9939336776733398,UNKNOWN,PERSON
+/wiki/Lloyd_Shapley,Lloyd Shapley,PER,0.9334797859191895,UNKNOWN,PERSON
+/wiki/Fran%C3%A7ois_Englert,François Englert,PER,0.9996871948242188,UNKNOWN,PERSON
+/wiki/Peter_Higgs,Peter Higgs,PER,0.9996099472045898,UNKNOWN,PERSON
+/wiki/Martin_Karplus,Martin Karplus,PER,0.9997037053108215,UNKNOWN,PERSON
+/wiki/Michael_Levitt,Michael Levitt,PER,0.9447119235992432,UNKNOWN,PERSON
+/wiki/Arieh_Warshel,Arieh Warshel,PER,0.9995891451835632,UNKNOWN,PERSON
+/wiki/James_Rothman,James Rothman,PER,0.8641488552093506,UNKNOWN,PERSON
+/wiki/Randy_Schekman,Randy Schekman,PER,0.9995685815811157,UNKNOWN,PERSON
+/wiki/Thomas_C._S%C3%BCdhof,Thomas Südhof,PER,0.8545539975166321,UNKNOWN,PERSON
+/wiki/Alice_Munro,Alice Munro,PER,0.9990795850753784,UNKNOWN,PERSON
+/wiki/T%E1%BB%95_ch%E1%BB%A9c_C%E1%BA%A5m_V%C5%A9_kh%C3%AD_H%C3%B3a_h%E1%BB%8Dc,Tổ chức Cấm Vũ khí Hóa học,ORG,0.3465840220451355,FIELD,FIELD
+/wiki/Eugene_Fama,Eugene Fama,PER,0.9943392872810364,UNKNOWN,PERSON
+/wiki/Lars_Peter_Hansen,Lars Peter Hansen,PER,0.9983347058296204,UNKNOWN,PERSON
+/wiki/Robert_J._Shiller,Robert J. Shiller,PER,0.976254940032959,UNKNOWN,PERSON
+/wiki/Isamu_Akasaki,Akasaki Isamu,PER,0.9993727803230286,UNKNOWN,PERSON
+/wiki/Hiroshi_Amano,Amano Hiroshi,PER,0.999305009841919,UNKNOWN,PERSON
+/wiki/Shuji_Nakamura,Nakamura Shuji,PER,0.988775372505188,UNKNOWN,PERSON
+/wiki/Eric_Betzig,Eric Betzig,PER,0.9996760487556458,UNKNOWN,PERSON
+/wiki/Stefan_Hell,Stefan Hell,PER,0.841291069984436,UNKNOWN,PERSON
+/wiki/William_Moerner,William E. Moerner,PER,0.9444700479507446,UNKNOWN,PERSON
+/wiki/John_O%27Keefe_(nh%C3%A0_th%E1%BA%A7n_kinh_h%E1%BB%8Dc),John O'Keefe (nhà thần kinh học),PER,0.9859585165977478,UNKNOWN,PERSON
+/wiki/May-Britt_Moser,May-Britt Moser,PER,0.999671220779419,UNKNOWN,PERSON
+/wiki/Edvard_Moser,Edvard Moser,PER,0.9995179176330566,UNKNOWN,PERSON
+/wiki/Patrick_Modiano,Patrick Modiano,PER,0.9996235966682434,UNKNOWN,PERSON
+/wiki/Kailash_Satyarthi,Kailash Satyarthi,PER,0.8996346592903137,FIELD,FIELD
+/wiki/Malala_Yousafzai,Malala Yousafzai,PER,0.8742125630378723,FIELD,FIELD
+/wiki/Jean_Tirole,Jean Tirole,PER,0.9986171722412109,UNKNOWN,PERSON
+/wiki/Takaaki_Kajita,Kajita Takaaki,PER,0.9995408058166504,UNKNOWN,PERSON
+/wiki/Arthur_B._McDonald,Arthur B. McDonald,PER,0.9897196292877197,UNKNOWN,PERSON
+/wiki/Paul_L._Modrich,Paul L. Modrich,PER,0.9957483410835266,UNKNOWN,PERSON
+/wiki/Tomas_Lindahl,Tomas Lindahl,PER,0.9970383048057556,UNKNOWN,PERSON
+/wiki/Aziz_Sancar,Aziz Sancar,PER,0.9882609248161316,UNKNOWN,PERSON
+/wiki/William_Campbell_(nh%C3%A0_khoa_h%E1%BB%8Dc),William Campbell (nhà khoa học),PER,0.9997497797012329,UNKNOWN,PERSON
+/wiki/%C5%8Cmura_Satoshi,Ōmura Satoshi,PER,0.7439706921577454,UNKNOWN,PERSON
+/wiki/%C4%90%E1%BB%93_U_U,Đồ U U,PER,0.7659081816673279,UNKNOWN,PERSON
+/wiki/Svetlana_Alexandrovna_Alexievich,Svetlana Alexandrovna Alexievich,PER,0.998675525188446,UNKNOWN,PERSON
+/wiki/B%E1%BB%99_t%E1%BB%A9_%C4%90%E1%BB%91i_tho%E1%BA%A1i_Qu%E1%BB%91c_gia_Tunisia,Bộ tứ Đối thoại Quốc gia Tunisia,LOC,0.9174850583076477,UNKNOWN,LOC
+/wiki/Angus_Deaton,Angus Deaton,PER,0.9997103214263916,UNKNOWN,PERSON
+/wiki/John_M._Kosterlitz,John M. Kosterlitz,PER,0.9905607104301453,UNKNOWN,PERSON
+/wiki/Duncan_Haldane,Duncan Haldane,PER,0.9991137385368347,UNKNOWN,PERSON
+/wiki/David_J._Thouless,David J. Thouless,PER,0.9962189793586731,UNKNOWN,PERSON
+/wiki/Fraser_Stoddart,Fraser Stoddart,PER,0.996299147605896,UNKNOWN,PERSON
+/wiki/Jean-Pierre_Sauvage,Jean-Pierre Sauvage,PER,0.9993844032287598,UNKNOWN,PERSON
+/wiki/Ben_Feringa,Ben Feringa,PER,0.999281108379364,UNKNOWN,PERSON
+/wiki/%C5%8Csumi_Yoshinori,Ōsumi Yoshinori,PER,0.9995120763778687,UNKNOWN,PERSON
+/wiki/Bob_Dylan,Bob Dylan,PER,0.9973517656326294,UNKNOWN,PERSON
+/wiki/Juan_Manuel_Santos,Juan Manuel Santos,PER,0.9988889098167419,UNKNOWN,PERSON
+/wiki/Oliver_Hart_(nh%C3%A0_kinh_t%E1%BA%BF),Oliver Hart (nhà kinh tế),PER,0.999721348285675,FIELD,FIELD
+/wiki/Bengt_Holmstr%C3%B6m,Bengt Holmström,PER,0.9993019104003906,UNKNOWN,PERSON
+/wiki/Rainer_Weiss,Rainer Weiss,PER,0.9994319081306458,FIELD,FIELD
+/wiki/Barry_Barish,Barry Barish,PER,0.9909753203392029,UNKNOWN,PERSON
+/wiki/Kip_Thorne,Kip Thorne,PER,0.9989655017852783,UNKNOWN,PERSON
+/wiki/Jacques_Dubochet,Jacques Dubochet,PER,0.9765450358390808,UNKNOWN,PERSON
+/wiki/Joachim_Frank,Joachim Frank,PER,0.9996625781059265,UNKNOWN,PERSON
+/wiki/Richard_Henderson_(nh%C3%A0_sinh_h%E1%BB%8Dc),Richard Henderson (nhà sinh học),PER,0.9997619986534119,FIELD,FIELD
+/wiki/Jeffrey_C._Hall,Jeffrey C. Hall,PER,0.9790136218070984,UNKNOWN,PERSON
+/wiki/Michael_Rosbash,Michael Rosbash,PER,0.9988689422607422,UNKNOWN,PERSON
+/wiki/Michael_W._Young,Michael W. Young,PER,0.9725314378738403,UNKNOWN,PERSON
+/wiki/Kazuo_Ishiguro,Kazuo Ishiguro,PER,0.999697208404541,UNKNOWN,PERSON
+/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_qu%E1%BB%91c_t%E1%BA%BF_nh%E1%BA%B1m_lo%E1%BA%A1i_b%E1%BB%8F_v%C5%A9_kh%C3%AD_h%E1%BA%A1t_nh%C3%A2n,Chiến dịch quốc tế nhằm loại bỏ vũ khí hạt nhân,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Richard_Thaler,Richard Thaler,PER,0.9416050910949707,UNKNOWN,PERSON
+/wiki/Arthur_Ashkin,Arthur Ashkin,PER,0.9986483454704285,UNKNOWN,PERSON
+/wiki/G%C3%A9rard_Mourou,Gérard Mourou,PER,0.9997242093086243,UNKNOWN,PERSON
+/wiki/Donna_Strickland,Donna Strickland,PER,0.9990222454071045,UNKNOWN,PERSON
+/wiki/Frances_Arnold,Frances Arnold,PER,0.9994664788246155,UNKNOWN,PERSON
+/wiki/George_Smith_(nh%C3%A0_h%C3%B3a_h%E1%BB%8Dc),George Smith (nhà hóa học),PER,0.9996721148490906,FIELD,FIELD
+/wiki/Greg_Winter,Greg Winter,PER,0.9997485876083374,UNKNOWN,PERSON
+/wiki/James_P._Allison,James P. Allison,PER,0.9957337379455566,UNKNOWN,PERSON
+/wiki/Tasuku_Honjo,Honjo Tasuku,PER,0.9983716607093811,UNKNOWN,PERSON
+/wiki/Olga_Tokarczuk,Olga Tokarczuk,PER,0.9975413084030151,UNKNOWN,PERSON
+/wiki/Denis_Mukwege,Denis Mukwege,PER,0.9799119830131531,UNKNOWN,PERSON
+/wiki/Nadia_Murad,Nadia Murad,PER,0.9990935325622559,UNKNOWN,PERSON
+/wiki/William_Nordhaus,William Nordhaus,PER,0.9996022582054138,UNKNOWN,PERSON
+/wiki/Paul_Romer,Paul Romer,PER,0.9997478723526001,UNKNOWN,PERSON
+/wiki/James_Peebles,Jim Peebles,PER,0.9991374015808105,UNKNOWN,PERSON
+/wiki/Michel_Mayor,Michel Mayor,PER,0.9995709657669067,UNKNOWN,PERSON
+/wiki/Didier_Queloz,Didier Queloz,PER,0.9996774196624756,UNKNOWN,PERSON
+/wiki/John_B._Goodenough,John B. Goodenough,PER,0.9940624237060547,UNKNOWN,PERSON
+/wiki/M._Stanley_Whittingham,M. Stanley Whittingham,PER,0.999466598033905,UNKNOWN,PERSON
+/wiki/Akira_Yoshino,Yoshino Akira,PER,0.999413251876831,UNKNOWN,PERSON
+/wiki/William_Kaelin_Jr.,William Kaelin Jr.,PER,0.9994813203811646,UNKNOWN,PERSON
+/wiki/Peter_J._Ratcliffe,Peter J. Ratcliffe,PER,0.9615011215209961,UNKNOWN,PERSON
+/wiki/Gregg_L._Semenza,Gregg L. Semenza,PER,0.9906041622161865,UNKNOWN,PERSON
+/wiki/Peter_Handke,Peter Handke,PER,0.944494903087616,UNKNOWN,PERSON
+/wiki/Abiy_Ahmed,Abiy Ahmed,PER,0.9996645450592041,UNKNOWN,PERSON
+/wiki/Abhijit_Banerjee,Abhijit Banerjee,PER,0.9993818998336792,UNKNOWN,PERSON
+/wiki/Esther_Duflo,Esther Duflo,PER,0.8411303162574768,UNKNOWN,PERSON
+/wiki/Michael_Kremer,Michael Kremer,PER,0.9770442247390747,UNKNOWN,PERSON
+/wiki/Roger_Penrose,Roger Penrose,PER,0.9922342300415039,UNKNOWN,PERSON
+/wiki/Reinhard_Genzel,Reinhard Genzel,PER,0.9993926286697388,UNKNOWN,PERSON
+/wiki/Andrea_M._Ghez,Andrea M. Ghez,PER,0.9622533321380615,UNKNOWN,PERSON
+/wiki/Emmanuelle_Charpentier,Emmanuelle Charpentier,PER,0.939846932888031,UNKNOWN,PERSON
+/wiki/Jennifer_Doudna,Jennifer Doudna,PER,0.9972627758979797,UNKNOWN,PERSON
+/wiki/Harvey_J._Alter,Harvey J. Alter,PER,0.9717890024185181,UNKNOWN,PERSON
+/wiki/Michael_Houghton_(nh%C3%A0_virus_h%E1%BB%8Dc),Michael Houghton (nhà virus học),PER,0.9997835159301758,UNKNOWN,PERSON
+/wiki/Charles_M._Rice,Charles M. Rice,PER,0.9867885708808899,UNKNOWN,PERSON
+/wiki/Louise_Gl%C3%BCck,Louise Glück,PER,0.9969521164894104,UNKNOWN,PERSON
+/wiki/Ch%C6%B0%C6%A1ng_tr%C3%ACnh_L%C6%B0%C6%A1ng_th%E1%BB%B1c_Th%E1%BA%BF_gi%E1%BB%9Bi,Chương trình Lương thực Thế giới,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Paul_Milgrom,Paul Milgrom,PER,0.9979938268661499,UNKNOWN,PERSON
+/wiki/Robert_B._Wilson,Robert B. Wilson,PER,0.9732218980789185,UNKNOWN,PERSON
+/wiki/Syukuro_Manabe,Manabe Syukuro,PER,0.9994113445281982,UNKNOWN,PERSON
+/wiki/Klaus_Hasselmann,Klaus Hasselmann,PER,0.9762123823165894,UNKNOWN,PERSON
+/wiki/Giorgio_Parisi,Giorgio Parisi,PER,0.9996846914291382,UNKNOWN,PERSON
+/wiki/Benjamin_List,Benjamin List,PER,0.9994493722915649,UNKNOWN,PERSON
+/wiki/David_MacMillan,David MacMillan,PER,0.9996070861816406,UNKNOWN,PERSON
+/wiki/David_Julius,David Julius,PER,0.999470591545105,UNKNOWN,PERSON
+/wiki/Ardem_Patapoutian,Ardem Patapoutian,PER,0.999561607837677,UNKNOWN,PERSON
+/wiki/Abdulrazak_Gurnah,Abdulrazak Gurnah,PER,0.9874724745750427,UNKNOWN,PERSON
+/wiki/Maria_Ressa,Maria Ressa,PER,0.986048698425293,UNKNOWN,PERSON
+/wiki/Dmitry_Muratov,Dmitry Andreyevich Muratov,PER,0.9996115565299988,UNKNOWN,PERSON
+/wiki/David_Card,David Card,PER,0.9997504949569702,UNKNOWN,PERSON
+/wiki/Joshua_Angrist,Joshua Angrist,PER,0.9990572929382324,UNKNOWN,PERSON
+/wiki/Guido_Imbens,Guido Imbens,PER,0.9995391368865967,UNKNOWN,PERSON
+/wiki/Alain_Aspect,Alain Aspect,PER,0.9994884133338928,FIELD,FIELD
+/wiki/John_Clauser,John Clauser,PER,0.931937038898468,UNKNOWN,PERSON
+/wiki/Anton_Zeilinger,Anton Zeilinger,PER,0.9952475428581238,UNKNOWN,PERSON
+/wiki/Carolyn_R._Bertozzi,Carolyn R. Bertozzi,PER,0.9935439825057983,UNKNOWN,PERSON
+/wiki/Morten_P._Meldal,Morten P. Meldal,PER,0.999679684638977,UNKNOWN,PERSON
+/wiki/Svante_P%C3%A4%C3%A4bo,Svante Pääbo,PER,0.9978830218315125,UNKNOWN,PERSON
+/wiki/Annie_Ernaux,Annie Ernaux,PER,0.996493935585022,UNKNOWN,PERSON
+/wiki/Ales_Bialiatski,Ales Bialiatski,PER,0.998649537563324,UNKNOWN,PERSON
+/wiki/Ben_Bernanke,Ben Bernanke,PER,0.9917677044868469,UNKNOWN,PERSON
+/wiki/Douglas_Diamond,Douglas Diamond,PER,0.9986369609832764,UNKNOWN,PERSON
+/wiki/Philip_H._Dybvig,Philip H. Dybvig,PER,0.9685195088386536,UNKNOWN,PERSON
+/wiki/Pierre_Agostini,Pierre Agostini,PER,0.9992855191230774,UNKNOWN,PERSON
+/wiki/Ferenc_Krausz,Ferenc Krausz,PER,0.9680757522583008,UNKNOWN,PERSON
+/wiki/Anne_L%27Huillier,Anne L'Huillier,PER,0.9843632578849792,UNKNOWN,PERSON
+/wiki/Katalin_Karik%C3%B3,Katalin Karikó,PER,0.9270944595336914,UNKNOWN,PERSON
+/wiki/Drew_Weissman,Drew Weissman,PER,0.9997593760490417,UNKNOWN,PERSON
+/wiki/Jon_Fosse,Jon Fosse,PER,0.9996035099029541,UNKNOWN,PERSON
+/wiki/Claudia_Goldin,Claudia Goldin,PER,0.8624938130378723,UNKNOWN,PERSON
+/wiki/Victor_Ambros,Victor Ambros,PER,0.9742182493209839,UNKNOWN,PERSON
+/wiki/Gary_Ruvkun,Gary Ruvkun,PER,0.9986934065818787,UNKNOWN,PERSON
+/wiki/Han_Kang,Han Kang,PER,0.9995377063751221,UNKNOWN,PERSON
+/wiki/Daron_Acemoglu,Daron Acemoğlu,PER,0.9992341995239258,UNKNOWN,PERSON
+/wiki/L%C3%A1szl%C3%B3_Krasznahorkai,László Krasznahorkai,PER,0.7747269868850708,FIELD,FIELD
+/wiki/Mar%C3%ADa_Corina_Machado,María Corina Machado,PER,0.982565701007843,UNKNOWN,PERSON
+/wiki/27_th%C3%A1ng_3,27 tháng 3,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1845,1845,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/V%C6%B0%C6%A1ng_Qu%E1%BB%91c_Ph%E1%BB%95,Vương quốc Phổ,LOC,0.9549990892410278,UNKNOWN,LOC
+/wiki/Bang_li%C3%AAn_%C4%90%E1%BB%A9c,Bang liên Đức,LOC,0.519474983215332,UNKNOWN,PERSON
+/wiki/M%C3%BCnchen,München,ORG,0.9530038237571716,UNKNOWN,INSTITUTION
+/wiki/C%E1%BB%99ng_h%C3%B2a_Weimar,Cộng hòa Weimar,ORG,0.5941712856292725,UNKNOWN,INSTITUTION
+/wiki/%C4%90%E1%BB%A9c,Đức,PER,0.8938257694244385,UNKNOWN,PERSON
+/wiki/ETH_Z%C3%BCrich,ETH Zürich,ORG,0.9988232254981995,UNKNOWN,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Z%C3%BCrich,Đại học Zürich,ORG,0.9442347288131714,INSTITUTION,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Ludwig_Maximilian_M%C3%BCnchen,Đại học Ludwig Maximilian München,PER,0.9829574227333069,INSTITUTION,INSTITUTION
+/wiki/Rotterdam,Rotterdam,LOC,0.9653329253196716,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Leiden,Đại học Leiden,ORG,0.6961026787757874,INSTITUTION,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Bonn,Đại học Bonn,ORG,0.6590561270713806,INSTITUTION,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Paris,Đại học Paris,ORG,0.6089947819709778,INSTITUTION,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Utrecht,Đại học Utrecht,ORG,0.7729786038398743,INSTITUTION,INSTITUTION
+/wiki/Danh_s%C3%A1ch_ng%C6%B0%E1%BB%9Di_%C4%91o%E1%BA%A1t_gi%E1%BA%A3i_Nobel_H%C3%B3a_h%E1%BB%8Dc,Danh sách người đoạt giải Nobel Hóa học,UNKNOWN,0.0,AWARD,AWARD
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Amsterdam,Đại học Amsterdam,ORG,0.6120672225952148,INSTITUTION,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Humboldt_Berlin,Đại học Humboldt Berlin,ORG,0.9794310927391052,INSTITUTION,INSTITUTION
+/wiki/Marburg,Marburg,ORG,0.9345176219940186,UNKNOWN,INSTITUTION
+/wiki/Danh_s%C3%A1ch_ng%C6%B0%E1%BB%9Di_%C4%91o%E1%BA%A1t_gi%E1%BA%A3i_Nobel_Sinh_l%C3%BD_h%E1%BB%8Dc_v%C3%A0_Y_khoa,Danh sách người đoạt giải Nobel Sinh lý học hoặc Y học,UNKNOWN,0.0,AWARD,AWARD
+/wiki/16_th%C3%A1ng_3,16 tháng 3,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1839,1839,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Paris,Paris,LOC,0.9995434880256653,UNKNOWN,LOC
+/wiki/Ph%C3%A1p,Pháp,PER,0.713060200214386,UNKNOWN,PERSON
+/wiki/Ch%C3%A2tenay-Malabry,Châtenay-Malabry,LOC,0.5566679239273071,UNKNOWN,LOC
+/wiki/Nh%C3%A0_th%C6%A1,Nhà thơ,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Geneva,Genève,ORG,0.9214284420013428,UNKNOWN,INSTITUTION
+/wiki/Arnhem,Arnhem,LOC,0.7825009822845459,UNKNOWN,LOC
+/wiki/H%C3%A0_Lan,Hà Lan,LOC,0.990503191947937,UNKNOWN,LOC
+/wiki/Haarlem,Haarlem,LOC,0.8810182213783264,UNKNOWN,LOC
+/wiki/Amsterdam,Amsterdam,LOC,0.9984883069992065,UNKNOWN,LOC
+/wiki/Huy_ch%C6%B0%C6%A1ng_Matteucci,Huy chương Matteucci,AWARD,0.9888095259666443,AWARD,AWARD
+/wiki/9_th%C3%A1ng_10,9 tháng 10,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1852,1852,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Rhein,Rhein,LOC,0.7319367527961731,UNKNOWN,LOC
+/wiki/Berlin,Berlin,LOC,0.9997542500495911,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%BF_qu%E1%BB%91c_%C4%90%E1%BB%A9c,Đế quốc Đức,LOC,0.8670560717582703,UNKNOWN,LOC
+/wiki/1902,1902,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1875,1875,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1881,1881,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1888,1888,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1892,1892,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1919,1919,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Almora,Almora,ORG,0.9115853309631348,UNKNOWN,INSTITUTION
+/wiki/Th%C3%A0nh_vi%C3%AAn_Hi%E1%BB%87p_h%E1%BB%99i_Ho%C3%A0ng_gia,Thành viên Hội Vương thất,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Kolkata,Kolkata,LOC,0.8829075694084167,UNKNOWN,LOC
+/wiki/15_th%C3%A1ng_12,15 tháng 12,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/25_th%C3%A1ng_8,25 tháng 8,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1908,1908,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Le_Croisic,Le Croisic,ORG,0.9678231477737427,UNKNOWN,INSTITUTION
+/wiki/Bretagne,Bretagne (vùng),ORG,0.7603623270988464,UNKNOWN,INSTITUTION
+/wiki/Tr%C6%B0%E1%BB%9Dng_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_k%E1%BB%B9_thu%E1%BA%ADt,Viện công nghệ,UNKNOWN,0.0,INSTITUTION,INSTITUTION
+/wiki/%C3%89cole_nationale_des_ponts_et_chauss%C3%A9es,École nationale des ponts et chaussées,ORG,0.9432668685913086,UNKNOWN,INSTITUTION
+/wiki/Warszawa,Warszawa,ORG,0.9946277737617493,UNKNOWN,INSTITUTION
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_L%E1%BA%ADp_hi%E1%BA%BFn_Ba_Lan,Vương quốc Lập hiến Ba Lan,LOC,0.7992540597915649,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%BF_qu%E1%BB%91c_Nga,Đế quốc Nga,LOC,0.9238320589065552,UNKNOWN,LOC
+"/wiki/Passy,_Haute-Savoie","Passy, Haute-Savoie",LOC,0.9934097528457642,UNKNOWN,LOC
+/wiki/%C3%88ve_Curie,Ève Curie,PER,0.9984738230705261,UNKNOWN,PERSON
+/wiki/Gi%E1%BA%A3i_Willard_Gibbs,Giải Willard Gibbs,PER,0.955703616142273,AWARD,AWARD
+/wiki/Andr%C3%A9-Louis_Debierne,André-Louis Debierne,PER,0.9996082186698914,UNKNOWN,PERSON
+/wiki/Marguerite_Perey,Marguerite Perey,PER,0.9975845813751221,UNKNOWN,PERSON
+/wiki/Stockholm,Stockholm,LOC,0.9996756315231323,UNKNOWN,LOC
+/wiki/Th%E1%BB%A5y_%C4%90i%E1%BB%83n,Thụy Điển,PER,0.9921573400497437,UNKNOWN,PERSON
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Uppsala,Đại học Uppsala,PER,0.7650105357170105,INSTITUTION,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Stockholm,Đại học Stockholm,LOC,0.5528863072395325,INSTITUTION,INSTITUTION
+/wiki/Per_Teodor_Cleve,Per Teodor Cleve,PER,0.9888545870780945,UNKNOWN,PERSON
+/wiki/8_th%C3%A1ng_12,8 tháng 12,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1832,1832,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Na_Uy,Na Uy,ORG,0.6423036456108093,UNKNOWN,INSTITUTION
+/wiki/26_th%C3%A1ng_4,26 tháng 4,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1910,1910,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Nh%C3%A0_v%C4%83n,Nhà văn,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Anh,Anh,PER,0.9769039750099182,UNKNOWN,PERSON
+/wiki/Eton_College,Eton College,ORG,0.998540997505188,INSTITUTION,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Cambridge,Đại học Cambridge,PER,0.8841614127159119,INSTITUTION,INSTITUTION
+/wiki/2_th%C3%A1ng_10,2 tháng 10,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Glasgow,Glasgow,ORG,0.9449619650840759,UNKNOWN,INSTITUTION
+/wiki/Scotland,Scotland,LOC,0.9997820258140564,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Glasgow,Đại học Glasgow,ORG,0.6499060392379761,INSTITUTION,INSTITUTION
+/wiki/1866,1866,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1869,1869,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_T%C3%BCbingen,Đại học Tübingen,LOC,0.7682286500930786,INSTITUTION,INSTITUTION
+/wiki/1873,1873,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1904,1904,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1907,1907,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1913,1913,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1874,1874,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1880,1880,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1887,1887,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Ryazan,Ryazan,PER,0.988723874092102,UNKNOWN,PERSON
+/wiki/Sankt-Peterburg,Sankt-Peterburg,LOC,0.9924600720405579,UNKNOWN,LOC
+/wiki/Li%C3%AAn_X%C3%B4,Liên Xô,PER,0.9953426122665405,UNKNOWN,PERSON
+/wiki/Nga,Nga,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Pressburg,Bratislava,LOC,0.9962050318717957,UNKNOWN,LOC
+/wiki/Hungary,Hungary,LOC,0.9998427629470825,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Heidelberg,Đại học Heidelberg,ORG,0.4672337472438812,INSTITUTION,INSTITUTION
+/wiki/Robert_Bunsen,Robert Bunsen,PER,0.9884960055351257,UNKNOWN,PERSON
+/wiki/Starnberg,Starnberg,PER,0.8870126008987427,UNKNOWN,PERSON
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_K%E1%BB%B9_thu%E1%BA%ADt_Berlin,Đại học Kỹ thuật Berlin,PER,0.9302788376808167,INSTITUTION,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Strasbourg,Đại học Strasbourg,ORG,0.8264294862747192,INSTITUTION,INSTITUTION
+/wiki/August_Kekul%C3%A9,August Kekulé,PER,0.5596274137496948,UNKNOWN,PERSON
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Hannover,Vương quốc Hannover,LOC,0.9855599403381348,UNKNOWN,LOC
+/wiki/Baden-Baden,Baden-Baden,LOC,0.9984649419784546,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_c%C3%B4ng_qu%E1%BB%91c_Baden,Đại công quốc Baden,LOC,0.5028555393218994,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_G%C3%B6ttingen,Đại học Göttingen,PER,0.5498077273368835,INSTITUTION,INSTITUTION
+/wiki/Praha,Praha,ORG,0.5443632006645203,UNKNOWN,INSTITUTION
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Bohemia,Vương quốc Bohemia,LOC,0.9942716360092163,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%BF_qu%E1%BB%91c_%C3%81o,Đế quốc Áo,LOC,0.9886823296546936,UNKNOWN,LOC
+/wiki/Vi%C3%AAn,Viên,LOC,0.4501711428165436,UNKNOWN,LOC
+/wiki/%C3%81o-Hung,Đế quốc Áo-Hung,LOC,0.990797221660614,UNKNOWN,LOC
+/wiki/Ch%E1%BB%A7_ngh%C4%A9a_h%C3%B2a_b%C3%ACnh,Chủ nghĩa hòa bình,UNKNOWN,0.0,AWARD,AWARD
+/wiki/Ti%E1%BB%83u_thuy%E1%BA%BFt_gia,Tiểu thuyết gia,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/18_th%C3%A1ng_12,18 tháng 12,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1856,1856,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Manchester,Manchester,ORG,0.9971979856491089,UNKNOWN,INSTITUTION
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Li%C3%AAn_hi%E1%BB%87p_Anh_v%C3%A0_B%E1%BA%AFc_Ireland,Vương quốc Liên hiệp Anh và Bắc Ireland,LOC,0.9774208664894104,UNKNOWN,LOC
+/wiki/Cambridge,Cambridge,ORG,0.9992491602897644,UNKNOWN,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Manchester,Đại học Manchester,ORG,0.6277590990066528,INSTITUTION,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Princeton,Đại học Princeton,PER,0.5473259687423706,INSTITUTION,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Yale,Đại học Yale,PER,0.9591532945632935,INSTITUTION,INSTITUTION
+/wiki/28_th%C3%A1ng_9,28 tháng 9,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1898,1898,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1906,1906,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Sorbonne,Sorbonne,ORG,0.8129287958145142,UNKNOWN,INSTITUTION
+/wiki/Petilla_de_Arag%C3%B3n,Petilla de Aragón,PER,0.9898563623428345,UNKNOWN,PERSON
+/wiki/Navarre,Navarra,LOC,0.5278081893920898,UNKNOWN,LOC
+/wiki/T%C3%A2y_Ban_Nha,Tây Ban Nha,MISC,0.8115198016166687,UNKNOWN,UNKNOWN
+/wiki/Madrid,Madrid,LOC,0.9833707809448242,UNKNOWN,LOC
+/wiki/27_th%C3%A1ng_7,27 tháng 7,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1835,1835,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Pietrasanta,Pietrasanta,ORG,0.8396482467651367,UNKNOWN,INSTITUTION
+/wiki/Toscana,Toscana,LOC,0.8960134387016296,UNKNOWN,LOC
+/wiki/16_th%C3%A1ng_2,16 tháng 2,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Bologna,Bologna,ORG,0.9993191957473755,UNKNOWN,INSTITUTION
+/wiki/Th%C3%A0nh_ph%E1%BB%91_New_York,Thành phố New York,LOC,0.8306716680526733,UNKNOWN,LOC
+/wiki/New_York_(bang),New York (tiểu bang),LOC,0.9963175058364868,UNKNOWN,LOC
+/wiki/Hoa_K%E1%BB%B3,Hoa Kỳ,PER,0.7896738052368164,UNKNOWN,PERSON
+/wiki/Theodore_Roosevelt_Jr.,Theodore Roosevelt Jr.,PER,0.9979003071784973,UNKNOWN,PERSON
+/wiki/Strzelno,Strzelno,LOC,0.7250211238861084,UNKNOWN,LOC
+"/wiki/Pasadena,_California","Pasadena, California",LOC,0.9995483756065369,UNKNOWN,LOC
+/wiki/H%E1%BB%8Dc_vi%E1%BB%87n_H%E1%BA%A3i_qu%C3%A2n_Hoa_K%E1%BB%B3,Học viện Hải quân Hoa Kỳ,PER,0.8612737059593201,INSTITUTION,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Chicago,Đại học Chicago,ORG,0.9331575632095337,INSTITUTION,INSTITUTION
+/wiki/Hermann_Helmholtz,Hermann von Helmholtz,PER,0.9880446791648865,UNKNOWN,PERSON
+/wiki/Val-de-Gr%C3%A2ce,Val-de-Grâce,LOC,0.7435759902000427,UNKNOWN,LOC
+/wiki/Raj_thu%E1%BB%99c_Anh,Raj thuộc Anh,PER,0.8451899886131287,UNKNOWN,PERSON
+/wiki/Lu%C3%A2n_%C4%90%C3%B4n,Luân Đôn,PER,0.999189555644989,UNKNOWN,PERSON
+/wiki/Milan,Milano,ORG,0.995725154876709,UNKNOWN,INSTITUTION
+/wiki/Autun,Autun,PER,0.8315591216087341,UNKNOWN,PERSON
+/wiki/Barbizon,Barbizon,ORG,0.8309866189956665,UNKNOWN,INSTITUTION
+/wiki/16_th%C3%A1ng_8,16 tháng 8,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Luxembourg,Luxembourg,LOC,0.9998503923416138,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_T%C3%A2y_D%C6%B0%C6%A1ng,Đại Tây Dương,LOC,0.7840572595596313,UNKNOWN,LOC
+/wiki/Canada,Canada,LOC,0.9998119473457336,UNKNOWN,LOC
+/wiki/30_th%C3%A1ng_8,30 tháng 8,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1871,1871,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/New_Zealand,New Zealand,LOC,0.9993667602539062,UNKNOWN,LOC
+/wiki/19_th%C3%A1ng_10,19 tháng 10,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1937,1937,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_McGill,Đại học McGill,PER,0.9928512573242188,INSTITUTION,INSTITUTION
+/wiki/Kharkiv_Oblast,Kharkiv (tỉnh),LOC,0.9387782216072083,UNKNOWN,LOC
+/wiki/Ukraina,Ukraina,ORG,0.7814139127731323,FIELD,FIELD
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Qu%E1%BB%91c_gia_Kharkiv,Đại học Quốc gia Kharkiv,LOC,0.8651683330535889,INSTITUTION,INSTITUTION
+/wiki/Strzelin,Strzelin,PER,0.5188618302345276,UNKNOWN,PERSON
+/wiki/Hesse,Hessen,ORG,0.7392244935035706,UNKNOWN,INSTITUTION
+/wiki/5_th%C3%A1ng_1,5 tháng 1,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1846,1846,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Aurich,Aurich,PER,0.9992338418960571,UNKNOWN,PERSON
+/wiki/Hannover,Hannover,LOC,0.9710093140602112,UNKNOWN,LOC
+/wiki/15_th%C3%A1ng_9,15 tháng 9,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1926,1926,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Jena,Jena,PER,0.7860440015792847,UNKNOWN,PERSON
+/wiki/Th%C3%BCringen,Thüringen,LOC,0.6396718621253967,UNKNOWN,LOC
+/wiki/Gothenburg,Göteborg,ORG,0.9863086938858032,UNKNOWN,INSTITUTION
+/wiki/Ch%C3%ADnh_tr%E1%BB%8B_gia,Chính khách,LOC,0.7137905955314636,UNKNOWN,LOC
+/wiki/Gi%C3%A1o_vi%C3%AAn,Giáo viên,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/%C4%90an_M%E1%BA%A1ch,Đan Mạch,PER,0.9992901086807251,UNKNOWN,PERSON
+/wiki/6_th%C3%A1ng_6,6 tháng 6,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1850,1850,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Brooklyn,Brooklyn,ORG,0.904333233833313,UNKNOWN,INSTITUTION
+/wiki/Ng%C6%B0%E1%BB%9Di_%C4%90%E1%BB%A9c,Người Đức,PER,0.8923289775848389,UNKNOWN,PERSON
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Marburg,Đại học Marburg,ORG,0.7260432243347168,INSTITUTION,INSTITUTION
+/wiki/2_th%C3%A1ng_9,2 tháng 9,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1853,1853,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Riga,Riga,LOC,0.9986521601676941,UNKNOWN,LOC
+/wiki/Leipzig,Leipzig,LOC,0.9904072880744934,UNKNOWN,LOC
+/wiki/Baltic,Baltic,MISC,0.998928964138031,UNKNOWN,UNKNOWN
+/wiki/1909,1909,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Leipzig,Đại học Leipzig,ORG,0.8623791933059692,INSTITUTION,INSTITUTION
+/wiki/Vi%E1%BB%87n_h%C3%A0n_l%C3%A2m_Khoa_h%E1%BB%8Dc_Leopoldina,Viện Hàn lâm Khoa học Leopoldina,PER,0.9122406244277954,INSTITUTION,INSTITUTION
+/wiki/Arthur_Amos_Noyes,Arthur Amos Noyes,PER,0.9981237649917603,UNKNOWN,PERSON
+/wiki/20_th%C3%A1ng_11,20 tháng 11,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1858,1858,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/V%C3%A4rmland,Värmland,LOC,0.8408260941505432,UNKNOWN,LOC
+/wiki/Ng%C6%B0%E1%BB%9Di_Th%E1%BB%A5y_%C4%90i%E1%BB%83n,Người Thụy Điển,ORG,0.7230228781700134,UNKNOWN,INSTITUTION
+/wiki/La_Fl%C3%A8che,La Flèche,ORG,0.9929609298706055,UNKNOWN,INSTITUTION
+/wiki/Leiden,Leiden,ORG,0.9681290984153748,UNKNOWN,INSTITUTION
+/wiki/Willem_Hendrik_Keesom,Willem Hendrik Keesom,PER,0.998406708240509,UNKNOWN,PERSON
+/wiki/Kaliningrad,Kaliningrad,LOC,0.8627837300300598,UNKNOWN,LOC
+/wiki/G%C3%B6ttingen,Göttingen,ORG,0.9221206307411194,UNKNOWN,INSTITUTION
+/wiki/August_Wilhelm_von_Hofmann,August Wilhelm von Hofmann,PER,0.9337505102157593,UNKNOWN,PERSON
+/wiki/Friedrich_W%C3%B6hler,Friedrich Wöhler,PER,0.9993478655815125,UNKNOWN,PERSON
+/wiki/Rostock,Rostock,ORG,0.8817422389984131,UNKNOWN,INSTITUTION
+/wiki/1927,1927,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/15_th%C3%A1ng_3,15 tháng 3,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1830,1830,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/2_th%C3%A1ng_4,2 tháng 4,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1914,1914,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Ph%E1%BB%95,Phổ,PER,0.3702242970466614,UNKNOWN,PERSON
+/wiki/Landskrona,Landskrona,ORG,0.9551193118095398,UNKNOWN,INSTITUTION
+/wiki/29_th%C3%A1ng_4,29 tháng 4,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1862,1862,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Gent,Gent,LOC,0.5022265911102295,UNKNOWN,LOC
+/wiki/B%E1%BB%89,Bỉ,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/6_th%C3%A1ng_5,6 tháng 5,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1949,1949,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Nice,Nice,ORG,0.9971355199813843,UNKNOWN,INSTITUTION
+/wiki/V%C3%A4sterg%C3%B6tland,Västergötland,LOC,0.802679717540741,UNKNOWN,LOC
+/wiki/Cherbourg,Cherbourg,ORG,0.8971885442733765,UNKNOWN,INSTITUTION
+/wiki/Lyon,Lyon,ORG,0.9993915557861328,UNKNOWN,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Lyon,Đại học Lyon,PER,0.9589159488677979,INSTITUTION,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Nancy,Đại học Nancy,PER,0.9822064638137817,INSTITUTION,INSTITUTION
+/wiki/1854,1854,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Carcassonne,Carcassonne,LOC,0.7152220010757446,UNKNOWN,LOC
+/wiki/Toulouse,Toulouse,ORG,0.9989873766899109,UNKNOWN,INSTITUTION
+/wiki/Sainte-Foy-l%C3%A8s-Lyon,Sainte-Foy-lès-Lyon,LOC,0.863879382610321,FIELD,FIELD
+"/wiki/Rh%C3%B4ne,_Rh%C3%B4ne-Alpes",Rhône (tỉnh),ORG,0.7376282811164856,UNKNOWN,INSTITUTION
+/wiki/Gi%E1%BA%A3i_ph%E1%BA%ABu_h%E1%BB%8Dc,Giải phẫu học,LOC,0.3004034161567688,AWARD,AWARD
+/wiki/Sinh_h%E1%BB%8Dc,Sinh học,PER,0.8508927822113037,FIELD,FIELD
+/wiki/15_th%C3%A1ng_11,15 tháng 11,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Szczawno-Zdr%C3%B3j,Szczawno-Zdrój,LOC,0.9707829356193542,UNKNOWN,LOC
+/wiki/Ba_Lan,Ba Lan,ORG,0.9052472114562988,UNKNOWN,INSTITUTION
+/wiki/1946,1946,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/21_th%C3%A1ng_9,21 tháng 9,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Groningen,Groningen (thành phố),ORG,0.9659221172332764,UNKNOWN,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Groningen,Đại học Groningen,ORG,0.9422076940536499,INSTITUTION,INSTITUTION
+/wiki/Gustav_Kirchhoff,Gustav Robert Kirchhoff,PER,0.9935890436172485,UNKNOWN,PERSON
+/wiki/12_th%C3%A1ng_12,12 tháng 12,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Mulhouse,Mulhouse,PER,0.9794756770133972,UNKNOWN,PERSON
+/wiki/Alsace,Alsace,LOC,0.9981160163879395,UNKNOWN,LOC
+/wiki/Z%C3%BCrich,Zürich,ORG,0.9533993601799011,UNKNOWN,INSTITUTION
+/wiki/Th%E1%BB%A5y_S%C4%A9,Thụy Sĩ,PER,0.9869430065155029,UNKNOWN,PERSON
+/wiki/7_th%C3%A1ng_5,7 tháng 5,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1861,1861,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/%E1%BA%A4n_%C4%90%E1%BB%99,Ấn Độ,PER,0.489544540643692,UNKNOWN,PERSON
+/wiki/Nh%C3%A0_vi%E1%BA%BFt_k%E1%BB%8Bch,Nhà viết kịch,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Tri%E1%BA%BFt_gia,Nhà triết học,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Koblenz,Koblenz,LOC,0.6831937432289124,UNKNOWN,LOC
+/wiki/Le%C3%B3_Szil%C3%A1rd,Leó Szilárd,PER,0.999451220035553,UNKNOWN,PERSON
+/wiki/%C3%81o,Áo,ORG,0.6701126098632812,UNKNOWN,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Wien,Đại học Viên,PER,0.7379100322723389,INSTITUTION,INSTITUTION
+/wiki/2_th%C3%A1ng_7,2 tháng 7,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Cumberland,Cumberland,ORG,0.9986923336982727,UNKNOWN,INSTITUTION
+/wiki/1915,1915,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Gi%E1%BA%A3i_John_J._Carty_cho_th%C4%83ng_ti%E1%BA%BFn_Khoa_h%E1%BB%8Dc,Giải John J. Carty cho thăng tiến Khoa học,PER,0.8543108701705933,AWARD,AWARD
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Adelaide,Đại học Adelaide,PER,0.9207756519317627,INSTITUTION,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Leeds,Đại học Leeds,PER,0.9843839406967163,INSTITUTION,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_London,Đại học Luân Đôn,PER,0.6448418498039246,INSTITUTION,INSTITUTION
+/wiki/31_th%C3%A1ng_3,31 tháng 3,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1890,1890,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Suffolk,Suffolk,ORG,0.7257338166236877,UNKNOWN,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Victoria,Đại học Victoria,PER,0.8645538687705994,INSTITUTION,INSTITUTION
+/wiki/13_th%C3%A1ng_8,13 tháng 8,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1872,1872,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Karlsruhe,Karlsruhe,ORG,0.9503645300865173,UNKNOWN,INSTITUTION
+/wiki/29_th%C3%A1ng_1,29 tháng 1,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+"/wiki/Clamecy,_Ni%C3%A8vre","Clamecy, Nièvre",PER,0.981391966342926,UNKNOWN,PERSON
+/wiki/Ni%C3%A8vre,Nièvre,ORG,0.818706750869751,UNKNOWN,INSTITUTION
+/wiki/V%C3%A9zelay,Vézelay,LOC,0.9670302271842957,UNKNOWN,LOC
+/wiki/6_th%C3%A1ng_7,6 tháng 7,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1859,1859,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/20_th%C3%A1ng_5,20 tháng 5,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1940,1940,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Cheshire,Cheshire,ORG,0.9988740086555481,UNKNOWN,INSTITUTION
+/wiki/Edinburgh,Edinburgh,LOC,0.5721039175987244,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Liverpool,Đại học Liverpool,ORG,0.8448653221130371,INSTITUTION,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Edinburgh,Đại học Edinburgh,PER,0.39570313692092896,INSTITUTION,INSTITUTION
+/wiki/Kiel,Kiel,LOC,0.6357345581054688,UNKNOWN,LOC
+/wiki/T%C3%A2y_%C4%90%E1%BB%A9c,Tây Đức,PER,0.988787829875946,UNKNOWN,PERSON
+/wiki/Wroc%C5%82aw,Wrocław,LOC,0.955324649810791,UNKNOWN,LOC
+/wiki/Basel,Basel,ORG,0.9991175532341003,UNKNOWN,INSTITUTION
+/wiki/Freihung,Freihung,ORG,0.6811959147453308,UNKNOWN,INSTITUTION
+/wiki/Traunstein,Traunstein,PER,0.9867204427719116,UNKNOWN,PERSON
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Hannover,Đại học Hanover,PER,0.7637884020805359,INSTITUTION,INSTITUTION
+/wiki/Soignies,Soignies,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/24_th%C3%A1ng_4,24 tháng 4,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/29_th%C3%A1ng_12,29 tháng 12,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1924,1924,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+"/wiki/Staunton,_Virginia","Staunton, Virginia",LOC,0.999591052532196,UNKNOWN,LOC
+/wiki/S%C3%A8vres,Sèvres,ORG,0.556398332118988,UNKNOWN,INSTITUTION
+/wiki/25_th%C3%A1ng_6,25 tháng 6,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1864,1864,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Graz,Đại học Graz,LOC,0.8889502286911011,INSTITUTION,INSTITUTION
+/wiki/1920,1920,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1928,1928,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Ludwig_Boltzmann,Ludwig Boltzmann,PER,0.9921326637268066,UNKNOWN,PERSON
+/wiki/Gilbert_N._Lewis,Gilbert N. Lewis,PER,0.9557106494903564,UNKNOWN,PERSON
+/wiki/Max_Bodenstein,Max Bodenstein,PER,0.994174599647522,UNKNOWN,PERSON
+/wiki/Hermann_Irving_Schlesinger,Hermann Irving Schlesinger,PER,0.9904690980911255,UNKNOWN,PERSON
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Copenhagen,Đại học Copenhagen,LOC,0.581794023513794,INSTITUTION,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Duke,Đại học Duke,LOC,0.6634740233421326,INSTITUTION,INSTITUTION
+/wiki/4_th%C3%A1ng_8,4 tháng 8,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Grimstad,Grimstad,PER,0.9949235320091248,UNKNOWN,PERSON
+/wiki/Ulm,Ulm,LOC,0.9137812852859497,UNKNOWN,LOC
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_W%C3%BCrttemberg,Vương quốc Württemberg,LOC,0.9832949042320251,UNKNOWN,LOC
+"/wiki/Princeton,_New_Jersey","Princeton, New Jersey",LOC,0.999315619468689,UNKNOWN,LOC
+/wiki/Mileva_Mari%C4%87,Mileva Marić,PER,0.9960207343101501,UNKNOWN,PERSON
+/wiki/Hans_Albert_Einstein,Hans Albert Einstein,PER,0.9826986789703369,UNKNOWN,PERSON
+"/wiki/Gia_%C4%91%C3%ACnh_Einstein#Eduard_""Tete""_Einstein_(con_trai_thứ_hai_của_Einstein)",Gia đình Einstein,PER,0.9942322373390198,UNKNOWN,PERSON
+/wiki/Huy_ch%C6%B0%C6%A1ng_Copley,Huy chương Copley,AWARD,0.9904319643974304,UNKNOWN,AWARD
+/wiki/Huy_ch%C6%B0%C6%A1ng_v%C3%A0ng_c%E1%BB%A7a_H%E1%BB%99i_Thi%C3%AAn_v%C4%83n_h%E1%BB%8Dc_Ho%C3%A0ng_gia,Huy chương vàng của Hội Thiên văn Hoàng gia,AWARD,0.0,UNKNOWN,AWARD
+/wiki/Huy_ch%C6%B0%C6%A1ng_Max_Planck,Huy chương Max Planck,AWARD,0.993466317653656,UNKNOWN,AWARD
+/wiki/Bern,Bern,LOC,0.7620732188224792,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Karl_%E1%BB%9F_Praha,Đại học Karl tại Praha,ORG,0.6208388805389404,INSTITUTION,INSTITUTION
+/wiki/Vi%E1%BB%87n_H%C3%A0n_l%C3%A2m_Khoa_h%E1%BB%8Dc_Ph%E1%BB%95,Viện Hàn lâm Khoa học Phổ,PER,0.8720102906227112,INSTITUTION,INSTITUTION
+/wiki/Vi%E1%BB%87n_C%C3%B4ng_ngh%E1%BB%87_California,Viện Công nghệ California,ORG,0.5992056131362915,INSTITUTION,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Oxford,Đại học Oxford,PER,0.9634327292442322,INSTITUTION,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Brandeis,Đại học Brandeis,PER,0.9165025949478149,INSTITUTION,INSTITUTION
+/wiki/Alfred_Kleiner,Alfred Kleiner,PER,0.9997346997261047,UNKNOWN,PERSON
+/wiki/Hermann_Minkowski,Hermann Minkowski,PER,0.997334897518158,UNKNOWN,PERSON
+/wiki/V%E1%BA%ADt_l%C3%BD_hi%E1%BB%87n_%C4%91%E1%BA%A1i,Vật lý hiện đại,UNKNOWN,0.0,FIELD,FIELD
+/wiki/1877,1877,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Eastbourne,Eastbourne,ORG,0.994672417640686,UNKNOWN,INSTITUTION
+/wiki/Brighton,Brighton,ORG,0.9994681477546692,UNKNOWN,INSTITUTION
+/wiki/1921,1921,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1900,1900,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1903,1903,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1936,1936,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/16_th%C3%A1ng_4,16 tháng 4,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1844,1844,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/12_th%C3%A1ng_10,12 tháng 10,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Tours,Tours,MISC,0.4075947403907776,UNKNOWN,UNKNOWN
+/wiki/23_th%C3%A1ng_11,23 tháng 11,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1860,1860,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/24_th%C3%A1ng_2,24 tháng 2,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1925,1925,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Copenhagen,Copenhagen,LOC,0.9989311099052429,UNKNOWN,LOC
+/wiki/Gi%E1%BA%A3i_Nguy%C3%AAn_t%E1%BB%AD_v%C3%AC_H%C3%B2a_b%C3%ACnh,Giải thưởng Nguyên tử vì Hòa bình,UNKNOWN,0.0,AWARD,AWARD
+/wiki/Gi%E1%BA%A3i_Sonning,Giải Sonning,PER,0.9951586127281189,AWARD,AWARD
+/wiki/Lise_Meitner,Lise Meitner,PER,0.9992528557777405,UNKNOWN,PERSON
+/wiki/1_th%C3%A1ng_9,1 tháng 9,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Birmingham,Birmingham,ORG,0.6097694635391235,UNKNOWN,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Birmingham,Đại học Birmingham,LOC,0.6084833741188049,INSTITUTION,INSTITUTION
+/wiki/1922,1922,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Philadelphia,Philadelphia,ORG,0.9970033764839172,UNKNOWN,INSTITUTION
+/wiki/12_th%C3%A1ng_8,12 tháng 8,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/14_th%C3%A1ng_7,14 tháng 7,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1954,1954,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Oslo,Oslo,LOC,0.9990672469139099,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Oslo,Đại học Oslo,LOC,0.534049928188324,INSTITUTION,INSTITUTION
+/wiki/Nh%C3%A0_khoa_h%E1%BB%8Dc,Nhà khoa học,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Nh%C3%A0_th%C3%A1m_hi%E1%BB%83m,Nhà thám hiểm,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Ngo%E1%BA%A1i_giao,Ngoại giao,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Legion_of_Honor,Bắc Đẩu Bội tinh,ORG,0.668907880783081,UNKNOWN,INSTITUTION
+/wiki/22_th%C3%A1ng_3,22 tháng 3,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1868,1868,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+"/wiki/Morrison,_Illinois","Morrison, Illinois",LOC,0.9995336532592773,UNKNOWN,LOC
+/wiki/California,California,LOC,0.9997001886367798,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Oberlin,Đại học Oberlin,LOC,0.7438552379608154,INSTITUTION,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Columbia,Đại học Columbia,ORG,0.8373041749000549,INSTITUTION,INSTITUTION
+/wiki/Gi%E1%BA%A3i_V%E1%BA%ADt_l%C3%BD_Comstock,Giải Vật lý Comstock,LOC,0.6806417107582092,AWARD,AWARD
+/wiki/Huy_ch%C6%B0%C6%A1ng_Oersted,Huy chương Oersted,AWARD,0.9171744585037231,UNKNOWN,AWARD
+/wiki/Ljubljana,Ljubljana,LOC,0.9954208731651306,UNKNOWN,LOC
+/wiki/Graz,Graz,LOC,0.9948030114173889,UNKNOWN,LOC
+/wiki/1923,1923,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Ontario,Ontario,LOC,0.9824798107147217,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Toronto,Đại học Toronto,ORG,0.7817236185073853,INSTITUTION,INSTITUTION
+/wiki/Aberdeen,Aberdeen,ORG,0.9992746710777283,UNKNOWN,INSTITUTION
+/wiki/13_th%C3%A1ng_6,13 tháng 6,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1865,1865,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Dublin,Dublin,LOC,0.9951223731040955,UNKNOWN,LOC
+/wiki/C%E1%BB%99ng_h%C3%B2a_Ireland,Cộng hòa Ireland,LOC,0.9581477046012878,UNKNOWN,LOC
+/wiki/28_th%C3%A1ng_1,28 tháng 1,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1939,1939,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Ng%C6%B0%E1%BB%9Di_Ireland,Người Ireland,LOC,0.834843635559082,UNKNOWN,LOC
+/wiki/%C3%96rebro,Örebro,ORG,0.6283181309700012,UNKNOWN,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Lund,Đại học Lund,PER,0.9883130192756653,INSTITUTION,INSTITUTION
+/wiki/Semarang,Semarang,LOC,0.9685488939285278,UNKNOWN,LOC
+/wiki/Radomsko,Radomsko,LOC,0.682320773601532,UNKNOWN,LOC
+/wiki/5_th%C3%A1ng_12,5 tháng 12,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Hamburg,Hamburg,LOC,0.9856497645378113,UNKNOWN,LOC
+/wiki/Theodore_Puck,Theodore Puck,PER,0.9961383938789368,UNKNOWN,PERSON
+/wiki/%C4%90%C3%B4ng_Berlin,Đông Berlin,ORG,0.8976244926452637,UNKNOWN,INSTITUTION
+/wiki/C%E1%BB%99ng_h%C3%B2a_D%C3%A2n_ch%E1%BB%A7_%C4%90%E1%BB%A9c,Cộng hòa Dân chủ Đức,ORG,0.6460410952568054,UNKNOWN,INSTITUTION
+/wiki/1_th%C3%A1ng_4,1 tháng 4,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Ireland,Đảo Ireland,LOC,0.8625431060791016,UNKNOWN,LOC
+/wiki/Hertfordshire,Hertfordshire,ORG,0.9980781078338623,UNKNOWN,INSTITUTION
+/wiki/Warwickshire,Warwickshire,ORG,0.9994794726371765,UNKNOWN,INSTITUTION
+"/wiki/Marietta,_Ohio","Marietta, Ohio",LOC,0.99949049949646,UNKNOWN,LOC
+"/wiki/Evanston,_Illinois","Evanston, Illinois",LOC,0.9995101690292358,UNKNOWN,LOC
+/wiki/Bachelor_of_Arts,Cử nhân Nghệ thuật,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Lille,Lille,ORG,0.9995089769363403,UNKNOWN,INSTITUTION
+/wiki/1867,1867,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Silkeborg,Silkeborg,ORG,0.8926603198051453,UNKNOWN,INSTITUTION
+/wiki/Pforzheim,Pforzheim,ORG,0.7557536959648132,UNKNOWN,INSTITUTION
+/wiki/Bayern,Bayern,ORG,0.999517560005188,UNKNOWN,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_K%E1%BB%B9_thu%E1%BA%ADt_M%C3%BCnchen,Đại học Kỹ thuật München,PER,0.8655823469161987,INSTITUTION,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Freiburg,Đại học Freiburg,ORG,0.8848373889923096,INSTITUTION,INSTITUTION
+/wiki/Leopold_Horner,Leopold Horner,PER,0.9997130632400513,UNKNOWN,PERSON
+/wiki/Yorkshire,Yorkshire,ORG,0.9995118379592896,UNKNOWN,INSTITUTION
+/wiki/Alton,"Alton, Illinois",LOC,0.999518871307373,UNKNOWN,LOC
+/wiki/Hampshire,Hampshire,ORG,0.9993908405303955,UNKNOWN,INSTITUTION
+/wiki/1876,1876,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Rouen,Rouen,LOC,0.9961428046226501,UNKNOWN,LOC
+/wiki/1882,1882,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Lillehammer,Lillehammer,ORG,0.8643530011177063,UNKNOWN,INSTITUTION
+/wiki/Louveciennes,Louveciennes,ORG,0.9460122585296631,UNKNOWN,INSTITUTION
+/wiki/Paul_Langevin,Paul Langevin,PER,0.9997513294219971,UNKNOWN,PERSON
+/wiki/Augsburg,Augsburg,ORG,0.96702641248703,UNKNOWN,INSTITUTION
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Bayern,Vương quốc Bayern,LOC,0.8090249300003052,UNKNOWN,LOC
+/wiki/Th%C3%A0nh_bang_t%E1%BB%B1_do_L%C3%BCbeck,Thành bang tự do Lübeck,LOC,0.9534234404563904,UNKNOWN,LOC
+/wiki/Gi%E1%BA%A3i_Goethe,Giải Goethe,PER,0.9982706308364868,AWARD,AWARD
+"/wiki/Saint_Paul,_Minnesota","Saint Paul, Minnesota",LOC,0.9994195699691772,FIELD,FIELD
+/wiki/7_th%C3%A1ng_11,7 tháng 11,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Tiruchirappalli,Tiruchirappalli,LOC,0.9828518629074097,UNKNOWN,LOC
+/wiki/T%E1%BB%89nh,Tỉnh,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Madras,Chennai,LOC,0.995163083076477,FIELD,FIELD
+/wiki/Bangalore,Bengaluru,LOC,0.9975131750106812,UNKNOWN,LOC
+/wiki/Karnataka,Karnataka,LOC,0.9992157220840454,UNKNOWN,LOC
+/wiki/1929,1929,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1930,1930,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Gi%E1%BA%A3i_th%C6%B0%E1%BB%9Fng_H%C3%B2a_b%C3%ACnh_Lenin,Giải thưởng Hòa bình Quốc tế Lenin,PER,0.6414726376533508,AWARD,AWARD
+/wiki/1957,1957,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Calcutta,Đại học Calcutta,ORG,0.8343954682350159,INSTITUTION,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Lausanne,Đại học Lausanne,ORG,0.8631789684295654,INSTITUTION,INSTITUTION
+/wiki/Baden_bei_Wien,Baden bei Wien,LOC,0.9986838698387146,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Rockefeller,Đại học Rockefeller,PER,0.9912611842155457,INSTITUTION,INSTITUTION
+/wiki/7_th%C3%A1ng_2,7 tháng 2,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1885,1885,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+"/wiki/Sauk_Centre,_Minnesota","Sauk Centre, Minnesota",LOC,0.9994553923606873,UNKNOWN,LOC
+/wiki/10_th%C3%A1ng_1,10 tháng 1,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1951,1951,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Roma,Roma,ORG,0.9986298084259033,UNKNOWN,INSTITUTION
+/wiki/27_th%C3%A1ng_8,27 tháng 8,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Cologne,Köln,LOC,0.7507472038269043,UNKNOWN,LOC
+/wiki/Heidelberg,Heidelberg,LOC,0.804457426071167,UNKNOWN,LOC
+/wiki/Huy_ch%C6%B0%C6%A1ng_Liebig,Huy chương Liebig,AWARD,0.9680588245391846,UNKNOWN,AWARD
+/wiki/1931,1931,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/BASF,BASF,ORG,0.9985302090644836,UNKNOWN,INSTITUTION
+/wiki/11_th%C3%A1ng_10,11 tháng 10,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1884,1884,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Buenos_Aires,Buenos Aires,LOC,0.9992700815200806,FIELD,FIELD
+/wiki/Argentina,Argentina,LOC,0.9998233914375305,UNKNOWN,LOC
+/wiki/Freiburg,Freiburg,ORG,0.9909811615943909,UNKNOWN,INSTITUTION
+/wiki/Th%E1%BA%ADp_t%E1%BB%B1_S%E1%BA%AFt,Thập tự Sắt,MISC,0.7589815855026245,UNKNOWN,UNKNOWN
+/wiki/20_th%C3%A1ng_7,20 tháng 7,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Dalarna,Dalarna,PER,0.5996205806732178,UNKNOWN,PERSON
+/wiki/8_th%C3%A1ng_4,8 tháng 4,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+"/wiki/Cedarville,_Illinois","Cedarville, Illinois",LOC,0.9993652701377869,UNKNOWN,LOC
+/wiki/Chicago,Chicago,LOC,0.992293119430542,UNKNOWN,LOC
+/wiki/W%C3%BCrzburg,Würzburg,LOC,0.9651659727096558,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_St._Andrews,Đại học St. Andrews,ORG,0.7834137082099915,INSTITUTION,INSTITUTION
+/wiki/Arnold_Sommerfeld,Arnold Sommerfeld,PER,0.9980496764183044,UNKNOWN,PERSON
+/wiki/Edward_Teller,Edward Teller,PER,0.9996012449264526,UNKNOWN,PERSON
+/wiki/Huy_ch%C6%B0%C6%A1ng_Perkin,Huy chương Perkin,AWARD,0.9897486567497253,UNKNOWN,AWARD
+/wiki/14_th%C3%A1ng_8,14 tháng 8,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Kingston_upon_Thames,Kingston upon Thames,ORG,0.7216586470603943,UNKNOWN,INSTITUTION
+/wiki/Ng%C6%B0%E1%BB%9Di_Anh,Người Anh,ORG,0.5408881902694702,UNKNOWN,INSTITUTION
+/wiki/8_th%C3%A1ng_8,8 tháng 8,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Bristol,Bristol,ORG,0.9980155229568481,UNKNOWN,INSTITUTION
+/wiki/20_th%C3%A1ng_10,20 tháng 10,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1984,1984,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+"/wiki/Tallahassee,_Florida","Tallahassee, Florida",LOC,0.9994648098945618,UNKNOWN,LOC
+/wiki/Florida,Florida,LOC,0.9975854158401489,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Bristol,Đại học Bristol,ORG,0.7371803522109985,INSTITUTION,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Florida,Đại học Florida,LOC,0.9566068649291992,INSTITUTION,INSTITUTION
+/wiki/25_th%C3%A1ng_9,25 tháng 9,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Kentucky,Kentucky,LOC,0.9965394735336304,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Johns_Hopkins,Đại học Johns Hopkins,LOC,0.7266800999641418,INSTITUTION,INSTITUTION
+/wiki/N%C4%83m,Năm,PER,0.9353566765785217,UNKNOWN,PERSON
+/wiki/1933,1933,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Nettie_Stevens,Nettie Stevens,PER,0.9989884495735168,UNKNOWN,PERSON
+/wiki/Calvin_Bridges,Calvin Bridges,PER,0.9993830919265747,UNKNOWN,PERSON
+/wiki/Alfred_Sturtevant,Alfred Sturtevant,PER,0.9993528127670288,UNKNOWN,PERSON
+/wiki/Voronezh,Voronezh,LOC,0.7299633026123047,UNKNOWN,LOC
+/wiki/Croydon,Croydon,ORG,0.9989309906959534,UNKNOWN,INSTITUTION
+/wiki/1893,1893,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+"/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_California,_Berkeley",Đại học California tại Berkeley,ORG,0.6679309010505676,INSTITUTION,INSTITUTION
+/wiki/1934,1934,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Huy_ch%C6%B0%C6%A1ng_Priestley,Huy chương Priestley,AWARD,0.9976970553398132,UNKNOWN,AWARD
+/wiki/1943,1943,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1964,1964,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Huy_ch%C6%B0%C6%A1ng_Arthur_L._Day,Huy chương Arthur L. Day,AWARD,0.9763374924659729,UNKNOWN,AWARD
+/wiki/1969,1969,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+"/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_California,_San_Diego",Đại học California tại San Diego,LOC,0.9862098693847656,INSTITUTION,INSTITUTION
+/wiki/Stanley_Miller,Stanley Miller,PER,0.9996238946914673,UNKNOWN,PERSON
+"/wiki/Ashland,_New_Hampshire","Ashland, New Hampshire",LOC,0.999010443687439,UNKNOWN,LOC
+"/wiki/Rochester,_New_York","Rochester, New York",LOC,0.999002993106842,UNKNOWN,LOC
+/wiki/Boston,Boston,ORG,0.9956894516944885,UNKNOWN,INSTITUTION
+/wiki/Massachusetts,Massachusetts,LOC,0.9961743354797363,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Harvard,Đại học Harvard,PER,0.9599199295043945,INSTITUTION,INSTITUTION
+/wiki/1891,1891,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/H%C3%A9l%C3%A8ne_Langevin-Joliot,Hélène Langevin-Joliot,PER,0.9988441467285156,UNKNOWN,PERSON
+/wiki/Gi%E1%BA%A3i_Nobel,Giải Nobel,PER,0.6747098565101624,AWARD,AWARD
+/wiki/Peggau,Peggau,ORG,0.9976367950439453,UNKNOWN,INSTITUTION
+/wiki/Mount_Vernon,Mount Vernon,ORG,0.6316883563995361,UNKNOWN,INSTITUTION
+/wiki/Gi%E1%BA%A3i_Lieben,Giải Lieben,PER,0.996509850025177,AWARD,AWARD
+/wiki/Vi%E1%BB%87n_H%C3%A0n_l%C3%A2m_Khoa_h%E1%BB%8Dc_%C3%81o,Viện Hàn lâm Khoa học Áo,PER,0.7810007333755493,INSTITUTION,INSTITUTION
+/wiki/B.S.,Cử nhân Khoa học,MISC,0.5370283126831055,UNKNOWN,UNKNOWN
+/wiki/Ph.D,Doctor of Philosophy,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/24_th%C3%A1ng_3,24 tháng 3,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Maastricht,Maastricht,LOC,0.792580783367157,UNKNOWN,LOC
+"/wiki/Ithaca,_New_York","Ithaca, New York",LOC,0.9993307590484619,UNKNOWN,LOC
+/wiki/New_York,New York (định hướng),LOC,0.9980711936950684,UNKNOWN,LOC
+/wiki/Huy_ch%C6%B0%C6%A1ng_Lorentz,Huy chương Lorentz,AWARD,0.6994912028312683,UNKNOWN,AWARD
+/wiki/1935,1935,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1950,1950,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1963,1963,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Hu%C3%A2n_ch%C6%B0%C6%A1ng_Khoa_h%E1%BB%8Dc_Qu%E1%BB%91c_gia,Huân chương Khoa học Quốc gia,PER,0.7030591368675232,UNKNOWN,PERSON
+/wiki/1965,1965,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1911,1911,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1912,1912,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Cornell,Đại học Cornell,PER,0.9879574179649353,INSTITUTION,INSTITUTION
+/wiki/Fritz_Zwicky,Fritz Zwicky,PER,0.9995915293693542,UNKNOWN,PERSON
+/wiki/16_th%C3%A1ng_10,16 tháng 10,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Illinois,Illinois,LOC,0.9981003403663635,UNKNOWN,LOC
+"/wiki/Charlottesville,_Virginia","Charlottesville, Virginia",LOC,0.9994791150093079,UNKNOWN,LOC
+/wiki/Chorley,Chorley,ORG,0.9835295677185059,UNKNOWN,INSTITUTION
+/wiki/Lancashire,Lancashire,ORG,0.9995371103286743,UNKNOWN,INSTITUTION
+/wiki/Worcestershire,Worcestershire,ORG,0.9995133876800537,UNKNOWN,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Durham,Đại học Durham,ORG,0.7001927495002747,INSTITUTION,INSTITUTION
+/wiki/Moskva,Moskva,ORG,0.8898293375968933,UNKNOWN,INSTITUTION
+/wiki/Budapest,Budapest,LOC,0.9997425675392151,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Szeged,Đại học Szeged,PER,0.768081545829773,INSTITUTION,INSTITUTION
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_%C3%9D_(1861-1946),Vương quốc Ý,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Flanders,Vlaanderen,LOC,0.7890626192092896,UNKNOWN,LOC
+/wiki/26_th%C3%A1ng_6,26 tháng 6,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Virginia,Virginia,LOC,0.9911860823631287,UNKNOWN,LOC
+"/wiki/Palo_Alto,_California","Palo Alto, California",LOC,0.9996098875999451,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Minnesota,Viện Đại học Minnesota,ORG,0.6270068287849426,INSTITUTION,INSTITUTION
+/wiki/Gi%E1%BA%A3i_Enrico_Fermi,Giải Enrico Fermi,PER,0.9912781119346619,AWARD,AWARD
+/wiki/Ph%C3%B2ng_th%C3%AD_nghi%E1%BB%87m_Qu%E1%BB%91c_gia_Lawrence_Berkeley,Phòng thí nghiệm Quốc gia Lawrence Berkeley,PER,0.9570764303207397,UNKNOWN,PERSON
+/wiki/Ng%C3%B4_Ki%E1%BB%87n_H%C3%B9ng,Ngô Kiện Hùng,PER,0.9980972409248352,UNKNOWN,PERSON
+/wiki/Bremerhaven,Bremerhaven,ORG,0.907325267791748,UNKNOWN,INSTITUTION
+/wiki/Gi%E1%BA%A3i_Paul_Ehrlich_v%C3%A0_Ludwig_Darmstaedter,Giải Paul Ehrlich và Ludwig Darmstaedter,PER,0.9536536931991577,AWARD,AWARD
+/wiki/13_th%C3%A1ng_9,13 tháng 9,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Croatia,Croatia,LOC,0.9998331069946289,UNKNOWN,LOC
+/wiki/1917,1917,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/16_th%C3%A1ng_6,16 tháng 6,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/H%C3%A4meenkyr%C3%B6,Hämeenkyrö,LOC,0.6996182203292847,UNKNOWN,LOC
+/wiki/Ph%E1%BA%A7n_Lan,Phần Lan,PER,0.989944338798523,UNKNOWN,PERSON
+/wiki/3_th%C3%A1ng_6,3 tháng 6,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Hamburg,Đại học Hamburg,PER,0.41079193353652954,INSTITUTION,INSTITUTION
+/wiki/1_th%C3%A1ng_8,1 tháng 8,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1958,1958,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/H%E1%BB%99i_Ho%C3%A0ng_gia,Hội Vương thất Luân Đôn,ORG,0.6680318117141724,UNKNOWN,INSTITUTION
+/wiki/Vi%E1%BB%87n_Niels_Bohr,Viện Niels Bohr,PER,0.9905626773834229,INSTITUTION,INSTITUTION
+/wiki/David_Hume,David Hume,PER,0.9982767105102539,UNKNOWN,PERSON
+"/wiki/St._Louis,_Missouri",St. Louis,LOC,0.990466296672821,UNKNOWN,LOC
+/wiki/Missouri,Missouri,LOC,0.9992892742156982,UNKNOWN,LOC
+/wiki/Ryman%C3%B3w,Rymanów,ORG,0.594780445098877,UNKNOWN,INSTITUTION
+/wiki/H%E1%BB%8Dc_vi%E1%BB%87n_C%C3%B4ng_ngh%E1%BB%87_Massachusetts,Viện Công nghệ Massachusetts,ORG,0.7955467104911804,INSTITUTION,INSTITUTION
+/wiki/Frankfurt_am_Main,Frankfurt am Main,LOC,0.9964569211006165,FIELD,FIELD
+/wiki/Copernicus,Nicolaus Copernicus,PER,0.9378415942192078,UNKNOWN,PERSON
+/wiki/Paracelsus,Paracelsus,ORG,0.7146685719490051,UNKNOWN,INSTITUTION
+/wiki/Hugo_Grotius,Hugo Grotius,PER,0.9992644786834717,UNKNOWN,PERSON
+/wiki/Fritz_Strassmann,Fritz Strassmann,PER,0.9892736673355103,UNKNOWN,PERSON
+/wiki/Wisconsin,Wisconsin,LOC,0.9994704127311707,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Michigan,Đại học Michigan,LOC,0.5849167108535767,INSTITUTION,INSTITUTION
+/wiki/Vi%E1%BB%87n_nghi%C3%AAn_c%E1%BB%A9u_cao_c%E1%BA%A5p_Princeton,Viện Nghiên cứu Cao cấp Princeton,PER,0.9926769733428955,INSTITUTION,INSTITUTION
+/wiki/15_th%C3%A1ng_1,15 tháng 1,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1895,1895,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Helsinki,Helsinki,LOC,0.9994539618492126,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Helsinki,Đại học Helsinki,ORG,0.860412061214447,INSTITUTION,INSTITUTION
+/wiki/1945,1945,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1979,1979,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Adelaide,Adelaide,ORG,0.9976701140403748,FIELD,FIELD
+/wiki/Nam_%C3%9Ac_(ti%E1%BB%83u_bang),Nam Úc,ORG,0.9772216081619263,UNKNOWN,INSTITUTION
+/wiki/Oxford,Oxford,ORG,0.9988921284675598,UNKNOWN,INSTITUTION
+/wiki/7_th%C3%A1ng_4,7 tháng 4,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1889,1889,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Chile,Chile,LOC,0.9998395442962646,UNKNOWN,LOC
+/wiki/21_th%C3%A1ng_4,21 tháng 4,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+"/wiki/Cambridge,_Massachusetts","Cambridge, Massachusetts",LOC,0.9991839528083801,UNKNOWN,LOC
+/wiki/New_Hampshire,New Hampshire,ORG,0.9307271838188171,UNKNOWN,INSTITUTION
+/wiki/1932,1932,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/19_th%C3%A1ng_11,19 tháng 11,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+"/wiki/Buffalo,_New_York","Buffalo, New York",LOC,0.9992552995681763,UNKNOWN,LOC
+/wiki/5_th%C3%A1ng_7,5 tháng 7,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Arizona,Arizona,LOC,0.9997466206550598,UNKNOWN,LOC
+/wiki/Huy_ch%C6%B0%C6%A1ng_Daniel_Giraud_Elliot,Huy chương Daniel Giraud Elliot,AWARD,0.9956667423248291,UNKNOWN,AWARD
+/wiki/Indiana,Indiana,LOC,0.9993801116943359,UNKNOWN,LOC
+/wiki/Salamanca,Salamanca,LOC,0.9985483288764954,UNKNOWN,LOC
+/wiki/21_th%C3%A1ng_12,21 tháng 12,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Indianapolis,Indianapolis,ORG,0.6909615993499756,UNKNOWN,INSTITUTION
+/wiki/Calw,Calw,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/9_th%C3%A1ng_8,9 tháng 8,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1962,1962,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+"/wiki/Orlando,_Florida","Orlando, Florida",LOC,0.9994813799858093,UNKNOWN,LOC
+/wiki/Bradford,Bradford,ORG,0.9994170665740967,UNKNOWN,INSTITUTION
+/wiki/T%C3%A2y_Yorkshire,Tây Yorkshire,ORG,0.9667173027992249,UNKNOWN,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Ho%C3%A0ng_%C4%91%E1%BA%BF_Lu%C3%A2n_%C4%90%C3%B4n,Đại học Nhà vua Luân Đôn,PER,0.5398757457733154,INSTITUTION,INSTITUTION
+/wiki/Ph%C3%B2ng_Th%C3%AD_nghi%E1%BB%87m_Cavendish,Phòng thí nghiệm Cavendish,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1886,1886,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Derbyshire,Derbyshire,ORG,0.9995328187942505,UNKNOWN,INSTITUTION
+/wiki/Buckinghamshire,Buckinghamshire,ORG,0.9294672012329102,UNKNOWN,INSTITUTION
+/wiki/1942,1942,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1947,1947,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1953,1953,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Sydney,Đại học Sydney,LOC,0.5022857189178467,INSTITUTION,INSTITUTION
+/wiki/Do_Th%C3%A1i,Do Thái,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/22_th%C3%A1ng_11,22 tháng 11,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/18_th%C3%A1ng_11,18 tháng 11,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1897,1897,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1948,1948,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/10_th%C3%A1ng_8,10 tháng 8,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Uppsala,Uppsala,ORG,0.9168142676353455,UNKNOWN,INSTITUTION
+/wiki/1955,1955,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Solothurn_(bang),Solothurn (bang),PER,0.8963597416877747,UNKNOWN,PERSON
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Basel,Đại học Basel,ORG,0.8887673020362854,INSTITUTION,INSTITUTION
+/wiki/Tokyo,Tokyo,LOC,0.9986334443092346,UNKNOWN,LOC
+/wiki/Nh%E1%BA%ADt_B%E1%BA%A3n,Nhật Bản,PER,0.7970837354660034,UNKNOWN,PERSON
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Kyoto,Đại học Kyōto,PER,0.5521812438964844,INSTITUTION,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Osaka,Đại học Osaka,ORG,0.9343806505203247,INSTITUTION,INSTITUTION
+/wiki/12_th%C3%A1ng_5,12 tháng 5,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+"/wiki/Niagara_Falls,_Ontario","Niagara Falls, Ontario",LOC,0.9995710253715515,UNKNOWN,LOC
+"/wiki/New_Albany,_Mississippi","New Albany, Mississippi",LOC,0.9995409250259399,UNKNOWN,LOC
+/wiki/Mississippi,Mississippi,LOC,0.9993983507156372,UNKNOWN,LOC
+"/wiki/Byhalia,_Mississippi","Byhalia, Mississippi",LOC,0.9994813799858093,UNKNOWN,LOC
+/wiki/Gi%E1%BA%A3i_Pulitzer_cho_t%C3%A1c_ph%E1%BA%A9m_h%C6%B0_c%E1%BA%A5u,Giải Pulitzer cho tác phẩm hư cấu,PER,0.9188928008079529,AWARD,AWARD
+/wiki/23_th%C3%A1ng_1,23 tháng 1,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/10_th%C3%A1ng_7,10 tháng 7,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/K%C3%B6nigsh%C3%BCtte,Chorzów,LOC,0.9692787528038025,UNKNOWN,LOC
+/wiki/Silesia,Silesia,LOC,0.9997093081474304,UNKNOWN,LOC
+/wiki/20_th%C3%A1ng_6,20 tháng 6,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Connecticut,Connecticut,LOC,0.9870670437812805,UNKNOWN,LOC
+/wiki/New_Jersey,New Jersey,LOC,0.9966340661048889,UNKNOWN,LOC
+/wiki/Gi%E1%BA%A3i_nghi%C3%AAn_c%E1%BB%A9u_Y_h%E1%BB%8Dc_l%C3%A2m_s%C3%A0ng_Lasker-DeBakey,Giải nghiên cứu Y học lâm sàng Lasker-DeBakey,PER,0.8901162147521973,AWARD,AWARD
+/wiki/Gi%E1%BA%A3i_Passano,Giải Passano,PER,0.9228934645652771,AWARD,AWARD
+/wiki/W%C5%82oc%C5%82awek,Włocławek,PER,0.9968884587287903,UNKNOWN,PERSON
+"/wiki/Trinity_College,_Cambridge","Đại học Trinity, Cambridge",ORG,0.9788048267364502,INSTITUTION,INSTITUTION
+/wiki/Huy_ch%C6%B0%C6%A1ng_De_Morgan,Huy chương De Morgan,AWARD,0.9869720339775085,UNKNOWN,AWARD
+/wiki/Huy_ch%C6%B0%C6%A1ng_Sylvester,Huy chương Sylvester,AWARD,0.9953206181526184,UNKNOWN,AWARD
+/wiki/Gi%E1%BA%A3i_Jerusalem,Giải Jerusalem,ORG,0.8252178430557251,AWARD,AWARD
+/wiki/Detroit,Detroit,ORG,0.9984630346298218,UNKNOWN,INSTITUTION
+/wiki/Michigan,Michigan,ORG,0.7391881942749023,UNKNOWN,INSTITUTION
+/wiki/Ch%C3%ADnh_tr%E1%BB%8B_h%E1%BB%8Dc,Khoa học chính trị,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Nh%C3%A0_ngo%E1%BA%A1i_giao,Nhà ngoại giao,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/27_th%C3%A1ng_5,27 tháng 5,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1938,1938,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1961,1961,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/6_th%C3%A1ng_10,6 tháng 10,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Belfast,Belfast,LOC,0.992443859577179,UNKNOWN,LOC
+/wiki/El_Cerrito,El Cerrito,ORG,0.9842203259468079,UNKNOWN,INSTITUTION
+/wiki/Edward_Condon,Edward Condon,PER,0.9987849593162537,UNKNOWN,PERSON
+/wiki/19_th%C3%A1ng_4,19 tháng 4,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1966,1966,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+"/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_California,_Los_Angeles","Đại học California, Los Angeles",LOC,0.9994219541549683,INSTITUTION,INSTITUTION
+/wiki/Pretoria,Pretoria,LOC,0.9128119945526123,UNKNOWN,LOC
+/wiki/C%E1%BB%99ng_h%C3%B2a_Nam_Phi,Cộng hòa Nam Phi,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+"/wiki/New_Haven,_Connecticut","New Haven, Connecticut",LOC,0.9995244741439819,UNKNOWN,LOC
+/wiki/23_th%C3%A1ng_5,23 tháng 5,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/V%C3%A4xj%C3%B6,Växjö,LOC,0.9335228800773621,UNKNOWN,LOC
+/wiki/11_th%C3%A1ng_7,11 tháng 7,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1974,1974,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Stanford,Đại học Stanford,PER,0.9911189675331116,INSTITUTION,INSTITUTION
+"/wiki/Taylorville,_Illinois","Taylorville, Illinois",LOC,0.999393105506897,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Purdue,Đại học Purdue,PER,0.9640515446662903,INSTITUTION,INSTITUTION
+/wiki/1952,1952,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1967,1967,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Liverpool,Liverpool,ORG,0.9995324611663818,UNKNOWN,INSTITUTION
+/wiki/Norwich,Norwich,ORG,0.9993641972541809,UNKNOWN,INSTITUTION
+/wiki/Kiev,Kyiv,LOC,0.9905003905296326,UNKNOWN,LOC
+"/wiki/Qu%E1%BA%ADn_Barnstable,_Massachusetts","Quận Barnstable, Massachusetts",LOC,0.9992544054985046,UNKNOWN,LOC
+/wiki/Huy_ch%C6%B0%C6%A1ng_Leeuwenhoek,Huy chương Leeuwenhoek,AWARD,0.9861878156661987,UNKNOWN,AWARD
+/wiki/Bordeaux,Bordeaux,ORG,0.9990631937980652,UNKNOWN,INSTITUTION
+/wiki/1970,1970,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/14_th%C3%A1ng_1,14 tháng 1,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Kaysersberg,Kaysersberg,ORG,0.8140392899513245,UNKNOWN,INSTITUTION
+/wiki/4_th%C3%A1ng_9,4 tháng 9,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/C%E1%BB%99ng_h%C3%B2a_Gabon,Gabon,LOC,0.999786913394928,UNKNOWN,LOC
+/wiki/Th%E1%BA%A7n_h%E1%BB%8Dc,Thần học,PER,0.9317814707756042,UNKNOWN,PERSON
+/wiki/16_th%C3%A1ng_7,16 tháng 7,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Amersfoort,Amersfoort,ORG,0.8436383008956909,UNKNOWN,INSTITUTION
+/wiki/Worms,Worms,LOC,0.7187379598617554,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_c%C3%B4ng_qu%E1%BB%91c_Hesse,Đại công quốc Hessen,LOC,0.7638033628463745,UNKNOWN,LOC
+/wiki/Hildesheim,Hildesheim,PER,0.9988114833831787,UNKNOWN,PERSON
+/wiki/Gi%E1%BA%A3i_Humboldt,Giải Humboldt,ORG,0.9701679348945618,AWARD,AWARD
+/wiki/Tr%C6%B0%E1%BB%9Dng_Harrow,Trường Harrow,PER,0.644869327545166,UNKNOWN,PERSON
+/wiki/31_th%C3%A1ng_12,31 tháng 12,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+"/wiki/Uniontown,_Pennsylvania","Uniontown, Pennsylvania",LOC,0.9995623230934143,UNKNOWN,LOC
+/wiki/Pennsylvania,Pennsylvania,LOC,0.9977825284004211,UNKNOWN,LOC
+/wiki/1959,1959,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+"/wiki/Washington,_D.C.","Washington, D.C.",LOC,0.9439491033554077,UNKNOWN,LOC
+/wiki/Robert_Oppenheimer,Robert Oppenheimer,PER,0.9991674423217773,UNKNOWN,PERSON
+/wiki/Friedrich_Hund,Friedrich Hund,PER,0.9110414385795593,UNKNOWN,PERSON
+/wiki/8_th%C3%A1ng_1,8 tháng 1,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Oranienburg,Oranienburg,LOC,0.8807183504104614,UNKNOWN,LOC
+"/wiki/Portland,_Oregon","Portland, Oregon",LOC,0.9994432330131531,UNKNOWN,LOC
+/wiki/Waterford,Waterford,ORG,0.9990733861923218,UNKNOWN,INSTITUTION
+"/wiki/Auburn,_Alabama","Auburn, Alabama",LOC,0.9996261596679688,UNKNOWN,LOC
+"/wiki/Cleveland,_Ohio",Cleveland,ORG,0.9994521737098694,UNKNOWN,INSTITUTION
+/wiki/Ohio,Ohio,LOC,0.9875146150588989,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Missouri-Columbia,Đại học Missouri,LOC,0.9554692506790161,INSTITUTION,INSTITUTION
+"/wiki/Oak_Park,_Illinois","Oak Park, Illinois",LOC,0.9994707703590393,UNKNOWN,LOC
+/wiki/Nh%C3%A0_b%C3%A1o,Nhà báo,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Martha_Gellhorn,Martha Gellhorn,PER,0.999167799949646,UNKNOWN,PERSON
+/wiki/Los_Angeles,Los Angeles,LOC,0.998641848564148,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Arizona,Đại học Arizona,LOC,0.9131715893745422,INSTITUTION,INSTITUTION
+"/wiki/Dallas,_Texas",Dallas,ORG,0.9965946078300476,UNKNOWN,INSTITUTION
+/wiki/Texas,Texas,LOC,0.995536208152771,UNKNOWN,LOC
+/wiki/Ithaca,Ithaki,MISC,0.6402116417884827,UNKNOWN,UNKNOWN
+/wiki/Link%C3%B6ping,Linköping,LOC,0.807336688041687,UNKNOWN,LOC
+/wiki/Reykjav%C3%ADk,Reykjavík,ORG,0.6848414540290833,UNKNOWN,INSTITUTION
+/wiki/Iceland,Iceland,LOC,0.9998528957366943,UNKNOWN,LOC
+/wiki/8_th%C3%A1ng_2,8 tháng 2,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1998,1998,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+"/wiki/Madison,_Wisconsin","Madison, Wisconsin",LOC,0.9996192455291748,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Wisconsin-Madison,Đại học Wisconsin–Madison,LOC,0.9973227381706238,INSTITUTION,INSTITUTION
+/wiki/H%E1%BA%A1_M%C3%B4n,Hạ Môn,PER,0.9974191188812256,UNKNOWN,PERSON
+/wiki/Trung_Qu%E1%BB%91c,Trung Quốc,PER,0.9520250558853149,UNKNOWN,PERSON
+/wiki/Seattle,Seattle,LOC,0.9335135817527771,UNKNOWN,LOC
+/wiki/Washington,Washington,LOC,0.9926907420158386,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Oregon,Đại học Oregon,LOC,0.77249675989151,INSTITUTION,INSTITUTION
+/wiki/13_th%C3%A1ng_2,13 tháng 2,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+"/wiki/Stanford,_California","Stanford, California",LOC,0.9996495246887207,UNKNOWN,LOC
+/wiki/Saratov,Saratov,ORG,0.5662393569946289,UNKNOWN,INSTITUTION
+/wiki/Abram_Ioffe,Abram Ioffe,PER,0.9996823072433472,UNKNOWN,PERSON
+/wiki/1988,1988,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Schopfheim,Schopfheim,ORG,0.9579427242279053,UNKNOWN,INSTITUTION
+/wiki/24_th%C3%A1ng_12,24 tháng 12,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Moguer,Moguer,PER,0.9679386019706726,UNKNOWN,PERSON
+/wiki/Andalusia,Andalucía,LOC,0.976259708404541,UNKNOWN,LOC
+/wiki/29_th%C3%A1ng_5,29 tháng 5,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/H%E1%BB%A3p_Ph%C3%AC,Hợp Phì,PER,0.9975079298019409,UNKNOWN,PERSON
+/wiki/An_Huy,An Huy,PER,0.9964390397071838,UNKNOWN,PERSON
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Thanh_Hoa,Đại học Thanh Hoa,PER,0.9675593376159668,INSTITUTION,INSTITUTION
+/wiki/Huy_ch%C6%B0%C6%A1ng_Albert_Einstein,Huy chương Albert Einstein,AWARD,0.9813357591629028,UNKNOWN,AWARD
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Trung_v%C4%83n_H%C6%B0%C6%A1ng_C%E1%BA%A3ng,Đại học Trung văn Hồng Kông,PER,0.7127642035484314,INSTITUTION,INSTITUTION
+/wiki/Th%C6%B0%E1%BB%A3ng_H%E1%BA%A3i,Thượng Hải,PER,0.9907993674278259,UNKNOWN,PERSON
+/wiki/San_Francisco,San Francisco,LOC,0.9988441467285156,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Chi%E1%BA%BFt_Giang,Đại học Chiết Giang,PER,0.9192997217178345,INSTITUTION,INSTITUTION
+/wiki/Alg%C3%A9rie_thu%E1%BB%99c_Ph%C3%A1p,Algérie thuộc Pháp,ORG,0.6509986519813538,UNKNOWN,INSTITUTION
+/wiki/Dr%C3%A9an,Dréan,PER,0.9981807470321655,UNKNOWN,PERSON
+/wiki/Alg%C3%A9rie,Algérie,ORG,0.9883909821510315,UNKNOWN,INSTITUTION
+/wiki/Villeblevin,Villeblevin,ORG,0.7730768322944641,UNKNOWN,INSTITUTION
+/wiki/Ottawa,Ottawa,ORG,0.7295451164245605,UNKNOWN,INSTITUTION
+/wiki/Voronezh_(t%E1%BB%89nh),Voronezh (tỉnh),PER,0.989266037940979,UNKNOWN,PERSON
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Qu%E1%BB%91c_gia_Moskva,Đại học Quốc gia Moskva,MISC,0.6349061727523804,INSTITUTION,INSTITUTION
+/wiki/Gi%E1%BA%A3i_th%C6%B0%E1%BB%9Fng_nh%C3%A0_n%C6%B0%E1%BB%9Bc_Li%C3%AAn_X%C3%B4,Giải thưởng Nhà nước Liên Xô,ORG,0.47508004307746887,AWARD,AWARD
+/wiki/8_th%C3%A1ng_7,8 tháng 7,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Vladivostok,Vladivostok,ORG,0.8166275024414062,UNKNOWN,INSTITUTION
+/wiki/1918,1918,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Gloucestershire,Gloucestershire,ORG,0.9995412826538086,UNKNOWN,INSTITUTION
+/wiki/Gi%E1%BA%A3i_qu%E1%BB%91c_t%E1%BA%BF_Qu%E1%BB%B9_Gairdner,Giải quốc tế Quỹ Gairdner,ORG,0.5264475345611572,AWARD,AWARD
+/wiki/1971,1971,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1977,1977,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Gi%E1%BA%A3i_Albert_Lasker_cho_nghi%C3%AAn_c%E1%BB%A9u_Y_h%E1%BB%8Dc_c%C6%A1_b%E1%BA%A3n,Giải Albert Lasker cho nghiên cứu Y học cơ bản,PER,0.9926209449768066,AWARD,AWARD
+/wiki/1980,1980,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Gi%E1%BA%A3i_Louisa_Gross_Horwitz,Giải Louisa Gross Horwitz,PER,0.9912686347961426,AWARD,AWARD
+/wiki/Nebraska,Nebraska,LOC,0.9994128942489624,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Nebraska-Lincoln,Đại học Nebraska–Lincoln,LOC,0.9831970930099487,INSTITUTION,INSTITUTION
+/wiki/Colorado,Colorado,LOC,0.9924151301383972,UNKNOWN,LOC
+/wiki/10_th%C3%A1ng_2,10 tháng 2,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/30_th%C3%A1ng_5,30 tháng 5,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1960,1960,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Dinant,Dinant,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Leuven,Leuven,ORG,0.5691004395484924,UNKNOWN,INSTITUTION
+/wiki/Ph%C3%B2ng_th%C3%AD_nghi%E1%BB%87m_Qu%E1%BB%91c_gia_Los_Alamos,Phòng thí nghiệm Quốc gia Los Alamos,ORG,0.9794100522994995,UNKNOWN,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Palermo,Đại học Palermo,PER,0.9580882787704468,INSTITUTION,INSTITUTION
+/wiki/Dartmouth_College,Đại học Dartmouth,PER,0.7969220876693726,INSTITUTION,INSTITUTION
+/wiki/20_th%C3%A1ng_12,20 tháng 12,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/%C4%8Cechy,Bohemia,LOC,0.9997662901878357,UNKNOWN,LOC
+/wiki/Ti%E1%BB%87p_Kh%E1%BA%AFc,Tiệp Khắc,PER,0.9819157123565674,UNKNOWN,PERSON
+/wiki/Kh%C3%B4ng_qu%C3%A2n_Ho%C3%A0ng_gia_Anh,Không quân Hoàng gia Anh,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Asturias,Asturias,ORG,0.9435632824897766,UNKNOWN,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_New_York,Đại học New York,LOC,0.8605263233184814,INSTITUTION,INSTITUTION
+/wiki/20_th%C3%A1ng_8,20 tháng 8,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1901,1901,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Sicilia,Sicilia,ORG,0.8786771297454834,UNKNOWN,INSTITUTION
+/wiki/1968,1968,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+"/wiki/Berkeley,_California","Berkeley, California",LOC,0.9996289014816284,UNKNOWN,LOC
+/wiki/1975,1975,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+"/wiki/Traralgon,_Victoria","Traralgon, Victoria",LOC,0.9994397759437561,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Melbourne,Đại học Melbourne,ORG,0.7327247858047485,INSTITUTION,INSTITUTION
+/wiki/31_th%C3%A1ng_5,31 tháng 5,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Pointe-%C3%A0-Pitre,Pointe-à-Pitre,LOC,0.8961658477783203,UNKNOWN,LOC
+/wiki/Guadeloupe,Guadeloupe,LOC,0.9968410134315491,UNKNOWN,LOC
+/wiki/20_th%C3%A1ng_9,20 tháng 9,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Provence,Provence,LOC,0.9988773465156555,UNKNOWN,LOC
+/wiki/2007,2007,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1986,1986,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Pennsylvania,Đại học Pennsylvania,LOC,0.9434590339660645,INSTITUTION,INSTITUTION
+/wiki/Minnesota,Minnesota,LOC,0.6226022839546204,UNKNOWN,LOC
+/wiki/Huy_ch%C6%B0%C6%A1ng_v%C3%A0ng,Huy chương vàng,AWARD,0.0,UNKNOWN,AWARD
+/wiki/C%E1%BB%99ng_h%C3%B2a_Li%C3%AAn_bang_X%C3%A3_h%E1%BB%99i_ch%E1%BB%A7_ngh%C4%A9a_Nam_T%C6%B0,Cộng hòa Liên bang Xã hội chủ nghĩa Nam Tư,MISC,0.3246079981327057,UNKNOWN,UNKNOWN
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Nam_T%C6%B0,Vương quốc Nam Tư,LOC,0.8964950442314148,UNKNOWN,LOC
+"/wiki/Nh%C3%A0_n%C6%B0%E1%BB%9Bc_Slovene,_Croat_v%C3%A0_Serb","Nhà nước Slovene, Croat và Serb",MISC,0.979941189289093,UNKNOWN,UNKNOWN
+/wiki/J%C3%B6nk%C3%B6ping,Jönköping,LOC,0.8425893783569336,UNKNOWN,LOC
+/wiki/Li%C3%AAn_minh_gi%E1%BB%AFa_Th%E1%BB%A5y_%C4%90i%E1%BB%83n_v%C3%A0_Na_Uy,Liên minh giữa Thụy Điển và Na Uy,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Ndola,Ndola,LOC,0.673930823802948,UNKNOWN,LOC
+/wiki/B%E1%BA%AFc_Rhodesia,Bắc Rhodesia,LOC,0.9993541836738586,UNKNOWN,LOC
+/wiki/Li%C3%AAn_bang_Rhodesia_v%C3%A0_Nyasaland,Liên bang Rhodesia và Nyasaland,LOC,0.9389649629592896,UNKNOWN,LOC
+/wiki/Zambia,Zambia,LOC,0.9997770190238953,UNKNOWN,LOC
+/wiki/Baku,Baku,LOC,0.9945317506790161,UNKNOWN,LOC
+/wiki/19_th%C3%A1ng_5,19 tháng 5,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Huy_ch%C6%B0%C6%A1ng_Otto_Warburg,Huy chương Otto Warburg,AWARD,0.9982011914253235,UNKNOWN,AWARD
+/wiki/1993,1993,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Ph%C3%B2ng_Th%C3%AD_nghi%E1%BB%87m_Sinh_h%E1%BB%8Dc_Ph%C3%A2n_t%E1%BB%AD_MRC,Phòng Thí nghiệm Sinh học Phân tử MRC,ORG,0.709494948387146,FIELD,FIELD
+/wiki/Northamptonshire,Northamptonshire,ORG,0.999448835849762,UNKNOWN,INSTITUTION
+/wiki/San_Diego,San Diego,LOC,0.9983879327774048,UNKNOWN,LOC
+/wiki/Gi%E1%BA%A3i_Eli_Lilly_v%E1%BB%81_H%C3%B3a_Sinh,Giải Eli Lilly về Hóa Sinh,ORG,0.9894129633903503,AWARD,AWARD
+/wiki/27_th%C3%A1ng_2,27 tháng 2,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/17_th%C3%A1ng_11,17 tháng 11,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/28_th%C3%A1ng_6,28 tháng 6,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Kattowitz,Katowice,LOC,0.7013026475906372,UNKNOWN,LOC
+/wiki/Kassel,Kassel,LOC,0.8593227863311768,UNKNOWN,LOC
+/wiki/M%C3%BClheim,Mülheim,ORG,0.8428701162338257,UNKNOWN,INSTITUTION
+/wiki/Bergamo,Bergamo,LOC,0.9741852283477783,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Pavia,Đại học Pavia,PER,0.9370337128639221,INSTITUTION,INSTITUTION
+/wiki/Hy_L%E1%BA%A1p,Hy Lạp,PER,0.9990212917327881,UNKNOWN,PERSON
+/wiki/Nam_California,Miền Nam California,ORG,0.6025812029838562,UNKNOWN,INSTITUTION
+"/wiki/Oakland,_California","Oakland, California",LOC,0.9995481371879578,UNKNOWN,LOC
+/wiki/Nh%C3%A2n_v%E1%BA%ADt_c%E1%BB%A7a_n%C4%83m,Nhân vật của năm (tạp chí Time),MISC,0.4416838586330414,UNKNOWN,UNKNOWN
+/wiki/Huy_ch%C6%B0%C6%A1ng_Karl_Schwarzschild,Huy chương Karl Schwarzschild,AWARD,0.9824634790420532,UNKNOWN,AWARD
+/wiki/2001,2001,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Gi%E1%BA%A3i_Vannevar_Bush,Giải Vannevar Bush,PER,0.9953462481498718,AWARD,AWARD
+/wiki/2006,2006,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Ph%C3%B2ng_th%C3%AD_nghi%E1%BB%87m_Bell,Phòng thí nghiệm Bell,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Vi%E1%BB%87n_h%C3%A0n_l%C3%A2m_gi%C3%A1o_ho%C3%A0ng_v%E1%BB%81_Khoa_h%E1%BB%8Dc,Viện Hàn lâm Giáo hoàng về Khoa học,PER,0.8591102957725525,INSTITUTION,INSTITUTION
+/wiki/1916,1916,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Queensland,Queensland,LOC,0.988460898399353,UNKNOWN,LOC
+/wiki/Gi%E1%BA%A3i_Demidov,Giải Demidov,PER,0.9956455826759338,AWARD,AWARD
+/wiki/Cairo,Cairo,LOC,0.9995911717414856,FIELD,FIELD
+/wiki/Ai_C%E1%BA%ADp,Ai Cập,PER,0.9977350234985352,FIELD,FIELD
+"/wiki/Somerville_College,_Oxford","Somerville College, Oxford",ORG,0.9941712021827698,INSTITUTION,INSTITUTION
+/wiki/1982,1982,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Atlanta,Atlanta,LOC,0.9974330067634583,UNKNOWN,LOC
+"/wiki/Memphis,_Tennessee","Memphis, Tennessee",LOC,0.9992530941963196,UNKNOWN,LOC
+/wiki/Ti%E1%BA%BFn_s%C4%A9,Tiến sĩ,PER,0.4195784330368042,UNKNOWN,PERSON
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Boston,Đại học Boston,ORG,0.5802583694458008,INSTITUTION,INSTITUTION
+/wiki/M%E1%BB%A5c_s%C6%B0,Mục sư,PER,0.9852699637413025,UNKNOWN,PERSON
+/wiki/Phong_tr%C3%A0o_D%C3%A2n_quy%E1%BB%81n_M%E1%BB%B9,Phong trào dân quyền Hoa Kỳ,PER,0.9843763113021851,UNKNOWN,PERSON
+/wiki/12_th%C3%A1ng_2,12 tháng 2,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Gi%E1%BA%A3i_th%C6%B0%E1%BB%9Fng_Albert_Einstein,Giải thưởng Albert Einstein,PER,0.7721015810966492,AWARD,AWARD
+/wiki/Queens,Queens,ORG,0.9766067862510681,UNKNOWN,INSTITUTION
+/wiki/John_Archibald_Wheeler,John Archibald Wheeler,PER,0.9974883198738098,UNKNOWN,PERSON
+/wiki/George_Zweig,George Zweig,PER,0.9991565346717834,UNKNOWN,PERSON
+/wiki/Robert_Barro,Robert Barro,PER,0.9996670484542847,UNKNOWN,PERSON
+/wiki/10_th%C3%A1ng_4,10 tháng 4,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1978,1978,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Ainay-le-Ch%C3%A2teau,Ainay-le-Château,LOC,0.7973175048828125,FIELD,FIELD
+/wiki/Vi%E1%BB%87n_Pasteur,Viện Pasteur,PER,0.9963412880897522,INSTITUTION,INSTITUTION
+/wiki/9_th%C3%A1ng_2,9 tháng 2,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Cannes,Cannes,ORG,0.9717621803283691,UNKNOWN,INSTITUTION
+/wiki/Gi%E1%BA%A3i_Charles_L%C3%A9opold_Mayer,Giải Charles Léopold Mayer,PER,0.9853432178497314,AWARD,AWARD
+/wiki/Guebwiller,Guebwiller,PER,0.8722464442253113,UNKNOWN,PERSON
+/wiki/7_th%C3%A1ng_6,7 tháng 6,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1896,1896,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+"/wiki/Newburyport,_Massachusetts","Newburyport, Massachusetts",LOC,0.9994940757751465,UNKNOWN,LOC
+"/wiki/Arlington,_Virginia","Quận Arlington, Virginia",LOC,0.9995536208152771,UNKNOWN,LOC
+/wiki/1983,1983,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Baltimore,Baltimore,LOC,0.7312662601470947,UNKNOWN,LOC
+/wiki/Maryland,Maryland,LOC,0.9995765089988708,UNKNOWN,LOC
+/wiki/Th%C3%A0nh_ph%E1%BB%91_Halifax,"Halifax, Nova Scotia",LOC,0.9994259476661682,UNKNOWN,LOC
+/wiki/Nova_Scotia,Nova Scotia,LOC,0.9987590909004211,UNKNOWN,LOC
+/wiki/17_th%C3%A1ng_7,17 tháng 7,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Buchach,Buchach,PER,0.9915227890014648,UNKNOWN,PERSON
+/wiki/17_th%C3%A1ng_2,17 tháng 2,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Jerusalem,Jerusalem,LOC,0.9996106028556824,UNKNOWN,LOC
+/wiki/Israel,Israel,LOC,0.9998016953468323,UNKNOWN,LOC
+/wiki/Strasbourg,Strasbourg,ORG,0.9991142153739929,UNKNOWN,INSTITUTION
+/wiki/Huy_ch%C6%B0%C6%A1ng_Eddington,Huy chương Eddington,AWARD,0.9862657189369202,UNKNOWN,AWARD
+/wiki/Bochum,Bochum,ORG,0.8470266461372375,UNKNOWN,INSTITUTION
+/wiki/27_th%C3%A1ng_11,27 tháng 11,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Brown,Đại học Brown,PER,0.9922217726707458,INSTITUTION,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Miami,Đại học Miami (Florida),LOC,0.9996070265769958,INSTITUTION,INSTITUTION
+"/wiki/Urbana,_Illinois","Urbana, Illinois",LOC,0.9993791580200195,UNKNOWN,LOC
+"/wiki/Los_Gatos,_California","Los Gatos, California",LOC,0.9995915293693542,UNKNOWN,LOC
+/wiki/%C5%8Csaka,Ōsaka,LOC,0.7197885513305664,UNKNOWN,LOC
+/wiki/Kamakura,Kamakura,LOC,0.8423686623573303,UNKNOWN,LOC
+/wiki/Kanagawa,Kanagawa,LOC,0.48537981510162354,UNKNOWN,LOC
+/wiki/Manhattan,Manhattan,LOC,0.997352123260498,UNKNOWN,LOC
+"/wiki/Santa_Fe,_New_Mexico","Santa Fe, New Mexico",LOC,0.9992612600326538,UNKNOWN,LOC
+"/wiki/College_Station,_Texas","College Station, Texas",LOC,0.9994437098503113,INSTITUTION,INSTITUTION
+/wiki/1997,1997,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Den_Haag,Den Haag,ORG,0.8930885791778564,UNKNOWN,INSTITUTION
+/wiki/Danh_s%C3%A1ch_ng%C6%B0%E1%BB%9Di_%C4%91o%E1%BA%A1t_gi%E1%BA%A3i_Nobel_Kinh_t%E1%BA%BF,Danh sách người đoạt giải Nobel Kinh tế,UNKNOWN,0.0,AWARD,AWARD
+/wiki/Norrk%C3%B6ping,Norrköping,ORG,0.6608886122703552,UNKNOWN,INSTITUTION
+/wiki/Huy_ch%C6%B0%C6%A1ng_William_Bowie,Huy chương William Bowie,AWARD,0.9992784261703491,UNKNOWN,AWARD
+"/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Maryland,_College_Park","Đại học Maryland, College Park",LOC,0.9971559047698975,INSTITUTION,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Nam_California,Đại học Nam California,LOC,0.766562819480896,INSTITUTION,INSTITUTION
+/wiki/6_th%C3%A1ng_9,6 tháng 9,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Buenos_Aires,Đại học Buenos Aires,LOC,0.9948683977127075,INSTITUTION,INSTITUTION
+/wiki/1944,1944,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1981,1981,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1905,1905,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Kislovodsk,Kislovodsk,ORG,0.83099365234375,UNKNOWN,INSTITUTION
+/wiki/C%E1%BB%99ng_h%C3%B2a_X%C3%A3_h%E1%BB%99i_Ch%E1%BB%A7_ngh%C4%A9a_X%C3%B4_vi%E1%BA%BFt_Li%C3%AAn_bang_Nga,Cộng hòa Xã hội chủ nghĩa Xô viết Liên bang Nga,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Gi%E1%BA%A3i_th%C6%B0%E1%BB%9Fng_Nh%C3%A0_n%C6%B0%E1%BB%9Bc_Li%C3%AAn_bang_Nga,Giải thưởng Nhà nước Liên bang Nga,UNKNOWN,0.0,AWARD,AWARD
+"/wiki/Cresco,_Iowa","Cresco, Iowa",LOC,0.9994636178016663,UNKNOWN,LOC
+/wiki/Iowa,Iowa,ORG,0.6260338425636292,UNKNOWN,INSTITUTION
+/wiki/Hu%C3%A2n_ch%C6%B0%C6%A1ng_T%E1%BB%B1_do_c%E1%BB%A7a_T%E1%BB%95ng_th%E1%BB%91ng,Huân chương Tự do Tổng thống,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/DuPont,DuPont,ORG,0.9982430338859558,UNKNOWN,INSTITUTION
+/wiki/Huy_ch%C6%B0%C6%A1ng_John_Bates_Clark,Giải John Bates Clark,PER,0.9885504245758057,AWARD,AWARD
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Hungary,Vương quốc Hungary,LOC,0.9920113682746887,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Carleton,Đại học Carleton (Canada),LOC,0.9998102784156799,INSTITUTION,INSTITUTION
+/wiki/Kansas,Kansas,LOC,0.9975267052650452,UNKNOWN,LOC
+"/wiki/Miami,_Florida",Miami,ORG,0.9132805466651917,UNKNOWN,INSTITUTION
+/wiki/12_th%C3%A1ng_7,12 tháng 7,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Santiago_de_Chile,Santiago de Chile,LOC,0.9952964782714844,UNKNOWN,LOC
+/wiki/Unkel,Unkel,PER,0.8783615827560425,UNKNOWN,PERSON
+/wiki/Belarus,Belarus,LOC,0.9998395442962646,UNKNOWN,LOC
+/wiki/1972,1972,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_California_t%E1%BA%A1i_Santa_Barbara,Đại học California tại Santa Barbara,LOC,0.8833121061325073,INSTITUTION,INSTITUTION
+/wiki/Bergen,Bergen,ORG,0.7348574995994568,UNKNOWN,INSTITUTION
+/wiki/1973,1973,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Cardiff,Cardiff,ORG,0.9934301972389221,UNKNOWN,INSTITUTION
+/wiki/Wales,Wales,LOC,0.9998047947883606,UNKNOWN,LOC
+/wiki/1976,1976,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Si%C3%AAu_d%E1%BA%ABn,Siêu dẫn,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Gi%E1%BA%A3i_t%C6%B0%E1%BB%9Fng_ni%E1%BB%87m_Alfred-Stock,Giải tưởng niệm Alfred Stock,PER,0.9956203699111938,AWARD,AWARD
+/wiki/Gi%E1%BA%A3i_Balzan,Giải Balzan,PER,0.9924807548522949,AWARD,AWARD
+/wiki/Knightsbridge,Knightsbridge,LOC,0.8242583870887756,UNKNOWN,LOC
+/wiki/F%C3%BCrth,Fürth,PER,0.4307402968406677,UNKNOWN,PERSON
+/wiki/Vi%E1%BB%87t_Nam,Việt Nam,ORG,0.7423160076141357,UNKNOWN,INSTITUTION
+/wiki/Nam_Tr%E1%BB%B1c,Nam Trực (huyện),PER,0.8338022232055664,UNKNOWN,PERSON
+/wiki/Nam_%C4%90%E1%BB%8Bnh_(t%E1%BB%89nh),Nam Định (tỉnh),PER,0.9833604097366333,UNKNOWN,PERSON
+/wiki/B%E1%BA%AFc_K%E1%BB%B3,Bắc Kỳ,PER,0.9636874198913574,UNKNOWN,PERSON
+/wiki/Li%C3%AAn_bang_%C4%90%C3%B4ng_D%C6%B0%C6%A1ng,Liên bang Đông Dương,PER,0.8537781834602356,UNKNOWN,PERSON
+/wiki/Ninh_B%C3%ACnh,Ninh Bình,PER,0.9984473586082458,UNKNOWN,PERSON
+/wiki/B%E1%BB%87nh_vi%E1%BB%87n_Trung_%C6%B0%C6%A1ng_Qu%C3%A2n_%C4%91%E1%BB%99i_108,Bệnh viện Trung ương Quân đội 108,UNKNOWN,0.0,INSTITUTION,INSTITUTION
+/wiki/Hai_B%C3%A0_Tr%C6%B0ng_(qu%E1%BA%ADn),Hai Bà Trưng (quận),PER,0.6360177993774414,FIELD,FIELD
+/wiki/H%C3%A0_N%E1%BB%99i,Hà Nội,ORG,0.8677442073822021,UNKNOWN,INSTITUTION
+/wiki/L%C3%A9on_Walras,Léon Walras,PER,0.9989742636680603,UNKNOWN,PERSON
+/wiki/Jocelyn_Bell_Burnell,Jocelyn Bell Burnell,PER,0.8835609555244446,UNKNOWN,PERSON
+/wiki/19_th%C3%A1ng_6,19 tháng 6,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+"/wiki/Sterling,_Illinois","Sterling, Illinois",LOC,0.9995056390762329,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_bang_Ohio,Đại học bang Ohio,LOC,0.9313204288482666,INSTITUTION,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Carnegie_Mellon,Đại học Carnegie Mellon,ORG,0.9851812720298767,INSTITUTION,INSTITUTION
+/wiki/1899,1899,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Surrey,Surrey,ORG,0.9995300769805908,UNKNOWN,INSTITUTION
+/wiki/Gi%E1%BA%A3i_Francqui,Giải Francqui,PER,0.9960930943489075,AWARD,AWARD
+/wiki/Ia%C8%99i,Iași,ORG,0.7668500542640686,UNKNOWN,INSTITUTION
+/wiki/29_th%C3%A1ng_7,29 tháng 7,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+"/wiki/Tabuse,_Yamaguchi","Tabuse, Yamaguchi",PER,0.9979281425476074,UNKNOWN,PERSON
+/wiki/%C4%90%E1%BA%BF_qu%E1%BB%91c_Nh%E1%BA%ADt_B%E1%BA%A3n,Đế quốc Nhật Bản,LOC,0.8469509482383728,UNKNOWN,LOC
+/wiki/Karl_Popper,Karl Popper,PER,0.9972459673881531,UNKNOWN,PERSON
+/wiki/Ludwig_Erhard,Ludwig Erhard,PER,0.9987977147102356,UNKNOWN,PERSON
+/wiki/Huy_ch%C6%B0%C6%A1ng_H._C._%C3%98rsted,Huy chương H. C. Ørsted,AWARD,0.9963651895523071,UNKNOWN,AWARD
+/wiki/D%E1%BB%B1_%C3%A1n_Manhattan,Dự án Manhattan,MISC,0.932758092880249,UNKNOWN,UNKNOWN
+/wiki/Idaho,Idaho,LOC,0.9995715022087097,UNKNOWN,LOC
+/wiki/Sydney,Sydney,LOC,0.6917929649353027,UNKNOWN,LOC
+/wiki/Sarajevo,Sarajevo,LOC,0.9991711378097534,UNKNOWN,LOC
+/wiki/Bosna_v%C3%A0_Hercegovina,Bosna và Hercegovina,ORG,0.7790646553039551,UNKNOWN,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Zagreb,Đại học Zagreb,LOC,0.6900402903556824,INSTITUTION,INSTITUTION
+/wiki/22_th%C3%A1ng_2,22 tháng 2,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Catanzaro,Catanzaro,LOC,0.6396880745887756,UNKNOWN,LOC
+/wiki/Gi%E1%BA%A3i_Vi_sinh_h%E1%BB%8Dc_Selman_A._Waksman,Giải Vi sinh học Selman A. Waksman,PER,0.8876138925552368,AWARD,AWARD
+/wiki/Gi%E1%BA%A3i_Sinh_h%E1%BB%8Dc_ph%C3%A2n_t%E1%BB%AD_c%E1%BB%A7a_Vi%E1%BB%87n_h%C3%A0n_l%C3%A2m_Khoa_h%E1%BB%8Dc_qu%E1%BB%91c_gia_Hoa_K%E1%BB%B3,Giải Sinh học phân tử của Viện hàn lâm Khoa học quốc gia Hoa Kỳ,PER,0.6936736702919006,AWARD,AWARD
+/wiki/Genova,Genova,ORG,0.6994819641113281,UNKNOWN,INSTITUTION
+/wiki/12_th%C3%A1ng_9,12 tháng 9,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Anh_h%C3%B9ng_lao_%C4%91%E1%BB%99ng_x%C3%A3_h%E1%BB%99i_ch%E1%BB%A7_ngh%C4%A9a,Anh hùng lao động Xã hội Chủ nghĩa Liên Xô,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Gi%E1%BA%A3i_th%C6%B0%E1%BB%9Fng_Lenin,Giải thưởng Lenin,PER,0.991944432258606,AWARD,AWARD
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_T%E1%BB%95ng_h%E1%BB%A3p_Sankt-Peterburg,Đại học Tổng hợp Sankt-Peterburg,LOC,0.9919306039810181,INSTITUTION,INSTITUTION
+/wiki/9_th%C3%A1ng_12,9 tháng 12,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+"/wiki/Mountain_View,_California","Mountain View, California",LOC,0.9994989633560181,FIELD,FIELD
+/wiki/10_th%C3%A1ng_6,10 tháng 6,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Margaret_Thatcher,Margaret Thatcher,PER,0.9992699027061462,UNKNOWN,PERSON
+/wiki/Augusto_Pinochet,Augusto Pinochet,PER,0.919532299041748,UNKNOWN,PERSON
+/wiki/Alan_Greenspan,Alan Greenspan,PER,0.9982883334159851,UNKNOWN,PERSON
+/wiki/Chicago_Boys,Chicago Boys,ORG,0.9949219226837158,UNKNOWN,INSTITUTION
+/wiki/30_th%C3%A1ng_9,30 tháng 9,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Leeds,Leeds,ORG,0.9995304346084595,UNKNOWN,INSTITUTION
+/wiki/1941,1941,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+"/wiki/Middletown,_Connecticut","Middletown, Connecticut",LOC,0.9994493126869202,UNKNOWN,LOC
+/wiki/Thomas_Kuhn,Thomas Kuhn,PER,0.9995844960212708,UNKNOWN,PERSON
+/wiki/25_th%C3%A1ng_1,25 tháng 1,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Brussels,Bruxelles,LOC,0.9819378852844238,UNKNOWN,LOC
+/wiki/Vi%E1%BB%87n_h%C3%A0n_l%C3%A2m_Romania,Viện Hàn lâm România,LOC,0.8514289855957031,INSTITUTION,INSTITUTION
+/wiki/Alan_Turing,Alan Turing,PER,0.9996327757835388,UNKNOWN,PERSON
+/wiki/Dijon,Dijon,LOC,0.5953871011734009,UNKNOWN,LOC
+/wiki/%C4%90%E1%BB%87_tam_C%E1%BB%99ng_h%C3%B2a_Ph%C3%A1p,Đệ Tam Cộng hòa Pháp,PER,0.9312940835952759,UNKNOWN,PERSON
+/wiki/%C4%90%E1%BB%87_nh%E1%BB%8B_C%E1%BB%99ng_h%C3%B2a_Ba_Lan,Đệ Nhị Cộng hòa Ba Lan,PER,0.9035405516624451,UNKNOWN,PERSON
+/wiki/The_Bronx,The Bronx,LOC,0.9858953952789307,UNKNOWN,LOC
+/wiki/Sevilla,Sevilla,LOC,0.7985081076622009,UNKNOWN,LOC
+/wiki/H%E1%BA%A1t_Sk%C3%A5ne,Skåne (hạt),PER,0.884088397026062,UNKNOWN,PERSON
+/wiki/%C3%85re_(%C4%91%C3%B4_th%E1%BB%8B),Åre (đô thị),UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/H%E1%BA%A1t_J%C3%A4mtland,Jämtland (hạt),PER,0.8283247351646423,UNKNOWN,PERSON
+/wiki/%C4%90%E1%BB%A9c_Qu%E1%BB%91c_X%C3%A3,Đức Quốc Xã,PER,0.9246182441711426,UNKNOWN,PERSON
+"/wiki/Houston,_Texas",Houston,ORG,0.8174154162406921,UNKNOWN,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Rice,Đại học Rice,UNKNOWN,0.0,INSTITUTION,INSTITUTION
+/wiki/Huy_ch%C6%B0%C6%A1ng_Henry_Draper,Huy chương Henry Draper,AWARD,0.9990260601043701,UNKNOWN,AWARD
+/wiki/29_th%C3%A1ng_9,29 tháng 9,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Cornwall,Cornwall,ORG,0.6761382818222046,UNKNOWN,INSTITUTION
+/wiki/Gi%E1%BA%A3i_Rosenstiel,Giải Rosenstiel,PER,0.859570324420929,AWARD,AWARD
+"/wiki/Wilmington,_Delaware","Wilmington, Delaware",LOC,0.9991651773452759,UNKNOWN,LOC
+/wiki/Delaware,Delaware,LOC,0.9951236844062805,UNKNOWN,LOC
+/wiki/Leoncin,Leoncin,PER,0.9985264539718628,UNKNOWN,PERSON
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Ba_Lan,Vương quốc Ba Lan,LOC,0.9091248512268066,UNKNOWN,LOC
+/wiki/25_th%C3%A1ng_12,25 tháng 12,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_H%E1%BB%93i_gi%C3%A1o_Ai_C%E1%BA%ADp,Vương quốc Hồi giáo Ai Cập,PER,0.6998872756958008,FIELD,FIELD
+/wiki/Jehan_Sadat,Jehan Sadat,PER,0.9993950128555298,UNKNOWN,PERSON
+"/wiki/Brest,_Belarus","Brest, Belarus",LOC,0.9997155070304871,UNKNOWN,LOC
+/wiki/9_th%C3%A1ng_3,9 tháng 3,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1992,1992,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Tel_Aviv,Tel Aviv,LOC,0.998795747756958,UNKNOWN,LOC
+/wiki/Milwaukee,Milwaukee,ORG,0.9951529502868652,UNKNOWN,INSTITUTION
+/wiki/Pittsburgh,Pittsburgh,ORG,0.9993815422058105,UNKNOWN,INSTITUTION
+/wiki/Gi%E1%BA%A3i_Turing,Giải Turing,PER,0.9947147965431213,AWARD,AWARD
+/wiki/Punjab,Punjab,LOC,0.9237052798271179,UNKNOWN,LOC
+/wiki/Pakistan,Pakistan,LOC,0.9998098015785217,UNKNOWN,LOC
+/wiki/Huy_ch%C6%B0%C6%A1ng_Tate,Huy chương Tate,AWARD,0.9825965762138367,UNKNOWN,AWARD
+"/wiki/Austin,_Texas","Austin, Texas",LOC,0.9995344877243042,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Texas_%E1%BB%9F_Austin,Đại học Texas tại Austin,LOC,0.5677060484886169,INSTITUTION,INSTITUTION
+"/wiki/Lafayette,_Indiana","Lafayette, Indiana",LOC,0.999556839466095,UNKNOWN,LOC
+/wiki/Gi%E1%BA%A3i_Otto_Hahn,Giải Otto Hahn,PER,0.9973146915435791,AWARD,AWARD
+/wiki/28_th%C3%A1ng_8,28 tháng 8,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Nottinghamshire,Nottinghamshire,ORG,0.9994582533836365,UNKNOWN,INSTITUTION
+/wiki/Heraklion,Heraklion,ORG,0.5801665782928467,UNKNOWN,INSTITUTION
+/wiki/Athens,Athens,LOC,0.9994519352912903,UNKNOWN,LOC
+/wiki/Skopje,Skopje,LOC,0.9416894912719727,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%BF_qu%E1%BB%91c_Ottoman,Đế quốc Ottoman,LOC,0.992652416229248,UNKNOWN,LOC
+/wiki/T%C3%A2y_Bengal,Tây Bengal,ORG,0.7651865482330322,UNKNOWN,INSTITUTION
+/wiki/Castries,Castries,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Saint_Lucia,Saint Lucia,LOC,0.9990243911743164,FIELD,FIELD
+/wiki/%C4%90%E1%BA%BF_qu%E1%BB%91c_Anh,Đế quốc Anh,LOC,0.8466467261314392,UNKNOWN,LOC
+"/wiki/Saint_Michael,_Barbados","Saint Michael, Barbados",LOC,0.9997417330741882,FIELD,FIELD
+/wiki/Barbados,Barbados,LOC,0.9997803568840027,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Washington_t%E1%BA%A1i_St._Louis,Đại học Washington tại St. Louis,LOC,0.9014263153076172,INSTITUTION,INSTITUTION
+/wiki/Caracas,Caracas,LOC,0.9968746900558472,UNKNOWN,LOC
+/wiki/Venezuela,Venezuela,LOC,0.999832034111023,UNKNOWN,LOC
+/wiki/Palma_de_Mallorca,Palma de Mallorca,ORG,0.988054096698761,UNKNOWN,INSTITUTION
+/wiki/Mallorca,Mallorca,LOC,0.9291775822639465,UNKNOWN,LOC
+/wiki/Gi%E1%BA%A3i_Wolf_v%E1%BB%81_Y_h%E1%BB%8Dc,Giải Wolf về Y học,ORG,0.7524245977401733,AWARD,AWARD
+/wiki/Maine,Maine,LOC,0.9988052845001221,FIELD,FIELD
+/wiki/30_th%C3%A1ng_6,30 tháng 6,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Krak%C3%B3w,Kraków,LOC,0.9957225322723389,UNKNOWN,LOC
+/wiki/Gi%E1%BA%A3i_v%C4%83n_h%E1%BB%8Dc_qu%E1%BB%91c_t%E1%BA%BF_Neustadt,Giải văn học quốc tế Neustadt,ORG,0.5587103962898254,AWARD,AWARD
+"/wiki/Omaha,_Nebraska","Omaha, Nebraska",LOC,0.9995457530021667,UNKNOWN,LOC
+/wiki/Dordrecht,Dordrecht,LOC,0.6874607801437378,UNKNOWN,LOC
+"/wiki/Tucson,_Arizona","Tucson, Arizona",LOC,0.9997087121009827,UNKNOWN,LOC
+/wiki/Nara_(th%C3%A0nh_ph%E1%BB%91),Nara (thành phố),UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Zolochiv,Zolochiv,ORG,0.9776118993759155,UNKNOWN,INSTITUTION
+"/wiki/Champaign,_Illinois","Champaign, Illinois",LOC,0.9995179176330566,FIELD,FIELD
+/wiki/John_Kenneth_Galbraith,John Kenneth Galbraith,PER,0.9894909262657166,FIELD,FIELD
+"/wiki/Waltham,_Massachusetts","Waltham, Massachusetts",LOC,0.9994596838951111,UNKNOWN,LOC
+/wiki/Litva,Litva,ORG,0.9930022358894348,UNKNOWN,INSTITUTION
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Li%C3%AAn_hi%E1%BB%87p_Anh_v%C3%A0_Ireland,Vương quốc Liên hiệp Anh và Ireland,LOC,0.9666401743888855,UNKNOWN,LOC
+/wiki/Aracataca,Aracataca,LOC,0.8546329736709595,UNKNOWN,LOC
+/wiki/Magdalena,Magdalena,PER,0.9983956217765808,UNKNOWN,PERSON
+/wiki/Colombia,Colombia,LOC,0.9998445510864258,UNKNOWN,LOC
+/wiki/Th%C3%A0nh_ph%E1%BB%91_M%C3%A9xico,Thành phố México,LOC,0.7712571620941162,UNKNOWN,LOC
+/wiki/M%C3%A9xico,México,LOC,0.9998154044151306,UNKNOWN,LOC
+/wiki/Rodrigo_Garc%C3%ADa_(%C4%91%E1%BA%A1o_di%E1%BB%85n),Rodrigo García (đạo diễn),PER,0.9997695088386536,UNKNOWN,PERSON
+/wiki/Zamora,Zamora,PER,0.9541831016540527,UNKNOWN,PERSON
+/wiki/Michoac%C3%A1n,Michoacán,LOC,0.8476681113243103,UNKNOWN,LOC
+/wiki/Lahore,Lahore,LOC,0.994247317314148,UNKNOWN,LOC
+/wiki/Arthur_Eddington,Arthur Eddington,PER,0.9993597865104675,UNKNOWN,PERSON
+/wiki/Fred_Hoyle,Fred Hoyle,PER,0.9994373321533203,UNKNOWN,PERSON
+/wiki/30_th%C3%A1ng_11,30 tháng 11,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Saskatchewan,Saskatchewan,LOC,0.9871124625205994,UNKNOWN,LOC
+/wiki/Palo_Alto,Palo Alto,LOC,0.9537745118141174,UNKNOWN,LOC
+/wiki/1985,1985,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+"/wiki/Hartford,_Connecticut","Hartford, Connecticut",LOC,0.999503493309021,UNKNOWN,LOC
+/wiki/Huy_ch%C6%B0%C6%A1ng_Thomas_Hunt_Morgan,Huy chương Thomas Hunt Morgan,AWARD,0.9913569688796997,UNKNOWN,AWARD
+/wiki/Calais,Calais,LOC,0.9709582924842834,FIELD,FIELD
+/wiki/Stephen_Smale,Stephen Smale,PER,0.9997293949127197,UNKNOWN,PERSON
+/wiki/Fort_Worth,"Fort Worth, Texas",LOC,0.9996172189712524,UNKNOWN,LOC
+/wiki/Huy_ch%C6%B0%C6%A1ng_Glenn_T._Seaborg,Huy chương Glenn T. Seaborg,AWARD,0.9949797987937927,UNKNOWN,AWARD
+/wiki/Freiburg_im_Breisgau,Freiburg im Breisgau,ORG,0.8641818165779114,UNKNOWN,INSTITUTION
+/wiki/23_th%C3%A1ng_9,23 tháng 9,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Cape_Town,Cape Town,LOC,0.9988021850585938,UNKNOWN,LOC
+/wiki/Nam_Carolina,South Carolina,LOC,0.998999834060669,UNKNOWN,LOC
+/wiki/10_th%C3%A1ng_10,10 tháng 10,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Antananarivo,Antananarivo,LOC,0.7104763984680176,UNKNOWN,LOC
+/wiki/Madagascar,Madagascar,LOC,0.9998291730880737,UNKNOWN,LOC
+/wiki/2005,2005,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Gi%E1%BA%A3i_M%C3%A9dicis,Giải Médicis,PER,0.9824642539024353,AWARD,AWARD
+/wiki/T%C3%A2y_Berlin,Tây Berlin,ORG,0.8481442928314209,UNKNOWN,INSTITUTION
+/wiki/Huy_ch%C6%B0%C6%A1ng_Robert_Koch,Huy chương Robert Koch,AWARD,0.9993782043457031,UNKNOWN,AWARD
+/wiki/Max_Knoll,Max Knoll,PER,0.997931718826294,UNKNOWN,PERSON
+/wiki/St._Gallen,St. Gallen,ORG,0.9330260157585144,UNKNOWN,INSTITUTION
+"/wiki/San_Jose,_California","San Jose, California",LOC,0.9996190071105957,UNKNOWN,LOC
+/wiki/Gi%E1%BA%A3i_Irving_Langmuir,Giải Irving Langmuir,PER,0.9931219220161438,AWARD,AWARD
+/wiki/T%C3%A2n_Tr%C3%BAc_(th%C3%A0nh_ph%E1%BB%91),Tân Trúc (thành phố),PER,0.8849870562553406,UNKNOWN,PERSON
+/wiki/%C4%90%C3%A0i_Loan,Đài Loan,ORG,0.9578334093093872,UNKNOWN,INSTITUTION
+/wiki/Ng%C6%B0%E1%BB%9Di_%C4%90%C3%A0i_Loan,Người Đài Loan,ORG,0.8890916109085083,UNKNOWN,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Qu%E1%BB%91c_gia_%C4%90%C3%A0i_Loan,Đại học quốc lập Đài Loan,ORG,0.6293174028396606,INSTITUTION,INSTITUTION
+/wiki/Torino,Torino,ORG,0.9995166063308716,UNKNOWN,INSTITUTION
+/wiki/Sighetu_Marma%C8%9Biei,Sighetu Marmației,ORG,0.873046875,UNKNOWN,INSTITUTION
+/wiki/Order_of_the_British_Empire,Huân chương Đế quốc Anh,LOC,0.9259263873100281,UNKNOWN,LOC
+"/wiki/Murfreesboro,_Tennessee","Murfreesboro, Tennessee",LOC,0.9994500279426575,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_George_Mason,Đại học George Mason,PER,0.9965400695800781,INSTITUTION,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Virginia,Đại học Virginia,LOC,0.7305766940116882,INSTITUTION,INSTITUTION
+"/wiki/Neuenkirchen,_Steinfurt","Neuenkirchen, Steinfurt",PER,0.9902471303939819,UNKNOWN,PERSON
+/wiki/Nordrhein-Westfalen,Nordrhein-Westfalen,LOC,0.9084675312042236,UNKNOWN,LOC
+/wiki/Chester,Chester,ORG,0.9988759160041809,UNKNOWN,INSTITUTION
+/wiki/Vermont,Vermont,LOC,0.998496413230896,UNKNOWN,LOC
+/wiki/Rosheim,Rosheim,LOC,0.47221294045448303,UNKNOWN,LOC
+/wiki/Busan,Busan,LOC,0.8252899050712585,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%BF_qu%E1%BB%91c_%C4%90%E1%BA%A1i_H%C3%A0n,Đế quốc Đại Hàn,LOC,0.8703866004943848,UNKNOWN,LOC
+/wiki/Salem,Salem,ORG,0.9789228439331055,UNKNOWN,INSTITUTION
+/wiki/Nagoya,Nagoya,ORG,0.968824565410614,UNKNOWN,INSTITUTION
+"/wiki/Twin_Falls,_Idaho","Twin Falls, Idaho",LOC,0.999584972858429,UNKNOWN,LOC
+/wiki/Bad_Kissingen,Bad Kissingen,LOC,0.6711502075195312,UNKNOWN,LOC
+/wiki/CERN,CERN,ORG,0.8015094995498657,UNKNOWN,INSTITUTION
+/wiki/Ludwigsburg,Ludwigsburg,LOC,0.9936758279800415,UNKNOWN,LOC
+/wiki/W%C3%BCrttemberg,Württemberg,LOC,0.9995730519294739,UNKNOWN,LOC
+/wiki/Gi%E1%BA%A3i_Gottfried_Wilhelm_Leibniz,Giải Gottfried Wilhelm Leibniz,PER,0.9962320923805237,AWARD,AWARD
+/wiki/14_th%C3%A1ng_6,14 tháng 6,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/2010,2010,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Malaya,Đại học Malaya,LOC,0.9685922861099243,INSTITUTION,INSTITUTION
+/wiki/Huy_ch%C6%B0%C6%A1ng_Garvan-Olin,Huy chương Garvan-Olin,AWARD,0.998293936252594,UNKNOWN,AWARD
+/wiki/11_th%C3%A1ng_12,11 tháng 12,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Saint-Cloud,Saint-Cloud,ORG,0.7327402830123901,FIELD,FIELD
+/wiki/Huy_ch%C6%B0%C6%A1ng_v%C3%A0ng_c%E1%BB%A7a_Trung_t%C3%A2m_nghi%C3%AAn_c%E1%BB%A9u_Khoa_h%E1%BB%8Dc_qu%E1%BB%91c_gia_Ph%C3%A1p,Huy chương vàng của Trung tâm nghiên cứu Khoa học quốc gia Pháp,AWARD,0.0,UNKNOWN,AWARD
+/wiki/IEEE,Hội Kỹ sư Điện và Điện tử,PER,0.8786687254905701,FIELD,FIELD
+/wiki/G%C3%B6rlitz,Görlitz,ORG,0.887779712677002,UNKNOWN,INSTITUTION
+/wiki/Washington_(bang),Washington (tiểu bang),LOC,0.8704530000686646,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Washington,Đại học Washington,PER,0.9617300033569336,INSTITUTION,INSTITUTION
+/wiki/Sachsen,Sachsen,ORG,0.8011621832847595,UNKNOWN,INSTITUTION
+/wiki/Bonn,Bonn,LOC,0.9977662563323975,UNKNOWN,LOC
+/wiki/Montr%C3%A9al,Montréal,LOC,0.8740448355674744,UNKNOWN,LOC
+/wiki/Qu%C3%A9bec,Québec,LOC,0.9994239807128906,UNKNOWN,LOC
+"/wiki/Gi%E1%BA%A3i_Alfred_P._Sloan,_Jr.","Giải Alfred P. Sloan, Jr.",PER,0.9576824903488159,AWARD,AWARD
+/wiki/1989,1989,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Skedsmo,Skedsmo,PER,0.8235539793968201,UNKNOWN,PERSON
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Aarhus,Đại học Aarhus,PER,0.7430927157402039,INSTITUTION,INSTITUTION
+/wiki/Alberta,Alberta,LOC,0.9982728958129883,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Alberta,Đại học Alberta,ORG,0.7006537914276123,INSTITUTION,INSTITUTION
+"/wiki/Methuen,_Massachusetts","Methuen, Massachusetts",LOC,0.9993669390678406,UNKNOWN,LOC
+/wiki/Gi%E1%BA%A3i_Wolf_v%E1%BB%81_H%C3%B3a_h%E1%BB%8Dc,Giải Wolf về Hóa học,PER,0.7926980257034302,AWARD,AWARD
+/wiki/1990,1990,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/2004,2004,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Gi%E1%BA%A3i_H%C3%B2a_b%C3%ACnh_c%E1%BB%A7a_ng%C3%A0nh_kinh_doanh_s%C3%A1ch_%C4%90%E1%BB%A9c,Giải Hòa bình của ngành kinh doanh sách Đức,PER,0.8877092003822327,AWARD,AWARD
+/wiki/Nga_X%C3%B4,Nga Xô viết,ORG,0.42814305424690247,UNKNOWN,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_California_t%E1%BA%A1i_Irvine,Đại học California tại Irvine,PER,0.6102946996688843,INSTITUTION,INSTITUTION
+/wiki/Armen_Alchian,Armen Alchian,PER,0.9994131326675415,UNKNOWN,PERSON
+/wiki/Orsay,Orsay,LOC,0.5207914710044861,UNKNOWN,LOC
+/wiki/Gi%E1%BA%A3i_Wolf_V%E1%BA%ADt_l%C3%BD,Giải Wolf Vật lý,PER,0.9515012502670288,AWARD,AWARD
+/wiki/Coll%C3%A8ge_de_France,Collège de France,ORG,0.9950562715530396,UNKNOWN,INSTITUTION
+/wiki/Tr%C6%B0%E1%BB%9Dng_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Paris_XI,Đại học Paris-Sud,LOC,0.699499785900116,INSTITUTION,INSTITUTION
+/wiki/Winterthur,Winterthur,ORG,0.6217520236968994,UNKNOWN,INSTITUTION
+/wiki/Landsberg_am_Lech,Landsberg am Lech,LOC,0.9569918513298035,UNKNOWN,LOC
+/wiki/Stuttgart,Stuttgart,LOC,0.6953800916671753,UNKNOWN,LOC
+/wiki/Johannesburg,Johannesburg,LOC,0.9996298551559448,UNKNOWN,LOC
+/wiki/Yangon,Yangon,ORG,0.993924081325531,UNKNOWN,INSTITUTION
+/wiki/Mi%E1%BA%BFn_%C4%90i%E1%BB%87n_thu%E1%BB%99c_Anh,Miến Điện thuộc Anh,PER,0.9797612428665161,UNKNOWN,PERSON
+/wiki/Dubrovytsia,Dubrovytsia,LOC,0.8910976648330688,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_California_t%E1%BA%A1i_Davis,Đại học California tại Davis,UNKNOWN,0.0,INSTITUTION,INSTITUTION
+"/wiki/Pottsville,_Pennsylvania","Pottsville, Pennsylvania",LOC,0.9995342493057251,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Massachusetts_Amherst,Đại học Massachusetts Amherst,ORG,0.787124514579773,INSTITUTION,INSTITUTION
+"/wiki/Newport_Beach,_California","Newport Beach, California",LOC,0.9995015859603882,UNKNOWN,LOC
+/wiki/H%E1%BB%8Dc_vi%E1%BB%87n_C%C3%B4ng_ngh%E1%BB%87_Georgia,Học viện Công nghệ Georgia,ORG,0.7211949229240417,INSTITUTION,INSTITUTION
+/wiki/Gi%E1%BA%A3i_Robert_Koch,Giải Robert Koch,PER,0.993691086769104,AWARD,AWARD
+/wiki/Li%C3%AAn_minh_Nam_Phi,Liên hiệp Nam Phi,ORG,0.5233339071273804,UNKNOWN,INSTITUTION
+/wiki/Evelyn_Mase,Evelyn Mase,PER,0.9976551532745361,UNKNOWN,PERSON
+/wiki/Winnie_Madikizela-Mandela,Winnie Madikizela-Mandela,PER,0.9992613196372986,UNKNOWN,PERSON
+/wiki/Gra%C3%A7a_Machel,Graça Machel,PER,0.9983293414115906,UNKNOWN,PERSON
+/wiki/Zenani_Mandela-Dlamini,Zenani Mandela-Dlamini,PER,0.9992861151695251,UNKNOWN,PERSON
+/wiki/Gauteng,Gauteng,LOC,0.9880154728889465,UNKNOWN,LOC
+"/wiki/Oak_Lawn,_Illinois","Oak Lawn, Illinois",LOC,0.9994713664054871,UNKNOWN,LOC
+/wiki/Lethbridge,Lethbridge,ORG,0.6644248962402344,UNKNOWN,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_British_Columbia,Đại học British Columbia,LOC,0.9828616380691528,INSTITUTION,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_McMaster,Đại học McMaster,PER,0.9823963642120361,INSTITUTION,INSTITUTION
+/wiki/B%E1%BA%AFc_Carolina,North Carolina,LOC,0.998225212097168,UNKNOWN,LOC
+"/wiki/Uchiko,_Ehime","Uchiko, Ehime",PER,0.9988032579421997,UNKNOWN,PERSON
+/wiki/Ehime,Ehime,ORG,0.8731735348701477,UNKNOWN,INSTITUTION
+/wiki/Ng%C6%B0%E1%BB%9Di_Palestine,Người Palestine,ORG,0.8287798762321472,UNKNOWN,INSTITUTION
+/wiki/2_th%C3%A1ng_8,2 tháng 8,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/2016,2016,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Ramat_Gan,Ramat Gan,ORG,0.8538542985916138,UNKNOWN,INSTITUTION
+/wiki/1_th%C3%A1ng_3,1 tháng 3,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/L%C3%A3nh_th%E1%BB%95_%E1%BB%A6y_tr%E1%BB%8B_Palestine,Lãnh thổ Ủy trị Palestine,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/4_th%C3%A1ng_11,4 tháng 11,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/1995,1995,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/V%C6%B0%C6%A1ng_qu%E1%BB%91c_Hungary_(1920%E2%80%931946),Vương quốc Hungary (1920–1946),LOC,0.9762598872184753,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_E%C3%B6tv%C3%B6s_Lor%C3%A1nd,Đại học Eötvös Loránd,ORG,0.6808706521987915,INSTITUTION,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Qu%E1%BB%91c_gia_Australia,Đại học Quốc gia Úc,LOC,0.47388243675231934,INSTITUTION,INSTITUTION
+"/wiki/Bluefield,_West_Virginia","Bluefield, West Virginia",LOC,0.9993211030960083,UNKNOWN,LOC
+/wiki/Gi%E1%BA%A3i_Abel,Giải Abel,PER,0.9977682828903198,AWARD,AWARD
+/wiki/Pozna%C5%84,Poznań,LOC,0.8255602121353149,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Goethe_Frankfurt,Đại học Goethe Frankfurt,PER,0.718585193157196,INSTITUTION,INSTITUTION
+"/wiki/Paterson,_New_Jersey","Paterson, New Jersey",LOC,0.9992170333862305,UNKNOWN,LOC
+"/wiki/Orange,_California","Orange, California",LOC,0.999086856842041,UNKNOWN,LOC
+/wiki/Gi%E1%BA%A3i_Bruno_Rossi,Giải Bruno Rossi,PER,0.9981420040130615,AWARD,AWARD
+/wiki/Gi%E1%BA%A3i_Panofsky,Giải Panofsky,PER,0.9979138970375061,AWARD,AWARD
+/wiki/NASA,NASA,ORG,0.9988623857498169,UNKNOWN,INSTITUTION
+/wiki/1999,1999,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/2003,2003,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Hu%C3%A2n_ch%C6%B0%C6%A1ng_T%E1%BB%B1_do,Huân chương Tự do,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/2013,2013,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Jet_Propulsion_Laboratory,Phòng Thí nghiệm Sức đẩy Phản lực,PER,0.7035982608795166,UNKNOWN,PERSON
+/wiki/13_th%C3%A1ng_4,13 tháng 4,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Lawrence_Summers,Lawrence Summers,PER,0.9996821284294128,UNKNOWN,PERSON
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_B%C3%A1ch_khoa_Virginia,Đại học Bách khoa Virginia,LOC,0.8869233727455139,INSTITUTION,INSTITUTION
+/wiki/23_th%C3%A1ng_8,23 tháng 8,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+"/wiki/Alice,_Texas","Alice, Texas",LOC,0.9994927644729614,UNKNOWN,LOC
+/wiki/1996,1996,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Cambridgeshire,Cambridgeshire,ORG,0.9954782128334045,UNKNOWN,INSTITUTION
+"/wiki/Akron,_Ohio","Akron, Ohio",LOC,0.9990341663360596,UNKNOWN,LOC
+/wiki/1991,1991,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/2002,2002,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Brisbane,Brisbane,ORG,0.997409999370575,UNKNOWN,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Queensland,Đại học Queensland,LOC,0.9318866729736328,INSTITUTION,INSTITUTION
+/wiki/K%C3%B3rnik,Kórnik,ORG,0.9763505458831787,UNKNOWN,INSTITUTION
+/wiki/26_th%C3%A1ng_12,26 tháng 12,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Dili,Dili,PER,0.9280644655227661,UNKNOWN,PERSON
+/wiki/Timor_thu%E1%BB%99c_B%E1%BB%93_%C4%90%C3%A0o_Nha,Timor thuộc Bồ Đào Nha,LOC,0.9994871616363525,UNKNOWN,LOC
+/wiki/%C4%90%C3%B4ng_Timor,Đông Timor,LOC,0.7602461576461792,UNKNOWN,LOC
+"/wiki/Victoria,_British_Columbia","Victoria, British Columbia",LOC,0.9993848204612732,UNKNOWN,LOC
+/wiki/Gi%C3%A1o_ho%C3%A0ng_Constantin%C3%B4,Giáo hoàng Constantinô,PER,0.8439466953277588,UNKNOWN,PERSON
+/wiki/Constantine_(t%E1%BB%89nh),Constantine (tỉnh),PER,0.998526930809021,UNKNOWN,PERSON
+/wiki/%C3%89cole_normale_sup%C3%A9rieure,École normale supérieure,ORG,0.8571129441261292,UNKNOWN,INSTITUTION
+"/wiki/Wilkes-Barre,_Pennsylvania","Wilkes-Barre, Pennsylvania",LOC,0.9994938373565674,UNKNOWN,LOC
+/wiki/National_Institute_of_Standards_and_Technology,Viện Tiêu chuẩn và Công nghệ Quốc gia,UNKNOWN,0.0,INSTITUTION,INSTITUTION
+/wiki/Provo,"Provo, Utah",LOC,0.9993939399719238,UNKNOWN,LOC
+/wiki/Utah,Utah,LOC,0.9944103360176086,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Brigham_Young,Đại học Brigham Young,PER,0.9816064238548279,INSTITUTION,INSTITUTION
+/wiki/Aarhus,Aarhus,LOC,0.8383762240409851,UNKNOWN,LOC
+"/wiki/Des_Moines,_Iowa","Des Moines, Iowa",LOC,0.9996308088302612,UNKNOWN,LOC
+/wiki/Gi%E1%BA%A3i_Potamkin,Giải Potamkin,PER,0.9978387951850891,AWARD,AWARD
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_California_t%E1%BA%A1i_San_Francisco,Đại học California tại San Francisco,LOC,0.9495943188667297,INSTITUTION,INSTITUTION
+"/wiki/Santa_Barbara,_California","Santa Barbara, California",LOC,0.9996053576469421,UNKNOWN,LOC
+/wiki/31_th%C3%A1ng_10,31 tháng 10,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Somerset,Somerset,ORG,0.9995546936988831,UNKNOWN,INSTITUTION
+"/wiki/Charleston,_Nam_Carolina","Charleston, South Carolina",LOC,0.9993780851364136,UNKNOWN,LOC
+"/wiki/Menlo_Park,_California","Menlo Park, California",LOC,0.9995943903923035,UNKNOWN,LOC
+/wiki/Abbott,Abbott Laboratories,ORG,0.9992653131484985,UNKNOWN,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_George_Washington,Đại học George Washington,PER,0.9775101542472839,INSTITUTION,INSTITUTION
+/wiki/B%E1%BB%93_%C4%90%C3%A0o_Nha,Bồ Đào Nha,PER,0.9882638454437256,UNKNOWN,PERSON
+/wiki/Santiniketan,Santiniketan,PER,0.7044583559036255,UNKNOWN,PERSON
+/wiki/Tr%C6%B0%E1%BB%9Dng_Kinh_t%E1%BA%BF_London,Trường Kinh tế và Khoa học Chính trị Luân Đôn,LOC,0.48376116156578064,FIELD,FIELD
+/wiki/Mahbub_ul_Haq,Mahbub ul Haq,PER,0.9996558427810669,UNKNOWN,PERSON
+/wiki/Tony_Atkinson,Tony Atkinson,PER,0.9997233152389526,UNKNOWN,PERSON
+/wiki/Den_Helder,Den Helder,PER,0.9884436726570129,UNKNOWN,PERSON
+/wiki/Gi%E1%BA%A3i_th%C6%B0%E1%BB%9Fng_Wolf,Giải Wolf về Toán học,PER,0.9641678333282471,AWARD,AWARD
+/wiki/Waalwijk,Waalwijk,PER,0.956763744354248,UNKNOWN,PERSON
+/wiki/Gi%E1%BA%A3i_Wolf,Giải Wolf,PER,0.9978618025779724,AWARD,AWARD
+/wiki/Gi%E1%BA%A3i_H%C3%B3a_h%E1%BB%8Dc_c%E1%BB%A7a_Vi%E1%BB%87n_h%C3%A0n_l%C3%A2m_Khoa_h%E1%BB%8Dc_qu%E1%BB%91c_gia_Hoa_K%E1%BB%B3,Giải Hóa học của Viện hàn lâm Khoa học quốc gia Hoa Kỳ,PER,0.8359495997428894,AWARD,AWARD
+/wiki/Gi%E1%BA%A3i_Ph%E1%BB%95_h%E1%BB%8Dc_Edgar_Bright_Wilson,Giải Phổ học Edgar Bright Wilson,PER,0.9974693655967712,AWARD,AWARD
+/wiki/Gi%E1%BA%A3i_Khoa_h%E1%BB%8Dc_th%E1%BA%BF_gi%E1%BB%9Bi_Albert_Einstein,Giải Khoa học thế giới Albert Einstein,PER,0.8432091474533081,AWARD,AWARD
+/wiki/2011,2011,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Wrzeszcz,Wrzeszcz,LOC,0.7604570388793945,UNKNOWN,LOC
+/wiki/Th%C3%A0nh_ph%E1%BB%91_t%E1%BB%B1_do_Danzig,Thành phố tự do Danzig,LOC,0.9831305742263794,UNKNOWN,LOC
+/wiki/L%C3%BCbeck,Lübeck,LOC,0.9908134937286377,UNKNOWN,LOC
+/wiki/Gi%E1%BA%A3i_Georg_B%C3%BCchner,Giải Georg Büchner,PER,0.9967194199562073,AWARD,AWARD
+/wiki/Gi%E1%BA%A3i_th%C6%B0%E1%BB%9Fng_Ho%C3%A0ng_t%E1%BB%AD_x%E1%BB%A9_Asturias,Giải thưởng Nữ thân vương xứ Asturias,MISC,0.7543768882751465,AWARD,AWARD
+/wiki/2021,2021,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Siena,Siena,ORG,0.9964661598205566,UNKNOWN,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Waterloo,Đại học Waterloo,ORG,0.6643353700637817,INSTITUTION,INSTITUTION
+"/wiki/Jefferson_City,_Missouri","Jefferson City, Missouri",LOC,0.9996293783187866,UNKNOWN,LOC
+/wiki/Ng%C6%B0%E1%BB%9Di_M%E1%BB%B9,Người Mỹ,PER,0.9725623726844788,UNKNOWN,PERSON
+/wiki/Gi%E1%BA%A3i_Kyoto,Giải Kyoto,ORG,0.8737554550170898,AWARD,AWARD
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Nebraska,Hệ thống Đại học Nebraska,PER,0.8196989297866821,INSTITUTION,INSTITUTION
+/wiki/14_th%C3%A1ng_4,14 tháng 4,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Nam_Jeolla,Jeolla Nam,ORG,0.9010776877403259,UNKNOWN,INSTITUTION
+/wiki/Tri%E1%BB%81u_Ti%C3%AAn_thu%E1%BB%99c_Nh%E1%BA%ADt,Triều Tiên thuộc Nhật,PER,0.8328660130500793,UNKNOWN,PERSON
+/wiki/Seoul,Seoul,LOC,0.9994681477546692,UNKNOWN,LOC
+/wiki/H%C3%A0n_Qu%E1%BB%91c,Hàn Quốc,PER,0.9965561628341675,UNKNOWN,PERSON
+"/wiki/Raleigh,_North_Carolina","Raleigh, North Carolina",LOC,0.9992610812187195,UNKNOWN,LOC
+/wiki/Huy_ch%C6%B0%C6%A1ng_Frisch,Huy chương Frisch,AWARD,0.9814732670783997,UNKNOWN,AWARD
+"/wiki/Corvallis,_Oregon","Corvallis, Oregon",LOC,0.9995478987693787,UNKNOWN,LOC
+/wiki/1_th%C3%A1ng_6,1 tháng 6,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+"/wiki/Taunton,_Massachusetts","Taunton, Massachusetts",LOC,0.9993689656257629,UNKNOWN,LOC
+"/wiki/Chesterfield,_Missouri","Chesterfield, Missouri",LOC,0.999548614025116,UNKNOWN,LOC
+/wiki/Kobe,Kōbe,PER,0.9694525599479675,UNKNOWN,PERSON
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Nagoya,Đại học Nagoya,ORG,0.7647380232810974,INSTITUTION,INSTITUTION
+/wiki/2009,2009,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/2000,2000,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Chaguanas,Chaguanas,PER,0.9985629916191101,UNKNOWN,PERSON
+/wiki/Trinidad_v%C3%A0_Tobago,Trinidad và Tobago,LOC,0.999647855758667,UNKNOWN,LOC
+/wiki/Man_Booker_Prize,Giải Booker,PER,0.974860668182373,AWARD,AWARD
+/wiki/Kumasi,Kumasi,PER,0.9985051155090332,UNKNOWN,PERSON
+/wiki/B%E1%BB%9D_Bi%E1%BB%83n_V%C3%A0ng,Ghana,LOC,0.9998225569725037,UNKNOWN,LOC
+/wiki/Janet_Yellen,Janet Yellen,PER,0.9374138712882996,UNKNOWN,PERSON
+"/wiki/Toyohashi,_Aichi","Toyohashi, Aichi",PER,0.9906399250030518,FIELD,FIELD
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Tokyo,Đại học Tokyo,LOC,0.683870255947113,INSTITUTION,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Milano,Đại học Milano,PER,0.7293745279312134,INSTITUTION,INSTITUTION
+/wiki/15_th%C3%A1ng_6,15 tháng 6,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Toyama,Toyama,PER,0.7235639095306396,UNKNOWN,PERSON
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Tohoku,Đại học Tōhoku,MISC,0.47152435779571533,INSTITUTION,INSTITUTION
+/wiki/Aarberg,Aarberg,PER,0.5045384764671326,UNKNOWN,PERSON
+/wiki/Gi%E1%BA%A3i_Y_h%E1%BB%8Dc_Louis-Jeantet,Giải Y học Louis-Jeantet,ORG,0.7430446147918701,AWARD,AWARD
+/wiki/Vi%E1%BB%87n_Scripps,Viện Scripps,ORG,0.7076694965362549,INSTITUTION,INSTITUTION
+/wiki/Singapore,Singapore,LOC,0.9998075366020203,UNKNOWN,LOC
+/wiki/Georgia,Georgia,LOC,0.9998277425765991,UNKNOWN,LOC
+/wiki/Rosalynn_Carter,Rosalynn Carter,PER,0.9996126294136047,UNKNOWN,PERSON
+/wiki/Hi%E1%BB%87p_h%E1%BB%99i_T%C3%A2m_l%C3%BD_h%E1%BB%8Dc_Hoa_K%E1%BB%B3,Hiệp hội Tâm lý học Hoa Kỳ,PER,0.760159432888031,UNKNOWN,PERSON
+"/wiki/Wichita,_Kansas","Wichita, Kansas",LOC,0.9994243383407593,UNKNOWN,LOC
+"/wiki/Northfield,_Minnesota","Northfield, Minnesota",LOC,0.9994795918464661,UNKNOWN,LOC
+"/wiki/Sidney,_Ohio","Sidney, Ohio",LOC,0.9992907047271729,UNKNOWN,LOC
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Pittsburgh,Đại học Pittsburgh,ORG,0.8245221376419067,INSTITUTION,INSTITUTION
+/wiki/Iran,Iran,LOC,0.9998376369476318,UNKNOWN,LOC
+"/wiki/Syracuse,_New_York","Syracuse, New York",LOC,0.9979013204574585,UNKNOWN,LOC
+/wiki/Swansea,Swansea,ORG,0.9994588494300842,UNKNOWN,INSTITUTION
+/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_Nottingham,Đại học Nottingham,PER,0.9497149586677551,INSTITUTION,INSTITUTION
+/wiki/Gi%E1%BA%A3i_Sakurai,Giải Sakurai,PER,0.9993304014205933,AWARD,AWARD
+/wiki/Haifa,Haifa,LOC,0.5701090693473816,FIELD,FIELD
+/wiki/Palestine,Nhà nước Palestine,LOC,0.9075853228569031,UNKNOWN,LOC
+/wiki/Karcag,Karcag,LOC,0.9881159067153931,UNKNOWN,LOC
+/wiki/Tr%C6%B0%E1%BB%9Dng_Trung_h%E1%BB%8Dc_Stuyvesant,Trường Trung học Stuyvesant,PER,0.986914336681366,UNKNOWN,PERSON
+/wiki/M%C3%BCrzzuschlag,Mürzzuschlag,ORG,0.987501323223114,UNKNOWN,INSTITUTION
+/wiki/Steiermark,Steiermark,ORG,0.484716534614563,UNKNOWN,INSTITUTION
+/wiki/Kenya,Kenya,LOC,0.999826967716217,UNKNOWN,LOC
+/wiki/Stavanger,Stavanger,ORG,0.9727831482887268,UNKNOWN,INSTITUTION
+"/wiki/Glens_Falls,_New_York","Glens Falls, New York",LOC,0.9992348551750183,UNKNOWN,LOC
+/wiki/Kinh_t%E1%BA%BF,Kinh tế,UNKNOWN,0.0,FIELD,FIELD
+/wiki/2018,2018,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/21_th%C3%A1ng_8,21 tháng 8,UNKNOWN,0.0,UNKNOWN,UNKNOWN
+/wiki/Denver,Denver,LOC,0.8944861888885498,UNKNOWN,LOC
+"/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_California,_Berkeley","Đại học California, Berkeley",LOC,0.9975624084472656,INSTITUTION,INSTITUTION
+"/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_California,_San_Diego","Đại học California, San Diego",LOC,0.9993292093276978,INSTITUTION,INSTITUTION
+"/wiki/%C4%90%E1%BA%A1i_h%E1%BB%8Dc_California,_San_Francisco","Đại học California, San Francisco",LOC,0.9992532730102539,INSTITUTION,INSTITUTION
