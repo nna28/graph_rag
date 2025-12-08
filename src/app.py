@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 # Import module của ông
 from src.graph_rag import SmartGraphRAG
 from src.init_graph import init
-from langchain_google_genai import ChatGoogleGenerativeAI
+from src.graph_rag import load_tiny_vietnamese_llm
 
 load_dotenv()
 
@@ -30,11 +30,7 @@ async def startup_event():
     print("Đang khởi động hệ thống GraphRAG...")
     
     try:
-        llm = ChatGoogleGenerativeAI(
-            model="gemini-2.5-flash", 
-            temperature=0,
-            convert_system_message_to_human=True
-        )
+        llm = load_tiny_vietnamese_llm()
         
         rag_engine = SmartGraphRAG(llm_model=llm)
         
@@ -55,7 +51,7 @@ async def chat_endpoint(request: ChatRequest):
     
     try:
     
-        response_text = rag_engine.query(request.message, d=1)
+        response_text = rag_engine.query(request.message)
         return {"response": response_text}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
