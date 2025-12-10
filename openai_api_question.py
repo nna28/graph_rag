@@ -42,6 +42,7 @@ def _answer_sheet(
 
     answers = []
     cleaned_questions = []
+    cnt = 0
     for question in df[question_col].fillna("").astype(str):
         q = question.strip()
         if not q:
@@ -50,12 +51,12 @@ def _answer_sheet(
             continue
         answers.append(_ask_openai(client, model, q, temperature))
         cleaned_questions.append(q)
-
-    df["OpenAI_Answer"] = answers
-    df.to_csv(output_path, index=False, encoding="utf-8-sig")
-    print(f"Saved answers to {output_path}")
+        cnt += 1
+        if cnt > 100:
+            break
+        print(answers[-1])
     results = [{"question": q, "answer": a} for q, a in zip(cleaned_questions, answers)]
-    return df, question_col, results
+    return results
 
 
 def main() -> None:
@@ -93,7 +94,7 @@ def main() -> None:
 
     results = []
     if args.questions_file:
-        _, question_col, sheet_results = _answer_sheet(
+        sheet_results = _answer_sheet(
             client, args.model, args.temperature, args.questions_file, args.output
         )
         results.extend(sheet_results)
