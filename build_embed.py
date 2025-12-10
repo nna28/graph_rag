@@ -12,9 +12,10 @@ if __name__ == "__main__":
     )
 
     rag = SmartGraphRAG(llm_model=llm)
-    df = pd.read_csv("/Users/huynhnguyen/WorkDir/Network/data/final/edges.csv")
-    for i, row in df.iterrows():
-        rag.build_vector(row["src"], row["des"], row["type"])
+    # df = pd.read_csv("/Users/huynhnguyen/WorkDir/Network/data/final/edges.csv")
+    # for i, row in df.iterrows():
+    #     rag.build_vector(row["src"], row["des"], row["type"])
     # print(rag.query("Aage Bohr có những giải thưởng gì?"))
-    
+    for item in rag.vector_store.similarity_search_with_score("Obama", k=10):
+        print(item)
 

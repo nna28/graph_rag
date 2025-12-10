@@ -1,6 +1,8 @@
 import networkx as nx
 import torch
 import re
+from typing import List, Optional, Set
+import numpy as np
 from langchain_core.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.documents import Document
@@ -50,18 +52,23 @@ class SmartGraphRAG:
         self.visited_nodes = set() 
 
         self.entity_extract_prompt = PromptTemplate(
-            template="""Trích xuất Danh từ riêng (Thực thể) chính từ câu hỏi.
-                Câu: Sơn Tùng MTP quê ở đâu?
-                Thực thể: Sơn Tùng MTP
+            template="""System: Bạn là bộ trích xuất thực thể. 
+            - Chỉ lấy danh từ riêng (người / tổ chức / địa danh) đã có trong câu hỏi.
+            - Không đoán thêm thực thể mới, không trả lời câu hỏi, không hội thoại.
+            - Chỉ trả về danh sách thực thể (chuỗi), phân tách bằng dấu phẩy nếu >1. Nếu không có, trả 'Không có'.
+            
+            Ví dụ đúng:
+            Q: Quốc gia nào mà Alexander Prokhorov từng có quốc tịch?
+            A: Alexander Prokhorov
+            Q: Ai là người sáng lập Microsoft?
+            A: Microsoft
+            Q: Tập đoàn FPT thành lập năm nào?
+            A: FPT
+            Q: Sơn Tùng MTP quê ở đâu?
+            A: Sơn Tùng MTP
 
-                Câu: Tập đoàn FPT thành lập năm nào?
-                Thực thể: FPT
-
-                Câu: Ai là người sáng lập Microsoft?
-                Thực thể: Microsoft
-
-                Câu: {question}
-                Thực thể:""", 
+            User: {question}
+            Thực thể:""",
             input_variables=["question"]
         )
         self.entity_chain = self.entity_extract_prompt | self.llm | StrOutputParser()
@@ -83,8 +90,115 @@ class SmartGraphRAG:
         entities = [e.strip() for e in clean_text.split(',') if e.strip()]
         return entities
 
-    def query(self, user_question: str, depth: int = 1):
+    def _search_anchor_nodes(
+        self,
+        target_entities: List[str],
+        per_entity_k: int = 3,
+        max_anchors: int = 10
+    ) -> List[str]:
+        anchors: List[str] = []
+        for entity in target_entities:
+            results = self.vector_store.similarity_search_with_score(entity, k=per_entity_k)
+            for doc, _score in results:
+                if doc.page_content not in anchors:
+                    anchors.append(doc.page_content)
+                if len(anchors) >= max_anchors:
+                    return anchors
+        return anchors
+
+    def _collect_neighbor_triplets(self, nodes: List[str], depth: int, max_edges: Optional[int] = None) -> Set[str]:
+        context_triplets: Set[str] = set()
+        for node in nodes:
+            if not self.graph.has_node(node):
+                continue
+            subgraph = nx.ego_graph(self.graph, node, radius=depth)
+            for u, v, data in subgraph.edges(data=True):
+                rel = data.get('relation', 'liên quan')
+                context_triplets.add(f"- {u} {rel} {v}")
+                # if max_edges is not None and len(context_triplets) >= max_edges:
+                #     return context_triplets
+        return context_triplets
+
+    def _edge_text(self, u: str, v: str):
+        if self.graph.has_edge(u, v):
+            rel = self.graph[u][v].get('relation', 'liên quan')
+            return f"{u} -[{rel}]-> {v}"
+        if self.graph.has_edge(v, u):
+            rel = self.graph[v][u].get('relation', 'liên quan')
+            return f"{u} <-[{rel}]- {v}"
+        return f"{u} -- {v}"
+
+    def _find_multi_hop_paths(
+        self,
+        anchors: List[str],
+        max_hops: int = 3,
+        candidate_limit: int = 20
+    ) -> List[str]:
+        if len(anchors) < 2:
+            return []
+
+        undirected_graph = self.graph.to_undirected()
+        paths: List[str] = []
+        anchor_list = list(anchors)
+
+        for i in range(len(anchor_list)):
+            for j in range(i + 1, len(anchor_list)):
+                src = anchor_list[i]
+                dst = anchor_list[j]
+
+                if not undirected_graph.has_node(src) or not undirected_graph.has_node(dst):
+                    continue
+
+                for path in nx.all_simple_paths(undirected_graph, source=src, target=dst, cutoff=max_hops):
+                    if len(path) < 2:
+                        continue
+                    formatted_edges = [self._edge_text(u, v) for u, v in zip(path, path[1:])]
+                    if formatted_edges:
+                        paths.append("- " + " -> ".join(formatted_edges))
+                    if len(paths) >= candidate_limit:
+                        return paths
+
+        return paths
+
+    def _cosine_similarity(self, a: List[float], b: List[float]) -> float:
+        va = np.array(a)
+        vb = np.array(b)
+        denom = np.linalg.norm(va) * np.linalg.norm(vb)
+        if denom == 0:
+            return 0.0
+        return float(np.dot(va, vb) / denom)
+
+    def _rerank_texts(self, texts: List[str], query: str, top_k: int) -> List[str]:
+        if not texts:
+            return []
+        if top_k <= 0:
+            return []
+        query_vec = self.embedding_model.embed_query(query)
+        doc_vecs = self.embedding_model.embed_documents(texts)
+        scored = []
+        for text, vec in zip(texts, doc_vecs):
+            scored.append((text, self._cosine_similarity(query_vec, vec)))
+            print(f"Score {text}: {self._cosine_similarity(query_vec, vec)}")
+        scored.sort(key=lambda x: x[1], reverse=True)
+        return [text for text, _ in scored[:top_k]]
+
+    def query(
+        self,
+        user_question: str,
+        depth: int = 1,
+        max_hops: int = 3,
+        top_k_paths: int = 2,
+        anchor_per_entity: int = 3,
+        max_anchors: int = 10,
+        neighbor_top_k: int = 2,
+        neighbor_candidate_multiplier: int = 3,
+        path_candidate_multiplier: int = 3,
+        d: Optional[int] = None
+    ):
         print(f"\nQuestion: {user_question}")
+
+        if d is not None:
+            depth = d
         
         raw_extraction = self.entity_chain.invoke({"question": user_question})
         target_entities = self._clean_entities(raw_extraction)
@@ -93,35 +207,45 @@ class SmartGraphRAG:
         if not target_entities:
             return "Không trích xuất được thực thể nào."
 
-        found_anchors = set()
-        for entity in target_entities:
-            results = self.vector_store.similarity_search_with_score(entity, k=3)
-            for doc, score in results:
-                found_anchors.add(doc.page_content)
-        
+        found_anchors = self._search_anchor_nodes(
+            target_entities,
+            per_entity_k=anchor_per_entity,
+            max_anchors=max_anchors
+        )
+        print(f"Anchor nodes: {found_anchors}")
+
         if not found_anchors:
             return "Không tìm thấy node nào trong Graph."
 
-        context_triplets = set()
-        for node in found_anchors:
-            if not self.graph.has_node(node): continue
-            
-            subgraph = nx.ego_graph(self.graph, node, radius=depth)
-            for u, v, data in subgraph.edges(data=True):
-                rel = data.get('relation', 'liên quan')
-                context_triplets.add(f"- {u} {rel} {v}")
+        neighbor_candidate_limit = max(neighbor_top_k * neighbor_candidate_multiplier, neighbor_top_k)
+        neighbor_triplets = self._collect_neighbor_triplets(found_anchors, depth, max_edges=neighbor_candidate_limit)
+        neighbor_triplets = self._rerank_texts(list(neighbor_triplets), user_question, top_k=neighbor_top_k)
 
-        context_text = "\n".join(context_triplets)
-        
-        if not context_text:
+        path_candidate_limit = max(top_k_paths * path_candidate_multiplier, top_k_paths)
+        multi_hop_paths = self._find_multi_hop_paths(found_anchors, max_hops=max_hops, candidate_limit=path_candidate_limit)
+        multi_hop_paths = self._rerank_texts(multi_hop_paths, user_question, top_k=top_k_paths)
+
+        if not neighbor_triplets and not multi_hop_paths:
             return "Tìm thấy node nhưng không có thông tin liên kết."
 
-        answer_prompt = f"""Thông tin:
+        context_sections = []
+        if neighbor_triplets:
+            context_sections.append("Liên kết lân cận:\n" + "\n".join(sorted(neighbor_triplets)))
+        if multi_hop_paths:
+            context_sections.append(f"Đường đi multi-hop (<= {max_hops} bước):\n" + "\n".join(multi_hop_paths))
+
+        context_text = "\n\n".join(context_sections)
+        print(f"Multi-hop paths found: {len(multi_hop_paths)}")
+        print(context_text)
+        answer_prompt = f"""Bạn là trợ lý trả lời dựa trên đồ thị tri thức. Sử dụng các liên kết và đường đi multi-hop để suy luận.
+Nếu không đủ dữ kiện, trả lời: Không đủ dữ kiện để trả lời từ đồ thị.
+
+Thông tin từ đồ thị:
 {context_text}
 
 Hỏi: {user_question}
-Trả lời ngắn gọn:"""
-        
+Trả lời ngắn gọn, có thể tóm tắt chuỗi suy luận chính (nếu cần):"""
+
         return self.llm.invoke(answer_prompt)
 
 if __name__ == "__main__":
