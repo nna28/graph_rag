@@ -106,15 +106,24 @@ class SmartGraphRAG:
                     return anchors
         return anchors
 
-    def _collect_neighbor_triplets(self, nodes: List[str], depth: int, max_edges: Optional[int] = None) -> Set[str]:
-        context_triplets: Set[str] = set()
+    def _format_edge(self, u: str, v: str, rel: str) -> str:
+        # Thêm mô tả rõ ràng để giảm việc mô hình coi chuỗi là token liền nhau
+        return f"Cạnh: {u} --{rel}--> {v}"
+
+    def _collect_neighbor_triplets(self, nodes: List[str], depth: int, max_edges: Optional[int] = None) -> List[str]:
+        context_triplets: List[str] = []
+        seen = set()
         for node in nodes:
             if not self.graph.has_node(node):
                 continue
             subgraph = nx.ego_graph(self.graph, node, radius=depth)
             for u, v, data in subgraph.edges(data=True):
                 rel = data.get('relation', 'liên quan')
-                context_triplets.add(f"- {u} {rel} {v}")
+                edge_text = self._format_edge(u, v, rel)
+                if edge_text in seen:
+                    continue
+                seen.add(edge_text)
+                context_triplets.append(edge_text)
                 # if max_edges is not None and len(context_triplets) >= max_edges:
                 #     return context_triplets
         return context_triplets
@@ -127,6 +136,13 @@ class SmartGraphRAG:
             rel = self.graph[v][u].get('relation', 'liên quan')
             return f"{u} <-[{rel}]- {v}"
         return f"{u} -- {v}"
+
+    def _format_path(self, nodes: List[str]) -> str:
+        parts = []
+        for u, v in zip(nodes, nodes[1:]):
+            parts.append(self._edge_text(u, v))
+        # Dùng dấu chấm phẩy để tách cạnh, tránh bị gộp thành một token liền nhau
+        return " ; ".join(parts)
 
     def _find_multi_hop_paths(
         self,
@@ -152,9 +168,9 @@ class SmartGraphRAG:
                 for path in nx.all_simple_paths(undirected_graph, source=src, target=dst, cutoff=max_hops):
                     if len(path) < 2:
                         continue
-                    formatted_edges = [self._edge_text(u, v) for u, v in zip(path, path[1:])]
-                    if formatted_edges:
-                        paths.append("- " + " -> ".join(formatted_edges))
+                    formatted_path = self._format_path(path)
+                    if formatted_path:
+                        paths.append(formatted_path)
                     if len(paths) >= candidate_limit:
                         return paths
 
@@ -190,7 +206,7 @@ class SmartGraphRAG:
         top_k_paths: int = 2,
         anchor_per_entity: int = 3,
         max_anchors: int = 10,
-        neighbor_top_k: int = 2,
+        neighbor_top_k: int = 4,
         neighbor_candidate_multiplier: int = 3,
         path_candidate_multiplier: int = 3,
         d: Optional[int] = None
@@ -230,11 +246,13 @@ class SmartGraphRAG:
 
         context_sections = []
         if neighbor_triplets:
-            context_sections.append("Liên kết lân cận:\n" + "\n".join(sorted(neighbor_triplets)))
+            formatted_neighbors = "\n".join(f"- {edge}" for edge in neighbor_triplets)
+            context_sections.append("Liên kết lân cận:\n" + formatted_neighbors)
         if multi_hop_paths:
-            context_sections.append(f"Đường đi multi-hop (<= {max_hops} bước):\n" + "\n".join(multi_hop_paths))
+            formatted_paths = "\n".join(f"- Đường: {path}" for path in multi_hop_paths)
+            context_sections.append(f"Đường đi multi-hop (<= {max_hops} bước):\n" + formatted_paths)
 
-        context_text = "\n\n".join(context_sections)
+        context_text = f"\n\n".join(context_sections)
         print(f"Multi-hop paths found: {len(multi_hop_paths)}")
         print(context_text)
         answer_prompt = f"""Bạn là trợ lý trả lời dựa trên đồ thị tri thức. Sử dụng các liên kết và đường đi multi-hop để suy luận.
