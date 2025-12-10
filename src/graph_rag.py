@@ -17,21 +17,26 @@ def load_tiny_vietnamese_llm():
     model_id = "Qwen/Qwen2.5-0.5B-Instruct"
     
     tokenizer = AutoTokenizer.from_pretrained(model_id)
+
     model = AutoModelForCausalLM.from_pretrained(
         model_id,
-        torch_dtype=torch.float16,
+        dtype=torch.float16,  
         device_map="auto",
         trust_remote_code=True
     )
 
+    
     pipe = pipeline(
         "text-generation",
         model=model,
         tokenizer=tokenizer,
-        max_new_tokens=100, 
-        temperature=0.01,   
-        repetition_penalty=1.2,
-        do_sample=False,    
+        max_new_tokens=256, 
+        
+        
+        do_sample=False,       
+        repetition_penalty=1.05, 
+        
+        
         return_full_text=False
     )
 
@@ -108,7 +113,7 @@ class SmartGraphRAG:
 
     def _format_edge(self, u: str, v: str, rel: str) -> str:
         # Thêm mô tả rõ ràng để giảm việc mô hình coi chuỗi là token liền nhau
-        return f"Cạnh: {u} --{rel}--> {v}"
+        return f"{u} có {rel} là {v}."
 
     def _collect_neighbor_triplets(self, nodes: List[str], depth: int, max_edges: Optional[int] = None) -> List[str]:
         context_triplets: List[str] = []
@@ -129,13 +134,16 @@ class SmartGraphRAG:
         return context_triplets
 
     def _edge_text(self, u: str, v: str):
+        
         if self.graph.has_edge(u, v):
             rel = self.graph[u][v].get('relation', 'liên quan')
-            return f"{u} -[{rel}]-> {v}"
+            return f"{u} có quan hệ '{rel}' với {v}."
+            
         if self.graph.has_edge(v, u):
             rel = self.graph[v][u].get('relation', 'liên quan')
-            return f"{u} <-[{rel}]- {v}"
-        return f"{u} -- {v}"
+            return f"{v} có quan hệ '{rel}' với {u}."
+            
+        return f"{u} và {v} có liên quan."
 
     def _format_path(self, nodes: List[str]) -> str:
         parts = []
@@ -194,7 +202,7 @@ class SmartGraphRAG:
         scored = []
         for text, vec in zip(texts, doc_vecs):
             scored.append((text, self._cosine_similarity(query_vec, vec)))
-            print(f"Score {text}: {self._cosine_similarity(query_vec, vec)}")
+            # print(f"Score {text}: {self._cosine_similarity(query_vec, vec)}")
         scored.sort(key=lambda x: x[1], reverse=True)
         return [text for text, _ in scored[:top_k]]
 
@@ -253,17 +261,23 @@ class SmartGraphRAG:
             context_sections.append(f"Đường đi multi-hop (<= {max_hops} bước):\n" + formatted_paths)
 
         context_text = f"\n\n".join(context_sections)
-        print(f"Multi-hop paths found: {len(multi_hop_paths)}")
-        print(context_text)
-        answer_prompt = f"""Bạn là trợ lý trả lời dựa trên đồ thị tri thức. Sử dụng các liên kết và đường đi multi-hop để suy luận.
-Nếu không đủ dữ kiện, trả lời: Không đủ dữ kiện để trả lời từ đồ thị.
+        context_text = context_text.replace("--", " quan hệ ").replace("-->", " là ")
+        
+        print(f"Context ném vào LLM:\n{context_text}")
 
-Thông tin từ đồ thị:
-{context_text}
+        answer_prompt = f"""<|im_start|>system
+        Bạn là một máy trả lời câu hỏi chính xác. Chỉ sử dụng thông tin trong phần 'Dữ liệu' để trả lời.
+        <|im_end|>
+        <|im_start|>user
+        Dữ liệu:
+        {context_text}
 
-Hỏi: {user_question}
-Trả lời ngắn gọn, có thể tóm tắt chuỗi suy luận chính (nếu cần):"""
-
+        Câu hỏi: {user_question}
+        Câu trả lời ngắn gọn:
+        <|im_end|>
+        <|im_start|>assistant
+"""
+        # Lưu ý: invoke của HuggingFacePipeline nhận string là ok
         return self.llm.invoke(answer_prompt)
 
 if __name__ == "__main__":
