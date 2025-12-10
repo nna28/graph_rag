@@ -11,10 +11,14 @@ from dotenv import load_dotenv
 def _iter_questions(csv_path: str) -> Iterable[str]:
     df = pd.read_csv(csv_path, encoding="utf-8-sig")
     question_col = "Question" if "Question" in df.columns else df.columns[0]
+    cnt = 0
     for value in df[question_col].dropna().astype(str):
+        if cnt > 100: 
+            break
         question = value.strip()
         if question:
             yield question
+        cnt += 1
 
 
 def _ask_server(session: requests.Session, base_url: str, question: str, timeout: int) -> Tuple[bool, str]:
